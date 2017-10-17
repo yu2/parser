@@ -1,20 +1,38 @@
 var vowel = ['a', 'e', 'i', 'o', 'u'];
 var cons = ['q', 'w', 'r', 't', 'y', 'p', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'z', 'x', 'c', 'v', 'b', 'n', 'm'];
-var affixes;
+var affixes, rootList;
 
 $(function() {
   //console.log(randl(vowels, 10));
   //console.log(randl(vowel, 1).toString() + randl(cons, 1).toString());
   affixes = genAffix(5);
-  displayAffixes();
+  displayList(genR(4), "roots");
+  displayList(genAffix(6), "affixes");
 });
 
-function displayAffixes() {
-  var wordlist = "";
-  for (var i = 0; i < affixes.length; i++) {
-    wordlist += "<p>" + affixes[i] + "</p>";
+
+// generates a list of roots
+function genR(reps) {
+  var syllables = [1, 2, 3];
+  var rootList = [];
+  for (var i = 0; i < reps; i++) {
+    var root = "";
+    for (var j = 0; j < Math.floor(Math.random() * syllables.length + 1); j++) {
+      root += randl(cons, 1) + randl(vowel, 1);
+    }
+    root += randl(cons, 1);
+    rootList.push(root);
   }
-  $("#word-list-affixes").html(wordlist);
+  return rootList;
+}
+
+// displays list of roots or affixes
+function displayList(list, type) {
+  var wordlist = "";
+  for (var i = 0; i < list.length; i++) {
+    wordlist += "<p>" + list[i] + "</p>";
+  }
+  $("#word-list-" + type).html(wordlist);
 }
 
 // returns a number of VC affixes
