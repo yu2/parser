@@ -22,28 +22,48 @@ body {
 .search {
   display: flex;
   flex-basis: content;
+  padding: 0 1%;
 }
 
 .search input {
   flex-grow: 20;
   height: 2.5em;
+  border-radius: 5px;
+  padding: 0.5%;
 }
 
 .search button {
   flex-grow: 1;
   font-weight: bold;
+  border-radius: 5px;
+  margin: 0 0 0 0.2%;
 }
 
 .parse-area {
   text-align: center;
-  font-size: 150%;
+  font-size: 170%;
   padding: 1%;
+}
+
+.parse-display {
+  border: 1px solid black;
+  margin: 1% 0;
+}
+
+.display-title {
+  font-size: 40%;
+  font-weight: bold;
+  margin: 0 0 0 0.4em;
+  display: flex;
+  
+  
 }
 
 .sub-box {
   flex-basis: content;
   display: flex;
   border: 0.2em solid #5b5;
+  border-radius: 5px;
   margin: 0.5%;
 }
 

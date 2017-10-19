@@ -1,6 +1,7 @@
 var vowel = ['a', 'e', 'i', 'o', 'u'];
 var cons = ['q', 'w', 'r', 't', 'y', 'p', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'z', 'x', 'c', 'v', 'b', 'n', 'm'];
 var affixes, rootList;
+var input;
 
 $(function() {
   //console.log(randl(vowels, 10));
@@ -8,8 +9,28 @@ $(function() {
   affixes = genAffix(5);
   displayList(genR(4), "roots");
   displayList(genAffix(6), "affixes");
+  
+  // searchbox and button behaviour
+  $(".search input").click(function() {
+    $(".search input").val("");
+  });
+  $(".search input").keydown(function(e){
+    if(e.keyCode == 13) {
+      $(".search button").trigger("click");
+    }
+  });
+  $(".search button").click(function() {
+    input = $(".search input").val();
+    $(".input-display").html(input);
+    searchRoots(input);
+  });
 });
 
+function searchRoots(input) {
+  var itemIndex;
+  console.log(input);
+  console.log(rootList.indexOf(input));
+}
 
 // generates a list of roots
 function genR(reps) {
