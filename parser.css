@@ -48,6 +48,7 @@ body {
 .parse-display {
   border: 1px solid black;
   margin: 1% 0;
+  min-height: 2em;
 }
 
 .display-title {
@@ -55,8 +56,10 @@ body {
   font-weight: bold;
   margin: 0 0 0 0.4em;
   display: flex;
-  
-  
+}
+
+.display-content {
+  padding: 0 0 0.5% 0;
 }
 
 .sub-box {
@@ -70,7 +73,6 @@ body {
 .pannel {
   display: flex;
   flex-direction: column;
-  
 }
 
 .title {
