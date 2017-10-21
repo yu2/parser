@@ -7,8 +7,10 @@ $(function() {
   //console.log(randl(vowels, 10));
   //console.log(randl(vowel, 1).toString() + randl(cons, 1).toString());
   affixes = genAffix(5);
-  displayList(genR(4), "roots");
-  displayList(genAffix(6), "affixes");
+  rootList = genR(4);
+  displayList(rootList, "roots");
+  affixes = genAffix(6);
+  displayList(affixes, "affixes");
   
   // searchbox and button behaviour
   $(".search input").click(function() {
