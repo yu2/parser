@@ -30,6 +30,12 @@ $(function() {
 
 function searchRoots(input) {
   var itemIndex;
+  for(var i = 1; i < input.length; i++) {
+    var search = input.substring(0, i);
+    if (rootList.indexOf(search) !== -1) {
+      break;
+    }
+  }
   console.log(input);
   console.log(rootList.indexOf(input));
 }
