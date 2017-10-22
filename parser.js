@@ -28,16 +28,26 @@ $(function() {
   });
 });
 
+function searchAffix(str) {
+  for(var i = 1; i<=str.length; i++) {
+    var search = str.substring(0, i);
+    if(affixes.indexOf(search) !== -1) {
+      $(".morpheme-display").append("." + str.substring(0, i));
+      searchAffix(str.substring(i));
+    }
+  }
+}
+
 function searchRoots(input) {
-  var itemIndex;
   for(var i = 1; i < input.length; i++) {
     var search = input.substring(0, i);
     if (rootList.indexOf(search) !== -1) {
       break;
     }
   }
-  console.log(input);
-  console.log(rootList.indexOf(input));
+
+  $(".morpheme-display").html(input.substring(0, i));
+  searchAffix(input.substring(i));
 }
 
 // generates a list of roots
