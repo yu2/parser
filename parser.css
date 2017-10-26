@@ -19,7 +19,7 @@ body {
 .main-box {
   flex-grow: 1;
   flex-basis: content;
-  margin: 0.5%;
+  margin-top: 0.5%;
 }
 
 .search {
