@@ -36,7 +36,7 @@ body {
 }
 
 .main-left {
-  flex-grow: 10;
+  flex-grow: 1;
 }
 
 .search {
@@ -95,9 +95,10 @@ body {
 
 .main-right {
   display: flex;
-  flex-grow: 1;
+  flex-basis: content;
   justify-content: center;
   background-color: #59a;
+  padding: 0 3%;
 }
 
 .pannel {
@@ -120,6 +121,5 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex-basis: content;
-  padding: 10%;
+  padding: 0.25em;
 }
