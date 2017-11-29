@@ -4,8 +4,6 @@ var affixes, rootList;
 var input;
 
 $(function() {
-  //console.log(randl(vowels, 10));
-  //console.log(randl(vowel, 1).toString() + randl(cons, 1).toString());
   affixes = genAffix(5);
   rootList = genR(4);
   displayList(rootList, "roots");
