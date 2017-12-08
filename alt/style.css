@@ -10,7 +10,6 @@ body {
   flex-basis: fill;
   flex-direction: column;
   align-items: center;
-  height: 20vh;
   border: 1px solid black;
   align-items: stretch;
 }
@@ -22,9 +21,20 @@ body {
 
 .canvas {
   display: flex;
+  flex-direction: column;
   flex-grow: 1;
   flex-basis: fill;
-  border: 1px solid black;
   justify-content: center;
-  align-items: center
+  align-items: center;
+  border: 1px solid black;
+  padding: 2em;
+}
+
+#rule-name {
+  margin: 0.5em;
+}
+
+#rule {
+  padding: 1em;
+  border: 1px solid black;
 }
