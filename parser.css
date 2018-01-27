@@ -16,9 +16,22 @@ body {
 }
 
 .header {
+  display: flex;
+  background-color: #777;
+  justify-content: space-between;
+}
+
+.header h2 {
   color: #8cd;
   font-size: 2em;
+}
+
+.header input {
+  font-weight: bold;
   background-color: #777;
+  border: 0;
+  
+  width: 3em;
 }
 
 .main-body {

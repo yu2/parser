@@ -4,14 +4,19 @@
   <link href="parser.css" type="text/css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" type="text/css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-  <div class="header">Parser</div>
+  <div class="header">
+    <h2>Parser</h2>
+    <label for="upload-button">test</label>
+    <label>test<input type="file" id="upload-button"></label>
+  </div>
   <div class="main-body">
     <div class="main-box">
       <div class="main-left">
         <div class="search">
-          <input type="text" id="" value="enter a root followed by suffixes">
+          <input type="text" id="" value="Enter a root followed by suffixes">
           <button type="submit">Parse</button>
         </div>
         <div class="parse-area">
@@ -42,4 +47,5 @@
     </div>
   </div>
   <script src="parser.js"></script>
+  <script src="file.js"></script>
 </body>
