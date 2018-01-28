@@ -17,8 +17,9 @@ body {
 
 .header {
   display: flex;
-  background-color: #777;
   justify-content: space-between;
+  align-items: center;
+  background-color: #777;
 }
 
 .header h2 {
@@ -26,12 +27,14 @@ body {
   font-size: 2em;
 }
 
-.header input {
+.header label {
+  display: flex;
   font-weight: bold;
-  background-color: #777;
-  border: 0;
-  
-  width: 3em;
+  padding: 1em;
+}
+
+.header input {
+  display: none;
 }
 
 .main-body {
@@ -120,13 +123,15 @@ body {
   background-color: #59a;
 }
 
-.roots {
+.affixes {
+  border-left: 2px solid white;
   border-right: 2px solid white;
 }
 
 .title {
   border-bottom: 2px solid white;
   padding: 0.25em;
+  font-weight: bold;
   text-align: center;
 }
 

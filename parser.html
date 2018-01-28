@@ -9,8 +9,8 @@
 <body>
   <div class="header">
     <h2>Parser</h2>
-    <label for="upload-button">test</label>
-    <label>test<input type="file" id="upload-button"></label>
+    <label for="upload-button"><i class="fa fa-upload"></i></label>
+    <input type="file" id="upload-button" multiple onchange="handleFiles(this.files)">
   </div>
   <div class="main-body">
     <div class="main-box">
@@ -36,12 +36,16 @@
       </div>
       <div class="main-right">
         <div class="panel roots">
-          <div class="title">Roots</div>
+          <div class="title">Token</div>
           <div class="word-list" id="word-list-roots"></div>
         </div>
         <div class="panel affixes">
-          <div class="title">Affixes</div>
+          <div class="title">Label</div>
           <div class="word-list" id="word-list-affixes"></div>
+        </div>
+        <div class="panel abbr">
+          <div class="title">Abbr.</div>
+          <div class="word-list" id="word-list-abbr"></div>
         </div>
       </div>
     </div>
