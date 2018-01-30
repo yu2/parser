@@ -1,9 +1,7 @@
-var vowel = ['a', 'e', 'i', 'o', 'u'];
-var cons = ['q', 'w', 'r', 't', 'y', 'p', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'z', 'x', 'c', 'v', 'b', 'n', 'm'];
-var affixes, rootList;
 var input;
 
 $(function() {
+  // generate and display morphemes
   affixes = genAffix(5);
   rootList = genR(4);
   displayList(rootList, "roots");
@@ -24,6 +22,8 @@ $(function() {
     $(".input-display").html(input);
     searchRoots(input);
   });
+  
+  console.log(affixes[0]);
 });
 
 function searchAffix(str) {
@@ -89,3 +89,4 @@ function randl(array, reps) {
   }
   return list;
 }
+

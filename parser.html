@@ -12,44 +12,47 @@
     <label for="upload-button"><i class="fa fa-upload"></i></label>
     <input type="file" id="upload-button" multiple onchange="handleFiles(this.files)">
   </div>
-  <div class="main-body">
-    <div class="main-box">
-      <div class="main-left">
-        <div class="search">
-          <input type="text" id="" value="Enter a root followed by suffixes">
-          <button type="submit">Parse</button>
-        </div>
-        <div class="parse-area">
-          <div class="parse-display">
-            <div class="display-title">Input</div>
-            <div class="display-content input-display"></div>
-          </div>
-          <div class="parse-display">
-            <div class="display-title">Boundaries</div>
-            <div class="display-content morpheme-display"></div>
-          </div>
-          <div class="parse-display">
-            <div class="display-title">Gloss</div>
-            <div class="display-content gloss-display"></div>
-          </div>
-        </div>
+  
+  <div class="search">
+    <input type="text" id="" value="Enter a root followed by suffixes">
+    <button type="submit">Parse</button>
+  </div>
+  
+  <div class="tab-nav">
+    <div class="tab-button">Parse</div>
+    <div class="tab-button">Morphemes</div>
+  </div>
+  
+  <div class="tab-container">
+    <div class="tab parse-area">
+      <div class="parse-display">
+        <div class="display-title">Input</div>
+        <div class="display-content input-display"></div>
       </div>
-      <div class="main-right">
-        <div class="panel roots">
-          <div class="title">Token</div>
-          <div class="word-list" id="word-list-roots"></div>
-        </div>
-        <div class="panel affixes">
-          <div class="title">Label</div>
-          <div class="word-list" id="word-list-affixes"></div>
-        </div>
-        <div class="panel abbr">
-          <div class="title">Abbr.</div>
-          <div class="word-list" id="word-list-abbr"></div>
-        </div>
+      <div class="parse-display">
+        <div class="display-title">Boundaries</div>
+        <div class="display-content morpheme-display"></div>
+      </div>
+      <div class="parse-display">
+        <div class="display-title">Gloss</div>
+        <div class="display-content gloss-display"></div>
+      </div>
+    </div>
+    <div class="tab morpheme-area">
+      <div class="panel roots">
+        <div class="title">Token</div>
+        <div class="word-list" id="word-list-token"></div>
+      </div>
+      <div class="panel affixes">
+        <div class="title">Label</div>
+        <div class="word-list" id="word-list-label"></div>
+      </div>
+      <div class="panel abbr">
+        <div class="title">Abbr.</div>
+        <div class="word-list" id="word-list-abbr"></div>
       </div>
     </div>
   </div>
-  <script src="parser.js"></script>
+  
   <script src="file.js"></script>
 </body>

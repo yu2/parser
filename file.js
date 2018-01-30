@@ -18,14 +18,16 @@ reader.onload = function(e) {
   for (var i = 0; i < lines.length; i++) {
     var tabs = lines[i].split('\t');
     affixes.push(new Affix(tabs[2], tabs[1], tabs[0]));
-    for (var j = 0; j < tabs.length; j++) {
-      $('.output').append(tabs[j] + "<br>");
-    }
   }
+  affixes.forEach(function(e) {
+    $("#word-list-token").append("<p>" + e.token + "</p>");
+    $("#word-list-label").append("<p>" + e.label  + "</p>");
+    $("#word-list-abbr").append("<p>" + e.abbr + "</p>");
+  });
 };
 
-function Affix(token, label, abbreviation) {
+function Affix(token, label, abbr) {
   this.token = token;
   this.label = label;
-  this.abbreviation = abbreviation;
+  this.abbr = abbr;
 }
