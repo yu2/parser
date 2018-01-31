@@ -56,6 +56,7 @@ body {
   font-weight: bold;
   background-color: #6ab;
   border: 2px inset white;
+  cursor: pointer;
 }
 
 .tab-nav {
