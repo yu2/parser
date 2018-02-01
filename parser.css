@@ -67,9 +67,9 @@ body {
 
 .tab-nav {
   height: 3em;
-  
   display: flex;
   justify-content: left;
+  flex-wrap: wrap;
 }
 
 .tab-button {
@@ -87,10 +87,9 @@ body {
   background-color: cadetblue;
 }
 
-.tab {
-  justify-content: center;
-  display: flex;
-  flex: 1 1 100%;
+label {
+  cursor: pointer;
+  background-color: gray;
 }
 
 input[type=radio], .tab {
@@ -101,7 +100,7 @@ input[type=radio]:checked + label {
   background-color: dimgray;
 }
 
-input[type=radio]:checked + label + div {
+input[type=radio]:checked + label + .tab {
   display: flex;
 }
 
@@ -110,7 +109,6 @@ input[type=radio]:checked + label + div {
   font-size: 170%;
   padding: 1% 0%;
   background-color: #6ab;
-  display: flex;
   flex-direction: column;
   justify-content: start;
 }
