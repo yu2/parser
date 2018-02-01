@@ -1,12 +1,12 @@
 var affixes = [];
 $(function() {
-  $(".tab-button").click(function(e) {
-    alert(e.target);
-    tabs = document.getElementsByClassName("tab");
-    console.log(tabs);
-    
-  });
-  
+  $(".morpheme-area").css("height", $("body").css("height").slice(0, -2) - $(".header").css("height").slice(0, -2) - $(".search").css("height").slice(0, -2) - $(".tab-nav label").css("height").slice(0, -2) - 4 + "px");
+  var leftHeight = $("body").css("height").slice(0, -2) - $(".header").css("height").slice(0, -2) - $(".search").css("height").slice(0, -2) - $(".tab-nav label").css("height").slice(0, -2) + "px";
+  //var leftHeight = $(".morpheme-area").height("75vh");
+  console.log("body: " + $("body").css("height").slice(0, -2) + " header: " + $(".header").css("height").slice(0, -2) + " search: " + $(".search").css("height").slice(0, -2) + " tab-nav: " + $(".tab-nav label").css("height").slice(0, -2));
+  console.log("height(): " + $("body").height());
+  console.log("cssheight: " + $("body").css("height").slice(0, -2));
+  console.log("leftHeight: " + leftHeight);
   $('input[multiple]').change(handleFiles);
 });
 

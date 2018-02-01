@@ -15,13 +15,12 @@
   </div>
   
   <div class="search">
-    <input type="text" id="" value="Enter a root followed by suffixes">
+    <input type="text" id="" value="Enter a word">
     <button type="submit">Parse</button>
   </div>
   
   <div class="tab-nav">
-    
-    <input type="radio" id="tab-one" class="tab-button">
+    <input type="radio" id="tab-one" name="tab-button-group" checked="checked">
     <label for="tab-one">Parse</label>
     <div class="tab parse-area">
       <div class="parse-display">
@@ -37,8 +36,8 @@
         <div class="display-content gloss-display"></div>
       </div>
     </div>
-    <input type="radio" id="tab-two" class="tab-button">
-    <label for="tab-two">Parse</label>
+    <input type="radio" id="tab-two" name="tab-button-group">
+    <label for="tab-two">Morphemes</label>
     <div class="tab morpheme-area">
       <div class="panel roots">
         <div class="title">Token</div>
@@ -54,12 +53,6 @@
       </div>
     </div>
   </div>
-  
-  <div class="tab-container">
-    
-    
-  </div>
-  
   <script src="file.js"></script>
 </body>
 </html>
