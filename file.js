@@ -1,5 +1,12 @@
 var affixes = [];
 $(function() {
+  $(".tab-button").click(function(e) {
+    alert(e.target);
+    tabs = document.getElementsByClassName("tab");
+    console.log(tabs);
+    
+  });
+  
   $('input[multiple]').change(handleFiles);
 });
 

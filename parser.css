@@ -7,9 +7,15 @@
   color: white;
 }
 
-body {
+html {
   height: 100vh;
   width: 100vw;
+  padding: 2em;
+}
+
+body {
+  height: 100%;
+  width: 100%;
   display: flex;
   flex-flow: column;
   background-color: #dde;
@@ -61,42 +67,52 @@ body {
 
 .tab-nav {
   height: 3em;
-  background-color: #7bc;
+  
   display: flex;
+  justify-content: left;
 }
 
 .tab-button {
   display: flex;
-  flex-grow: 1;
+  flex-grow: 0;
   align-items: center;
   justify-content: center;
   border: 1px solid white;
-  
+  cursor: pointer;
 }
 
 .tab-container {
   display: flex;
-  height: 100%;
-  width: 100%;
-  background-color: #777;
+  flex: 0 1 100%;
+  background-color: cadetblue;
 }
 
 .tab {
-  position: absolute;
-  width: 100%;
+  justify-content: center;
   display: flex;
-  flex-basis: content;
+  flex: 1 1 100%;
+}
+
+input[type=radio], .tab {
+  display: none;
+}
+
+input[type=radio]:checked + label {
+  background-color: dimgray;
+}
+
+input[type=radio]:checked + label + div {
+  display: flex;
 }
 
 .parse-area {
   text-align: center;
-  
   font-size: 170%;
   padding: 1% 0%;
   background-color: #6ab;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
 }
 
 .parse-display {
@@ -121,13 +137,8 @@ body {
   background-color: #59a;
 }
 
-.tab2 {
-  display: flex;
-  justify-content: center;
-  background-color: #59a;
-  padding: 0 3%;
-  overflow: hidden;
-  flex-grow: 1;
+.morpheme-area {
+  
 }
 
 .pannel {
