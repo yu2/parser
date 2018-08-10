@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "lucida console";
+	font-size: 1em;
+}
+
+body {
+	background-color: #ffffff;	
+	padding: 0.5em;
+}
+
+#uploadArea {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: start;
+}
+
+.uploadButton {
+	text-decoration: underline;
+	background: none;
+	padding: 0.1em;
+	border: none;
+	cursor: pointer;
+	margin-bottom: 0.25em;
+}
+.input {
+	display: none;
+}
+
