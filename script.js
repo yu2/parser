@@ -11,7 +11,16 @@ function moreWork() {
 }
 
 var content = [];
+
 function handleLemma(files) {
+	handleFiles(files);
+}
+
+function handleMorpheme(files) {
+	
+}
+
+function handleFiles(files) {
 	t1 = performance.now();
 	var i = 0;
 	var target = files.length;
