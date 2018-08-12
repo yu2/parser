@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {	
 	timer = document.querySelector('#timeDisplay');
+	var rows = document.querySelector('#setRows');
 });
 
 //var handler = doWork();
@@ -18,6 +19,9 @@ function handleLemma(files) {
 
 function handleMorpheme(files) {
 	
+}
+
+function setRows(num) {
 }
 
 function handleFiles(files) {

@@ -18,6 +18,10 @@ body {
 	align-items: start;
 }
 
+#rowButton {
+	display: inline;
+}
+
 .uploadButton {
 	text-decoration: underline;
 	background: none;

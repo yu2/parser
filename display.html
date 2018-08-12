@@ -6,6 +6,8 @@
   </head>
   <body>
 		<div id="uploadArea">
+			<p>Number of rows: <span id="setRows" contenteditable="true">1</span></p>
+			<button id="rowButton">Set</button>
 			<input type="button" class="uploadButton" onclick="document.getElementById('lemmaInput').click()" value="Upload Lemma Files">
 			<input type="file" class="input" id="lemmaInput" multiple onchange="handleLemma(this.files)">
 			<input type="button" class="uploadButton" onclick="document.getElementById('morphemeInput').click()" value="Upload Morpheme Files">
