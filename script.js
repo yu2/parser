@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {	
 	timer = document.querySelector('#timeDisplay');
-	var rows = document.querySelector('#setRows');
+	rowField = document.querySelector('#rowField');
 });
 
 //var handler = doWork();
@@ -26,6 +26,7 @@ function setRows(num) {
 
 function handleFiles(files) {
 	t1 = performance.now();
+	var numRows = rowField.innerText;
 	var i = 0;
 	var target = files.length;
 	doFile(files[i]);

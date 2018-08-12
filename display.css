@@ -11,15 +11,21 @@ body {
 	padding: 0.5em;
 }
 
+#rowArea {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+#rowField {
+	margin-left: 0.5em;
+}
+
 #uploadArea {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: start;
-}
-
-#rowButton {
-	display: inline;
 }
 
 .uploadButton {
