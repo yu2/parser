@@ -18,10 +18,6 @@ function handleLemma(files) {
 }
 
 function handleMorpheme(files) {
-	
-}
-
-function setRows(num) {
 }
 
 function handleFiles(files) {
