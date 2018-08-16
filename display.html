@@ -8,14 +8,14 @@
 		<div id="uploadArea">
 			<div id="rowArea">
 				<p>Number of rows: </p>
-				<p id="rowField" contenteditable="true">1</p>
+				<p id="rowField" contenteditable="true">3</p>
 			</div>
-			<input type="button" class="uploadButton" onclick="document.getElementById('lemmaInput').click()" value="Upload Lemma Files">
-			<input type="file" class="input" id="lemmaInput" multiple onchange="handleLemma(this.files)">
-			<input type="button" class="uploadButton" onclick="document.getElementById('morphemeInput').click()" value="Upload Morpheme Files">
-			<input type="file" class="input" id="morphemeInput" multiple onchange="handleMorpheme(this.files)">
-			<p>Performance: <span id="timeDisplay">0</span>ms</p> 
-		</div> 
+			<input type="button" class="uploadButton" onclick="document.getElementById('rootsInput').click()" value="Upload Roots">
+			<input type="file" class="input" id="rootsInput" multiple onchange="handleFiles(this.files, 'roots')">
+			<input type="button" class="uploadButton" onclick="document.getElementById('affixesInput').click()" value="Upload Affixes">
+			<input type="file" class="input" id="affixesInput" multiple onchange="handleFiles(this.files, 'affixes')">
+			<p>Performance: <span id="timeDisplay">0</span>ms</p>
+		</div>
 		<script src="script.js"></script>
   </body>
 </html>

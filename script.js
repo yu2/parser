@@ -1,27 +1,14 @@
-document.addEventListener("DOMContentLoaded", function() {	
+document.addEventListener("DOMContentLoaded", function() {
+  startTime = null;
 	timer = document.querySelector('#timeDisplay');
 	rowField = document.querySelector('#rowField');
 });
 
-//var handler = doWork();
-//handler.then(moreWork());
-function moreWork() {
-	const t2 = performance.now();
-	updatePerformance(t1, t2);
-	downloadBlob(content);
-}
+var roots = [];
+var affixes = [];
 
-var content = [];
-
-function handleLemma(files) {
-	handleFiles(files);
-}
-
-function handleMorpheme(files) {
-}
-
-function handleFiles(files) {
-	t1 = performance.now();
+function handleFiles(files, mode) {
+  trackPerformance();
 	var numRows = rowField.innerText;
 	var i = 0;
 	var target = files.length;
@@ -31,9 +18,9 @@ function handleFiles(files) {
 	function doFile(file) {
 		let reader = new FileReader();
 		reader.onload = function(e) {
-			let piece = e.target.result;
-			var re = /\s\n/;
-			pieceArray = piece.split(re);
+			let doc = e.target.result;
+			//var re = /\s\n/;
+			pieceArray = doc.split('\n');
 			//Get rid of space at the end of each word
 			for (let i = 0; i < pieceArray.length; i++) {
 				
@@ -41,14 +28,14 @@ function handleFiles(files) {
 			pieceArray.forEach(function(currentValue, index, array) {
 				array[index] = currentValue.trim();
 			});
-			content = content.concat(pieceArray);
+			roots = roots.concat(pieceArray);
 			if (i < target - 1) {
 				i++;
 				doFile(files[i]);
 			}
 			else if (i == target - 1) {
-				updatePerformance(t1)
-				downloadBlob(content);
+			  trackPerformance();
+				downloadBlob(roots);
 			}
 		};
 		reader.readAsText(file);
@@ -64,12 +51,16 @@ function downloadBlob(data) {
 	elem.download = 'lemma.txt';
 	elem.innerHTML = "Download";
 	document.body.appendChild(elem);
-	console.log(content);
+	console.log(roots);
 }
 
-function updatePerformance(t1) {
-	const t2 = performance.now();
-	timer.innerHTML = t2 - t1;
+function trackPerformance() {
+	if (!startTime) {
+	  startTime = performance.now();
+	}
+	else {
+	  timer.innerHTML = performance.now() - startTime;
+	}
 }
 
 
