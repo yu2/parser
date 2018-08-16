@@ -35,6 +35,9 @@ function handleFiles(files) {
 			var re = /\s\n/;
 			pieceArray = piece.split(re);
 			//Get rid of space at the end of each word
+			for (let i = 0; i < pieceArray.length; i++) {
+				
+			}
 			pieceArray.forEach(function(currentValue, index, array) {
 				array[index] = currentValue.trim();
 			});
