@@ -20,15 +20,15 @@ function handleFiles(files, mode) {
 		reader.onload = function(e) {
 			let doc = e.target.result;
 			//var re = /\s\n/;
-			pieceArray = doc.split('\n');
+			var line = doc.split('\n');
 			//Get rid of space at the end of each word
-			for (let i = 0; i < pieceArray.length; i++) {
+			for (let i = 0; i < line.length; i++) {
 				
 			}
-			pieceArray.forEach(function(currentValue, index, array) {
+			line.forEach(function(currentValue, index, array) {
 				array[index] = currentValue.trim();
 			});
-			roots = roots.concat(pieceArray);
+			roots = roots.concat(line);
 			if (i < target - 1) {
 				i++;
 				doFile(files[i]);
