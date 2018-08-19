@@ -23,7 +23,7 @@ function handleFiles(files, mode) {
 			var line = doc.split('\n');
 			//Get rid of space at the end of each word
 			for (let i = 0; i < line.length; i++) {
-				
+				roots.push(line[i].split('\t'));
 			}
 			line.forEach(function(currentValue, index, array) {
 				array[index] = currentValue.trim();
