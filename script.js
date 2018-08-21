@@ -15,7 +15,7 @@ function handleFiles(files, mode) {
     pusher = pusher.pAffixes;
   }
 	var i = 0;
-	var target = files.length;
+	var numFiles = files.length;
 	doFile(files[i]);
 
 	//Recusive function that goes through each file in succession
@@ -23,26 +23,14 @@ function handleFiles(files, mode) {
 		let reader = new FileReader();
 		reader.onload = function(e) {
 			let doc = e.target.result;
-			//var re = /\s\n/;
-			let line = doc.split('\n');
-			//Get rid of space at the end of each word
-			for (let i = 0; i < line.length; i++) {
-			  let lineSplit = line[i].split('\t');
-			  pusher(lineSplit);
-			}
-			/*
-			line.forEach(function(currentValue, index, array) {
-				array[index] = currentValue.trim();
-			});
-			roots = roots.concat(line);
-			*/
-			if (i < target - 1) {
+			pusher(doc);
+			if (i < numFiles - 1) {
 				i++;
 				doFile(files[i]);
 			}
-			else if (i == target - 1) {
+			else if (i == numFiles - 1) {
 			  trackPerformance();
-				downloadBlob(roots);
+				//downloadBlob(roots);
 			}
 		};
 		reader.readAsText(file);
@@ -67,6 +55,7 @@ function trackPerformance() {
 	}
 	else {
 	  timer.innerHTML = performance.now() - startTime;
+		startTime = null;
 	}
 }
 
@@ -75,11 +64,16 @@ function pPush(m) {
   function setTarget(target) {
     target = m;
   }
-  function pushRoots(data) {
-    roots.push(data);
+  function pushRoots(d) {
+		let line = d.split('\n');
+    roots = roots.concat(line);
   }
-  function pushAffixes(data) {
-    affixes.push(data);
+  function pushAffixes(d) {
+		let line = d.split('\n');
+		for (let i = 0; i < line.length; i++) {
+			let lineSplit = line[i].split('\t');
+			affixes.push(lineSplit);
+		}
   }
   var api = {
     set: setTarget,
@@ -88,25 +82,3 @@ function pPush(m) {
   };
   return api;
 }
-/* Doesn't work because function finishes before loops (reading files takes too long)
-function handleFiles(files) {
-	t1 = performance.now();
-	for (let i = 0; i < files.length; i++) {
-		(function(file) {
-			let reader = new FileReader();
-
-			//set up handler for reading completion
-			reader.onload = function(e) {
-				let piece = e.target.result;
-				content = content.concat(piece.split('\n'));
-				if (i == files.length - 1) {
-					moreWork();
-				}
-			};
-
-			reader.readAsText(file);
-		 })(files[i]);
-	}
-}
-*/
-//handler.then(downloadBlob(content));

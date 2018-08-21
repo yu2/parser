@@ -13,9 +13,7 @@ body {
 
 #uploadArea {
 	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: start;
+	justify-content: start;
 }
 
 .uploadButton {
@@ -27,6 +25,10 @@ body {
 	margin-bottom: 0.25em;
 }
 
+.uploadAffixes {
+	margin-left: 1em;
+}
+
 .uploadHidden {
 	display: none;
 }
@@ -35,22 +37,24 @@ body {
   margin: 1.5em 0 0.5em 0;
 }
 
+.textInput {
+	background: white;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px solid black;
+}
+
+#submitInput {
+	background: none;
+	cursor: pointer;
+}
+
 #parseArea {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  align-items: center;
-  column-gap: 0.1em;
-  row-gap: 0.1em;
+  grid-template-rows: repeat(3, minmax(min-content, max-content));
+	grid-auto-flow: column;
+	grid-auto-columns: max-content;
+	column-gap: 1.5em;
+	padding-bottom: 1em;
 }
-
-.box {
-  outline: 1px solid black;
-}
-
-.box1 {
-  grid-column-start: 1;
-  grid-column-end: 4;
-  grid-row-start: 1;
-  grid-row-end: 3;
-}
-
