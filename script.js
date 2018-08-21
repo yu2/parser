@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
 	timer = document.querySelector('#timeDisplay');
-	rowField = document.querySelector('#rowField');
 });
 
 var roots = [];
@@ -9,7 +8,12 @@ var affixes = [];
 
 function handleFiles(files, mode) {
   trackPerformance();
-	var numRows = rowField.innerText;
+  var pusher = pPush();
+  if (mode == 'roots') {
+    pusher = pusher.pRoots;
+  } else if (mode == 'affixes') {
+    pusher = pusher.pAffixes;
+  }
 	var i = 0;
 	var target = files.length;
 	doFile(files[i]);
@@ -20,15 +24,18 @@ function handleFiles(files, mode) {
 		reader.onload = function(e) {
 			let doc = e.target.result;
 			//var re = /\s\n/;
-			var line = doc.split('\n');
+			let line = doc.split('\n');
 			//Get rid of space at the end of each word
 			for (let i = 0; i < line.length; i++) {
-				roots.push(line[i].split('\t').trim());
+			  let lineSplit = line[i].split('\t');
+			  pusher(lineSplit);
 			}
+			/*
 			line.forEach(function(currentValue, index, array) {
 				array[index] = currentValue.trim();
 			});
 			roots = roots.concat(line);
+			*/
 			if (i < target - 1) {
 				i++;
 				doFile(files[i]);
@@ -40,7 +47,7 @@ function handleFiles(files, mode) {
 		};
 		reader.readAsText(file);
 	}
-
+	
 }
 
 function downloadBlob(data) {
@@ -63,7 +70,24 @@ function trackPerformance() {
 	}
 }
 
-
+function pPush(m) {
+  var target;
+  function setTarget(target) {
+    target = m;
+  }
+  function pushRoots(data) {
+    roots.push(data);
+  }
+  function pushAffixes(data) {
+    affixes.push(data);
+  }
+  var api = {
+    set: setTarget,
+    pRoots: pushRoots,
+    pAffixes: pushAffixes
+  };
+  return api;
+}
 /* Doesn't work because function finishes before loops (reading files takes too long)
 function handleFiles(files) {
 	t1 = performance.now();

@@ -7,18 +7,8 @@
 }
 
 body {
-	background-color: #ffffff;	
+	background-color: #ffffff;
 	padding: 0.5em;
-}
-
-#rowArea {
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-}
-
-#rowField {
-	margin-left: 0.5em;
 }
 
 #uploadArea {
@@ -36,7 +26,31 @@ body {
 	cursor: pointer;
 	margin-bottom: 0.25em;
 }
-.input {
+
+.uploadHidden {
 	display: none;
+}
+
+#inputArea {
+  margin: 1.5em 0 0.5em 0;
+}
+
+#parseArea {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  column-gap: 0.1em;
+  row-gap: 0.1em;
+}
+
+.box {
+  outline: 1px solid black;
+}
+
+.box1 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 3;
 }
 

@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>dataLoad</title>
@@ -6,15 +6,24 @@
   </head>
   <body>
 		<div id="uploadArea">
-			<div id="rowArea">
-				<p>Number of rows: </p>
-				<p id="rowField" contenteditable="true">3</p>
-			</div>
-			<input type="button" class="uploadButton" onclick="document.getElementById('rootsInput').click()" value="Upload Roots">
-			<input type="file" class="input" id="rootsInput" multiple onchange="handleFiles(this.files, 'roots')">
-			<input type="button" class="uploadButton" onclick="document.getElementById('affixesInput').click()" value="Upload Affixes">
-			<input type="file" class="input" id="affixesInput" multiple onchange="handleFiles(this.files, 'affixes')">
+			<input type="button" class="uploadButton" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
+			<input type="file" class="uploadHidden" id="rootsInput" multiple="" onchange="handleFiles(this.files, &#39;roots&#39;)">
+			<input type="button" class="uploadButton" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
+			<input type="file" class="uploadHidden" id="affixesInput" multiple="" onchange="handleFiles(this.files, &#39;affixes&#39;)">
 			<p>Performance: <span id="timeDisplay">0</span>ms</p>
+		</div>
+		<div id="inputArea">
+		  <input id="textInput" type="text">
+		  <input type="button" id="submitInput" onclick="submitInput()" value="Parse">
+		</div>
+		<div id="parseArea">
+		  <div class="box box1">dummy 1</div>
+		  <div class="box box2">dummy 2</div>
+		  <div class="box box3">dummy 3</div>
+      <div class="box box4">dummy 4</div>
+      <div class="box box5">dummy 5</div>
+      <div class="box box6">dummy 6</div>
+      <div class="box box7">Dummy 7</div>
 		</div>
 		<script src="script.js"></script>
   </body>
