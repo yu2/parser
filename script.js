@@ -36,7 +36,7 @@ function handleFiles(files, mode) {
 			}
 			else if (i == numFiles - 1) {
 			  trackPerformance();
-				//downloadBlob(roots);
+				downloadBlob(roots);
 			}
 	  });
 	}
@@ -48,7 +48,7 @@ function downloadBlob(data) {
 	let url = URL.createObjectURL(blob);
 	let elem = window.document.createElement('a');
 	elem.href = url;
-	elem.download = 'lemma.txt';
+	elem.download = 'roots.txt';
 	elem.innerHTML = "Download";
 	document.body.appendChild(elem);
 	console.log(roots);
@@ -72,6 +72,7 @@ function pPush(m) {
   function pushRoots(d) {
 		let line = d.split('\n');
     roots = roots.concat(line);
+    //roots = trimIt(roots);
     outsideResolve();
   }
   function pushAffixes(d) {
@@ -88,4 +89,11 @@ function pPush(m) {
     pAffixes: pushAffixes
   };
   return api;
+}
+
+function trimIt(ar) {
+  for (let i = 0; i < ar.length; i++) {
+    ar[i] = ar[i].trim();
+  }
+  return ar;
 }
