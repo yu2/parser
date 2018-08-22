@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 var roots = [];
 var affixes = [];
+var outsideResolve;
 
 function handleFiles(files, mode) {
   trackPerformance();
@@ -20,10 +21,15 @@ function handleFiles(files, mode) {
 
 	//Recusive function that goes through each file in succession
 	function doFile(file) {
-		let reader = new FileReader();
-		reader.onload = function(e) {
-			let doc = e.target.result;
-			pusher(doc);
+	  var promise = new Promise((resolve, reject) => {
+	    outsideResolve = resolve;
+  		let reader = new FileReader();
+  		reader.onload = function(e) {
+  			let doc = e.target.result;
+  			pusher(doc);
+  		};
+  		reader.readAsText(file);
+	  }).then((msg) => {
 			if (i < numFiles - 1) {
 				i++;
 				doFile(files[i]);
@@ -32,8 +38,7 @@ function handleFiles(files, mode) {
 			  trackPerformance();
 				//downloadBlob(roots);
 			}
-		};
-		reader.readAsText(file);
+	  });
 	}
 	
 }
@@ -67,6 +72,7 @@ function pPush(m) {
   function pushRoots(d) {
 		let line = d.split('\n');
     roots = roots.concat(line);
+    outsideResolve();
   }
   function pushAffixes(d) {
 		let line = d.split('\n');
@@ -74,6 +80,7 @@ function pPush(m) {
 			let lineSplit = line[i].split('\t');
 			affixes.push(lineSplit);
 		}
+		outsideResolve();
   }
   var api = {
     set: setTarget,
