@@ -7,9 +7,9 @@
   <body>
 		<div id="uploadArea">
 			<input type="button" class="uploadButton" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
-			<input type="file" class="uploadHidden" id="rootsInput" multiple="" onchange="handleFiles(this.files, &#39;roots&#39;)">
+			<input type="file" class="uploadHidden" id="rootsInput" multiple onchange="handleFiles(this.files, &#39;roots&#39;)">
 			<input type="button" class="uploadButton uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
-			<input type="file" class="uploadHidden" id="affixesInput" multiple="" onchange="handleFiles(this.files, &#39;affixes&#39;)">
+			<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
 		</div>
 		<div class="performanceArea">
 			<p>Performance: <span id="timeDisplay">0</span>ms</p>
