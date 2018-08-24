@@ -91,6 +91,10 @@ function pPush(m) {
   return api;
 }
 
+function downloadList(ele) {
+  console.log(ele.value);
+}
+
 function trimIt(ar) {
   for (let i = 0; i < ar.length; i++) {
     ar[i] = ar[i].trim();

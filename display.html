@@ -6,9 +6,9 @@
   </head>
   <body>
 		<div id="uploadArea">
-			<input type="button" class="uploadButton" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
+			<input type="button" class="button" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
 			<input type="file" class="uploadHidden" id="rootsInput" multiple onchange="handleFiles(this.files, &#39;roots&#39;)">
-			<input type="button" class="uploadButton uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
+			<input type="button" class="button uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
 			<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
 		</div>
 		<div class="performanceArea">
@@ -29,6 +29,10 @@
       <div class="box box7">dummy8</div>
       <div class="box box7">dummydummydummy9</div>
       <div class="box box7">dummy10</div>
+		</div>
+		<div class="downloadArea">
+		  <input type="button" class="button downloadRoots" value="Download Roots" onclick="downloadList(this)">
+		  <input type="button" class="button downloadAffixes" value="Download Affixes" onclick="downloadList(this)">
 		</div>
 		<script src="script.js"></script>
   </body>
