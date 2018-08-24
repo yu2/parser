@@ -97,3 +97,7 @@ function trimIt(ar) {
   }
   return ar;
 }
+
+function uniq(ar) {
+  return [...new Set(ar)];
+}
