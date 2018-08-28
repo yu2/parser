@@ -92,7 +92,13 @@ function pPush(m) {
 }
 
 function downloadList(ele) {
-  console.log(ele.value);
+	let value = ele.value;
+	if (ele.value == "Download Roots") {
+		let blob = new Blob([roots], {type: 'text/csv'});
+	} else if (ele.value == "Download Affixes") {
+		let blob = new Blob([affixes], {type: 'text/csv'});
+	}
+	let url = URL.createObjectURL(blob);
 }
 
 function trimIt(ar) {
