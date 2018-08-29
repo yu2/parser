@@ -16,7 +16,7 @@ body {
 	justify-content: start;
 }
 
-.uploadButton {
+.button {
 	text-decoration: underline;
 	background: none;
 	padding: 0.1em;

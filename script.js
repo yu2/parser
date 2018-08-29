@@ -36,7 +36,7 @@ function handleFiles(files, mode) {
 			}
 			else if (i == numFiles - 1) {
 			  trackPerformance();
-				downloadBlob(roots);
+				//downloadBlob(roots);
 			}
 	  });
 	}
@@ -92,13 +92,16 @@ function pPush(m) {
 }
 
 function downloadList(ele) {
-	let value = ele.value;
-	if (ele.value == "Download Roots") {
-		let blob = new Blob([roots], {type: 'text/csv'});
-	} else if (ele.value == "Download Affixes") {
-		let blob = new Blob([affixes], {type: 'text/csv'});
+	console.log(ele.href);
+	let value = ele.innerHTML;
+	if (value == "Download Roots") {
+		var blob = new Blob([roots], {type: 'text/csv'});
+	} else if (value == "Download Affixes") {
+		var blob = new Blob([affixes], {type: 'text/csv'});
 	}
 	let url = URL.createObjectURL(blob);
+	ele.href = url;
+	ele.download = "wordlist.txt";
 }
 
 function trimIt(ar) {
