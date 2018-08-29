@@ -94,11 +94,9 @@ function pPush(m) {
 function downloadList(ele) {
 	console.log(ele.href);
 	let value = ele.innerHTML;
-	if (value == "Download Roots") {
-		var blob = new Blob([roots], {type: 'text/csv'});
-	} else if (value == "Download Affixes") {
-		var blob = new Blob([affixes], {type: 'text/csv'});
-	}
+	var blob = (value == "Download Roots")
+	  ? new Blob([roots], {type: 'text/csv'})
+	  :	new Blob([affixes], {type: 'text/csv'});
 	let url = URL.createObjectURL(blob);
 	ele.href = url;
 	ele.download = "wordlist.txt";
