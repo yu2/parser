@@ -1,6 +1,14 @@
 document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
 	timer = document.querySelector('#timeDisplay');
+	
+	var acute = "\u0301";
+	var str = "cafe";
+	var comb = str + acute;
+	var str2 = "cafe";
+	console.log(comb + ": " + comb.length);
+	console.log(str2 + ": " + str2.length);
+	
 });
 
 var roots = [];
@@ -103,12 +111,33 @@ function downloadList(ele) {
 }
 
 function trimIt(ar) {
+  /*
   for (let i = 0; i < ar.length; i++) {
     ar[i] = ar[i].trim();
   }
   return ar;
+  */
+  for (let i = 0; i < roots.length; i++) {
+    roots[i] = roots[i].trim();
+  }
 }
 
 function uniq(ar) {
-  return [...new Set(ar)];
+  //return [...new Set(ar)];
+  roots = [...new Set(roots)];
+}
+
+function sortIt(ar) {
+  //return ar.sort();
+  roots = roots.sort();
+}
+
+function lowerCaseIt() {
+  roots = roots.map(x => x.toLowerCase());
+}
+
+function printCharCodes (str) {
+  for (let i = 0; i < str.length; i++) {
+    console.log(i + ": " + str.codePointAt(i));
+  }
 }
