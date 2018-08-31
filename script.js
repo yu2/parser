@@ -1,14 +1,13 @@
 document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
-	timer = document.querySelector('#timeDisplay');
-	
-	var acute = "\u0301";
-	var str = "cafe";
-	var comb = str + acute;
-	var str2 = "cafe";
-	console.log(comb + ": " + comb.length);
-	console.log(str2 + ": " + str2.length);
-	
+	var inputField = document.querySelector(".inputField");
+	inputField.addEventListener("input", function(e) {
+	  cLog("input registered");
+	  let input = inputField.innerHTML;
+	  if (input.length >= 3) {
+	    processInput(input);
+	  }
+	});
 });
 
 var roots = [];
@@ -67,7 +66,8 @@ function trackPerformance() {
 	  startTime = performance.now();
 	}
 	else {
-	  timer.innerHTML = performance.now() - startTime;
+	  let perf = performance.now() - startTime;
+	  cLog("Performance: " + perf + "ms");
 		startTime = null;
 	}
 }
@@ -128,8 +128,7 @@ function uniq(ar) {
 }
 
 function sortIt(ar) {
-  //return ar.sort();
-  roots = roots.sort();
+  roots = roots.sort((a, b) => b.length - a.length);
 }
 
 function lowerCaseIt() {
@@ -140,4 +139,14 @@ function printCharCodes (str) {
   for (let i = 0; i < str.length; i++) {
     console.log(i + ": " + str.codePointAt(i));
   }
+}
+
+function processInput(str) {
+  
+}
+
+function cLog(str) {
+  var console = document.querySelector(".console");
+  let oldText = console.innerHTML;
+  console.innerHTML = str + "\n" + oldText;
 }
