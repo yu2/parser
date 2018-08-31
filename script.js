@@ -3,9 +3,9 @@ document.addEventListener("DOMContentLoaded", function() {
 	var inputField = document.querySelector(".inputField");
 	inputField.addEventListener("input", function(e) {
 	  cLog("input registered");
-	  let input = inputField.innerHTML;
+	  let input = inputField.value;
 	  if (input.length >= 3) {
-	    processInput(input);
+	    processInput(input.toLowerCase());
 	  }
 	});
 });
@@ -142,7 +142,29 @@ function printCharCodes (str) {
 }
 
 function processInput(str) {
-  
+	let found = [];
+	for (let i = 0; i < roots.length; i++) {
+		if (roots[i].startsWith(str)) {
+			found.push(roots[i]);
+		}
+		if (i == roots.length - 1) {
+			populateBoxes(found);
+		}
+	}
+}
+
+function populateBoxes(fd) {
+	let boxParent = document.querySelector(".boxMother");
+	while (boxParent.lastChild) {
+		boxParent.removeChild(boxParent.lastChild);
+	}
+	let lim = Math.min(30, fd.length);
+	for (let i = 0; i < lim; i++) {
+		let child = document.createElement("div");
+		child.className = "box";
+		child.innerText = fd[i];
+		boxParent.appendChild(child);
+	}
 }
 
 function cLog(str) {
