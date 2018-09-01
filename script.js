@@ -8,6 +8,8 @@ document.addEventListener("DOMContentLoaded", function() {
 	    processInput(input.toLowerCase());
 	  }
 	});
+	
+	console.log(String.fromCodePoint("165"));
 });
 
 var roots = [];
@@ -102,8 +104,8 @@ function pPush(m) {
 function downloadList(ele) {
 	let value = ele.innerHTML;
 	var blob = (value == "Download Roots")
-	  ? new Blob([roots.join("\n")], {type: 'text/csv'})
-	  :	new Blob([affixes.join("\n")], {type: 'text/csv'});
+	  ? new Blob([roots.join("\r\n")], {type: 'text/csv'})
+	  :	new Blob([affixes.join("\r\n")], {type: 'text/csv'});
 	let url = URL.createObjectURL(blob);
 	ele.href = url;
 	ele.download = "wordlist.txt";
@@ -168,6 +170,20 @@ function populateBoxes(fd) {
 
 function cLog(str) {
   var console = document.querySelector(".console");
-  let oldText = console.innerHTML;
-  console.innerHTML = str + "\n" + oldText;
+  console.innerHTML = str + "\n" + console.innerHTML;
+}
+
+function toIPA(ar) {
+  // Method 1: Convert array to string first
+  (function method1() {
+    trackPerformance();
+    var promise = new Promise((resolve, reject) => {
+      let joined = roots.join("\u{99}");
+      joined = joined.replace("\u00F1}", "\u0272");
+      roots = joined.split("\u{99}");
+    }).then(msg => {
+      trackPerformance();
+    });
+  })();
+  // Method 2: Iterate through array
 }
