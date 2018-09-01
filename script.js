@@ -179,7 +179,7 @@ function toIPA(ar) {
     trackPerformance();
     var promise = new Promise((resolve, reject) => {
       let joined = roots.join("\u{99}");
-      joined = joined.replace("\u00F1}", "\u0272");
+      joined = joined.replace("\u00F1", "\u0272");
       roots = joined.split("\u{99}");
     }).then(msg => {
       trackPerformance();
