@@ -8,8 +8,6 @@ document.addEventListener("DOMContentLoaded", function() {
 	    processInput(input.toLowerCase());
 	  }
 	});
-	
-	console.log(String.fromCodePoint("165"));
 });
 
 var roots = [];
@@ -179,9 +177,18 @@ function toIPA(ar) {
     trackPerformance();
     var promise = new Promise((resolve, reject) => {
       let joined = roots.join("\u{99}");
-      joined = joined.replace("\u00F1", "\u0272");
+      joined = joined
+				.replace(/\u00F1/gu, "\u0272")
+				.replace(/nk/g, "ng")
+				.replace(/nt/g, "nd")
+				.replace(/np/g, "nb")
+				.replace(/hua/g, "wa")
+				.replace(/ch/g, "\u02A7")
+				.replace(/sh/g, "\u0283")
+				.replace(/ll/g, "\u0292");
       roots = joined.split("\u{99}");
-    }).then(msg => {
+			resolve();
+    }).then((msg) => {
       trackPerformance();
     });
   })();
