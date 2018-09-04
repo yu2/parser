@@ -182,10 +182,13 @@ function toIPA(ar) {
 				.replace(/nk/g, "ng")
 				.replace(/nt/g, "nd")
 				.replace(/np/g, "nb")
+				.replace(/manda/g, "manta")
 				.replace(/hua/g, "wa")
 				.replace(/ch/g, "\u02A7")
 				.replace(/sh/g, "\u0283")
 				.replace(/ll/g, "\u0292")
+				.replace(/(rr|^r)/g, "@")
+				.replace(/ r/g, " @")
 				.replace(/r/g, "\u027E")
 				.replace(/ce/g, "se")
 				.replace(/ci/g, "si")
@@ -196,7 +199,23 @@ function toIPA(ar) {
 				.replace(/hu/g, "xu")
 				.replace(/gui/g, "gi")
 				.replace(/j/g, "x")
-				.replace(/y/g, "j");
+				.replace(/-y-/g, "i") //none in dataset
+				.replace(/y/g, "j")
+				.replace(/^v/gm, "b")
+				.replace(/ v/g, " b")
+				.replace(/v/g, "\u03B2")
+				.replace(/^z/gm, "s")
+				.replace(/ z/g, " s")
+				.replace(/aj/g, "ai")
+				.replace(/aia/g, "aja")
+				.replace(/aw/g, "au")
+				.replace(/aua/g, "awa")
+				.replace(/gua/g, "wa")
+				.replace(/\u00ED/gu, "i")
+				.replace(/\u00E9/gu, "e")
+				.replace(/\u00E1/gu, "a")
+				.replace(/\u00F3/gu, "o")
+				.replace(/\u00FA/gu, "u");
       roots = joined.split("\u{99}");
 			resolve();
     }).then((msg) => {
