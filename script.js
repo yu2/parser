@@ -167,8 +167,8 @@ function populateBoxes(fd) {
 }
 
 function cLog(str) {
-  var console = document.querySelector(".console");
-  console.innerHTML = str + "\n" + console.innerHTML;
+  let cons = document.querySelector(".console");
+  cons.innerHTML = str + "\n" + cons.innerHTML;
 }
 
 function toIPA(ar) {
