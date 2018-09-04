@@ -185,7 +185,18 @@ function toIPA(ar) {
 				.replace(/hua/g, "wa")
 				.replace(/ch/g, "\u02A7")
 				.replace(/sh/g, "\u0283")
-				.replace(/ll/g, "\u0292");
+				.replace(/ll/g, "\u0292")
+				.replace(/r/g, "\u027E")
+				.replace(/ce/g, "se")
+				.replace(/ci/g, "si")
+				.replace(/ca/g, "ka")
+				.replace(/co/g, "ko")
+				.replace(/cu/g, "ku")
+				.replace(/qu/g, "k")
+				.replace(/hu/g, "xu")
+				.replace(/gui/g, "gi")
+				.replace(/j/g, "x")
+				.replace(/y/g, "j");
       roots = joined.split("\u{99}");
 			resolve();
     }).then((msg) => {
