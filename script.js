@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
+  cons = document.querySelector(".console");
+	boxParent = document.querySelector(".boxMother");
 	var inputField = document.querySelector(".inputField");
 	inputField.addEventListener("input", function(e) {
 	  cLog("input registered");
@@ -153,10 +155,19 @@ function processInput(str) {
 }
 
 function populateBoxes(fd) {
-	let boxParent = document.querySelector(".boxMother");
+  // First, clear any existing boxes
 	while (boxParent.lastChild) {
 		boxParent.removeChild(boxParent.lastChild);
 	}
+	
+	if (fd.length === 0) {
+	  // if letter(s) are left over after longest root is matched,
+	  // start searching in affixes[i][2]
+	  // must begin new search, starting from root, every time a new letter is inputted
+	  // no affix found
+	}
+	
+	// Only show max 30 matches, longest first
 	let lim = Math.min(30, fd.length);
 	for (let i = 0; i < lim; i++) {
 		let child = document.createElement("div");
@@ -167,7 +178,6 @@ function populateBoxes(fd) {
 }
 
 function cLog(str) {
-  let cons = document.querySelector(".console");
   cons.innerHTML = str + "\n" + cons.innerHTML;
 }
 
@@ -176,8 +186,16 @@ function toIPA(ar) {
   (function method1() {
     trackPerformance();
     var promise = new Promise((resolve, reject) => {
-      let joined = roots.join("\u{99}");
-      joined = joined
+      let joined = roots.join("\u0099");
+      joined = doSubs(joined);
+      roots = joined.split("\u0099");
+			resolve();
+    }).then((msg) => {
+      trackPerformance();
+    });
+    
+    function doSubs(ar) {
+      ar = ar
 				.replace(/\u00F1/gu, "\u0272")
 				.replace(/nk/g, "ng")
 				.replace(/nt/g, "nd")
@@ -189,6 +207,8 @@ function toIPA(ar) {
 				.replace(/ll/g, "\u0292")
 				.replace(/(rr|^r)/g, "@")
 				.replace(/ r/g, " @")
+				.replace(/ @/g, " \u0290")
+				.replace(/@/g, " \u0290")
 				.replace(/r/g, "\u027E")
 				.replace(/ce/g, "se")
 				.replace(/ci/g, "si")
@@ -216,11 +236,8 @@ function toIPA(ar) {
 				.replace(/\u00E1/gu, "a")
 				.replace(/\u00F3/gu, "o")
 				.replace(/\u00FA/gu, "u");
-      roots = joined.split("\u{99}");
-			resolve();
-    }).then((msg) => {
-      trackPerformance();
-    });
+			return ar;
+    }
   })();
   // Method 2: Iterate through array
 }
