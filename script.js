@@ -159,7 +159,15 @@ function processInput(str) {
       break;
     }
     else if (i == roots.length - 1 && numFound === 0) {
-      checkAffixes(str.replace(lastMatch, ""));
+      console.log(lastMatch);
+      let aff = str.replace(lastMatch, "");
+      let aff2 = str.replace("abanikos", "");
+      console.log("type: " + typeof lastMatch);
+      console.log("str: " + str);
+      console.log("last match: " + lastMatch);
+      console.log("aff: " + aff);
+      console.log("aff2: " + aff2);
+      checkAffixes(aff);
     }
     else if (i == roots.length - 1) {
       lastMatch = found[0];
@@ -169,6 +177,7 @@ function processInput(str) {
   }
   
   function checkAffixes(str) {
+    console.log("passed str: " + str);
     let aFound = [];
     console.log(str);
     for (let i = 0; i < affixes.length; i++) {
