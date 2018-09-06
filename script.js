@@ -80,9 +80,8 @@ function pPush(m) {
     target = m;
   }
   function pushRoots(d) {
-    let line = d.split('\n');
+    let line = d.split('\r\n');
     roots = roots.concat(line);
-    //roots = trimIt(roots);
     outsideResolve();
   }
   function pushAffixes(d) {
@@ -112,19 +111,12 @@ function downloadList(ele) {
 }
 
 function trimIt(ar) {
-  /*
-  for (let i = 0; i < ar.length; i++) {
-    ar[i] = ar[i].trim();
-  }
-  return ar;
-  */
   for (let i = 0; i < roots.length; i++) {
     roots[i] = roots[i].trim();
   }
 }
 
 function uniq(ar) {
-  //return [...new Set(ar)];
   roots = [...new Set(roots)];
 }
 
@@ -159,14 +151,7 @@ function processInput(str) {
       break;
     }
     else if (i == roots.length - 1 && numFound === 0) {
-      console.log(lastMatch);
-      let aff = str.replace(lastMatch, "");
-      let aff2 = str.replace("abanikos", "");
-      console.log("type: " + typeof lastMatch);
-      console.log("str: " + str);
-      console.log("last match: " + lastMatch);
-      console.log("aff: " + aff);
-      console.log("aff2: " + aff2);
+      let aff = str.substring(lastMatch.length);
       checkAffixes(aff);
     }
     else if (i == roots.length - 1) {
@@ -177,9 +162,7 @@ function processInput(str) {
   }
   
   function checkAffixes(str) {
-    console.log("passed str: " + str);
     let aFound = [];
-    console.log(str);
     for (let i = 0; i < affixes.length; i++) {
       if(affixes[i][2].startsWith(str)) {
         aFound.push(affixes[i][2]);
