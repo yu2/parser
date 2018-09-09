@@ -186,8 +186,7 @@ function populateBoxes(fd) {
   //}
   
   // Only show max 30 matches, longest first
-  let lim = Math.min(30, fd.length);
-  for (let i = 0; i < lim; i++) {
+  for (let i = 0; i < fd.length; i++) {
     let child = document.createElement("div");
     child.className = "box";
     child.innerText = fd[i];
