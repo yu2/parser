@@ -2,7 +2,19 @@ document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
   cons = document.querySelector(".console");
   boxParent = document.querySelector(".boxMother");
-  var inputField = document.querySelector(".inputField");
+	let tabBtn1 = document.querySelector(".tabButton1");
+	let tabBtn2 = document.querySelector(".tabButton2");
+	let tabArea1 = document.querySelector(".tabArea1");
+	let tabArea2 = document.querySelector(".tabArea2");
+	tabBtn1.addEventListener("click", function(e) {
+		tabArea2.style.display = "none";
+		tabArea1.style.display = "flex";
+	})
+	tabBtn2.addEventListener("click", function(e) {
+		tabArea1.style.display = "none";
+		tabArea2.style.display = "flex";
+	})
+  let inputField = document.querySelector(".inputField");
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
     let input = inputField.value;

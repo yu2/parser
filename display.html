@@ -28,12 +28,24 @@
     		  <a class="button downloadAffixes" onclick="downloadList(this)">Download Affixes</a>
     		</div>
   		</div>
-  		<div id="inputArea">
-  		  <input class="inputField" type="text" size="25" value="">
-  		  <input type="button" class="button" id="submitInput" onclick="submitInput()" value="Parse">
-  		</div>
-  		<div class="boxMother" id="parseArea">
-  		</div>
+			<div class="tabbedContainer">
+				<div id="tabBar">
+					<input type="button"class="tabButton tabButton1" value="Parse"></button>
+					<input type="button" class="tabButton tabButton2" value="Add"></button>
+				</div>
+				<div class="tabArea tabArea1">
+					<div id="inputArea">
+						<input class="inputField" type="text" size="25" value="">
+						<input type="button" class="button" id="submitInput" onclick="submitInput()" value="Parse">
+					</div>
+					<div class="boxMother" id="parseArea"></div>
+				</div>
+				<div class="tabArea tabArea2">
+					<div id="addArea">
+						<input class="inputField" type="text" size="25" value="">
+					</div>
+				</div>
+			</div>
 		</div>
 		<div class="consoleArea">
 		  <p>Message Log</p>
