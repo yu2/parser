@@ -2,17 +2,21 @@ document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
   cons = document.querySelector(".console");
   boxParent = document.querySelector(".boxMother");
-	let tabBtn1 = document.querySelector(".tabButton1");
-	let tabBtn2 = document.querySelector(".tabButton2");
+	let tabNav1 = document.querySelector(".tabNav1");
+	let tabNav2 = document.querySelector(".tabNav2");
 	let tabArea1 = document.querySelector(".tabArea1");
 	let tabArea2 = document.querySelector(".tabArea2");
-	tabBtn1.addEventListener("click", function(e) {
-		tabArea2.style.display = "none";
+	tabNav1.addEventListener("click", function(e) {
 		tabArea1.style.display = "flex";
+		tabArea2.style.display = "none";
+		tabNav1.style.background= "gainsboro";
+		tabNav2.style.background= "white";
 	})
-	tabBtn2.addEventListener("click", function(e) {
+	tabNav2.addEventListener("click", function(e) {
 		tabArea1.style.display = "none";
 		tabArea2.style.display = "flex";
+		tabNav1.style.background= "white";
+		tabNav2.style.background= "gainsboro";
 	})
   let inputField = document.querySelector(".inputField");
   inputField.addEventListener("input", function(e) {
