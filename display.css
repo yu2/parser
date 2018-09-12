@@ -125,6 +125,10 @@ a:link {
 	display: none;
 }
 
+.addAffixContainer {
+	margin-top: 0.25em;
+}
+
 .consoleArea {
   position: fixed;
   bottom: 0;

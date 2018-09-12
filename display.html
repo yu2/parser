@@ -30,8 +30,8 @@
   		</div>
 			<div class="tabbedContainer">
 				<div class="tabBar">
-					<input type="button" class="tabNav tabNav1" value="Parse">
-					<input type="button" class="tabNav tabNav2" value="Add Morpheme">
+					<input type="button" class="tabNav tabNav1" value="Parse"></button>
+					<input type="button" class="tabNav tabNav2" value="New Morpheme"></button>
 				</div>
 				<div class="tabArea tabArea1">
 					<div id="inputArea">
@@ -42,8 +42,14 @@
 				</div>
 				<div class="tabArea tabArea2">
 					<div id="addArea">
-						<input class="inputField" type="text" size="25" value="">
-						<input type="button" class="button submitMorpheme" onclick="submitInput()" value="Submit">
+						<div class="addRootContainer">
+							<input class="inputField inputRoot" type="text" size="25" value="">
+							<input type="button" class="button" class="submitRoot" onclick="submitInput()" value="Submit Root">
+						</div>
+						<div class="addAffixContainer">
+							<input class="inputField inputAffix" type="text" size="25" value="">
+							<input type="button" class="button" class="submitAffix" onclick="submitInput()" value="Submit Affix">
+						</div>
 					</div>
 				</div>
 			</div>
