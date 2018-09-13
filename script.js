@@ -26,6 +26,20 @@ document.addEventListener("DOMContentLoaded", function() {
       processInput(input.toLowerCase());
     }
   });
+	let addRootBtn = document.querySelector(".submitRoot");
+	let addAffixBtn = document.querySelector(".submitAffix");
+	let addRootField = document.querySelector(".inputRoot");
+	let addAffixField = document.querySelector(".inputAffix");
+	addRootBtn.addEventListener("click", function(e) {
+		let newRoot = addRootField.value;
+		roots.push(newRoot);
+		cLog("Root added: " + "\"" + newRoot + "\"");
+	})
+	addAffixBtn.addEventListener("click", function(e) {
+		let newAffix = addAffixField.value;
+		affixes.push(newAffix);
+		cLog("Affix added: " + "\"" + newAffix + "\"");
+	})
 });
 
 var roots = [];
