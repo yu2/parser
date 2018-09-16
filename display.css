@@ -69,6 +69,8 @@ a:link {
 	display: flex;
 	flex-direction: column;
 	align-self: start;
+	border: 1px solid blue;
+	width: 100%;
 }
 
 .tabBar {
@@ -94,7 +96,8 @@ a:link {
 	border-left: none;
 }
 
-.tabArea1 {
+.tabArea {
+  border: 1px solid green;
 	display: flex;
 	flex-direction: column;
 }
@@ -123,6 +126,13 @@ a:link {
 
 .tabArea2 {
 	display: none;
+}
+
+.addMorphemeContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border: 1px solid red;
 }
 
 .addAffixContainer {

@@ -11,13 +11,13 @@ document.addEventListener("DOMContentLoaded", function() {
 		tabArea2.style.display = "none";
 		tabNav1.style.background= "gainsboro";
 		tabNav2.style.background= "white";
-	})
+	});
 	tabNav2.addEventListener("click", function(e) {
 		tabArea1.style.display = "none";
 		tabArea2.style.display = "flex";
 		tabNav1.style.background= "white";
 		tabNav2.style.background= "gainsboro";
-	})
+	});
   let inputField = document.querySelector(".inputField");
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
@@ -34,12 +34,12 @@ document.addEventListener("DOMContentLoaded", function() {
 		let newRoot = addRootField.value;
 		roots.push(newRoot);
 		cLog("Root added: " + "\"" + newRoot + "\"");
-	})
+	});
 	addAffixBtn.addEventListener("click", function(e) {
 		let newAffix = addAffixField.value;
 		affixes.push(newAffix);
 		cLog("Affix added: " + "\"" + newAffix + "\"");
-	})
+	});
 });
 
 var roots = [];
