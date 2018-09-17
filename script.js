@@ -288,3 +288,13 @@ function doSubs(ar) {
     .replace(/\u00FA/gu, "u");
   return ar;
 }
+
+function newMorpheme(md) {
+	switch(md) {
+		case "root":
+			console.log("root mode");
+			break;
+		case "affix":
+			console.log("affix mode");
+	}
+}
