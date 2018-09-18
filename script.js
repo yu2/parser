@@ -2,6 +2,8 @@ document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
   cons = document.querySelector(".console");
   boxParent = document.querySelector(".boxMother");
+	
+	// Tab navigation bar behaviour
 	let tabNav1 = document.querySelector(".tabNav1");
 	let tabNav2 = document.querySelector(".tabNav2");
 	let tabArea1 = document.querySelector(".tabArea1");
@@ -18,6 +20,8 @@ document.addEventListener("DOMContentLoaded", function() {
 		tabNav1.style.background= "white";
 		tabNav2.style.background= "gainsboro";
 	});
+  
+  // Input parsing behaviour
   let inputField = document.querySelector(".inputField");
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
@@ -26,20 +30,12 @@ document.addEventListener("DOMContentLoaded", function() {
       processInput(input.toLowerCase());
     }
   });
-	let addRootBtn = document.querySelector(".submitRoot");
-	let addAffixBtn = document.querySelector(".submitAffix");
-	let addRootField = document.querySelector(".inputRoot");
-	let addAffixField = document.querySelector(".inputAffix");
-	addRootBtn.addEventListener("click", function(e) {
-		let newRoot = addRootField.value;
-		roots.push(newRoot);
-		cLog("Root added: " + "\"" + newRoot + "\"");
-	});
-	addAffixBtn.addEventListener("click", function(e) {
-		let newAffix = addAffixField.value;
-		affixes.push(newAffix);
-		cLog("Affix added: " + "\"" + newAffix + "\"");
-	});
+  
+  // New morpheme behaviour
+	let addRootButton = document.querySelector(".addRootButton");
+	let addAffixButton = document.querySelector(".addAffixButton");
+	addRootField = document.querySelector(".addRootField");
+	addAffixField = document.querySelector(".addAffixField");
 });
 
 var roots = [];
@@ -152,6 +148,7 @@ function uniq(ar) {
 
 function sortIt(ar) {
   roots = roots.sort((a, b) => b.length - a.length);
+  affixes = affixes.sort((a, b) => b[2].length - a[2].length);
 }
 
 function lowerCaseIt() {
@@ -169,7 +166,7 @@ function processInput(str) {
   str = doSubs(str);
   let found = [];
   let numFound = 0;
-  // Search through roots until 30 matches are found
+  // Crawl through roots until 30 matches are found
   for (let i = 0; i < roots.length; i++) {
     if (roots[i].startsWith(str)) {
       found.push(roots[i]);
@@ -180,10 +177,12 @@ function processInput(str) {
       populateBoxes(found);
       break;
     }
+    // Reached end of roots, no match found
     else if (i == roots.length - 1 && numFound === 0) {
       let aff = str.substring(lastMatch.length);
       checkAffixes(aff);
     }
+    // Reached end of roots, fewer than 30 found
     else if (i == roots.length - 1) {
       lastMatch = found[0];
       populateBoxes(found);
@@ -292,9 +291,28 @@ function doSubs(ar) {
 function newMorpheme(md) {
 	switch(md) {
 		case "root":
-			console.log("root mode");
+			let newR = addRootField.value;
+			breakWords(newR);
+  		cLog("Root list updated");
 			break;
 		case "affix":
-			console.log("affix mode");
+			let newA = addAffixField.value;
+			breakWords(newA);
+  		cLog("Affix list updated");
+	}
+	
+	function breakWords(input) {
+	  let splitInput = [];
+	  switch(md) {
+	    case "root":
+	      splitInput = input.split("\n");
+	      roots = roots.concat(splitInput);
+	      break;
+	    case "affix":
+	      splitInput = input.split("\n");
+	      for (let i = 0; i < splitInput.length; i++) {
+	        affixes.push(["", "", splitInput[i]]);
+	      }
+	  }
 	}
 }
