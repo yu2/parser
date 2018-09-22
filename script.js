@@ -2,25 +2,25 @@ document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
   cons = document.querySelector(".console");
   boxParent = document.querySelector(".boxMother");
-	
-	// Tab navigation bar behaviour
-	let tabNav1 = document.querySelector(".tabNav1");
-	let tabNav2 = document.querySelector(".tabNav2");
-	let tabArea1 = document.querySelector(".tabArea1");
-	let tabArea2 = document.querySelector(".tabArea2");
-	tabNav1.addEventListener("click", function(e) {
-		tabArea1.style.display = "flex";
-		tabArea2.style.display = "none";
-		tabNav1.style.background= "gainsboro";
-		tabNav2.style.background= "white";
-	});
-	tabNav2.addEventListener("click", function(e) {
-		tabArea1.style.display = "none";
-		tabArea2.style.display = "flex";
-		tabNav1.style.background= "white";
-		tabNav2.style.background= "gainsboro";
-	});
-  
+   
+  // Tab navigation bar behaviour
+  let tabNav1 = document.querySelector(".tabNav1");
+  let tabNav2 = document.querySelector(".tabNav2");
+  let tabArea1 = document.querySelector(".tabArea1");
+  let tabArea2 = document.querySelector(".tabArea2");
+  tabNav1.addEventListener("click", function(e) {
+    tabArea1.style.display = "flex";
+    tabArea2.style.display = "none";
+    tabNav1.style.background= "gainsboro";
+    tabNav2.style.background= "white";
+  });
+  tabNav2.addEventListener("click", function(e) {
+    tabArea1.style.display = "none";
+    tabArea2.style.display = "flex";
+    tabNav1.style.background= "white";
+    tabNav2.style.background= "gainsboro";
+  });
+
   // Input parsing behaviour
   let inputField = document.querySelector(".inputField");
   inputField.addEventListener("input", function(e) {
@@ -32,10 +32,10 @@ document.addEventListener("DOMContentLoaded", function() {
   });
   
   // New morpheme behaviour
-	let addRootButton = document.querySelector(".addRootButton");
-	let addAffixButton = document.querySelector(".addAffixButton");
-	addRootField = document.querySelector(".addRootField");
-	addAffixField = document.querySelector(".addAffixField");
+  let addRootButton = document.querySelector(".addRootButton");
+  let addAffixButton = document.querySelector(".addAffixButton");
+  addRootField = document.querySelector(".addRootField");
+  addAffixField = document.querySelector(".addAffixField");
 });
 
 var roots = [];
@@ -60,18 +60,18 @@ function handleFiles(files, mode) {
       outsideResolve = resolve;
       let reader = new FileReader();
       reader.onload = function(e) {
-        let doc = e.target.result;
-        pusher(doc);
+	let doc = e.target.result;
+	pusher(doc);
       };
       reader.readAsText(file);
     }).then((msg) => {
       if (i < numFiles - 1) {
-        i++;
-        doFile(files[i]);
+	i++;
+	doFile(files[i]);
       }
       else if (i == numFiles - 1) {
-        trackPerformance();
-        //downloadBlob(roots);
+	trackPerformance();
+	//downloadBlob(roots);
       }
     });
   }
@@ -194,7 +194,7 @@ function processInput(str) {
     let aFound = [];
     for (let i = 0; i < affixes.length; i++) {
       if(affixes[i][2].startsWith(str)) {
-        aFound.push(affixes[i][2]);
+	aFound.push(affixes[i][2]);
       }
     }
     console.log(aFound);
@@ -290,30 +290,30 @@ function doSubs(ar) {
 }
 
 function newMorpheme(md) {
-	switch(md) {
-		case "root":
-			let newR = addRootField.value;
-			breakWords(newR);
-  		cLog("Root list updated");
-			break;
-		case "affix":
-			let newA = addAffixField.value;
-			breakWords(newA);
-  		cLog("Affix list updated");
-	}
-	
-	function breakWords(input) {
-	  let splitInput = [];
-	  switch(md) {
-	    case "root":
-	      splitInput = input.split("\n");
-	      roots = roots.concat(splitInput);
-	      break;
-	    case "affix":
-	      splitInput = input.split("\n");
-	      for (let i = 0; i < splitInput.length; i++) {
-	        affixes.push(["", "", splitInput[i]]);
-	      }
+  switch(md) {
+    case "root":
+      let newR = addRootField.value;
+      breakWords(newR);
+      cLog("Root list updated");
+      break;
+    case "affix":
+      let newA = addAffixField.value;
+      breakWords(newA);
+      cLog("Affix list updated");
+    }
+
+    function breakWords(input) {
+      let splitInput = [];
+      switch(md) {
+	case "root":
+	  splitInput = input.split("\n");
+	  roots = roots.concat(splitInput);
+	  break;
+	case "affix":
+	  splitInput = input.split("\n");
+	  for (let i = 0; i < splitInput.length; i++) {
+	  affixes.push(["", "", splitInput[i]]);
 	  }
-	}
+      }
+   }
 }
