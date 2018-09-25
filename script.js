@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
-  cons = document.querySelector(".console");
+  console = document.querySelector(".console");
   boxParent = document.querySelector(".boxMother");
    
   // Tab navigation bar behaviour
@@ -36,6 +36,18 @@ document.addEventListener("DOMContentLoaded", function() {
   let addAffixButton = document.querySelector(".addAffixButton");
   addRootField = document.querySelector(".addRootField");
   addAffixField = document.querySelector(".addAffixField");
+  
+  // Hide console behaviour
+  let hideConsoleButton = document.querySelector(".hideConsoleButton");
+  hideConsoleButton.addEventListener("click", function(e) {
+    if (hideConsoleButton.value == "Hide") {
+      console.style.display = "none";
+      hideConsoleButton.value = "Show";
+    } else {
+      console.style.display = "block";
+      hideConsoleButton.value = "Hide";
+    }
+  });
 });
 
 var roots = [];
@@ -225,7 +237,7 @@ function populateBoxes(fd) {
 }
 
 function cLog(str) {
-  cons.innerHTML = str + "\n" + cons.innerHTML;
+  console.innerHTML = str + "\n" + console.innerHTML;
 }
 
 function toIPA(ar) {

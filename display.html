@@ -1,71 +1,74 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>dataLoad</title>
-		<link href="display.css" rel="stylesheet" type="text/css">
-		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
-		<link rel="shortcut icon" href="icon/favicon-32x32.png">
-  </head>
-  <body>
-    <div class="mainContainer">
-  		<div id="uploadArea">
-  			<input type="button" class="button" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
-  			<input type="file" class="uploadHidden" id="rootsInput" multiple onchange="handleFiles(this.files, &#39;roots&#39;)">
-  			<input type="button" class="button uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
-  			<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
+<head>
+  <title>dataLoad</title>
+	<link href="display.css" rel="stylesheet" type="text/css">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+	<link rel="shortcut icon" href="icon/favicon-32x32.png">
+</head>
+<body>
+  <div class="mainContainer">
+		<div id="uploadArea">
+			<input type="button" class="button" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
+			<input type="file" class="uploadHidden" id="rootsInput" multiple onchange="handleFiles(this.files, &#39;roots&#39;)">
+			<input type="button" class="button uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
+			<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
+		</div>
+		<div class="opsArea">
+		  <p class="opTitle">Operations</p>
+  		<div class="utilsArea">
+  		  <input type="button" class="button" value="lowercase" onclick="lowerCaseIt()">
+  		  <input type="button" class="button" value="Trim" onclick="trimIt()">
+  		  <input type="button" class="button" value="Uniques" onclick="uniq()">
+  		  <input type="button" class="button" value="Sort" onclick="sortIt()">
+  		  <input type="button" class="button" value="toIPA" onclick="toIPA()">
   		</div>
-  		<div class="opsArea">
-  		  <p class="opTitle">Operations</p>
-    		<div class="utilsArea">
-    		  <input type="button" class="button" value="lowercase" onclick="lowerCaseIt()">
-    		  <input type="button" class="button" value="Trim" onclick="trimIt()">
-    		  <input type="button" class="button" value="Uniques" onclick="uniq()">
-    		  <input type="button" class="button" value="Sort" onclick="sortIt()">
-    		  <input type="button" class="button" value="toIPA" onclick="toIPA()">
-    		</div>
-  		  <div class="downloadArea">
-    		  <a class="button downloadRoots" onclick="downloadList(this)">Download Roots</a>
-    		  <a class="button downloadAffixes" onclick="downloadList(this)">Download Affixes</a>
-    		</div>
+		  <div class="downloadArea">
+  		  <a class="button downloadRoots" onclick="downloadList(this)">Download Roots</a>
+  		  <a class="button downloadAffixes" onclick="downloadList(this)">Download Affixes</a>
   		</div>
-			<div class="tabbedContainer">
-				<div class="tabBar">
-					<input type="button" class="tabNav tabNav1" value="Parse">
-					<input type="button" class="tabNav tabNav2" value="New Morpheme">
+		</div>
+		<div class="tabbedContainer">
+			<div class="tabBar">
+				<input type="button" class="tabNav tabNav1" value="Parse">
+				<input type="button" class="tabNav tabNav2" value="New Morpheme">
+			</div>
+			<div class="tabArea tabArea1">
+				<div id="inputArea">
+					<input class="inputField" type="text" size="25" value="">
+					<input type="button" class="button" id="submitInput" onclick="submitInput()" value="Parse">
 				</div>
-				<div class="tabArea tabArea1">
-					<div id="inputArea">
-						<input class="inputField" type="text" size="25" value="">
-						<input type="button" class="button" id="submitInput" onclick="submitInput()" value="Parse">
+				<div class="boxMother" id="parseArea"></div>
+			</div>
+			<div class="tabArea tabArea2">
+				<div id="addArea">
+					<div class="addMorphemeContainer addRootContainer">
+						<textarea class="addMorphemeField addRootField" type="text" size="25" value=""></textarea>
+						<input type="button" class="addRootButton button" value="Add Root" onclick="newMorpheme('root')">
 					</div>
-					<div class="boxMother" id="parseArea"></div>
-				</div>
-				<div class="tabArea tabArea2">
-					<div id="addArea">
-						<div class="addMorphemeContainer addRootContainer">
-							<textarea class="addMorphemeField addRootField" type="text" size="25" value=""></textarea>
-							<input type="button" class="addRootButton button" value="Add Root" onclick="newMorpheme('root')">
-						</div>
-						<div class="addMorphemeContainer addAffixContainer">
-							<textarea class="addMorphemeField addAffixField" type="text" size="25" value=""></textarea>
-							<input type="button" class="addAffixButton button" value="Add Affix" onclick="newMorpheme('affix')">
-						</div>
+					<div class="addMorphemeContainer addAffixContainer">
+						<textarea class="addMorphemeField addAffixField" type="text" size="25" value=""></textarea>
+						<input type="button" class="addAffixButton button" value="Add Affix" onclick="newMorpheme('affix')">
 					</div>
 				</div>
 			</div>
-			<div class="gridTest">
-			  <div class="gridTestChild">One</div>
-			  <div class="gridTestChild">Two</div>
-			  <div class="gridTestChild">Three</div>
-			  <div class="gridTestChild">Fourfourfourfourfourfourfourfour</div>
-			  <div class="gridTestChild">Five</div>
-			</div>
 		</div>
-		<div class="consoleArea">
-		  <p>Message Log</p>
-  		<textarea class="console"></textarea>
+		<div class="gridTest">
+		  <div class="gridTestChild">One</div>
+		  <div class="gridTestChild">Two</div>
+		  <div class="gridTestChild">Three</div>
+		  <div class="gridTestChild">Fourfourfourfourfourfourfourfour</div>
+		  <div class="gridTestChild">Five</div>
 		</div>
-		<p class="logo"><a id="git-link" href="https://github.com/yu2/parser" target="_blank"><i class="fa fa-github"></i></a></p>
-		<script src="script.js"></script>
-  </body>
+	</div>
+	<div class="consoleArea">
+	  <div class="consoleTitleBar">
+  	  <p>Message Log</p>
+  	  <input type="button" class="hideConsoleButton button" value="Hide">
+	  </div>
+		<textarea class="console"></textarea>
+	</div>
+	<p class="logo"><a id="git-link" href="https://github.com/yu2/parser" target="_blank"><i class="fa fa-github"></i></a></p>
+	<script src="script.js"></script>
+</body>
 </html>

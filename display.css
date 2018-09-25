@@ -147,7 +147,11 @@ a:link {
 	background: #eee;
 }
 
-.consoleArea p {
+.consoleTitleBar {
+  display: flex;
+  justify-content: space-between;
+}
+.consoleTitleBar p {
   padding: 0 0.1em 0.1em 0.1em;
 }
 
@@ -168,7 +172,7 @@ a:link {
 .gridTest {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-auto-columns: min-content;
+  grid-auto-rows: 200px;
 }
 
 .gridTestChild {
