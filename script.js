@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
-  console = document.querySelector(".console");
+  cons = document.querySelector(".console");
   boxParent = document.querySelector(".boxMother");
    
   // Tab navigation bar behaviour
@@ -41,10 +41,10 @@ document.addEventListener("DOMContentLoaded", function() {
   let hideConsoleButton = document.querySelector(".hideConsoleButton");
   hideConsoleButton.addEventListener("click", function(e) {
     if (hideConsoleButton.value == "Hide") {
-      console.style.display = "none";
+      cons.style.display = "none";
       hideConsoleButton.value = "Show";
     } else {
-      console.style.display = "block";
+      cons.style.display = "block";
       hideConsoleButton.value = "Hide";
     }
   });
@@ -184,6 +184,7 @@ function processInput(str) {
       found.push(roots[i]);
       numFound++;
     }
+    // 30 matches found before reaching end of roots
     if (numFound == 30) {
       lastMatch = found[0];
       populateBoxes(found);
@@ -198,6 +199,7 @@ function processInput(str) {
     else if (i == roots.length - 1) {
       lastMatch = found[0];
       populateBoxes(found);
+      console.log("I'm running regardless");
       break;
     }
   }
@@ -206,7 +208,7 @@ function processInput(str) {
     let aFound = [];
     for (let i = 0; i < affixes.length; i++) {
       if(affixes[i][2].startsWith(str)) {
-	aFound.push(affixes[i][2]);
+      	aFound.push(affixes[i][2]);
       }
     }
     console.log(aFound);
@@ -237,7 +239,7 @@ function populateBoxes(fd) {
 }
 
 function cLog(str) {
-  console.innerHTML = str + "\n" + console.innerHTML;
+  cons.innerHTML = str + "\n" + cons.innerHTML;
 }
 
 function toIPA(ar) {

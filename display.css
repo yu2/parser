@@ -28,7 +28,7 @@ body {
 }
 
 .button {
-	background: none;
+	background: white;
 	padding: 0.1em;
 	border: 0.1em outset lightgray;
 	cursor: pointer;
