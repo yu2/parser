@@ -143,16 +143,15 @@ a:link {
   left: 0;
   right: 0;
   height: fit-content;
-  padding: 0.5em;
+  padding: 0.5em 0.5em 0.5em 0.5em;
 	background: #eee;
 }
 
 .consoleTitleBar {
   display: flex;
   justify-content: space-between;
-}
-.consoleTitleBar p {
-  padding: 0 0.1em 0.1em 0.1em;
+  align-items: center;
+  padding: 0.1em 0.1em 0.1em 0.1em;
 }
 
 .console {
@@ -171,6 +170,7 @@ a:link {
 
 .gridTest {
   display: grid;
+  display: none;
   grid-template-columns: repeat(3, 1fr);
   grid-auto-rows: 200px;
 }

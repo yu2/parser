@@ -72,18 +72,18 @@ function handleFiles(files, mode) {
       outsideResolve = resolve;
       let reader = new FileReader();
       reader.onload = function(e) {
-	let doc = e.target.result;
-	pusher(doc);
+      	let doc = e.target.result;
+      	pusher(doc);
       };
       reader.readAsText(file);
     }).then((msg) => {
       if (i < numFiles - 1) {
-	i++;
-	doFile(files[i]);
+      	i++;
+      	doFile(files[i]);
       }
       else if (i == numFiles - 1) {
-	trackPerformance();
-	//downloadBlob(roots);
+      	trackPerformance();
+      	//downloadBlob(roots);
       }
     });
   }
