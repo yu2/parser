@@ -173,7 +173,7 @@ function printCharCodes (str) {
   }
 }
 
-var lastMatch = "";
+var bestMatch = "";
 function processInput(str) {
   str = doSubs(str);
   let found = [];
@@ -186,18 +186,18 @@ function processInput(str) {
     }
     // 30 matches found before reaching end of roots
     if (numFound == 30) {
-      lastMatch = found[0];
+      bestMatch = found[0];
       populateBoxes(found);
       break;
     }
     // Reached end of roots, no match found
     else if (i == roots.length - 1 && numFound === 0) {
-      let aff = str.substring(lastMatch.length);
+      let aff = str.substring(bestMatch.length);
       checkAffixes(aff);
     }
     // Reached end of roots, fewer than 30 found
     else if (i == roots.length - 1) {
-      lastMatch = found[0];
+      bestMatch = found[0];
       populateBoxes(found);
       console.log("I'm running regardless");
       break;
@@ -212,7 +212,7 @@ function processInput(str) {
       }
     }
     console.log(aFound);
-		return aFound[0];
+	return aFound[0];
   }
 }
 
