@@ -25,10 +25,14 @@ document.addEventListener("DOMContentLoaded", function() {
   let inputField = document.querySelector(".inputField");
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
-    let input = inputField.value;
-    if (input.length >= 3) {
-      processInput(input.toLowerCase());
-    }
+		if (inputProcessMode == "root") {
+			let input = inputField.value;
+			if (input.length >= 3) {
+				processRoot(input.toLowerCase());
+			}
+		} else if (inputProcessMode == "affix") {
+			processAffix();
+		}
   });
   
   // New morpheme behaviour
@@ -176,10 +180,10 @@ function printCharCodes (str) {
 // *****************
 // Processing inputs
 // *****************
+var inputProcessMode = "root";
 var bestMatch = "";
-var processInputMode = "root";
-function processInput(str) {
-	if (processInputMode == "root") {
+function processRoot(str) {
+	if (inputProcessMode == "root") {
 		str = doSubs(str);
 		let found = [];
 		let numFound = 0;
@@ -196,10 +200,10 @@ function processInput(str) {
 				break;
 			}
 			// Reached end of roots and no match found
-			// Move on to checkAffixes()
+			// Move on to processAffix()
 			else if (i == roots.length - 1 && numFound === 0) {
 				let aff = str.substring(bestMatch.length);
-				checkAffixes(aff);
+				processAffix(aff);
 			}
 			// Reached end of roots, fewer than 30 found
 			else if (i == roots.length - 1) {
@@ -210,18 +214,19 @@ function processInput(str) {
 			}
 		}
 	}
-  
-  function checkAffixes(str) {
-    let aFound = [];
-    for (let i = 0; i < affixes.length; i++) {
-      if(affixes[i][2].startsWith(str)) {
-      	aFound.push(affixes[i][2]);
-      }
-    }
-    console.log(aFound);
+}  
+
+function processAffix(str) {
+	let aFound = [];
+	for (let i = 0; i < affixes.length; i++) {
+		if(affixes[i][2].startsWith(str)) {
+			aFound.push(affixes[i][2]);
+		}
+	}
+	console.log(aFound);
 	return aFound[0];
-  }
 }
+
 
 function populateBoxes(fd) {
   // First, clear any existing boxes
