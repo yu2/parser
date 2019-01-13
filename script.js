@@ -173,36 +173,43 @@ function printCharCodes (str) {
   }
 }
 
+// *****************
+// Processing inputs
+// *****************
 var bestMatch = "";
+var processInputMode = "root";
 function processInput(str) {
-  str = doSubs(str);
-  let found = [];
-  let numFound = 0;
-  // Crawl through roots until 30 matches are found
-  for (let i = 0; i < roots.length; i++) {
-    if (roots[i].startsWith(str)) {
-      found.push(roots[i]);
-      numFound++;
-    }
-    // 30 matches found before reaching end of roots
-    if (numFound == 30) {
-      bestMatch = found[0];
-      populateBoxes(found);
-      break;
-    }
-    // Reached end of roots, no match found
-    else if (i == roots.length - 1 && numFound === 0) {
-      let aff = str.substring(bestMatch.length);
-      checkAffixes(aff);
-    }
-    // Reached end of roots, fewer than 30 found
-    else if (i == roots.length - 1) {
-      bestMatch = found[0];
-      populateBoxes(found);
-      console.log("I'm running regardless");
-      break;
-    }
-  }
+	if (processInputMode == "root") {
+		str = doSubs(str);
+		let found = [];
+		let numFound = 0;
+		// Crawl through roots until 30 matches are found
+		for (let i = 0; i < roots.length; i++) {
+			if (roots[i].startsWith(str)) {
+				found.push(roots[i]);
+				numFound++;
+			}
+			// 30 matches found before reaching end of roots
+			if (numFound == 30) {
+				bestMatch = found[0];
+				populateBoxes(found);
+				break;
+			}
+			// Reached end of roots and no match found
+			// Move on to checkAffixes()
+			else if (i == roots.length - 1 && numFound === 0) {
+				let aff = str.substring(bestMatch.length);
+				checkAffixes(aff);
+			}
+			// Reached end of roots, fewer than 30 found
+			else if (i == roots.length - 1) {
+				bestMatch = found[0];
+				populateBoxes(found);
+				console.log("I'm running regardless");
+				break;
+			}
+		}
+	}
   
   function checkAffixes(str) {
     let aFound = [];
