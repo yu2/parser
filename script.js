@@ -204,7 +204,7 @@ function processRoot(str) {
 			else if (i == roots.length - 1 && numFound === 0) {
 				let aff = str.substring(bestMatch.length);
 				inputProcessMode = "affix";
-				processAffix(aff);
+				processAffix(aff, bestMatch);
 			}
 			// Reached end of roots, fewer than 30 found
 			else if (i == roots.length - 1) {
