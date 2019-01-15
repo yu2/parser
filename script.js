@@ -38,8 +38,8 @@ document.addEventListener("DOMContentLoaded", function() {
   // New morpheme behaviour
   let addRootButton = document.querySelector(".addRootButton");
   let addAffixButton = document.querySelector(".addAffixButton");
-  addRootField = document.querySelector(".addRootField");
-  addAffixField = document.querySelector(".addAffixField");
+  let addRootField = document.querySelector(".addRootField");
+  let addAffixField = document.querySelector(".addAffixField");
   
   // Hide console behaviour
   let hideConsoleButton = document.querySelector(".hideConsoleButton");
@@ -203,6 +203,7 @@ function processRoot(str) {
 			// Move on to processAffix()
 			else if (i == roots.length - 1 && numFound === 0) {
 				let aff = str.substring(bestMatch.length);
+				inputProcessMode = "affix";
 				processAffix(aff);
 			}
 			// Reached end of roots, fewer than 30 found
@@ -214,9 +215,10 @@ function processRoot(str) {
 			}
 		}
 	}
-}  
+}
 
-function processAffix(str) {
+var root = "";
+function processAffix(str, baseRoot) {
 	let aFound = [];
 	for (let i = 0; i < affixes.length; i++) {
 		if(affixes[i][2].startsWith(str)) {
