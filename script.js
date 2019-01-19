@@ -23,15 +23,19 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Input parsing behaviour
   let inputField = document.querySelector(".inputField");
+
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
+		let input = inputField.value;
 		if (inputProcessMode == "root") {
-			let input = inputField.value;
 			if (input.length >= 3) {
 				processRoot(input.toLowerCase());
 			}
+		} else if (input.length < 4) {
+			inputProcessMode == "root";
 		} else if (inputProcessMode == "affix") {
-			processAffix();
+			let affixToProcess = input.replace(baseRoot, "");
+			processAffix(affixToProcess);
 		}
   });
   
@@ -204,6 +208,7 @@ function processRoot(str) {
 			else if (i == roots.length - 1 && numFound === 0) {
 				let aff = str.substring(bestMatch.length);
 				inputProcessMode = "affix";
+				baseRoot = bestMatch;
 				processAffix(aff, bestMatch);
 			}
 			// Reached end of roots, fewer than 30 found
@@ -217,16 +222,21 @@ function processRoot(str) {
 	}
 }
 
-var root = "";
-function processAffix(str, baseRoot) {
-	let aFound = [];
+var baseRoot = "";
+var affixesFound = [];
+function processAffix(str) {
 	for (let i = 0; i < affixes.length; i++) {
-		if(affixes[i][2].startsWith(str)) {
-			aFound.push(affixes[i][2]);
+		if (affixes[i][2].startsWith(str)) {
+			var foundAffix = affixes[i][2];
+			var remainingStr = str.substring(foundAffix.length);
+			affixesFound.push(foundAffix);
+			if (remainingStr.length !== 0) {
+				processAffix(remainingStr);
+			}
 		}
 	}
-	console.log(aFound);
-	return aFound[0];
+	console.log(affixesFound);
+	return affixesFound[0];
 }
 
 
