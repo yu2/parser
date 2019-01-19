@@ -31,10 +31,12 @@ document.addEventListener("DOMContentLoaded", function() {
 			if (input.length >= 3) {
 				processRoot(input.toLowerCase());
 			}
-		} else if (input.length < 4) {
-			inputProcessMode == "root";
+		} else if (input.length <= baseRoot.length) {
+			inputProcessMode = "root";
+			console.log("root mode");
 		} else if (inputProcessMode == "affix") {
 			let affixToProcess = input.replace(baseRoot, "");
+			console.log(`affixToProcess is ${affixToProcess}`);
 			processAffix(affixToProcess);
 		}
   });
@@ -189,6 +191,7 @@ var bestMatch = "";
 function processRoot(str) {
 	if (inputProcessMode == "root") {
 		str = doSubs(str);
+		console.log("processRoot() ran with mode root");
 		let found = [];
 		let numFound = 0;
 		// Crawl through roots until 30 matches are found
@@ -199,23 +202,23 @@ function processRoot(str) {
 			}
 			// 30 matches found before reaching end of roots
 			if (numFound == 30) {
-				bestMatch = found[0];
+				bestMatch = found.includes(str) ? str : "";
 				populateBoxes(found);
 				break;
 			}
 			// Reached end of roots and no match found
 			// Move on to processAffix()
-			else if (i == roots.length - 1 && numFound === 0) {
+			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
 				let aff = str.substring(bestMatch.length);
 				inputProcessMode = "affix";
+				console.log("affix mode");
 				baseRoot = bestMatch;
 				processAffix(aff, bestMatch);
 			}
 			// Reached end of roots, fewer than 30 found
 			else if (i == roots.length - 1) {
-				bestMatch = found[0];
+				bestMatch = found.includes(str) ? str : "";
 				populateBoxes(found);
-				console.log("I'm running regardless");
 				break;
 			}
 		}
@@ -223,15 +226,23 @@ function processRoot(str) {
 }
 
 var baseRoot = "";
-var affixesFound = [];
 function processAffix(str) {
-	for (let i = 0; i < affixes.length; i++) {
-		if (affixes[i][2].startsWith(str)) {
-			var foundAffix = affixes[i][2];
-			var remainingStr = str.substring(foundAffix.length);
-			affixesFound.push(foundAffix);
-			if (remainingStr.length !== 0) {
-				processAffix(remainingStr);
+	console.log("processAffix ran");
+	let affixesFound = [];
+	matchAffixes(str);
+	function matchAffixes(af) {
+		console.log("matchAffixes ran");
+		for (let j = 0; j < 1; j++) { //need to break down and search one by one, possibly from largest first?
+			for (let i = 0; i < affixes.length; i++) {
+				if (affixes[i][2].startsWith(af)) {
+					var foundAffix = affixes[i][2];
+					var remainingStr = af.substring(foundAffix.length);
+					console.log(`remainingStr is ${remainingStr}`);
+					affixesFound.push(foundAffix);
+					if (remainingStr.length !== 0) {
+						matchAffixes(remainingStr);
+					}
+				}
 			}
 		}
 	}
@@ -245,13 +256,6 @@ function populateBoxes(fd) {
   while (boxParent.lastChild) {
     boxParent.removeChild(boxParent.lastChild);
   }
-  
-  //if (fd.length === 0) {
-    // if letter(s) are left over after longest root is matched,
-    // start searching in affixes[i][2]
-    // must begin new search, starting from root, every time a new letter is inputted
-    // no affix found
-  //}
   
   // Only show max 30 matches, longest first
   for (let i = 0; i < fd.length; i++) {
