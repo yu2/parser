@@ -232,17 +232,19 @@ function processAffix(str) {
 	matchAffixes(str);
 	function matchAffixes(af) {
 		console.log("matchAffixes ran");
-		for (let j = 0; j < 1; j++) { //need to break down and search one by one, possibly from largest first?
-			for (let i = 0; i < affixes.length; i++) {
-				if (affixes[i][2].startsWith(af)) {
-					var foundAffix = affixes[i][2];
-					var remainingStr = af.substring(foundAffix.length);
-					console.log(`remainingStr is ${remainingStr}`);
-					affixesFound.push(foundAffix);
-					if (remainingStr.length !== 0) {
-						matchAffixes(remainingStr);
-					}
+		for (let i = 0; i < affixes.length; i++) {
+			if (af.startsWith(affixes[i][2])) {
+				var foundAffix = affixes[i][2];
+				var remainingStr = af.substring(foundAffix.length);
+				console.log(`remainingStr is ${remainingStr}`);
+				affixesFound.push(foundAffix);
+				if (remainingStr.length !== 0) {
+					matchAffixes(remainingStr);
 				}
+				break;
+			}
+			if (i == affixes.length - 1) {
+				affixesFound = ["no match found"];
 			}
 		}
 	}
