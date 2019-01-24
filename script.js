@@ -27,14 +27,14 @@ document.addEventListener("DOMContentLoaded", function() {
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
 		let input = inputField.value;
-		if (inputProcessModeOld == "root") {
+		if (inputProcessMode.inputMode == "root") {
 			if (input.length >= 3) {
 				processRoot(input.toLowerCase());
 			}
 		} else if (input.length <= baseRoot.length) {
-			inputProcessModeOld = "root";
+			modeChanger.inputMode = "root";
 			console.log("root mode");
-		} else if (inputProcessModeOld == "affix") {
+		} else if (inputProcessMode.inputMode == "affix") {
 			let affixToProcess = input.replace(baseRoot, "");
 			console.log(`affixToProcess is ${affixToProcess}`);
 			processAffix(affixToProcess);
@@ -58,26 +58,31 @@ document.addEventListener("DOMContentLoaded", function() {
       hideConsoleButton.value = "Hide";
     }
   });
+
+	parseArea = document.querySelector(".parseAreaR");
 });
 
 var roots = [];
 var affixes = [];
 var outsideResolve;
 
-var inputProcessMode = {mode: "root"};
-var inputModeProxy = new Proxy (inputProcessMode, {
+var inputProcessMode = {inputMode: "root"};
+var modeChanger = new Proxy (inputProcessMode, {
 	set: function (target, key, value) {
 		if (value == "root") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
+			parseArea.classList.add("parseAreaR");
+			parseArea.classList.remove("parseAreaA");
 		} 
 		else if (value == "affix") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
+			parseArea.classList.add("parseAreaA");
+			parseArea.classList.remove("parseAreaR");
 		}
 	}
 });
-inputModeProxy.mode = "affix";
 
 function handleFiles(files, mode) {
   trackPerformance();
@@ -201,10 +206,9 @@ function printCharCodes (str) {
 // *****************
 // Processing inputs
 // *****************
-var inputProcessModeOld = "root";
 var bestMatch = "";
 function processRoot(str) {
-	if (inputProcessModeOld == "root") {
+	if (inputProcessMode.inputMode == "root") {
 		str = doSubs(str);
 		console.log("processRoot() ran with mode root");
 		let found = [];
@@ -225,7 +229,7 @@ function processRoot(str) {
 			// Move on to processAffix()
 			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
 				let aff = str.substring(bestMatch.length);
-				inputProcessModeOld = "affix";
+				modeChanger.inputMode = "affix";
 				console.log("affix mode");
 				baseRoot = bestMatch;
 				processAffix(aff, bestMatch);
