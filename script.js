@@ -42,6 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
     cLog("input registered");
 		let input = inputField.value;
 		if (inputProcessMode.inputMode == "root") {
+			parseResultField.innerText = input;
 			if (input.length >= 3) {
 				processRoot(input.toLowerCase());
 			}
@@ -72,6 +73,8 @@ document.addEventListener("DOMContentLoaded", function() {
       hideConsoleButton.value = "Hide";
     }
   });
+
+	parseResultField = document.querySelector(".parseResultField");
 
 	parseAreaR = document.querySelector(".parseAreaR");
 	parseAreaA = document.querySelector(".parseAreaA");
@@ -261,10 +264,21 @@ function processRoot(str) {
 }
 
 var baseRoot = "";
+var baseAffix = "";
 function processAffix(str) {
 	console.log("processAffix ran");
 	let affixesFound = [];
 	matchAffixes(str);
+	let affixesPredicted= [];
+	let currentAffix = str.substring(baseAffix.length);
+	if (currentAffix.length !== 0) {
+		for (let j = 0; j < affixes.length; j++) {
+			if (affixes[j][2].startsWith(currentAffix)) {
+				affixesPredicted.push(affixes[j][2]);
+			}
+		}
+	}
+	populateGrid(affixesPredicted, true);
 	function matchAffixes(af) {
 		console.log("matchAffixes ran");
 		for (let i = 0; i < affixes.length; i++) {
@@ -285,20 +299,26 @@ function processAffix(str) {
 	}
 	console.log(affixesFound);
 	populateGrid(affixesFound);
+	baseAffix = affixesFound.join("");
 	return affixesFound[0];
 }
 
-
-function populateGrid(members) {
+function populateGrid(members, predict = false) {
 	if (inputProcessMode.inputMode == "root") {
 		clearNode(parseAreaR);
 		// Only show max 30 matches, longest first
 		for (let i = 0; i < members.length; i++) {
 			createChild("div", "box", members[i], parseAreaR);
 		}
-	} else {
+	} 
+	else if(inputProcessMode.inputMode == "affix" && predict == false) {
+		if (members.length >= 1) {
+			parseResultField.innerText = baseRoot + "-" + members.join("-");
+		}
+	}
+	else if (predict == true) {
 		clearNode(parseAreaA);
-		createChild("div", "box", baseRoot, parseAreaA);
+
 		for (let i = 0; i < members.length; i++) {
 			createChild("div", "box", members[i], parseAreaA);
 		}
