@@ -27,14 +27,14 @@ document.addEventListener("DOMContentLoaded", function() {
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
 		let input = inputField.value;
-		if (inputProcessMode == "root") {
+		if (inputProcessModeOld == "root") {
 			if (input.length >= 3) {
 				processRoot(input.toLowerCase());
 			}
 		} else if (input.length <= baseRoot.length) {
-			inputProcessMode = "root";
+			inputProcessModeOld = "root";
 			console.log("root mode");
-		} else if (inputProcessMode == "affix") {
+		} else if (inputProcessModeOld == "affix") {
 			let affixToProcess = input.replace(baseRoot, "");
 			console.log(`affixToProcess is ${affixToProcess}`);
 			processAffix(affixToProcess);
@@ -63,6 +63,21 @@ document.addEventListener("DOMContentLoaded", function() {
 var roots = [];
 var affixes = [];
 var outsideResolve;
+
+var inputProcessMode = {mode: "root"};
+var inputModeProxy = new Proxy (inputProcessMode, {
+	set: function (target, key, value) {
+		if (value == "root") {
+			target[key] = value;
+			console.log(`${key} set to ${value}`);
+		} 
+		else if (value == "affix") {
+			target[key] = value;
+			console.log(`${key} set to ${value}`);
+		}
+	}
+});
+inputModeProxy.mode = "affix";
 
 function handleFiles(files, mode) {
   trackPerformance();
@@ -186,10 +201,10 @@ function printCharCodes (str) {
 // *****************
 // Processing inputs
 // *****************
-var inputProcessMode = "root";
+var inputProcessModeOld = "root";
 var bestMatch = "";
 function processRoot(str) {
-	if (inputProcessMode == "root") {
+	if (inputProcessModeOld == "root") {
 		str = doSubs(str);
 		console.log("processRoot() ran with mode root");
 		let found = [];
@@ -203,14 +218,14 @@ function processRoot(str) {
 			// 30 matches found before reaching end of roots
 			if (numFound == 30) {
 				bestMatch = found.includes(str) ? str : "";
-				populateBoxes(found);
+				populateGrid(found);
 				break;
 			}
 			// Reached end of roots and no match found
 			// Move on to processAffix()
 			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
 				let aff = str.substring(bestMatch.length);
-				inputProcessMode = "affix";
+				inputProcessModeOld = "affix";
 				console.log("affix mode");
 				baseRoot = bestMatch;
 				processAffix(aff, bestMatch);
@@ -218,7 +233,7 @@ function processRoot(str) {
 			// Reached end of roots, fewer than 30 found
 			else if (i == roots.length - 1) {
 				bestMatch = found.includes(str) ? str : "";
-				populateBoxes(found);
+				populateGrid(found);
 				break;
 			}
 		}
@@ -253,7 +268,7 @@ function processAffix(str) {
 }
 
 
-function populateBoxes(fd) {
+function populateGrid(fd) {
   // First, clear any existing boxes
   while (boxParent.lastChild) {
     boxParent.removeChild(boxParent.lastChild);
