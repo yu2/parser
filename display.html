@@ -5,41 +5,27 @@
   <meta charset="UTF-8">
 	<link href="display.css" rel="stylesheet" type="text/css">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans" type="text/css" rel="stylesheet">
 	<link rel="shortcut icon" href="icon/favicon-32x32.png">
 </head>
 <body>
-  <div class="mainContainer">
-		<div id="uploadArea">
-			<input type="button" class="button" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
-			<input type="file" class="uploadHidden" id="rootsInput" multiple onchange="handleFiles(this.files, &#39;roots&#39;)">
-			<input type="button" class="button uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
-			<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
+	<div id="title">
+		<p>Parser</p>
+	</div>
+	<div class="tabbedContainer">
+		<div class="tabBar">
+			<input type="button" class="tabNav tabNav1" value="Parse">
+			<input type="button" class="tabNav tabNav2" value="New Morpheme">
+			<input type="button" class="tabNav tabNav3" value="Utilities">
 		</div>
-		<div class="opsArea">
-		  <p class="opTitle">Operations</p>
-  		<div class="utilsArea">
-  		  <input type="button" class="button" value="lowercase" onclick="lowerCaseIt()">
-  		  <input type="button" class="button" value="Trim" onclick="trimIt()">
-  		  <input type="button" class="button" value="Uniques" onclick="uniq()">
-  		  <input type="button" class="button" value="Sort" onclick="sortIt()">
-  		  <input type="button" class="button" value="toIPA" onclick="toIPA()">
-  		</div>
-		  <div class="downloadArea">
-  		  <a class="button downloadRoots" onclick="downloadList(this)">Download Roots</a>
-  		  <a class="button downloadAffixes" onclick="downloadList(this)">Download Affixes</a>
-  		</div>
-		</div>
-		<div class="tabbedContainer">
-			<div class="tabBar">
-				<input type="button" class="tabNav tabNav1" value="Parse">
-				<input type="button" class="tabNav tabNav2" value="New Morpheme">
-			</div>
+		<div class="mainContainer">
 			<div class="tabArea tabArea1">
 				<div id="inputArea">
 					<input class="inputField" type="text" size="25" value="">
 					<input type="button" class="button" id="submitInput" onclick="submitInput()" value="Parse">
 				</div>
 				<div class="boxMother parseAreaR"></div>
+				<div class="boxMother parseAreaA"></div>
 			</div>
 			<div class="tabArea tabArea2">
 				<div id="addArea">
@@ -50,6 +36,28 @@
 					<div class="addMorphemeContainer addAffixContainer">
 						<textarea class="addMorphemeField addAffixField" type="text" size="25" value=""></textarea>
 						<input type="button" class="addAffixButton button" value="Add Affix" onclick="newMorpheme('affix')">
+					</div>
+				</div>
+			</div>
+			<div class="tabArea tabArea3">
+				<div id="uploadArea">
+					<input type="button" class="button" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
+					<input type="file" class="uploadHidden" id="rootsInput" multiple onchange="handleFiles(this.files, &#39;roots&#39;)">
+					<input type="button" class="button uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
+					<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
+				</div>
+				<div class="opsArea">
+					<p class="opTitle">Operations</p>
+					<div class="utilsArea">
+						<input type="button" class="button" value="lowercase" onclick="lowerCaseIt()">
+						<input type="button" class="button" value="Trim" onclick="trimIt()">
+						<input type="button" class="button" value="Uniques" onclick="uniq()">
+						<input type="button" class="button" value="Sort" onclick="sortIt()">
+						<input type="button" class="button" value="toIPA" onclick="toIPA()">
+					</div>
+					<div class="downloadArea">
+						<a class="button downloadRoots" onclick="downloadList(this)">Download Roots</a>
+						<a class="button downloadAffixes" onclick="downloadList(this)">Download Affixes</a>
 					</div>
 				</div>
 			</div>
@@ -65,7 +73,7 @@
 	<div class="consoleArea">
 	  <div class="consoleTitleBar">
   	  <p>Message Log</p>
-  	  <input type="button" class="hideConsoleButton button" value="Hide">
+  	  <input type="button" class="hideConsoleButton button" value="Show">
 	  </div>
 		<textarea class="console"></textarea>
 	</div>

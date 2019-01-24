@@ -6,19 +6,33 @@ document.addEventListener("DOMContentLoaded", function() {
   // Tab navigation bar behaviour
   let tabNav1 = document.querySelector(".tabNav1");
   let tabNav2 = document.querySelector(".tabNav2");
+  let tabNav3 = document.querySelector(".tabNav3");
   let tabArea1 = document.querySelector(".tabArea1");
   let tabArea2 = document.querySelector(".tabArea2");
+  let tabArea3 = document.querySelector(".tabArea3");
   tabNav1.addEventListener("click", function(e) {
     tabArea1.style.display = "flex";
     tabArea2.style.display = "none";
+    tabArea3.style.display = "none";
     tabNav1.style.background= "gainsboro";
     tabNav2.style.background= "white";
+    tabNav3.style.background= "white";
   });
   tabNav2.addEventListener("click", function(e) {
     tabArea1.style.display = "none";
     tabArea2.style.display = "flex";
+    tabArea3.style.display = "none";
     tabNav1.style.background= "white";
     tabNav2.style.background= "gainsboro";
+    tabNav3.style.background= "white";
+  });
+  tabNav3.addEventListener("click", function(e) {
+    tabArea1.style.display = "none";
+		tabArea2.style.display = "none";
+    tabArea3.style.display = "flex";
+    tabNav1.style.background= "white";
+    tabNav2.style.background= "white";
+    tabNav3.style.background= "gainsboro";
   });
 
   // Input parsing behaviour
@@ -59,27 +73,29 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 
-	parseArea = document.querySelector(".parseAreaR");
+	parseAreaR = document.querySelector(".parseAreaR");
+	parseAreaA = document.querySelector(".parseAreaA");
 });
 
 var roots = [];
 var affixes = [];
 var outsideResolve;
 
+// MODE SWITCHING PROXY
 var inputProcessMode = {inputMode: "root"};
 var modeChanger = new Proxy (inputProcessMode, {
 	set: function (target, key, value) {
 		if (value == "root") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
-			parseArea.classList.add("parseAreaR");
-			parseArea.classList.remove("parseAreaA");
+			parseAreaR.style.display = "grid";
+			parseAreaA.style.display = "none";
 		} 
 		else if (value == "affix") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
-			parseArea.classList.add("parseAreaA");
-			parseArea.classList.remove("parseAreaR");
+			parseAreaR.style.display = "none";
+			parseAreaA.style.display = "grid";
 		}
 	}
 });
@@ -263,28 +279,43 @@ function processAffix(str) {
 				break;
 			}
 			if (i == affixes.length - 1) {
-				affixesFound = ["no match found"];
+				//affixesFound = ["no match found"];
 			}
 		}
 	}
 	console.log(affixesFound);
+	populateGrid(affixesFound);
 	return affixesFound[0];
 }
 
 
-function populateGrid(fd) {
-  // First, clear any existing boxes
-  while (boxParent.lastChild) {
-    boxParent.removeChild(boxParent.lastChild);
-  }
-  
-  // Only show max 30 matches, longest first
-  for (let i = 0; i < fd.length; i++) {
-    let child = document.createElement("div");
-    child.className = "box";
-    child.innerText = fd[i];
-    boxParent.appendChild(child);
-  }
+function populateGrid(members) {
+	if (inputProcessMode.inputMode == "root") {
+		clearNode(parseAreaR);
+		// Only show max 30 matches, longest first
+		for (let i = 0; i < members.length; i++) {
+			createChild("div", "box", members[i], parseAreaR);
+		}
+	} else {
+		clearNode(parseAreaA);
+		createChild("div", "box", baseRoot, parseAreaA);
+		for (let i = 0; i < members.length; i++) {
+			createChild("div", "box", members[i], parseAreaA);
+		}
+	}
+}
+
+function createChild(type, cl, text, mother) {
+	let child = document.createElement(type);
+	child.className = cl;
+	child.innerText = text;
+	mother.appendChild(child);
+}
+
+function clearNode(node) {
+	while (node.lastChild) {
+		node.removeChild(node.lastChild);
+	}
 }
 
 function cLog(str) {

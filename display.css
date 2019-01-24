@@ -2,7 +2,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "consolas";
+	font-family: "Consolas";
 	font-size: 1em;
 }
 
@@ -10,16 +10,117 @@ body {
 	background-color: #ffffff;
 	padding: 0.5em;
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
+	align-items: center;
+}
+
+#title {
+	font-size: 2em;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.tabbedContainer {
+	display: flex;
+	flex-direction: column;
+	align-self: start;
+	width: 100%;
+}
+
+.tabBar {
+	align-self: start;
+	display: flex;
+}
+
+.tabNav {
+	background: white;
+	border: 1px solid darkgray;
+	border-bottom: none;
+	padding: 0.25em;
+	margin: 0;
+}
+
+.tabNav1 {
+	z-index: 2;
+	background: gainsboro;
+}
+
+.tabNav2 {
+	z-index: 1;
+	border-left: none;
+}
+
+.tabNav3 {
+	z-index: 1;
+	border-left: none;
 }
 
 .mainContainer {
+	border: 1px solid darkgray;
+	padding: 0.25em;
+}
+
+.tabArea {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	width: fit-content;
-	border: 1px solid gainsboro;
-	padding: 1em;
+	padding: 2em 0.25em;
+}
+
+#inputArea {
+	margin: 0 0 0.5em 0;
+}
+
+.inputField {
+	background: white;
+}
+
+#submitInput {
+	background: none;
+	cursor: pointer;
+}
+
+/*PARSING DISPLAY*/
+.parseAreaR {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(min-content, max-content));
+	grid-auto-flow: row;
+	grid-auto-columns: max-content;
+	column-gap: 2em;
+	padding-bottom: 1em;
+}
+
+.parseAreaA {
+	background: orange;
+	display: none;
+	/*
+	grid-template-columns: repeat(3, minmax(min-content, max-content));
+	*/
+	grid-auto-flow: column;
+	grid-auto-columns: min-content;
+	column-gap: 1em;
+	padding-bottom: 1em;
+}
+
+.tabArea2 {
+	display: none;
+}
+
+.tabArea3 {
+	display: none;
+}
+
+.addMorphemeContainer {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
+.addAffixContainer {
+	margin-top: 0.25em;
 }
 
 #uploadArea {
@@ -61,92 +162,6 @@ body {
 	margin: 0.5em 0 0.75em 0;
 }
 
-a:link {
-	text-decoration: none;
-}
-
-.tabbedContainer {
-	display: flex;
-	flex-direction: column;
-	align-self: start;
-	width: 100%;
-}
-
-.tabBar {
-	align-self: start;
-	display: flex;
-	padding-bottom: 0.25em;
-}
-
-.tabNav {
-	background: white;
-	border: 1px solid black;
-	padding: 0.25em;
-	margin: 0;
-}
-
-.tabNav1 {
-	z-index: 2;
-	background: gainsboro;
-}
-
-.tabNav2 {
-	z-index: 1;
-	border-left: none;
-}
-
-.tabArea {
-	display: flex;
-	flex-direction: column;
-}
-
-#inputArea {
-	margin: 0 0 0.5em 0;
-}
-
-.inputField {
-	background: white;
-}
-
-#submitInput {
-	background: none;
-	cursor: pointer;
-}
-
-/*PARSING DISPLAY*/
-.parseAreaR {
-	display: grid;
-	grid-template-columns: repeat(3, minmax(min-content, max-content));
-	grid-auto-flow: row;
-	grid-auto-columns: max-content;
-	column-gap: 2em;
-	padding-bottom: 1em;
-}
-
-.parseAreaA {
-	display: grid;
-	background: orange;
-	grid-template-columns: repeat(3, minmax(min-content, max-content));
-	grid-auto-flow: row;
-	grid-auto-columns: max-content;
-	column-gap: 2em;
-	padding-bottom: 1em;
-}
-
-.tabArea2 {
-	display: none;
-}
-
-.addMorphemeContainer {
-	display: flex;
-	flex-direction: column;
-	width: 100%;
-}
-
-.addAffixContainer {
-	margin-top: 0.25em;
-}
-
 .consoleArea {
 	position: fixed;
 	bottom: 0;
@@ -166,6 +181,7 @@ a:link {
 }
 
 .console {
+	display: none;
   min-height: 10em;
   width: 100%;
   border: 1px solid gainsboro;
