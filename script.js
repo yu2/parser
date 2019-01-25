@@ -229,13 +229,17 @@ var bestMatch = "";
 function processRoot(str) {
 	if (inputProcessMode.inputMode == "root") {
 		str = doSubs(str);
-		console.log("processRoot() ran with mode root");
+		console.log(`processRoot() ran with mode root, root: ${str}`);
 		let found = [];
 		let numFound = 0;
 		// Crawl through roots until 30 matches are found
 		for (let i = 0; i < roots.length; i++) {
 			if (roots[i].startsWith(str)) {
 				found.push(roots[i]);
+				if (found == str) {
+					baseRoot = found;
+					modeChanger.inputMode = "affix";
+				}
 				numFound++;
 			}
 			// 30 matches found before reaching end of roots
@@ -245,7 +249,7 @@ function processRoot(str) {
 				break;
 			}
 			// Reached end of roots and no match found
-			// Move on to processAffix()
+			// Entering Affix Mode
 			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
 				let aff = str.substring(bestMatch.length);
 				modeChanger.inputMode = "affix";
