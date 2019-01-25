@@ -64,6 +64,14 @@ a:link {
 	border-left: none;
 }
 
+.tabSelected {
+	background: gainsboro;
+}
+
+.tabUnselected {
+	background: white;
+}
+
 .mainContainer {
 	border: 1px solid darkgray;
 	padding: 0.25em;
