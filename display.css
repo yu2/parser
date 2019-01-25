@@ -108,7 +108,7 @@ a:link {
 	grid-auto-flow: row;
 	grid-auto-columns: max-content;
 	column-gap: 2em;
-	padding-bottom: 1em;
+	padding-bottom: 0.5em;
 }
 
 .parseAreaA {
@@ -125,7 +125,7 @@ a:link {
 	grid-auto-flow: row;
 	grid-auto-columns: max-content;
 	column-gap: 2em;
-	padding-bottom: 1em;
+	padding-bottom: 0.5em;
 }
 
 .tabArea2 {
