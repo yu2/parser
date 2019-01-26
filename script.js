@@ -222,50 +222,76 @@ function printCharCodes (str) {
   }
 }
 
-// *****************
+//******************
 // Processing inputs
-// *****************
-var bestMatch = "";
+//******************
+var exactMatchFound = "";
+var found = [];
+
 function processRoot(str) {
-	if (inputProcessMode.inputMode == "root") {
-		str = doSubs(str);
-		console.log(`processRoot() ran with mode root, root: ${str}`);
-		let found = [];
-		let numFound = 0;
-		// Crawl through roots until 30 matches are found
-		for (let i = 0; i < roots.length; i++) {
-			if (roots[i].startsWith(str)) {
-				found.push(roots[i]);
-				if (found == str) {
-					baseRoot = found;
-					modeChanger.inputMode = "affix";
-				}
-				numFound++;
-			}
-			// 30 matches found before reaching end of roots
-			if (numFound == 30) {
-				bestMatch = found.includes(str) ? str : "";
-				populateGrid(found);
-				break;
-			}
-			// Reached end of roots and no match found
-			// Entering Affix Mode
-			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
-				let aff = str.substring(bestMatch.length);
-				modeChanger.inputMode = "affix";
-				console.log("affix mode");
-				baseRoot = bestMatch;
-				processAffix(aff, bestMatch);
-			}
-			// Reached end of roots, fewer than 30 found
-			else if (i == roots.length - 1) {
-				bestMatch = found.includes(str) ? str : "";
-				populateGrid(found);
-				break;
-			}
+	str = doSubs(str);
+	console.log(`processRoot() ran with root: ${str}`);
+	found = [];
+	
+	checkExactMatch(str); 
+	// Crawl through roots until 30 matches are found
+	for (let i = 0; i < roots.length; i++) {
+		if (found.length < 30 && roots[i].startsWith(str)) {
+			// check for exact match, if exists, start providing affixes
+			found.push(roots[i]);
+		}
+		// Reached end of roots and no match found
+		if (i == roots.length - 1 && found.length === 0) {
+			exactMatchFound ? searchAffixes(str) : found[0] = "root not found";
 		}
 	}
+	populateGrid(found, "roots");		
 }
+
+function checkExactMatch(rt) {
+	exactMatchFound = roots.includes(rt) ? rt : "";
+	console.log(roots.includes(rt) ? `exact match found: ${rt}` : `no exact match: ${rt}`);
+}
+
+function searchAffixes(str) {
+	let affix = str.substring(exactAffixFound.length);
+	let affixesFound = [];
+
+	for (let i = 0; i < affixes.length; i++) {
+		if (affixes[i].startsWith(str)) {
+			affixesFound.push(affixes[i]);
+		}
+	}
+	return affixesFound;
+}
+/*
+			// 30 matches found before reaching end of roots
+			if (numFound == 30) { //promise, fulfilled with finished searching, save what is found
+				exactMatch = found.includes(str) ? str : "";
+				populateGrid(found, "roots");
+				break;
+			}
+
+			if (roots[i] == str && perfMatchFound == false) {
+				baseRoot = roots[i];
+				perfMatchFound = true;
+				modeChanger.inputMode = "affix";
+			}
+
+			let aff = str.substring(exactMatch.length);
+			modeChanger.inputMode = "affix";
+			console.log("affix mode");
+			baseRoot = exactMatch;
+			processAffix(aff, exactMatch);
+
+			else if (i == roots.length - 1) {
+				exactMatch = found.includes(str) ? str : "";
+				populateGrid(found, "roots");
+				break;
+			}
+*/
+
+
 
 var baseRoot = "";
 var baseAffix = "";
@@ -282,7 +308,8 @@ function processAffix(str) {
 			}
 		}
 	}
-	populateGrid(affixesPredicted, true);
+	populateGrid(affixesPredicted, "affixes", true);
+
 	function matchAffixes(af) {
 		console.log("matchAffixes ran");
 		for (let i = 0; i < affixes.length; i++) {
@@ -302,20 +329,24 @@ function processAffix(str) {
 		}
 	}
 	console.log(affixesFound);
-	populateGrid(affixesFound);
+	populateGrid(affixesFound, "affixes");
 	baseAffix = affixesFound.join("");
 	return affixesFound[0];
 }
 
-function populateGrid(members, predict = false) {
-	if (inputProcessMode.inputMode == "root") {
+function updateDisplay(a, b, c) {
+
+}
+
+function populateGrid(members, type, predict = false) {
+	if (type == "roots") {
 		clearNode(parseAreaR);
 		// Only show max 30 matches, longest first
 		for (let i = 0; i < members.length; i++) {
 			createChild("div", "box", members[i], parseAreaR);
 		}
 	} 
-	else if(inputProcessMode.inputMode == "affix" && predict == false) {
+	else if(type == "affixes" && predict == false) { 
 		if (members.length >= 1) {
 			parseResultField.innerText = baseRoot + "-" + members.join("-");
 		}
