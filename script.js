@@ -233,7 +233,12 @@ function processRoot(str) {
 	console.log(`processRoot() ran with root: ${str}`);
 	found = [];
 	
-	checkExactMatch(str); 
+	exactMatchFound ? "" : checkExactMatch(str);
+	/*
+	if (!exactMatchFound) {
+		checkExactMatch(str);
+	}  
+	*/
 	// Crawl through roots until 30 matches are found
 	for (let i = 0; i < roots.length; i++) {
 		if (found.length < 30 && roots[i].startsWith(str)) {
@@ -242,7 +247,7 @@ function processRoot(str) {
 		}
 		// Reached end of roots and no match found
 		if (i == roots.length - 1 && found.length === 0) {
-			exactMatchFound ? searchAffixes(str) : found[0] = "root not found";
+			found = exactMatchFound ? searchAffixes(str) : "root not found";
 		}
 	}
 	populateGrid(found, "roots");		
@@ -250,16 +255,16 @@ function processRoot(str) {
 
 function checkExactMatch(rt) {
 	exactMatchFound = roots.includes(rt) ? rt : "";
-	console.log(roots.includes(rt) ? `exact match found: ${rt}` : `no exact match: ${rt}`);
+	console.log(roots.includes(rt) ? `exact match found: ${exactMatchFound}` : `no exact match: ${rt}`);
 }
 
 function searchAffixes(str) {
-	let affix = str.substring(exactAffixFound.length);
+	let affix = str.substring(exactMatchFound.length);
 	let affixesFound = [];
 
 	for (let i = 0; i < affixes.length; i++) {
-		if (affixes[i].startsWith(str)) {
-			affixesFound.push(affixes[i]);
+		if (affixes[i][2].startsWith(affix)) {
+			affixesFound.push(affixes[i][2]);
 		}
 	}
 	return affixesFound;
