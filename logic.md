@@ -1,0 +1,12 @@
+as each input event is triggered
+- go through roots
+	- display top 30 matches, in order of length
+	- if an exact match is found
+		- the user will start inputting an affix OR
+		- the user will continue inputting a longer root
+			- append the list of possible affixes to the list of possible affixes
+	- if no roots are found
+		- the root does not exist in the system
+		- the user has begun inputting an affix
+			- isolate the affix from the last root entered and search in the affixes
+			- output the possible matches
