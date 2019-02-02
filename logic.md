@@ -4,7 +4,7 @@ as each input event is triggered
 	- if an exact match is found
 		- the user will start inputting an affix OR
 		- the user will continue inputting a longer root
-			- append the list of possible affixes to the list of possible affixes
+			- append the list of possible affixes to the list of possible roots
 	- if no roots are found
 		- the root does not exist in the system
 		- the user has begun inputting an affix
