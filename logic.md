@@ -10,3 +10,34 @@ as each input event is triggered
 		- the user has begun inputting an affix
 			- isolate the affix from the last root entered and search in the affixes
 			- output the possible matches
+
+### Promise-Aware Generator
+```javascript
+function foo(x, y) { //ajax caller
+	ajax {
+		"http://some.url.1/?x=" + x + "&y=" + y,
+		function(err, data) {
+			if (err) {
+				it.throw(err);
+			}
+			if (data) {
+				it.next(data);
+			}
+		}
+	}
+}
+
+function *main() {
+	try {
+		var text = yield foo(11, 31);
+		console.log(text);
+	}
+	catch (err) {
+		console.log(err);
+	}
+}
+
+var it = main(); //initialize iterator
+
+it.next(); //run iterator
+```
