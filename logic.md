@@ -29,7 +29,7 @@ function foo(x, y) { //ajax caller
 ```
 
 Simple generator
-```
+```javascript
 function *main() {
 	try {
 		var text = yield foo(11, 31);
@@ -46,7 +46,7 @@ it.next(); //run iterator
 ```
 
 Generator as a producer of values
-```
+```javascript
 function *valueGen() {
 	var nextVal;
 	while (true) {
@@ -60,7 +60,9 @@ function *valueGen() {
 	}
 }
 
-for (var v of valueGen()) { //iterate over generator
+// for..of loop iterates over an iterable
+// gen() returns an iterator, 
+for (var v of valueGen()) { 
 	console.log(v);
 	if (v >= 300) { //truncate at 300
 		break;
