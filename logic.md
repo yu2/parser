@@ -26,7 +26,10 @@ function foo(x, y) { //ajax caller
 		}
 	}
 }
+```
 
+Simple generator
+```
 function *main() {
 	try {
 		var text = yield foo(11, 31);
@@ -40,4 +43,27 @@ function *main() {
 var it = main(); //initialize iterator
 
 it.next(); //run iterator
+```
+
+Generator as a producer of values
+```
+function *valueGen() {
+	var nextVal;
+	while (true) {
+		if (nextVal === undefined) {
+			nextVal = 1;
+		}
+		else {
+			nextVal = nextVal * 3 + 6;
+		}
+		yield nextVal;
+	}
+}
+
+for (var v of valueGen()) { //iterate over generator
+	console.log(v);
+	if (v >= 300) { //truncate at 300
+		break;
+	}
+}
 ```
