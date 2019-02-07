@@ -212,7 +212,7 @@ function processInput(str) {
       }
     }
     console.log(aFound);
-		return aFound[0];
+	return aFound[0];
   }
 }
 
