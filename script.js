@@ -222,125 +222,50 @@ function printCharCodes (str) {
   }
 }
 
-<<<<<<< HEAD
-var lastMatch = "";
-function processInput(str) {
-  str = doSubs(str);
-  let found = [];
-  let numFound = 0;
-  // Crawl through roots until 30 matches are found
-  for (let i = 0; i < roots.length; i++) {
-    if (roots[i].startsWith(str)) {
-      found.push(roots[i]);
-      numFound++;
-    }
-    // 30 matches found before reaching end of roots
-    if (numFound == 30) {
-      lastMatch = found[0];
-      populateBoxes(found);
-      break;
-    }
-    // Reached end of roots, no match found
-    else if (i == roots.length - 1 && numFound === 0) {
-      let aff = str.substring(lastMatch.length);
-      checkAffixes(aff);
-    }
-    // Reached end of roots, fewer than 30 found
-    else if (i == roots.length - 1) {
-      lastMatch = found[0];
-      populateBoxes(found);
-      console.log("I'm running regardless");
-      break;
-    }
-  }
-  
-  function checkAffixes(str) {
-    let aFound = [];
-    for (let i = 0; i < affixes.length; i++) {
-      if(affixes[i][2].startsWith(str)) {
-      	aFound.push(affixes[i][2]);
-      }
-    }
-    console.log(aFound);
-	return aFound[0];
-  }
-=======
-//******************
+// *****************
 // Processing inputs
-//******************
-var exactMatchFound = "";
-var found = [];
-
+// *****************
+var bestMatch = "";
 function processRoot(str) {
-	str = doSubs(str);
-	console.log(`processRoot() ran with root: ${str}`);
-	found = [];
-	
-	exactMatchFound ? "" : checkExactMatch(str);
-	/*
-	if (!exactMatchFound) {
-		checkExactMatch(str);
-	}  
-	*/
-	// Crawl through roots until 30 matches are found
-	for (let i = 0; i < roots.length; i++) {
-		if (found.length < 30 && roots[i].startsWith(str)) {
-			// check for exact match, if exists, start providing affixes
-			found.push(roots[i]);
-		}
-		// Reached end of roots and no match found
-		if (i == roots.length - 1 && found.length === 0) {
-			found = exactMatchFound ? searchAffixes(str) : "root not found";
-		}
-	}
-	populateGrid(found, "roots");		
->>>>>>> d6b5e01ec7690ed7fbb0d690e8b22acfa1dcfb4b
-}
-
-function checkExactMatch(rt) {
-	exactMatchFound = roots.includes(rt) ? rt : "";
-	console.log(roots.includes(rt) ? `exact match found: ${exactMatchFound}` : `no exact match: ${rt}`);
-}
-
-function searchAffixes(str) {
-	let affix = str.substring(exactMatchFound.length);
-	let affixesFound = [];
-
-	for (let i = 0; i < affixes.length; i++) {
-		if (affixes[i][2].startsWith(affix)) {
-			affixesFound.push(affixes[i][2]);
-		}
-	}
-	return affixesFound;
-}
-/*
+	if (inputProcessMode.inputMode == "root") {
+		str = doSubs(str);
+		console.log(`processRoot() ran with mode root, root: ${str}`);
+		let found = [];
+		let numFound = 0;
+		// Crawl through roots until 30 matches are found
+		for (let i = 0; i < roots.length; i++) {
+			if (roots[i].startsWith(str)) {
+				found.push(roots[i]);
+				if (found == str) {
+					baseRoot = found;
+					modeChanger.inputMode = "affix";
+				}
+				numFound++;
+			}
 			// 30 matches found before reaching end of roots
-			if (numFound == 30) { //promise, fulfilled with finished searching, save what is found
-				exactMatch = found.includes(str) ? str : "";
-				populateGrid(found, "roots");
+			if (numFound == 30) {
+				bestMatch = found.includes(str) ? str : "";
+				populateGrid(found);
 				break;
 			}
-
-			if (roots[i] == str && perfMatchFound == false) {
-				baseRoot = roots[i];
-				perfMatchFound = true;
+			// Reached end of roots and no match found
+			// Entering Affix Mode
+			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
+				let aff = str.substring(bestMatch.length);
 				modeChanger.inputMode = "affix";
+				console.log("affix mode");
+				baseRoot = bestMatch;
+				processAffix(aff, bestMatch);
 			}
-
-			let aff = str.substring(exactMatch.length);
-			modeChanger.inputMode = "affix";
-			console.log("affix mode");
-			baseRoot = exactMatch;
-			processAffix(aff, exactMatch);
-
+			// Reached end of roots, fewer than 30 found
 			else if (i == roots.length - 1) {
-				exactMatch = found.includes(str) ? str : "";
-				populateGrid(found, "roots");
+				bestMatch = found.includes(str) ? str : "";
+				populateGrid(found);
 				break;
 			}
-*/
-
-
+		}
+	}
+}
 
 var baseRoot = "";
 var baseAffix = "";
@@ -357,8 +282,7 @@ function processAffix(str) {
 			}
 		}
 	}
-	populateGrid(affixesPredicted, "affixes", true);
-
+	populateGrid(affixesPredicted, true);
 	function matchAffixes(af) {
 		console.log("matchAffixes ran");
 		for (let i = 0; i < affixes.length; i++) {
@@ -378,24 +302,20 @@ function processAffix(str) {
 		}
 	}
 	console.log(affixesFound);
-	populateGrid(affixesFound, "affixes");
+	populateGrid(affixesFound);
 	baseAffix = affixesFound.join("");
 	return affixesFound[0];
 }
 
-function updateDisplay(a, b, c) {
-
-}
-
-function populateGrid(members, type, predict = false) {
-	if (type == "roots") {
+function populateGrid(members, predict = false) {
+	if (inputProcessMode.inputMode == "root") {
 		clearNode(parseAreaR);
 		// Only show max 30 matches, longest first
 		for (let i = 0; i < members.length; i++) {
 			createChild("div", "box", members[i], parseAreaR);
 		}
 	} 
-	else if(type == "affixes" && predict == false) { 
+	else if(inputProcessMode.inputMode == "affix" && predict == false) {
 		if (members.length >= 1) {
 			parseResultField.innerText = baseRoot + "-" + members.join("-");
 		}
