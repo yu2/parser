@@ -6,36 +6,61 @@ document.addEventListener("DOMContentLoaded", function() {
   // Tab navigation bar behaviour
   let tabNav1 = document.querySelector(".tabNav1");
   let tabNav2 = document.querySelector(".tabNav2");
+  let tabNav3 = document.querySelector(".tabNav3");
   let tabArea1 = document.querySelector(".tabArea1");
   let tabArea2 = document.querySelector(".tabArea2");
+  let tabArea3 = document.querySelector(".tabArea3");
   tabNav1.addEventListener("click", function(e) {
     tabArea1.style.display = "flex";
     tabArea2.style.display = "none";
+    tabArea3.style.display = "none";
     tabNav1.style.background= "gainsboro";
     tabNav2.style.background= "white";
+    tabNav3.style.background= "white";
   });
   tabNav2.addEventListener("click", function(e) {
     tabArea1.style.display = "none";
     tabArea2.style.display = "flex";
+    tabArea3.style.display = "none";
     tabNav1.style.background= "white";
     tabNav2.style.background= "gainsboro";
+    tabNav3.style.background= "white";
+  });
+  tabNav3.addEventListener("click", function(e) {
+    tabArea1.style.display = "none";
+		tabArea2.style.display = "none";
+    tabArea3.style.display = "flex";
+    tabNav1.style.background= "white";
+    tabNav2.style.background= "white";
+    tabNav3.style.background= "gainsboro";
   });
 
   // Input parsing behaviour
   let inputField = document.querySelector(".inputField");
+
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
-    let input = inputField.value;
-    if (input.length >= 3) {
-      processInput(input.toLowerCase());
-    }
+		let input = inputField.value;
+		if (inputProcessMode.inputMode == "root") {
+			parseResultField.innerText = input;
+			if (input.length >= 3) {
+				processRoot(input.toLowerCase());
+			}
+		} else if (input.length <= baseRoot.length) {
+			modeChanger.inputMode = "root";
+			console.log("root mode");
+		} else if (inputProcessMode.inputMode == "affix") {
+			let affixToProcess = input.replace(baseRoot, "");
+			console.log(`affixToProcess is ${affixToProcess}`);
+			processAffix(affixToProcess);
+		}
   });
   
   // New morpheme behaviour
   let addRootButton = document.querySelector(".addRootButton");
   let addAffixButton = document.querySelector(".addAffixButton");
-  addRootField = document.querySelector(".addRootField");
-  addAffixField = document.querySelector(".addAffixField");
+  let addRootField = document.querySelector(".addRootField");
+  let addAffixField = document.querySelector(".addAffixField");
   
   // Hide console behaviour
   let hideConsoleButton = document.querySelector(".hideConsoleButton");
@@ -48,11 +73,35 @@ document.addEventListener("DOMContentLoaded", function() {
       hideConsoleButton.value = "Hide";
     }
   });
+
+	parseResultField = document.querySelector(".parseResultField");
+
+	parseAreaR = document.querySelector(".parseAreaR");
+	parseAreaA = document.querySelector(".parseAreaA");
 });
 
 var roots = [];
 var affixes = [];
 var outsideResolve;
+
+// MODE SWITCHING PROXY
+var inputProcessMode = {inputMode: "root"};
+var modeChanger = new Proxy (inputProcessMode, {
+	set: function (target, key, value) {
+		if (value == "root") {
+			target[key] = value;
+			console.log(`${key} set to ${value}`);
+			parseAreaR.style.display = "grid";
+			parseAreaA.style.display = "none";
+		} 
+		else if (value == "affix") {
+			target[key] = value;
+			console.log(`${key} set to ${value}`);
+			parseAreaR.style.display = "none";
+			parseAreaA.style.display = "grid";
+		}
+	}
+});
 
 function handleFiles(files, mode) {
   trackPerformance();
@@ -173,6 +222,7 @@ function printCharCodes (str) {
   }
 }
 
+<<<<<<< HEAD
 var lastMatch = "";
 function processInput(str) {
   str = doSubs(str);
@@ -214,28 +264,162 @@ function processInput(str) {
     console.log(aFound);
 	return aFound[0];
   }
+=======
+//******************
+// Processing inputs
+//******************
+var exactMatchFound = "";
+var found = [];
+
+function processRoot(str) {
+	str = doSubs(str);
+	console.log(`processRoot() ran with root: ${str}`);
+	found = [];
+	
+	exactMatchFound ? "" : checkExactMatch(str);
+	/*
+	if (!exactMatchFound) {
+		checkExactMatch(str);
+	}  
+	*/
+	// Crawl through roots until 30 matches are found
+	for (let i = 0; i < roots.length; i++) {
+		if (found.length < 30 && roots[i].startsWith(str)) {
+			// check for exact match, if exists, start providing affixes
+			found.push(roots[i]);
+		}
+		// Reached end of roots and no match found
+		if (i == roots.length - 1 && found.length === 0) {
+			found = exactMatchFound ? searchAffixes(str) : "root not found";
+		}
+	}
+	populateGrid(found, "roots");		
+>>>>>>> d6b5e01ec7690ed7fbb0d690e8b22acfa1dcfb4b
 }
 
-function populateBoxes(fd) {
-  // First, clear any existing boxes
-  while (boxParent.lastChild) {
-    boxParent.removeChild(boxParent.lastChild);
-  }
-  
-  //if (fd.length === 0) {
-    // if letter(s) are left over after longest root is matched,
-    // start searching in affixes[i][2]
-    // must begin new search, starting from root, every time a new letter is inputted
-    // no affix found
-  //}
-  
-  // Only show max 30 matches, longest first
-  for (let i = 0; i < fd.length; i++) {
-    let child = document.createElement("div");
-    child.className = "box";
-    child.innerText = fd[i];
-    boxParent.appendChild(child);
-  }
+function checkExactMatch(rt) {
+	exactMatchFound = roots.includes(rt) ? rt : "";
+	console.log(roots.includes(rt) ? `exact match found: ${exactMatchFound}` : `no exact match: ${rt}`);
+}
+
+function searchAffixes(str) {
+	let affix = str.substring(exactMatchFound.length);
+	let affixesFound = [];
+
+	for (let i = 0; i < affixes.length; i++) {
+		if (affixes[i][2].startsWith(affix)) {
+			affixesFound.push(affixes[i][2]);
+		}
+	}
+	return affixesFound;
+}
+/*
+			// 30 matches found before reaching end of roots
+			if (numFound == 30) { //promise, fulfilled with finished searching, save what is found
+				exactMatch = found.includes(str) ? str : "";
+				populateGrid(found, "roots");
+				break;
+			}
+
+			if (roots[i] == str && perfMatchFound == false) {
+				baseRoot = roots[i];
+				perfMatchFound = true;
+				modeChanger.inputMode = "affix";
+			}
+
+			let aff = str.substring(exactMatch.length);
+			modeChanger.inputMode = "affix";
+			console.log("affix mode");
+			baseRoot = exactMatch;
+			processAffix(aff, exactMatch);
+
+			else if (i == roots.length - 1) {
+				exactMatch = found.includes(str) ? str : "";
+				populateGrid(found, "roots");
+				break;
+			}
+*/
+
+
+
+var baseRoot = "";
+var baseAffix = "";
+function processAffix(str) {
+	console.log("processAffix ran");
+	let affixesFound = [];
+	matchAffixes(str);
+	let affixesPredicted= [];
+	let currentAffix = str.substring(baseAffix.length);
+	if (currentAffix.length !== 0) {
+		for (let j = 0; j < affixes.length; j++) {
+			if (affixes[j][2].startsWith(currentAffix)) {
+				affixesPredicted.push(affixes[j][2]);
+			}
+		}
+	}
+	populateGrid(affixesPredicted, "affixes", true);
+
+	function matchAffixes(af) {
+		console.log("matchAffixes ran");
+		for (let i = 0; i < affixes.length; i++) {
+			if (af.startsWith(affixes[i][2])) {
+				var foundAffix = affixes[i][2];
+				var remainingStr = af.substring(foundAffix.length);
+				console.log(`remainingStr is ${remainingStr}`);
+				affixesFound.push(foundAffix);
+				if (remainingStr.length !== 0) {
+					matchAffixes(remainingStr);
+				}
+				break;
+			}
+			if (i == affixes.length - 1) {
+				//affixesFound = ["no match found"];
+			}
+		}
+	}
+	console.log(affixesFound);
+	populateGrid(affixesFound, "affixes");
+	baseAffix = affixesFound.join("");
+	return affixesFound[0];
+}
+
+function updateDisplay(a, b, c) {
+
+}
+
+function populateGrid(members, type, predict = false) {
+	if (type == "roots") {
+		clearNode(parseAreaR);
+		// Only show max 30 matches, longest first
+		for (let i = 0; i < members.length; i++) {
+			createChild("div", "box", members[i], parseAreaR);
+		}
+	} 
+	else if(type == "affixes" && predict == false) { 
+		if (members.length >= 1) {
+			parseResultField.innerText = baseRoot + "-" + members.join("-");
+		}
+	}
+	else if (predict == true) {
+		clearNode(parseAreaA);
+
+		for (let i = 0; i < members.length; i++) {
+			createChild("div", "box", members[i], parseAreaA);
+		}
+	}
+}
+
+function createChild(type, cl, text, mother) {
+	let child = document.createElement(type);
+	child.className = cl;
+	child.innerText = text;
+	mother.appendChild(child);
+}
+
+function clearNode(node) {
+	while (node.lastChild) {
+		node.removeChild(node.lastChild);
+	}
 }
 
 function cLog(str) {
