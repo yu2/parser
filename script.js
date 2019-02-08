@@ -35,12 +35,17 @@ document.addEventListener("DOMContentLoaded", function() {
     tabNav3.style.background= "gainsboro";
   });
 
-  // Input parsing behaviour
+  // INPUT PARSING BEHAVIOUR
   let inputField = document.querySelector(".inputField");
 
   inputField.addEventListener("input", function(e) {
     cLog("input registered");
-		let input = inputField.value;
+		let input = inputField.value.toLowerCase();
+		if (input.length >= 3) {
+			processInput(doSubs(input));
+		}
+
+/*
 		if (inputProcessMode.inputMode == "root") {
 			parseResultField.innerText = input;
 			if (input.length >= 3) {
@@ -54,6 +59,7 @@ document.addEventListener("DOMContentLoaded", function() {
 			console.log(`affixToProcess is ${affixToProcess}`);
 			processAffix(affixToProcess);
 		}
+*/
   });
   
   // New morpheme behaviour
@@ -102,6 +108,161 @@ var modeChanger = new Proxy (inputProcessMode, {
 		}
 	}
 });
+
+// *****************
+// Processing inputs
+// *****************
+var bestMatch = "";
+
+var rootMatched = false;
+function processInput(str) {
+	console.log("processInput()");
+	if (!rootMatched) {
+		searchRoots(str);
+	}
+}
+
+// Check if there is an exact match
+function searchRoots(rt) { // make this a Promise?
+	console.log("searchRoots()");
+	let indexOfRoot = roots.indexOf(rt);
+	console.log(`index: ${indexOfRoot}`);
+	if (indexOfRoot !== -1) {
+		getPredictions(indexOfRoot);
+		rootMatched = true;
+	}
+}
+
+function getPredictions(index) {
+	let predictions = [];
+	let baseRoot = roots[index];
+
+	for (let i = roots.length - 1; i >= index; i--) {
+		if (roots[i].startsWith(baseRoot) && predictions.length <= 30) {
+				predictions.push(roots[i]);
+		}
+	}
+
+	console.log(predictions);
+	populateGrid(predictions);
+}
+
+// OLD FUNCTION
+function processRoot(str) {
+	if (inputProcessMode.inputMode == "root") {
+		str = doSubs(str);
+		console.log(`processRoot() ran with mode root, root: ${str}`);
+		let found = [];
+		let numFound = 0;
+		// Crawl through roots until 30 matches are found
+		for (let i = 0; i < roots.length; i++) {
+			if (roots[i].startsWith(str)) {
+				found.push(roots[i]);
+				if (found == str) {
+					baseRoot = found;
+					modeChanger.inputMode = "affix";
+				}
+				numFound++;
+			}
+			// 30 matches found before reaching end of roots
+			if (numFound == 30) {
+				bestMatch = found.includes(str) ? str : "";
+				populateGrid(found);
+				break;
+			}
+			// Reached end of roots and no match found
+			// Entering Affix Mode
+			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
+				let aff = str.substring(bestMatch.length);
+				modeChanger.inputMode = "affix";
+				console.log("affix mode");
+				baseRoot = bestMatch;
+				processAffix(aff, bestMatch);
+			}
+			// Reached end of roots, fewer than 30 found
+			else if (i == roots.length - 1) {
+				bestMatch = found.includes(str) ? str : "";
+				populateGrid(found);
+				break;
+			}
+		}
+	}
+}
+
+//var baseRoot = "";
+var baseAffix = "";
+function processAffix(str) {
+	console.log("processAffix ran");
+	let affixesFound = [];
+	matchAffixes(str);
+	let affixesPredicted= [];
+	let currentAffix = str.substring(baseAffix.length);
+	if (currentAffix.length !== 0) {
+		for (let j = 0; j < affixes.length; j++) {
+			if (affixes[j][2].startsWith(currentAffix)) {
+				affixesPredicted.push(affixes[j][2]);
+			}
+		}
+	}
+	populateGrid(affixesPredicted, true);
+	function matchAffixes(af) {
+		console.log("matchAffixes ran");
+		for (let i = 0; i < affixes.length; i++) {
+			if (af.startsWith(affixes[i][2])) {
+				var foundAffix = affixes[i][2];
+				var remainingStr = af.substring(foundAffix.length);
+				console.log(`remainingStr is ${remainingStr}`);
+				affixesFound.push(foundAffix);
+				if (remainingStr.length !== 0) {
+					matchAffixes(remainingStr);
+				}
+				break;
+			}
+			if (i == affixes.length - 1) {
+				//affixesFound = ["no match found"];
+			}
+		}
+	}
+	console.log(affixesFound);
+	populateGrid(affixesFound);
+	baseAffix = affixesFound.join("");
+	return affixesFound[0];
+}
+
+function populateGrid(members, predict = false) {
+	if (inputProcessMode.inputMode == "root") {
+		clearNode(parseAreaR);
+		// Only show max 30 matches, longest first
+		for (let i = 0; i < members.length; i++) {
+			createChild("div", "box", members[i], parseAreaR);
+		}
+	} 
+	else if(inputProcessMode.inputMode == "affix" && predict == false) {
+		if (members.length >= 1) {
+			parseResultField.innerText = baseRoot + "-" + members.join("-");
+		}
+	}
+	else if (predict == true) {
+		clearNode(parseAreaA);
+
+		for (let i = 0; i < members.length; i++) {
+			createChild("div", "box", members[i], parseAreaA);
+		}
+	}
+}
+
+function createChild(type, cl, text, mother) {
+	let child = document.createElement(type);
+	child.className = cl;
+	child.innerText = text;
+	mother.appendChild(child);
+}
+
+function clearNode(node) {
+	while (node.lastChild) {
+		node.removeChild(node.lastChild);
+	}
+}
 
 function handleFiles(files, mode) {
   trackPerformance();
@@ -222,125 +383,6 @@ function printCharCodes (str) {
   }
 }
 
-// *****************
-// Processing inputs
-// *****************
-var bestMatch = "";
-function processRoot(str) {
-	if (inputProcessMode.inputMode == "root") {
-		str = doSubs(str);
-		console.log(`processRoot() ran with mode root, root: ${str}`);
-		let found = [];
-		let numFound = 0;
-		// Crawl through roots until 30 matches are found
-		for (let i = 0; i < roots.length; i++) {
-			if (roots[i].startsWith(str)) {
-				found.push(roots[i]);
-				if (found == str) {
-					baseRoot = found;
-					modeChanger.inputMode = "affix";
-				}
-				numFound++;
-			}
-			// 30 matches found before reaching end of roots
-			if (numFound == 30) {
-				bestMatch = found.includes(str) ? str : "";
-				populateGrid(found);
-				break;
-			}
-			// Reached end of roots and no match found
-			// Entering Affix Mode
-			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
-				let aff = str.substring(bestMatch.length);
-				modeChanger.inputMode = "affix";
-				console.log("affix mode");
-				baseRoot = bestMatch;
-				processAffix(aff, bestMatch);
-			}
-			// Reached end of roots, fewer than 30 found
-			else if (i == roots.length - 1) {
-				bestMatch = found.includes(str) ? str : "";
-				populateGrid(found);
-				break;
-			}
-		}
-	}
-}
-
-var baseRoot = "";
-var baseAffix = "";
-function processAffix(str) {
-	console.log("processAffix ran");
-	let affixesFound = [];
-	matchAffixes(str);
-	let affixesPredicted= [];
-	let currentAffix = str.substring(baseAffix.length);
-	if (currentAffix.length !== 0) {
-		for (let j = 0; j < affixes.length; j++) {
-			if (affixes[j][2].startsWith(currentAffix)) {
-				affixesPredicted.push(affixes[j][2]);
-			}
-		}
-	}
-	populateGrid(affixesPredicted, true);
-	function matchAffixes(af) {
-		console.log("matchAffixes ran");
-		for (let i = 0; i < affixes.length; i++) {
-			if (af.startsWith(affixes[i][2])) {
-				var foundAffix = affixes[i][2];
-				var remainingStr = af.substring(foundAffix.length);
-				console.log(`remainingStr is ${remainingStr}`);
-				affixesFound.push(foundAffix);
-				if (remainingStr.length !== 0) {
-					matchAffixes(remainingStr);
-				}
-				break;
-			}
-			if (i == affixes.length - 1) {
-				//affixesFound = ["no match found"];
-			}
-		}
-	}
-	console.log(affixesFound);
-	populateGrid(affixesFound);
-	baseAffix = affixesFound.join("");
-	return affixesFound[0];
-}
-
-function populateGrid(members, predict = false) {
-	if (inputProcessMode.inputMode == "root") {
-		clearNode(parseAreaR);
-		// Only show max 30 matches, longest first
-		for (let i = 0; i < members.length; i++) {
-			createChild("div", "box", members[i], parseAreaR);
-		}
-	} 
-	else if(inputProcessMode.inputMode == "affix" && predict == false) {
-		if (members.length >= 1) {
-			parseResultField.innerText = baseRoot + "-" + members.join("-");
-		}
-	}
-	else if (predict == true) {
-		clearNode(parseAreaA);
-
-		for (let i = 0; i < members.length; i++) {
-			createChild("div", "box", members[i], parseAreaA);
-		}
-	}
-}
-
-function createChild(type, cl, text, mother) {
-	let child = document.createElement(type);
-	child.className = cl;
-	child.innerText = text;
-	mother.appendChild(child);
-}
-
-function clearNode(node) {
-	while (node.lastChild) {
-		node.removeChild(node.lastChild);
-	}
-}
 
 function cLog(str) {
   cons.innerHTML = str + "\n" + cons.innerHTML;
