@@ -1,0 +1,19 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "<a href=\"https://yu2.github.io/parser/display.html\" target=\"_blank\">project link</a>",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yu2/parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yu2/parser/issues"
+  },
+  "homepage": "https://github.com/yu2/parser#readme"
+}

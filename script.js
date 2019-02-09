@@ -1,7 +1,11 @@
+var startTime;
+var cons;
+var parseResultField;
+var parseAreaR;
+var parseAreaA;
 document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
   cons = document.querySelector(".console");
-  boxParent = document.querySelector(".boxMother");
    
   // Tab navigation bar behaviour
   let tabNav1 = document.querySelector(".tabNav1");
@@ -10,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
   let tabArea1 = document.querySelector(".tabArea1");
   let tabArea2 = document.querySelector(".tabArea2");
   let tabArea3 = document.querySelector(".tabArea3");
-  tabNav1.addEventListener("click", function(e) {
+  tabNav1.addEventListener("click", function() {
     tabArea1.style.display = "flex";
     tabArea2.style.display = "none";
     tabArea3.style.display = "none";
@@ -18,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
     tabNav2.style.background= "white";
     tabNav3.style.background= "white";
   });
-  tabNav2.addEventListener("click", function(e) {
+  tabNav2.addEventListener("click", function() {
     tabArea1.style.display = "none";
     tabArea2.style.display = "flex";
     tabArea3.style.display = "none";
@@ -26,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
     tabNav2.style.background= "gainsboro";
     tabNav3.style.background= "white";
   });
-  tabNav3.addEventListener("click", function(e) {
+  tabNav3.addEventListener("click", function() {
     tabArea1.style.display = "none";
 		tabArea2.style.display = "none";
     tabArea3.style.display = "flex";
@@ -38,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // INPUT PARSING BEHAVIOUR
   let inputField = document.querySelector(".inputField");
 
-  inputField.addEventListener("input", function(e) {
+  inputField.addEventListener("input", function() {
     cLog("input registered");
 		let input = inputField.value.toLowerCase();
 		if (input.length >= 3) {
@@ -63,14 +67,16 @@ document.addEventListener("DOMContentLoaded", function() {
   });
   
   // New morpheme behaviour
+	/*
   let addRootButton = document.querySelector(".addRootButton");
   let addAffixButton = document.querySelector(".addAffixButton");
   let addRootField = document.querySelector(".addRootField");
   let addAffixField = document.querySelector(".addAffixField");
+	*/
   
   // Hide console behaviour
   let hideConsoleButton = document.querySelector(".hideConsoleButton");
-  hideConsoleButton.addEventListener("click", function(e) {
+  hideConsoleButton.addEventListener("click", function() {
     if (hideConsoleButton.value == "Hide") {
       cons.style.display = "none";
       hideConsoleButton.value = "Show";
