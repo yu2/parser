@@ -118,11 +118,9 @@ var modeChanger = new Proxy (inputProcessMode, {
 // *****************
 // Processing inputs
 // *****************
-var bestMatch = "";
-
 var rootMatched = false;
+
 function processInput(str) {
-	console.log("processInput()");
 	if (!rootMatched) {
 		searchRoots(str);
 	}
@@ -130,9 +128,7 @@ function processInput(str) {
 
 // Check if there is an exact match
 function searchRoots(rt) { // make this a Promise?
-	console.log("searchRoots()");
 	let indexOfRoot = roots.indexOf(rt);
-	console.log(`index: ${indexOfRoot}`);
 	if (indexOfRoot !== -1) {
 		getPredictions(indexOfRoot);
 		rootMatched = true;
@@ -149,11 +145,11 @@ function getPredictions(index) {
 		}
 	}
 
-	console.log(predictions);
 	populateGrid(predictions);
 }
 
 // OLD FUNCTION
+/*
 function processRoot(str) {
 	if (inputProcessMode.inputMode == "root") {
 		str = doSubs(str);
@@ -234,6 +230,7 @@ function processAffix(str) {
 	baseAffix = affixesFound.join("");
 	return affixesFound[0];
 }
+*/
 
 function populateGrid(members, predict = false) {
 	if (inputProcessMode.inputMode == "root") {
@@ -288,18 +285,18 @@ function handleFiles(files, mode) {
       outsideResolve = resolve;
       let reader = new FileReader();
       reader.onload = function(e) {
-      	let doc = e.target.result;
-      	pusher(doc);
+			let doc = e.target.result;
+			pusher(doc);
       };
       reader.readAsText(file);
-    }).then((msg) => {
+    }).then(() => {
       if (i < numFiles - 1) {
-      	i++;
-      	doFile(files[i]);
+				i++;
+				doFile(files[i]);
       }
       else if (i == numFiles - 1) {
-      	trackPerformance();
-      	//downloadBlob(roots);
+			trackPerformance();
+			//downloadBlob(roots);
       }
     });
   }
@@ -472,14 +469,14 @@ function newMorpheme(md) {
       let splitInput = [];
       switch(md) {
 	case "root":
-	  splitInput = input.split("\n");
-	  roots = roots.concat(splitInput);
-	  break;
+		splitInput = input.split("\n");
+		roots = roots.concat(splitInput);
+		break;
 	case "affix":
-	  splitInput = input.split("\n");
-	  for (let i = 0; i < splitInput.length; i++) {
-	  affixes.push(["", "", splitInput[i]]);
-	  }
+		splitInput = input.split("\n");
+		for (let i = 0; i < splitInput.length; i++) {
+		affixes.push(["", "", splitInput[i]]);
+		}
       }
    }
 }

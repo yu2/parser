@@ -128,6 +128,7 @@ module.exports = {
         "no-caller": "error",
         "no-catch-shadow": "error",
         "no-confusing-arrow": "error",
+				"no-console": 0,
         "no-continue": "error",
         "no-div-regex": "error",
         "no-duplicate-imports": "error",
