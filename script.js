@@ -41,6 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // INPUT PARSING BEHAVIOUR
   let inputField = document.querySelector(".inputField");
+	inputField.focus();
 
   inputField.addEventListener("input", function() {
     cLog("input registered");
@@ -127,21 +128,26 @@ function processInput(str) {
 }
 
 // Check if there is an exact match
-function searchRoots(rt) { // make this a Promise?
+function searchRoots(rt) { //make this a Promise?
 	let indexOfRoot = roots.indexOf(rt);
-	if (indexOfRoot !== -1) {
-		getPredictions(indexOfRoot);
+	if (indexOfRoot !== -1) { //if exact match is found, search only until the match
+		getPredictions(rt);
 		rootMatched = true;
+	} else {
+		getPredictions(rt);
 	}
 }
 
-function getPredictions(index) {
+function getPredictions(root) {
 	let predictions = [];
-	let baseRoot = roots[index];
+	let baseRoot = root;
+	let rootLength = root.length;
 
-	for (let i = roots.length - 1; i >= index; i--) {
-		if (roots[i].startsWith(baseRoot) && predictions.length <= 30) {
-				predictions.push(roots[i]);
+	for (let i = 0; i < roots.length; i++) {
+		if (roots[i].startsWith(baseRoot)) {
+			predictions.push(roots[i]);
+		} else if (predictions.length === 30 || roots[i].length <= rootLength) {
+			break;
 		}
 	}
 
