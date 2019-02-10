@@ -119,7 +119,7 @@ var modeChanger = new Proxy (inputProcessMode, {
 // *****************
 // Processing inputs
 // *****************
-var rootMatched = false;
+var rootMatched;
 
 function processInput(str) {
 	if (!rootMatched) {
@@ -132,7 +132,7 @@ function searchRoots(rt) { //make this a Promise?
 	let indexOfRoot = roots.indexOf(rt);
 	if (indexOfRoot !== -1) { //if exact match is found, search only until the match
 		getPredictions(rt);
-		rootMatched = true;
+		rootMatched = rt;
 	} else {
 		getPredictions(rt);
 	}

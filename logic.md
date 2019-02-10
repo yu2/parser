@@ -17,6 +17,7 @@ search all roots and affixes whenever input is registered
 - check if there is an exact match in the root list
 	- if exact match exists, check if it is contained within a longer root
 		- if yes, show the longer roots as predictions
+	- if partial match exists, show longer roots as predictions
 	- if no match, "root not found"
 - if exact root match has been found
 	- search for additional material in the affix list
