@@ -129,14 +129,15 @@ function processInput(str) {
 
 // Check if there is an exact match
 function searchRoots(rt) { //make this a Promise?
-	let indexOfRoot = roots.indexOf(rt);
-	if (indexOfRoot !== -1) { //if exact match is found, search only until the match
+	if (roots.includes(rt)) { //if exact match is found, search only until the match
 		getPredictions(rt);
 		rootMatched = rt;
 	} else {
 		getPredictions(rt);
 	}
-}
+}.then(function() {
+	console.log("searchRoots ran");
+})
 
 function getPredictions(root) {
 	let predictions = [];
