@@ -81,12 +81,12 @@ a:link {
 	display: flex;
 	background: gainsboro;
 	flex-direction: column;
-	align-items: stretch;
+	align-items: center;
 	padding: 0.25em 0.25em;
 }
 
 .parseResultField {
-	width: auto;
+	width: 99%;
 	height: 2em;
 	margin: 0.2em 0.1em;
 	padding: 0 0.2em;
@@ -98,6 +98,7 @@ a:link {
 }
 	
 #inputArea {
+	width: 100%;
 	margin: 0.2em 0 0.5em 0;
 	display: flex;
 }

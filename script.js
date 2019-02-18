@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function() {
     cLog("input registered");
 		let input = inputField.value.toLowerCase();
 		if (input.length >= 3) {
-			processInput(doSubs(input));
+			processInput(input);
 		}
 
 /*
@@ -119,42 +119,79 @@ var modeChanger = new Proxy (inputProcessMode, {
 // *****************
 // Processing inputs
 // *****************
-var rootMatched;
+var lastMatched = "";
+var lastMatchedNoSub = "";
+let strNoSub = ""; //have to use this because the affix list is not converted into IPA
 
 function processInput(str) {
-	if (!rootMatched) {
-		searchRoots(str);
-	}
+	strNoSub = str;
+	str = doSubs(str);
+	searchRoots(str);
 }
 
 // Check if there is an exact match
-function searchRoots(rt) { //make this a Promise?
-	if (roots.includes(rt)) { //if exact match is found, search only until the match
-		getPredictions(rt);
-		rootMatched = rt;
-	} else {
-		getPredictions(rt);
-	}
-}.then(function() {
-	console.log("searchRoots ran");
-})
-
-function getPredictions(root) {
-	let predictions = [];
-	let baseRoot = root;
-	let rootLength = root.length;
-
-	for (let i = 0; i < roots.length; i++) {
-		if (roots[i].startsWith(baseRoot)) {
-			predictions.push(roots[i]);
-		} else if (predictions.length === 30 || roots[i].length <= rootLength) {
-			break;
-		}
-	}
-
-	populateGrid(predictions);
+function searchRoots(str) { //make this a Promise?
+	getPredictions(str);
 }
 
+
+function getPredictions(str) {
+	let predictions = [];
+	
+	new Promise((resolve, redirect) => {
+		for (let i = 0; i < roots.length; i++) {
+			if (roots[i].startsWith(str)) {
+				predictions.push(roots[i]);
+				if (predictions.length === 30) {
+					break;
+				}
+			}
+		}
+
+		if (predictions.length === 0) {
+			redirect(strNoSub);
+		} else {
+			lastMatched = str;
+			lastMatchedNoSub = strNoSub;
+			console.log(`last matched: ${lastMatched}`);
+			resolve(predictions);
+		}
+
+	}).then((val) => {
+		populateGrid(val);
+		})
+		.catch((val) => {
+			console.log(`affix passed : ${val}`);
+			searchAffixes(val);
+		});
+}
+
+function searchAffixes(str) {
+	let affixesFound = [];
+	let affix = str.substring(lastMatchedNoSub.length);
+	matchAffixes(affix);
+
+	function matchAffixes(af) {
+		for (let i = 0; i < affixes.length; i++) {
+			if (af.startsWith(affixes[i][2])) {
+				var foundAffix = affixes[i][2];
+				var remainingAffix = af.substring(foundAffix.length);
+				console.log(`remainingAffix is ${remainingAffix}`);
+				affixesFound.push(foundAffix);
+				if (remainingAffix.length !== 0) {
+					matchAffixes(remainingAffix);
+				}
+				break;
+			}
+			if (i == affixes.length - 1) {
+				//affixesFound = ["no match found"];
+			}
+		}
+	}
+	console.log(affixesFound);
+	populateGrid(affixesFound);
+	
+}
 // OLD FUNCTION
 /*
 function processRoot(str) {
