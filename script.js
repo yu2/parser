@@ -153,6 +153,7 @@ function getPredictions(str) {
 		} else {
 			lastMatched = str;
 			lastMatchedNoSub = strNoSub;
+			updateParseDisplay([]);
 			console.log(`last matched: ${lastMatched}`);
 			resolve(predictions);
 		}
@@ -172,6 +173,14 @@ function searchAffixes(str) {
 	matchAffixes(affix);
 
 	function matchAffixes(af) {
+		let affixesPredicted = [];
+		for (let j = 0; j < affixes.length; j++) {
+			if (affixes[j][2].startsWith(af)) {
+				affixesPredicted.push(affixes[j][2]);
+			}
+		}
+		populateGrid(affixesPredicted);
+		
 		for (let i = 0; i < affixes.length; i++) {
 			if (af.startsWith(affixes[i][2])) {
 				var foundAffix = affixes[i][2];
@@ -189,8 +198,12 @@ function searchAffixes(str) {
 		}
 	}
 	console.log(affixesFound);
-	populateGrid(affixesFound);
+	updateParseDisplay(affixesFound);
 	
+}
+
+function updateParseDisplay(ar) {
+	parseResultField.innerText = lastMatched + "-" + ar.join("-");
 }
 // OLD FUNCTION
 /*
