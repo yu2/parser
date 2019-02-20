@@ -172,15 +172,25 @@ function searchAffixes(str) {
 	let affix = str.substring(lastMatchedNoSub.length);
 	matchAffixes(affix);
 
-	function matchAffixes(af) {
-		let affixesPredicted = [];
-		for (let j = 0; j < affixes.length; j++) {
-			if (affixes[j][2].startsWith(af)) {
-				affixesPredicted.push(affixes[j][2]);
+	let affixesPredicted = [];
+	for (let j = 0; j < affix.length; j++) {
+		let afPart = affix.substring(j);
+		let lastExactMatchFound = false;
+		console.log("afPart: " + afPart);
+		for (let k = 0; k < affixes.length; k++) {
+			if (affixes[k][2].startsWith(afPart)) {
+				lastExactMatchFound = affixes[k][2] === afPart;
+				affixesPredicted.push(affixes[k][2]);
+				console.log(`affixes pushed ${affixes[k][2]}`);
 			}
 		}
-		populateGrid(affixesPredicted);
-		
+		console.log("last afPart: " + afPart);
+		if (!lastExactMatchFound) {
+			break;
+		}
+	}
+
+	function matchAffixes(af) {
 		for (let i = 0; i < affixes.length; i++) {
 			if (af.startsWith(affixes[i][2])) {
 				var foundAffix = affixes[i][2];
@@ -199,7 +209,7 @@ function searchAffixes(str) {
 	}
 	console.log(affixesFound);
 	updateParseDisplay(affixesFound);
-	
+	populateGrid(affixesPredicted);
 }
 
 function updateParseDisplay(ar) {
