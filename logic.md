@@ -23,6 +23,9 @@ search all roots and affixes whenever input is registered
 	- search for additional material in the affix list
 		- recursively search until all additional material is matched
 
+###Long input
+search through roots to find a root that begins with the input
+
 ### Promise-Aware Generator
 ```javascript
 function foo(x, y) { //ajax caller

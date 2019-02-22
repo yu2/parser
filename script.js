@@ -129,8 +129,7 @@ function processInput(str) {
 	searchRoots(str);
 }
 
-// Check if there is an exact match
-function searchRoots(str) { //make this a Promise?
+function searchRoots(str) { 
 	getPredictions(str);
 }
 
@@ -139,8 +138,13 @@ function getPredictions(str) {
 	let predictions = [];
 	
 	new Promise((resolve, redirect) => {
+		let strPart = str.substring(0, 3);
+		
 		for (let i = 0; i < roots.length; i++) {
-			if (roots[i].startsWith(str)) {
+			if (str.startsWith(roots[i])) {
+				if (str == roots[i]) {
+					redirect(strNoSub)
+				}
 				predictions.push(roots[i]);
 				if (predictions.length === 30) {
 					break;
@@ -148,7 +152,14 @@ function getPredictions(str) {
 			}
 		}
 
-		if (predictions.length === 0) {
+		for (let j = 0; j < roots.length; j++) {
+			if (str.startsWith(rootCandidates[j])) {
+				lastMatched = rootCandidates[j];
+				break;
+			}
+		}
+
+		if (rootCandidates.length === 0) {
 			redirect(strNoSub);
 		} else {
 			lastMatched = str;
@@ -169,28 +180,18 @@ function getPredictions(str) {
 
 function searchAffixes(str) {
 	let affixesFound = [];
+	let affixesPredicted = [];
 	let affix = str.substring(lastMatchedNoSub.length);
 	matchAffixes(affix);
 
-	let affixesPredicted = [];
-	for (let j = 0; j < affix.length; j++) {
-		let afPart = affix.substring(j);
-		let lastExactMatchFound = false;
-		console.log("afPart: " + afPart);
-		for (let k = 0; k < affixes.length; k++) {
-			if (affixes[k][2].startsWith(afPart)) {
-				lastExactMatchFound = affixes[k][2] === afPart;
-				affixesPredicted.push(affixes[k][2]);
-				console.log(`affixes pushed ${affixes[k][2]}`);
+	function matchAffixes(af) {
+		//affixesPredicted = [];
+		for (let j = 0; j < affixes.length; j++) {
+			if (affixes[j][2].startsWith(af)) {
+				console.log("predicted: " + affixes[j][2]);
+				affixesPredicted.push(affixes[j][2]);
 			}
 		}
-		console.log("last afPart: " + afPart);
-		if (!lastExactMatchFound) {
-			break;
-		}
-	}
-
-	function matchAffixes(af) {
 		for (let i = 0; i < affixes.length; i++) {
 			if (af.startsWith(affixes[i][2])) {
 				var foundAffix = affixes[i][2];
