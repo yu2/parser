@@ -1,4 +1,4 @@
-###Logic 1
+### Logic 1
 as each input event is triggered
 - go through roots
 	- display top 30 matches, in order of length
@@ -12,7 +12,7 @@ as each input event is triggered
 			- isolate the affix from the last root entered and search in the affixes
 			- output the possible matches
 
-###Logic 2
+### Logic 2
 search all roots and affixes whenever input is registered 
 - check if there is an exact match in the root list
 	- if exact match exists, check if it is contained within a longer root
@@ -23,8 +23,19 @@ search all roots and affixes whenever input is registered
 	- search for additional material in the affix list
 		- recursively search until all additional material is matched
 
-###Long input
+first, find similarly-starting root
+determine wether root is contained within the input, or expands the input
+1. if expands input, find up to 30 predictions
+	- as user types, dynamically give predictions
+	- if no matches, go to 2
+2. if contained, search for affixes using recursive affix-matching function
+if there is a space in the input, separate by space, work on each in turn
+
+### Short Input
 search through roots to find a root that begins with the input
+
+### Long input
+search through roots to find a root that the input starts with, and contains
 
 ### Promise-Aware Generator
 ```javascript

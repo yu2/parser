@@ -467,6 +467,9 @@ function toIPA(ar) {
       let joined = roots.join("\u0099");
       joined = doSubs(joined);
       roots = joined.split("\u0099");
+			for (let i = 0; i < affixes.length; i++) {
+				affixes[i][2] = doSubs(affixes[i][2]);
+			}
       resolve();
     }).then((msg) => {
       trackPerformance();
