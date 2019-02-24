@@ -137,51 +137,31 @@ function searchRoots(str) {
 function getPredictions(str) {
 	let predictions = [];
 	
-	new Promise((resolve, redirect) => {
-		let strPart = str.substring(0, 3);
-		
-		for (let i = 0; i < roots.length; i++) {
-			if (str.startsWith(roots[i])) {
-				if (str == roots[i]) {
-					redirect(strNoSub)
-				}
-				predictions.push(roots[i]);
-				if (predictions.length === 30) {
-					break;
-				}
-			}
+	// Is the root contained within the input?
+	for (let i = 0; i < roots.length; i++) {
+		if (str.startsWith(roots[i]) && (str !== roots[i])) {
+			lastMatched = roots[i];
+			searchAffixes(str);
 		}
+	}
 
-		for (let j = 0; j < roots.length; j++) {
-			if (str.startsWith(rootCandidates[j])) {
-				lastMatched = rootCandidates[j];
-				break;
-			}
-		}
-
-		if (rootCandidates.length === 0) {
-			redirect(strNoSub);
-		} else {
-			lastMatched = str;
-			lastMatchedNoSub = strNoSub;
-			updateParseDisplay([]);
-			console.log(`last matched: ${lastMatched}`);
-			resolve(predictions);
-		}
-
-	}).then((val) => {
-		populateGrid(val);
-		})
-		.catch((val) => {
-			console.log(`affix passed : ${val}`);
-			searchAffixes(val);
-		});
+	/*
+	if (rootCandidates.length === 0) {
+		searchAffixes(strNoSub);
+	} else {
+		lastMatched = str;
+		lastMatchedNoSub = strNoSub;
+		updateParseDisplay([]);
+		console.log(`last matched: ${lastMatched}`);
+		populateGrid(predictions);
+	}
+	*/
 }
 
 function searchAffixes(str) {
 	let affixesFound = [];
 	let affixesPredicted = [];
-	let affix = str.substring(lastMatchedNoSub.length);
+	let affix = str.substring(lastMatched.length);
 	matchAffixes(affix);
 
 	function matchAffixes(af) {

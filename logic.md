@@ -24,11 +24,10 @@ search all roots and affixes whenever input is registered
 		- recursively search until all additional material is matched
 
 first, find similarly-starting root
-determine wether root is contained within the input, or expands the input
+determine whether root is contained within the input, or expands the input
 1. if expands input, find up to 30 predictions
-	- as user types, dynamically give predictions
 	- if no matches, go to 2
-2. if contained, search for affixes using recursive affix-matching function
+2. if root is contained within input, search for affixes using recursive affix-matching function
 if there is a space in the input, separate by space, work on each in turn
 
 ### Short Input
