@@ -115,13 +115,20 @@ function searchRoots(str) {
 	for (let i = 0; i < roots.length; i++) {
 		if (str.startsWith(roots[i]) && (str !== roots[i])) {
 			lastMatched = roots[i];
-			searchAffixes(lastMatched);
+			searchAffixes(str);
+			break;
+			/*
 			if (searchAffixes(str)) {
 			  console.log("all matched");
 			  break;
 			} else {
+				console.log("searchRoots continuing");
+				if (i === roots.length - 1) {
+					console.log("reached end");
+				}
 			  continue;
 			}
+			*/
 		}
 	}
 }
@@ -130,7 +137,6 @@ function searchAffixes(str) {
 	let affixesFound = [];
 	let affixesPredicted = [];
 	let affix = str.substring(lastMatched.length);
-	let allMatched = false;
 	matchAffixes(affix);
 
 	function matchAffixes(af) {
@@ -146,14 +152,11 @@ function searchAffixes(str) {
 		  let currentAffix = affixes[i][2];
 			if (af.startsWith(currentAffix)) {
 				let remainingAffix = af.substring(currentAffix.length);
-				console.log(`remainingAffix is ${remainingAffix}`);
+				console.log(`${currentAffix} pushed`);
 				affixesFound.push(currentAffix);
 				if (remainingAffix.length !== 0) { //if letters remain
-				  if (i === affixes.length - 1) { //if reached end
-				    allMatched = false;
-				  } else {
-				    matchAffixes(remainingAffix);
-				  }
+					console.log(`new matchAffixes() with ${remainingAffix}`);
+					matchAffixes(remainingAffix);
 				}
 				break;
 			}
@@ -163,9 +166,6 @@ function searchAffixes(str) {
 	console.log(`affixesFound: ${affixesFound}`);
 	updateParseDisplay(affixesFound);
 	populateGrid(affixesPredicted);
-	
-  allMatched = false;
-	return allMatched;
 }
 
 function populateGrid(members) {
