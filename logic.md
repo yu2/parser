@@ -13,7 +13,7 @@ as each input event is triggered
 			- output the possible matches
 
 ### Logic 2
-search all roots and affixes whenever input is registered 
+search all roots and affixes whenever input is registered
 - check if there is an exact match in the root list
 	- if exact match exists, check if it is contained within a longer root
 		- if yes, show the longer roots as predictions
@@ -86,8 +86,8 @@ function *valueGen() {
 }
 
 // for..of loop iterates over an iterable
-// gen() returns an iterator, 
-for (var v of valueGen()) { 
+// gen() returns an iterator,
+for (var v of valueGen()) {
 	console.log(v);
 	if (v >= 300) { //truncate at 300
 		break;

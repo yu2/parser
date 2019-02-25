@@ -3,6 +3,7 @@ var cons;
 var parseResultField;
 var parseAreaR;
 var parseAreaA;
+
 document.addEventListener("DOMContentLoaded", function() {
   startTime = null;
   cons = document.querySelector(".console");
@@ -49,31 +50,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		if (input.length >= 3) {
 			processInput(input);
 		}
-
-/*
-		if (inputProcessMode.inputMode == "root") {
-			parseResultField.innerText = input;
-			if (input.length >= 3) {
-				processRoot(input.toLowerCase());
-			}
-		} else if (input.length <= baseRoot.length) {
-			modeChanger.inputMode = "root";
-			console.log("root mode");
-		} else if (inputProcessMode.inputMode == "affix") {
-			let affixToProcess = input.replace(baseRoot, "");
-			console.log(`affixToProcess is ${affixToProcess}`);
-			processAffix(affixToProcess);
-		}
-*/
   });
-  
-  // New morpheme behaviour
-	/*
-  let addRootButton = document.querySelector(".addRootButton");
-  let addAffixButton = document.querySelector(".addAffixButton");
-  let addRootField = document.querySelector(".addRootField");
-  let addAffixField = document.querySelector(".addAffixField");
-	*/
   
   // Hide console behaviour
   let hideConsoleButton = document.querySelector(".hideConsoleButton");
@@ -88,9 +65,14 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
 	parseResultField = document.querySelector(".parseResultField");
-
 	parseAreaR = document.querySelector(".parseAreaR");
 	parseAreaA = document.querySelector(".parseAreaA");
+	
+  // New morpheme behaviour
+  addRootButton = document.querySelector(".addRootButton");
+  addAffixButton = document.querySelector(".addAffixButton");
+  addRootField = document.querySelector(".addRootField");
+  addAffixField = document.querySelector(".addAffixField");
 });
 
 var roots = [];
@@ -106,7 +88,7 @@ var modeChanger = new Proxy (inputProcessMode, {
 			console.log(`${key} set to ${value}`);
 			parseAreaR.style.display = "grid";
 			parseAreaA.style.display = "none";
-		} 
+		}
 		else if (value == "affix") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
@@ -120,48 +102,35 @@ var modeChanger = new Proxy (inputProcessMode, {
 // Processing inputs
 // *****************
 var lastMatched = "";
-var lastMatchedNoSub = "";
-let strNoSub = ""; //have to use this because the affix list is not converted into IPA
 
 function processInput(str) {
-	strNoSub = str;
 	str = doSubs(str);
 	searchRoots(str);
 }
 
-function searchRoots(str) { 
-	getPredictions(str);
-}
-
-
-function getPredictions(str) {
+function searchRoots(str) {
 	let predictions = [];
 	
 	// Is the root contained within the input?
 	for (let i = 0; i < roots.length; i++) {
 		if (str.startsWith(roots[i]) && (str !== roots[i])) {
 			lastMatched = roots[i];
-			searchAffixes(str);
+			searchAffixes(lastMatched);
+			if (searchAffixes(str)) {
+			  console.log("all matched");
+			  break;
+			} else {
+			  continue;
+			}
 		}
 	}
-
-	/*
-	if (rootCandidates.length === 0) {
-		searchAffixes(strNoSub);
-	} else {
-		lastMatched = str;
-		lastMatchedNoSub = strNoSub;
-		updateParseDisplay([]);
-		console.log(`last matched: ${lastMatched}`);
-		populateGrid(predictions);
-	}
-	*/
 }
 
 function searchAffixes(str) {
 	let affixesFound = [];
 	let affixesPredicted = [];
 	let affix = str.substring(lastMatched.length);
+	let allMatched = false;
 	matchAffixes(affix);
 
 	function matchAffixes(af) {
@@ -172,134 +141,45 @@ function searchAffixes(str) {
 				affixesPredicted.push(affixes[j][2]);
 			}
 		}
+		
 		for (let i = 0; i < affixes.length; i++) {
-			if (af.startsWith(affixes[i][2])) {
-				var foundAffix = affixes[i][2];
-				var remainingAffix = af.substring(foundAffix.length);
+		  let currentAffix = affixes[i][2];
+			if (af.startsWith(currentAffix)) {
+				let remainingAffix = af.substring(currentAffix.length);
 				console.log(`remainingAffix is ${remainingAffix}`);
-				affixesFound.push(foundAffix);
-				if (remainingAffix.length !== 0) {
-					matchAffixes(remainingAffix);
+				affixesFound.push(currentAffix);
+				if (remainingAffix.length !== 0) { //if letters remain
+				  if (i === affixes.length - 1) { //if reached end
+				    allMatched = false;
+				  } else {
+				    matchAffixes(remainingAffix);
+				  }
 				}
 				break;
 			}
-			if (i == affixes.length - 1) {
-				//affixesFound = ["no match found"];
-			}
 		}
+		
 	}
-	console.log(affixesFound);
+	console.log(`affixesFound: ${affixesFound}`);
 	updateParseDisplay(affixesFound);
 	populateGrid(affixesPredicted);
+	
+  allMatched = false;
+	return allMatched;
 }
 
-function updateParseDisplay(ar) {
-	parseResultField.innerText = lastMatched + "-" + ar.join("-");
-}
-// OLD FUNCTION
-/*
-function processRoot(str) {
-	if (inputProcessMode.inputMode == "root") {
-		str = doSubs(str);
-		console.log(`processRoot() ran with mode root, root: ${str}`);
-		let found = [];
-		let numFound = 0;
-		// Crawl through roots until 30 matches are found
-		for (let i = 0; i < roots.length; i++) {
-			if (roots[i].startsWith(str)) {
-				found.push(roots[i]);
-				if (found == str) {
-					baseRoot = found;
-					modeChanger.inputMode = "affix";
-				}
-				numFound++;
-			}
-			// 30 matches found before reaching end of roots
-			if (numFound == 30) {
-				bestMatch = found.includes(str) ? str : "";
-				populateGrid(found);
-				break;
-			}
-			// Reached end of roots and no match found
-			// Entering Affix Mode
-			else if (i == roots.length - 1 && numFound === 0 && str.startsWith(bestMatch)) {
-				let aff = str.substring(bestMatch.length);
-				modeChanger.inputMode = "affix";
-				console.log("affix mode");
-				baseRoot = bestMatch;
-				processAffix(aff, bestMatch);
-			}
-			// Reached end of roots, fewer than 30 found
-			else if (i == roots.length - 1) {
-				bestMatch = found.includes(str) ? str : "";
-				populateGrid(found);
-				break;
-			}
-		}
-	}
-}
-
-//var baseRoot = "";
-var baseAffix = "";
-function processAffix(str) {
-	console.log("processAffix ran");
-	let affixesFound = [];
-	matchAffixes(str);
-	let affixesPredicted= [];
-	let currentAffix = str.substring(baseAffix.length);
-	if (currentAffix.length !== 0) {
-		for (let j = 0; j < affixes.length; j++) {
-			if (affixes[j][2].startsWith(currentAffix)) {
-				affixesPredicted.push(affixes[j][2]);
-			}
-		}
-	}
-	populateGrid(affixesPredicted, true);
-	function matchAffixes(af) {
-		console.log("matchAffixes ran");
-		for (let i = 0; i < affixes.length; i++) {
-			if (af.startsWith(affixes[i][2])) {
-				var foundAffix = affixes[i][2];
-				var remainingStr = af.substring(foundAffix.length);
-				console.log(`remainingStr is ${remainingStr}`);
-				affixesFound.push(foundAffix);
-				if (remainingStr.length !== 0) {
-					matchAffixes(remainingStr);
-				}
-				break;
-			}
-			if (i == affixes.length - 1) {
-				//affixesFound = ["no match found"];
-			}
-		}
-	}
-	console.log(affixesFound);
-	populateGrid(affixesFound);
-	baseAffix = affixesFound.join("");
-	return affixesFound[0];
-}
-*/
-
-function populateGrid(members, predict = false) {
+function populateGrid(members) {
 	if (inputProcessMode.inputMode == "root") {
 		clearNode(parseAreaR);
 		// Only show max 30 matches, longest first
 		for (let i = 0; i < members.length; i++) {
 			createChild("div", "box", members[i], parseAreaR);
 		}
-	} 
-	else if(inputProcessMode.inputMode == "affix" && predict == false) {
-		if (members.length >= 1) {
-			parseResultField.innerText = baseRoot + "-" + members.join("-");
-		}
 	}
-	else if (predict == true) {
-		clearNode(parseAreaA);
+}
 
-		for (let i = 0; i < members.length; i++) {
-			createChild("div", "box", members[i], parseAreaA);
-		}
-	}
+function updateParseDisplay(ar) {
+	parseResultField.innerText = lastMatched + "-" + ar.join("-");
 }
 
 function createChild(type, cl, text, mother) {
