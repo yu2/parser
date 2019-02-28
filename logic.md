@@ -23,15 +23,18 @@ search all roots and affixes whenever input is registered
 	- search for additional material in the affix list
 		- recursively search until all additional material is matched
 
-first, find similarly-starting root
-determine whether root is contained within the input, or expands the input
-1. if expands input, find up to 30 predictions
-	- if no matches, go to 2
-2. if root is contained within input, search for affixes using recursive affix-matching function
-if there is a space in the input, separate by space, work on each in turn
+First, find similarly-starting root
+Determine whether root is contained within the input, or expands the input
+1. If root is contained within input, search for affixes using recursive affix-matching function
+	- If affixes don't match exactly, search for a different root to use as base
+2. If root expands input, find up to 30 predictions
+	- If no matches, go to 1
+If there is a space in the input, separate by space, work on each in turn
 
-### Short Input
-search through roots to find a root that begins with the input
+### Type Mode
+1. If the input is three letters or fewer, search through roots to find roots that begin with the input
+	- These are predictions
+	- Exit this mode when exact root match can no longer be found
 
 ### Long input
 search through roots to find a root that the input starts with, and contains

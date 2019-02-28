@@ -48,7 +48,13 @@ document.addEventListener("DOMContentLoaded", function() {
     cLog("input registered");
 		let input = inputField.value.toLowerCase();
 		if (input.length >= 3) {
+			if (input.length === 3) {
+				modeChanger.mode = "letter";
+			}
 			processInput(input);
+		} else
+		if (inputMode.mode === "letter" && input.length < 1) {
+			modeChanger.mode = "word";
 		}
   });
   
@@ -80,20 +86,20 @@ var affixes = [];
 var outsideResolve;
 
 // MODE SWITCHING PROXY
-var inputProcessMode = {inputMode: "root"};
-var modeChanger = new Proxy (inputProcessMode, {
+var inputMode = {mode: "word"};
+var modeChanger = new Proxy (inputMode, {
 	set: function (target, key, value) {
-		if (value == "root") {
+		if (value == "letter") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
-			parseAreaR.style.display = "grid";
-			parseAreaA.style.display = "none";
+			//parseAreaR.style.display = "grid";
+			//parseAreaA.style.display = "none";
 		}
-		else if (value == "affix") {
+		else if (value == "word") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
-			parseAreaR.style.display = "none";
-			parseAreaA.style.display = "grid";
+			//parseAreaR.style.display = "none";
+			//parseAreaA.style.display = "grid";
 		}
 	}
 });
@@ -102,33 +108,39 @@ var modeChanger = new Proxy (inputProcessMode, {
 // Processing inputs
 // *****************
 var lastMatched = "";
-
 function processInput(str) {
-	str = doSubs(str);
-	searchRoots(str);
+	searchRoots(doSubs(str));
 }
 
+var matchFits = "squirrel";
 function searchRoots(str) {
 	let predictions = [];
 	
-	// Is the root contained within the input?
-	for (let i = 0; i < roots.length; i++) {
-		if (str.startsWith(roots[i]) && (str !== roots[i])) {
-			lastMatched = roots[i];
-			searchAffixes(str);
-			break;
-			/*
-			if (searchAffixes(str)) {
-			  console.log("all matched");
-			  break;
-			} else {
-				console.log("searchRoots continuing");
-				if (i === roots.length - 1) {
-					console.log("reached end");
-				}
-			  continue;
+	if (inputMode.mode === "letter") {
+		for (let j = 0; j < roots.length; j++) {
+			if (roots[j].startsWith(str) && predictions.length < 30) {
+				predictions.push(roots[j]);
 			}
-			*/
+		}
+		if (predictions.length === 0) {
+			searchAffixes(str);
+		} else {
+			lastMatched = str;
+			populateGrid(predictions);
+		}
+
+	} else
+	if (inputMode.mode === "word") {
+		for (let i = 0; i < roots.length; i++) {
+			if (str.startsWith(roots[i]) && (str !== roots[i])) {
+				lastMatched = roots[i];
+				searchAffixes(str);
+				if (matchFits) {
+					break;
+				} else {
+					continue;
+				}
+			}
 		}
 	}
 }
@@ -154,27 +166,32 @@ function searchAffixes(str) {
 				let remainingAffix = af.substring(currentAffix.length);
 				console.log(`${currentAffix} pushed`);
 				affixesFound.push(currentAffix);
-				if (remainingAffix.length !== 0) { //if letters remain
+				if (remainingAffix.length === 0) { //if no letters remain, affixes and root have been matched perfectly
+					matchFits = true;
+					break;
+				}
+				else { //if letters remain
 					console.log(`new matchAffixes() with ${remainingAffix}`);
 					matchAffixes(remainingAffix);
 				}
-				break;
+				break; //don't ask
 			}
+			matchFits = false;
 		}
 		
 	}
 	console.log(`affixesFound: ${affixesFound}`);
 	updateParseDisplay(affixesFound);
-	populateGrid(affixesPredicted);
+	if (inputMode.mode === "letter") {
+		populateGrid(affixesPredicted);
+	}
 }
 
 function populateGrid(members) {
-	if (inputProcessMode.inputMode == "root") {
-		clearNode(parseAreaR);
-		// Only show max 30 matches, longest first
-		for (let i = 0; i < members.length; i++) {
-			createChild("div", "box", members[i], parseAreaR);
-		}
+	clearNode(parseAreaR);
+	// Only show max 30 matches, longest first
+	for (let i = 0; i < members.length; i++) {
+		createChild("div", "box", members[i], parseAreaR);
 	}
 }
 
