@@ -10,7 +10,7 @@ slides = [
 "<p>1. Scanned dictionaries and imported wordlists</p>",
 "<div><table><tr><td><img src=\"https://i.imgur.com/3oR4CJR.png\"></td><td><img src=\"https://i.imgur.com/yhFOE4o.png\"></td><td><img src=\"https://i.imgur.com/neV5jw2.png\"></td></tr><tr><td>Kinti-Moss (2018)</th><td>Muysken (1977)</td><td>Gualapuro et al. (2014)</td></tr><tr><td><img src=\"https://i.imgur.com/pw5Mptj.png\"></td><td><img src=\"https://i.imgur.com/vqojuza.png\"></td><td></td></tr><tr><td>Shimiyukkamu\n Diccionario (2008)</th><td>Cordero (2002)</td><td></td></tr></div>",
 "<p>2. Used regular expression to extract lemmas</p>",
-"<p><div><img src=\"https://i.imgur.com/et3IPXe.png\"></div>",
+"<p><div><img src=\"https://i.imgur.com/GDyksch.png\"></div>",
 "<p>3. Algorithm to find boundaries</p>",
 "<div><img src=\"https://i.imgur.com/KrJ4sx5.png\"></div>",
 "<p>Demo</p>"

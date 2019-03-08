@@ -222,7 +222,6 @@ a:visited {
   font-size: 1.5em;
   overflow: auto;
   height: 45vh;
-  border: 1px solid red;
 }
 
 .consoleArea {
