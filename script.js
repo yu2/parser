@@ -195,6 +195,23 @@ function populateGrid(members) {
 	}
 }
 
+var presentArea = document.querySelector(".presentArea");
+slideNum = 0;
+presentContent = "";
+document.addEventListener('keydown', function(e) {
+  var key = e.keycode ? e.keycode : e.which;
+  if (key == 39) {
+    nextSlide(slideNum);
+    slideNum++;
+  }
+});
+
+function nextSlide(num) {
+  presentContent += slides[num] + "<br>";
+  presentArea.innerHTML = presentContent;
+  presentArea.scrollTop = presentArea.scrollHeight;
+}
+
 function updateParseDisplay(ar) {
 	parseResultField.innerText = lastMatched + "-" + ar.join("-");
 }
