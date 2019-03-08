@@ -196,7 +196,7 @@ function populateGrid(members) {
 }
 
 var presentArea = document.querySelector(".presentArea");
-slideNum = 0;
+slideNum = 1;
 presentContent = "";
 document.addEventListener('keydown', function(e) {
   var key = e.keycode ? e.keycode : e.which;
@@ -207,7 +207,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function nextSlide(num) {
-  presentContent += slides[num] + "<br>";
+  presentContent = slides[num] + "<br>";
   presentArea.innerHTML = presentContent;
   presentArea.scrollTop = presentArea.scrollHeight;
 }
