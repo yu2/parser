@@ -1,8 +1,13 @@
+@font-face {
+  font-family: "Consolas";
+  src: url("fonts/Consolas.ttf") format("ttf");
+}
+
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "Consolas","Noto Mono", "Noto Sans", "Open Sans", sans-serif;
+	font-family: "Consolas", "Noto Sans", "Open Sans", sans-serif;
 	font-size: 1em;
 }
 
@@ -39,6 +44,7 @@ body {
 
 a:link {
 	text-decoration: none;
+	color: gray;
 }
 
 a:visited {
@@ -57,7 +63,7 @@ a:visited {
 	display: flex;
 }
 
-.tabNav {
+.tabNavBtn {
 	background: white;
 	border: 1px solid darkgray;
 	border-bottom: none;
@@ -65,17 +71,17 @@ a:visited {
 	margin: 0;
 }
 
-.tabNav1 {
+.tabNavBtn1 {
 	z-index: 2;
 	background: gainsboro;
 }
 
-.tabNav2 {
+.tabNavBtn2 {
 	z-index: 1;
 	border-left: none;
 }
 
-.tabNav3 {
+.tabNavBtn3 {
 	z-index: 1;
 	border-left: none;
 }
@@ -91,7 +97,7 @@ a:visited {
 .mainContainer {
 	border: 1px solid darkgray;
 	padding: 0.25em;
-  width: max-content;
+  width: 100%;
 }
 
 .tabArea {

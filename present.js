@@ -1,3 +1,20 @@
+var presentArea = document.querySelector(".presentArea");
+slideNum = 1;
+presentContent = "";
+document.addEventListener('keydown', function(e) {
+  var key = e.keycode ? e.keycode : e.which;
+  if (key == 39) {
+    nextSlide(slideNum);
+    slideNum++;
+  }
+});
+
+function nextSlide(num) {
+  presentContent = slides[num] + "<br>";
+  presentArea.innerHTML = presentContent;
+  presentArea.scrollTop = presentArea.scrollHeight;
+}
+
 slides = [
 "<p>Quichua: Endangered language in S. America</p>",
 "<p>Highly agglutinative with regular affixation</p>",

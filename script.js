@@ -9,35 +9,35 @@ document.addEventListener("DOMContentLoaded", function() {
   cons = document.querySelector(".console");
    
   // Tab navigation bar behaviour
-  let tabNav1 = document.querySelector(".tabNav1");
-  let tabNav2 = document.querySelector(".tabNav2");
-  let tabNav3 = document.querySelector(".tabNav3");
+  let tabNavBtn1 = document.querySelector(".tabNavBtn1");
+  let tabNavBtn2 = document.querySelector(".tabNavBtn2");
+  let tabNavBtn3 = document.querySelector(".tabNavBtn3");
   let tabArea1 = document.querySelector(".tabArea1");
   let tabArea2 = document.querySelector(".tabArea2");
   let tabArea3 = document.querySelector(".tabArea3");
-  tabNav1.addEventListener("click", function() {
+  tabNavBtn1.addEventListener("click", function() {
     tabArea1.style.display = "flex";
     tabArea2.style.display = "none";
     tabArea3.style.display = "none";
-    tabNav1.style.background= "gainsboro";
-    tabNav2.style.background= "white";
-    tabNav3.style.background= "white";
+    tabNavBtn1.style.background= "gainsboro";
+    tabNavBtn2.style.background= "white";
+    tabNavBtn3.style.background= "white";
   });
-  tabNav2.addEventListener("click", function() {
+  tabNavBtn2.addEventListener("click", function() {
     tabArea1.style.display = "none";
     tabArea2.style.display = "flex";
     tabArea3.style.display = "none";
-    tabNav1.style.background= "white";
-    tabNav2.style.background= "gainsboro";
-    tabNav3.style.background= "white";
+    tabNavBtn1.style.background= "white";
+    tabNavBtn2.style.background= "gainsboro";
+    tabNavBtn3.style.background= "white";
   });
-  tabNav3.addEventListener("click", function() {
+  tabNavBtn3.addEventListener("click", function() {
     tabArea1.style.display = "none";
 		tabArea2.style.display = "none";
     tabArea3.style.display = "flex";
-    tabNav1.style.background= "white";
-    tabNav2.style.background= "white";
-    tabNav3.style.background= "gainsboro";
+    tabNavBtn1.style.background= "white";
+    tabNavBtn2.style.background= "white";
+    tabNavBtn3.style.background= "gainsboro";
   });
 
   // INPUT PARSING BEHAVIOUR
@@ -193,23 +193,6 @@ function populateGrid(members) {
 	for (let i = 0; i < members.length; i++) {
 		createChild("div", "box", members[i], parseAreaR);
 	}
-}
-
-var presentArea = document.querySelector(".presentArea");
-slideNum = 1;
-presentContent = "";
-document.addEventListener('keydown', function(e) {
-  var key = e.keycode ? e.keycode : e.which;
-  if (key == 39) {
-    nextSlide(slideNum);
-    slideNum++;
-  }
-});
-
-function nextSlide(num) {
-  presentContent = slides[num] + "<br>";
-  presentArea.innerHTML = presentContent;
-  presentArea.scrollTop = presentArea.scrollHeight;
 }
 
 function updateParseDisplay(ar) {
