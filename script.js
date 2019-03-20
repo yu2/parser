@@ -117,13 +117,19 @@ function searchRoots(str) {
 	let predictions = [];
 	
 	if (inputMode.mode === "letter") {
+	  //find roots that start with input
 		for (let j = 0; j < roots.length; j++) {
 			if (roots[j].startsWith(str) && predictions.length < 30) {
 				predictions.push(roots[j]);
 			}
 		}
+		
 		if (predictions.length === 0) {
-			searchAffixes(str);
+			if (!searchAffixes(str)) {
+			  //try matching with shorter root
+			  lastMatched = lastMatched.substring(0, lastMatched.length - 1);
+			  searchAffixes(str);
+			}
 		} else {
 			lastMatched = str;
 			populateGrid(predictions);
@@ -152,7 +158,7 @@ function searchAffixes(str) {
 	matchAffixes(affix);
 
 	function matchAffixes(af) {
-		//affixesPredicted = [];
+	  //predict affixes
 		for (let j = 0; j < affixes.length; j++) {
 			if (affixes[j][2].startsWith(af)) {
 				console.log("predicted: " + affixes[j][2]);
@@ -160,6 +166,7 @@ function searchAffixes(str) {
 			}
 		}
 		
+		//find affixes starting with the current affix
 		for (let i = 0; i < affixes.length; i++) {
 		  let currentAffix = affixes[i][2];
 			if (af.startsWith(currentAffix)) {
@@ -185,6 +192,8 @@ function searchAffixes(str) {
 	if (inputMode.mode === "letter") {
 		populateGrid(affixesPredicted);
 	}
+	
+	return affixesFound.length !== 0 ? true : false;
 }
 
 function populateGrid(members) {
