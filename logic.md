@@ -36,10 +36,31 @@ In "word" mode, root is contained within the input; in "letter" mode, root expan
 If there is a space in the input, separate by space, work on each in turn
 
 ### Mode switching ("letter" and "word")
-0: default mode is "word"
-1: if input length is 3, switch to "letter"
-2: in "letter", if input field is cleared, switch to "word"
-- if user is typing letter by letter, when input equals 3 letters, go to 1
+0: Default mode is "word"
+1: If input length is 3, switch to "letter"
+2: In "letter", if input field is cleared, switch to "word"
+- If user is typing letter by letter, when input equals 3 letters, go to 1
+
+### Meeting notes
+gatotakuna
+misikuna
+misikuni is not real word
+ML and muysken
+gatokunatami
+ya
+yo
+try 1
+mishkishi should be mishki-shi
+mishilla
+solve compounds
+lliki is not in dictionary
+space
+verbs
+- not all words ending in na are verbs -- have to manually mark
+ar er ir spanish to na in Quichua
+if any of those endings, and -na, mark as verb
+shina is not verb
+anything is verbal attach to verb -- morphemes
 
 ### Promise-Aware Generator
 ```javascript

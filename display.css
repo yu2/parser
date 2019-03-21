@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Consolas";
-  src: url("fonts/Consolas.ttf") format("ttf");
+  src: url("fonts/Consolas.woff2") format("woff2");
 }
 
 * {
@@ -67,7 +67,7 @@ a:visited {
 	background: white;
 	border: 1px solid darkgray;
 	border-bottom: none;
-	padding: 0.25em 0.4em;
+	padding: 0.25em 0.5em;
 	margin: 0;
 }
 

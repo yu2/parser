@@ -152,6 +152,10 @@ function searchRoots(str) {
 	// make this mandatory to segment roots that come with affixes?
 	// !crawlBack() changes the value of lastMatched
 	function crawlBack() {
+    let testLastMatched = lastMatched;
+    for (let i = lastMatched.length; i < lastMatched.length - 3; i--) {
+      
+    }
 	  lastMatched = lastMatched.substring(0, lastMatched.length - 1);
 	  searchAffixes(str);
       //crawlBack();
