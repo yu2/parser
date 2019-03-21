@@ -127,8 +127,7 @@ function searchRoots(str) {
 		if (predictions.length === 0) {
 			if (!searchAffixes(str)) {
 			  //try matching with shorter root
-			  lastMatched = lastMatched.substring(0, lastMatched.length - 1);
-			  searchAffixes(str);
+			  crawlBack();
 			}
 		} else {
 			lastMatched = str;
@@ -148,6 +147,14 @@ function searchRoots(str) {
 				}
 			}
 		}
+	}
+	
+	// make this mandatory to segment roots that come with affixes?
+	// !crawlBack() changes the value of lastMatched
+	function crawlBack() {
+	  lastMatched = lastMatched.substring(0, lastMatched.length - 1);
+	  searchAffixes(str);
+      //crawlBack();
 	}
 }
 
@@ -193,7 +200,7 @@ function searchAffixes(str) {
 		populateGrid(affixesPredicted);
 	}
 	
-	return affixesFound.length !== 0 ? true : false;
+	return affixesPredicted.length !== 0 ? true : false;
 }
 
 function populateGrid(members) {

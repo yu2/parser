@@ -23,21 +23,23 @@ search all roots and affixes whenever input is registered
 	- search for additional material in the affix list
 		- recursively search until all additional material is matched
 
+### Logic 3
 First, find similarly-starting root
-Determine whether root is contained within the input, or expands the input
-1. If root is contained within input, search for affixes using recursive affix-matching function
-	- If affixes don't match exactly, search for a different root to use as base
-2. If root expands input, find up to 30 predictions
-	- If no matches, go to 1
+Determine "word" mode or "letter" mode
+In "word" mode, root is contained within the input; in "letter" mode, root expands input
+1. In "word" mode, match the longest root
+  - Search remaining string for affixes using recursive affix-matching function
+	- If affixes don't match exactly, continue with next root to use as base
+2. In "letter" mode, find up to 30 predictions
+	- If no predictions are found at end of crawl, start matching affixes using lastMatch as base
+	  - If unable to find an affix match, try a shorter base (length >= 3)
 If there is a space in the input, separate by space, work on each in turn
 
-### Type Mode
-1. If the input is three letters or fewer, search through roots to find roots that begin with the input
-	- These are predictions
-	- Exit this mode when exact root match can no longer be found
-
-### Long input
-search through roots to find a root that the input starts with, and contains
+### Mode switching ("letter" and "word")
+0: default mode is "word"
+1: if input length is 3, switch to "letter"
+2: in "letter", if input field is cleared, switch to "word"
+- if user is typing letter by letter, when input equals 3 letters, go to 1
 
 ### Promise-Aware Generator
 ```javascript
