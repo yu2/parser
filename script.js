@@ -40,6 +40,10 @@ document.addEventListener("DOMContentLoaded", function() {
     tabNavBtn3.style.background= "gainsboro";
   });
 
+	parseResultField = document.querySelector(".parseResultField");
+	parseAreaR = document.querySelector(".parseAreaR");
+	parseAreaA = document.querySelector(".parseAreaA");
+	
   // INPUT PARSING BEHAVIOUR
   let inputField = document.querySelector(".inputField");
 	inputField.focus();
@@ -55,6 +59,8 @@ document.addEventListener("DOMContentLoaded", function() {
 		} else
 		if (inputMode.mode === "letter" && input.length < 1) {
 			modeChanger.mode = "word";
+			clearNode(parseAreaR);
+			parseResultField.innerText = "";
 		}
   });
   
@@ -70,10 +76,6 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 
-	parseResultField = document.querySelector(".parseResultField");
-	parseAreaR = document.querySelector(".parseAreaR");
-	parseAreaA = document.querySelector(".parseAreaA");
-	
   // New morpheme behaviour
   addRootButton = document.querySelector(".addRootButton");
   addAffixButton = document.querySelector(".addAffixButton");
@@ -125,10 +127,13 @@ function searchRoots(str) {
 		}
 		
 		if (predictions.length === 0) {
+		  searchAffixes(str);
+		  /*
 			if (!searchAffixes(str)) {
 			  //try matching with shorter root
 			  crawlBack();
 			}
+			*/
 		} else {
 			lastMatched = str;
 			populateGrid(predictions);
@@ -140,6 +145,7 @@ function searchRoots(str) {
 			if (str.startsWith(roots[i]) && (str !== roots[i])) {
 				lastMatched = roots[i];
 				searchAffixes(str);
+				// try next root if affixes are not matched
 				if (matchFits) {
 					break;
 				} else {
@@ -158,7 +164,6 @@ function searchRoots(str) {
     }
 	  lastMatched = lastMatched.substring(0, lastMatched.length - 1);
 	  searchAffixes(str);
-      //crawlBack();
 	}
 }
 
@@ -167,29 +172,29 @@ function searchAffixes(str) {
 	let affixesPredicted = [];
 	let affix = str.substring(lastMatched.length);
 	matchAffixes(affix);
-
+  
+  var matchTree = [];
+  
 	function matchAffixes(af) {
 	  //predict affixes
 		for (let j = 0; j < affixes.length; j++) {
 			if (affixes[j][2].startsWith(af)) {
 				console.log("predicted: " + affixes[j][2]);
 				affixesPredicted.push(affixes[j][2]);
+				matchTree.push(affixesPredicted);
 			}
 		}
 		
 		//find affixes starting with the current affix
 		for (let i = 0; i < affixes.length; i++) {
-		  let currentAffix = affixes[i][2];
-			if (af.startsWith(currentAffix)) {
-				let remainingAffix = af.substring(currentAffix.length);
-				console.log(`${currentAffix} pushed`);
-				affixesFound.push(currentAffix);
+			if (af.startsWith(affixes[i][2])) {
+				let remainingAffix = af.substring(affixes[i][2].length);
+				affixesFound.push(affixes[i][2]);
 				if (remainingAffix.length === 0) { //if no letters remain, affixes and root have been matched perfectly
 					matchFits = true;
 					break;
 				}
 				else { //if letters remain
-					console.log(`new matchAffixes() with ${remainingAffix}`);
 					matchAffixes(remainingAffix);
 				}
 				break; //don't ask
@@ -197,6 +202,10 @@ function searchAffixes(str) {
 			matchFits = false;
 		}
 		
+	}
+	console.log(`matchFits: ${matchFits}`)
+	if (!matchFits) {
+	  //matchAffixes(affix);
 	}
 	console.log(`affixesFound: ${affixesFound}`);
 	updateParseDisplay(affixesFound);

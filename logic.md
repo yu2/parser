@@ -41,8 +41,18 @@ If there is a space in the input, separate by space, work on each in turn
 2: In "letter", if input field is cleared, switch to "word"
 - If user is typing letter by letter, when input equals 3 letters, go to 1
 
+### Matching affixes recursively with backtracking
+save matched affixes and their positions in the array
+if there are letters left and affixes have all been matched, go back and try another affix
+go through affixes
+when a contained affix is found, save it and run the function with the remaining letters
+- success: there is 0 letters left
+- failure: there is 1 or more letters left, but they can't be matched
+  - try different matches
+  - use different affixes than the first time, like a transducer
+
 ### Meeting notes
-gatotakuna 
+gatotakuna
 misikuna
 misikuni is not real word
 ML and muysken
