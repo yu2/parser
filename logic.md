@@ -42,7 +42,7 @@ If there is a space in the input, separate by space, work on each in turn
 - If user is typing letter by letter, when input equals 3 letters, go to 1
 
 ### Meeting notes
-gatotakuna  
+gatotakuna 
 misikuna
 misikuni is not real word
 ML and muysken
