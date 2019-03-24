@@ -1,7 +1,22 @@
 @font-face {
   font-family: "Consolas";
   src: url("fonts/consolas-webfont.svg") format("svg");
+  /*
+  src: url("fonts/Consolas.woff2") format("woff2");
+  src: url("fonts/NotoMono-Regular.woff2") format("woff2");
+  src: url("fonts/Consolas.ttf") format("ttf");
+  src: url("fonts/Consolas.eot") format("eot");
+  */
 }
+
+/*
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: "Consolas";
+    src: url("fonts/consolas-webfont.svg") format("svg");
+  }
+}
+*/
 
 * {
 	margin: 0;
