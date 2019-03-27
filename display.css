@@ -1,10 +1,10 @@
 @font-face {
   font-family: "Consolas";
   src: url("fonts/consolas-webfont.svg") format("svg");
-  /*
   src: url("fonts/Consolas.woff2") format("woff2");
-  src: url("fonts/NotoMono-Regular.woff2") format("woff2");
   src: url("fonts/Consolas.ttf") format("ttf");
+  /*
+  src: url("fonts/NotoMono-Regular.woff2") format("woff2");
   src: url("fonts/Consolas.eot") format("eot");
   */
 }
@@ -22,7 +22,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "Consolas", "Noto Sans", "Open Sans", sans-serif;
+	font-family: /*"Consolas",*/ "Noto Sans", "Open Sans", sans-serif;
 	font-size: 1em;
 }
 
@@ -238,7 +238,6 @@ a:visited {
 .presentArea {
   display: flex;
   flex-direction: column;
-  
   width: fit-content;
   margin: 4em 0 0 0;
   font-size: 1.5em;

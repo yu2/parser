@@ -1,22 +1,52 @@
 var presentArea = document.querySelector(".presentArea");
-slideNum = 1;
+
+slideNum = 0;
 presentContent = "";
 document.addEventListener('keydown', function(e) {
   var key = e.keycode ? e.keycode : e.which;
-  if (key == 39) {
-    nextSlide(slideNum);
-    slideNum++;
+	if (key == 39 || key == 37) {
+		presentArea.style.display = "flex";
+	}
+  switch (key) {
+		case 39:
+			if (slideNum > slides.length) {
+				presentSwitch();
+				break;
+			}
+			nextSlide();
+			break;
+		case 37:
+			if (slideNum < 0) {
+				presentSwitch();
+				break;
+			}
+			nextSlide(true); 
   }
 });
 
-function nextSlide(num) {
-  presentContent = slides[num] + "<br>";
+function presentSwitch() {
+	if (presentArea.style.display == "none") {
+		presentArea.style.display = "flex";
+	} else 
+		if (presentArea.style.display == "flex") {
+			presentArea.style.display = "none";
+			slideNum = 0;
+		}
+	
+}
+
+function nextSlide(reverse = false) {
+	reverse ? slideNum-- : slideNum++;
+	if (slideNum < 0) {
+		presentSwitch();
+	}
+  presentContent = slides[slideNum] + "<br>";
   presentArea.innerHTML = presentContent;
   presentArea.scrollTop = presentArea.scrollHeight;
 }
 
 slides = [
-"<p>Quichua: Endangered language in S. America</p>",
+"","<p>Quichua: Endangered language in S. America</p>",
 "<p>Highly agglutinative with regular affixation</p>",
 "<p>Media Lengua: Rare mixed language with 90% Spanish lexicon and Quichua morphology and syntax</p>",
 "<p>Parser should work for both</p>",
