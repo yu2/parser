@@ -2,8 +2,20 @@ var presentArea = document.querySelector(".presentArea");
 
 slideNum = 0;
 presentContent = "";
-document.addEventListener('keydown', function(e) {
-  var key = e.keycode ? e.keycode : e.which;
+presEnabled = false;
+
+document.onkeyup = function(e) {
+	if (presEnabled == false) {
+		if (e.altKey && e.which == 80) {
+			presEnabled = true;
+			document.addEventListener('keydown', presCtrl);
+		}
+	}
+}
+
+
+function presCtrl(x) {
+  var key = x.keycode ? x.keycode : x.which;
 	if (key == 39 || key == 37) {
 		presentArea.style.display = "flex";
 	}
@@ -22,7 +34,7 @@ document.addEventListener('keydown', function(e) {
 			}
 			nextSlide(true); 
   }
-});
+}
 
 function presentSwitch() {
 	if (presentArea.style.display == "none") {

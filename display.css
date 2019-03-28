@@ -22,7 +22,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: /*"Consolas",*/ "Noto Sans", "Open Sans", sans-serif;
+	font-family: "Consolas", "Noto Sans","Open Sans", sans-serif;
 	font-size: 1em;
 }
 
