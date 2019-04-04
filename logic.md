@@ -24,8 +24,8 @@ search all roots and affixes whenever input is registered
 		- recursively search until all additional material is matched
 
 ### Logic 3
-First, find similarly-starting root  
-Determine "word" mode or "letter" mode  
+First, find similarly-starting root
+Determine "word" mode or "letter" mode
 In "word" mode, root is contained within the input; in "letter" mode, root expands input
 1. In "word" mode, match the longest root
   - Search remaining string for affixes using recursive affix-matching function
@@ -36,41 +36,45 @@ In "word" mode, root is contained within the input; in "letter" mode, root expan
 If there is a space in the input, separate by space, work on each in turn
 
 ### Mode switching ("letter" and "word")
-0: Default mode is "word"  
-1: If input length is 3, switch to "letter"  
-2: In "letter", if input field is cleared, switch to "word"  
+0: Default mode is "word"
+1: If input length is 3, switch to "letter"
+2: In "letter", if input field is cleared, switch to "word"
 - If user is typing letter by letter, when input equals 3 letters, go to 1
 
 ### Matching affixes recursively with backtracking
-save matched affixes and their positions in the array  
-if there are letters left and affixes have all been matched, go back and try another affix  
-go through affixes  
+save matched affixes and their positions in the array
+if there are letters left and affixes have all been matched, go back and try another affix
+go through affixes
 when a contained affix is found, save it and run the function with the remaining letters
 - success: there is 0 letters left
 - failure: there is 1 or more letters left, but they can't be matched
   - try different matches
   - use different affixes than the first time, like a transducer
 
+### Space delimiting
+in letter mode, when a space is encountered, put the current match into completedMatches and reset lastMatched
+in word mode, when a space is detected, save items surrounding each space as a separate array item
+
 ### Meeting notes
-gatotakuna  
-misikuna  
-misikuni is not real word  
-ML and muysken  
-gatokunatami  
-ya  
-yo  
-try 1  
-mishkishi should be mishki-shi  
-mishilla  
-solve compounds  
-lliki is not in dictionary  
-space  
-verbs  
-- not all words ending in na are verbs -- have to manually mark  
-ar er ir spanish to na in Quichua  
-if any of those endings, and -na, mark as verb  
-shina is not verb  
-anything is verbal attach to verb -- morphemes  
+gatotakuna
+misikuna
+misikuni is not real word
+ML and muysken
+gatokunatami
+ya
+yo
+try 1
+mishkishi should be mishki-shi
+mishilla
+solve compounds
+lliki is not in dictionary
+space
+verbs
+- not all words ending in na are verbs -- have to manually mark
+ar er ir spanish to na in Quichua
+if any of those endings, and -na, mark as verb
+shina is not verb
+anything is verbal attach to verb -- morphemes
 
 ### Promise-Aware Generator
 ```javascript

@@ -167,6 +167,9 @@ function searchRoots(str) {
 	}
 }
 
+var completedMatches = [];
+var matchCount = 0;
+
 function searchAffixes(str) {
 	let affixesFound = [];
 	let affixesPredicted = [];
@@ -181,7 +184,7 @@ function searchAffixes(str) {
 			if (affixes[j][2].startsWith(af)) {
 				console.log("predicted: " + affixes[j][2]);
 				affixesPredicted.push(affixes[j][2]);
-				matchTree.push(affixesPredicted);
+				//matchTree.push(affixesPredicted);
 			}
 		}
 		
@@ -208,6 +211,7 @@ function searchAffixes(str) {
 	  //matchAffixes(affix);
 	}
 	console.log(`affixesFound: ${affixesFound}`);
+	completedMatches[matchCount] = lastMatched + "-" + affixesFound.join("-");
 	updateParseDisplay(affixesFound);
 	if (inputMode.mode === "letter") {
 		populateGrid(affixesPredicted);
@@ -225,7 +229,9 @@ function populateGrid(members) {
 }
 
 function updateParseDisplay(ar) {
-	parseResultField.innerText = lastMatched + "-" + ar.join("-");
+  for (let i = 0; i < completedMatches.length; i++) {
+    parseResultField.innerText = completedMatches[i] + " ";
+  }
 }
 
 function createChild(type, cl, text, mother) {
