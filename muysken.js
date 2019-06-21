@@ -1,21054 +1,21052 @@
-A DONDE
-maiman
-maimun
-maimu
-maima
-maim
-A VECES
-huaquimbi
-di ripinti
-huaquinllabi
-huaquin ratu
-ima urabish
-ima urapish
-huaquinllami
-maican ratu
-ABAJO
-ura
-uri
-ABANDONAR
-shitana
-saquina
-sitasha rina
-shitasha rina
-sitana
-siparana
-jichuna
-llujshishpa rina
-ABANICAR
-huairachina
-abintana
-p'ucuna
-ABEJA
-mishqui chuspi
-bunga
-abija
-chuspi
-mishqui balun
-putan chuspi
-puzu bunga
-chuspi bruncana
-buyi
-ABLANDARSE
-sambayana
-apiyana
-blanduyana
-landuyarina
-ñutuyana
-ñuturina
-p'lujayana
-jutyuquirina
-jahualayachina
-jahualla tucuna
-ABONO
-majada
-huanu
-jupa
-ABORTAR
-shulluna
-chulluna
-millina
-ABRAZAR
-ugllana
-ugllarina
-ugllarana
-ABRIGARSE
-cununa
-cunurina
-jatana
-p'achalina
-tundujana
-chuzijirina
-cunugyana
-cunagyana
-c'atallina
-ABRIR
-pasçana
-ABSCESO
-chupu
-chugri
-tumur
-incunu
-sarna
-sisu
-ABSORBER
-tsupana
-chupana
-tsunaga
-jucuchina
-ABUELA
-ahuila
-jatun mama
-agüila
-abuila
-aila
-jajtucu
-mama gandi
-ABUELO
-ahuilu
-jatun taita
-agülu
-abuilu
-ailu
-jajtucu
-taita gandi
-Jatun yaya
-ACABAR
-tucuchina
-umijuchina
-ACALLAR
-upallayachina
-upallachina
-upayachina
-upallana
-upayachina
-upallana
-upalana
-upalaychina
-upachina
-ACARICIAR
-c'uyana
-gusana
-juyachina
-juyana
-ugllana
-llambuchina
-ACARREAR
-ashtana
-ACEPILLAR
-llagllana
-sipillana
-p'ichana
-ACEPTAR
-chasquina
-ari nina
-japina
-asiptana
-ACEQUIA
-larca
-parcu
-parcuna
-tuma
-yacusiquia
-siquia
-ACERCARSE
-cuchuyana
-chayarina
-laduyana
-quimirina
-cercayana
-chagarina
-chayajuna
-quishquiyana
-cainij shamuna
-ACLARAR
-achigyana
-p'unllayana
-punllayana
-punllayachina
-p'unllayachina
-punchayana
-punzhayana
-achigana
-achiyamuna
-luziyana
-usyana
-ACOMPAÑAR
-cumpañana
-cumpañasha purina
-cumpañasha rina
-cumbana
-cumañana
-ACORDAR
-yuyachina
-yuyana
-ACORDARSE
-yuyarina
-ACOSTARSE
-siririna
-ACHIOTE
-achuti
-cúlur
-ADELANTARSE
-ñaupana
-ñumpana
-yumpana
-ñaubana
-ñugpana
-ADELANTE
-ñaupa
-ñaupaj
-ñurnpai
-ñugpai
-ñagpai
-ñaupi
-ñaubuqui
-yumpi
-ADENTRO
-ucu
-ADIVINAR
-adivinana
-tasana
-yachana
-yachagrina
-yachina
-asirtana
-tanchana
-adivina
-ADOBE
-pata
-adubi
-pirca
-adubidu
-AFILAR
-afilana
-mulana
-limana
-afilachina
-AFLOJAR
-cacharina
-p'lujana
-plujana
-chusagyana
-laliyachina
-saujana
-AFRECHO
-jamtsi
-p'ala
-jamzi
-jantzi
-jamchi
-africhillu
-africhu
-patu
-AFUERA
-canlla
-cancha
-jahua canlla
-canzha
-juira
-p'uira
-jahua pungu
-AGACHARSE
-cumurina
-AGARRAR
-japina
-charirina
-japirina
-huarcurina
-charina
-charichina
-charirana
-tsutsuquina
-AGRADECER
-agradisina
-Dius sulu pagui nina
-pagui nina
-pashi nina
-Dius si lu pagui nina
-paguirachu nina
-paigui nina
-Diusulupai nina
-yusulpagui nina
-AGRIO
-jayaj
-jayij
-agru
-agriu
-arugu
-puscushca
-p'ucushca
-AGUA
-yacu
-AGUADO
-chuya
-zarza
-yaculla
-aguarishca
-yacuyashca
-yuruj yuruj
-yacu cashca
-AGUANTAR
-ahuantana
-AGUDO
-p'ilu
-p'inu
-filu
-jilu
-p'iña
-AGUJA
-auja
-aguja
-acuja
-AHOGARSE
-augarina
-ahuarina
-aguarina
-ajugarina
-julluquirisha huañuna
-AHORA
-cunan
-cunun
-AHHORCAR
-sipina
-sipirina
-AHUMAR
-cushnichina
-cushnina
-cushniyachina
-cushniyana
-sahuasana
-cushnida churana
-AIRE
-huaira
-sami
-AJI
-uchu
-AJUSTAR
-ajushtana
-p'ajtachina
-ajustana
-pajtachina
-allichina
-apurtana
-AJO
-ajus
-ALA
-alas
-alis
-alus
-rigra
-ALARGAR
-suniyachina
-cacharina
-larguyachina
-jatunyachina
-mirachina
-cacharichina
-currina
-sundinguchina
-tunugyachina
-iñachina
-huiñachina
-largana
-laduyash rina
-ALCANZAR
-pajtana
-p'ajtana
-pagtana
-ALEGRE
-cushilla
-cuntintu
-cushila
-ALEJARSE
-caruyana
-anchurina
-anllurina
-lijana
-ALFALFA
-aljua
-alp'a
-qu'ihua
-alp'a qu'ihua
-alfa
-alp'alp'a qu'ihua
-alp'alp'a jihua
-alp'a jihua
-ALGUIEN
-maijan
-huaquin
-pitaj
-pichari
-maijin
-shuj
-shujca
-pipash
-pish
-pishi
-maijun
-majin
-maican
-ALISAR
-llambuyachina
-llambuna
-pambayachina
-llamhuchina
-lisana
-planuyachina
-llagyana
-ñutuchina
-lluchcayachina
-lluchca rurana
-planu pamba rurana
-ALMA
-alma
-aya
-sumbra
-huañushca
-alma huañushca
-ALMOHADA
-sauna
-cabisira
-ALREDEDOR DE
-muyundij
-muyundi
-siqui
-huasha
-ridundu
-ALTO
-jahua
-altu
-jatun
-jana
-ALTO
-jatun
-ALVERJA
-albis
-albija
-albijis
-albirjis
-albirja
-albrijis
-albijas
-alus
-ALZAR
-alzana
-marcana
-jahuayachina
-jahuachina
-jatarichina
-huichiyachina
-altsana
-ALLI
-chai
-chi
-chailla
-chimha
-chainanita
-AMARLE
-c'uya
-alli
-c'uyai
-juyashca
-juyanayai
-cariñusu
-amurusu
-alli shungu
-AMANECER
-pacarina
-p'unllayana
-punllayana
-punchayana
-achigyana
-achiyana
-pacarimuna
-AMAR
-c'uyana
-juyana
-AMARGO
-jayaj
-jayij
-AMARILLO
-quillu
-qu'illu
-jillu
-AMARRAR
-huatana
-tsagnana
-chagllana
-AMBATO
-Jambatu
-Ambatu
-AMBOS
-ishquindij
-ishquindi
-ishcandij
-ishcandi
-ishquindin
-AMIGO
-amigu
-cumpañiritu
-cumba
-AMONTONAR
-muntunana
-bancuna
-culmana
-tandachina
-mundunana
-jalsana
-banquillana
-banquilluna
-buntunana
-paltanacuna
-AMOR
-c'uyai
-c'uyana
-juyana
-AMORTIGUAR
-huañurina
-huañuchina
-upayana
-upayachina
-chinina
-puzuquichina
-llumiyachina
-mansuyachina
-AMPLIO
-lugar
-anchu
-jatun
-campu
-pamba
-ampliu
-ANCHO
-anchu
-anllu
-jatunlla
-p'ataj
-ANDAR
-purina
-ANDRAJOSO
-llachapa
-tsuntsu
-trapusu
-zunllu
-sunzu
-p'utyu
-chirchi
-chapu
-ANGOSTO
-quichqui
-quishqui
-utilla
-quichiqui
-angustu
-ANILLO
-surtijas
-surtijis
-surtiquis
-ANIMARSE
-yuyarina
-anillo
-animarina
-animana
-sinchiyana
-sinlliyajuna
-c'ariyana
-ANO
-siqui
-ucuti
-siqui tullu
-siqui utcu
-siqui utuju
-siqui ujtu
-siqui pungu
-ANOCHECER
-tutayana
-ansayana
-amsayana
-ANTEAYER
-cainapaj caina
-caina yallij
-chaishuj caina
-caina sarun
-caina mincha
-sarun
-sarun p'unlla
-sarun punzha
-jainapu jainandi
-chashuj caina
-ANTERIOR
-ñaupa
-ñumpa
-ñugpa
-ñagpa
-ñauba
-yumpa
-yumpuj
-punta
-punda
-rucu
-sarun
-AÑADIR
-yapana
-mirachina
-yapachina
-ariyana
-añadina
-puntana
-AÑO
-huata
-APAGAR
-huañuchina
-wañuchina
-APARECER
-ricurina
-APAREJO
-pariju
-albarda
-c'alma
-jalma
-aparina
-jaquima
-APARTE
-chican
-siparadu
-libri
-shican
-shuj shujta
-APELLIDO
-apillidu
-shuti
-apilativu
-yapa shuti
-apillidu shuti
-aillu shuti
-APLANAR
-pamhayachina
-yata pascana
-planyana
-planana
-llambuna
-llamhuchina
-llanuyachina
-layachina
-pambachina
-pamhada rurana
-APLASTAR
-llapina
-llapichina
-ñitina
-llapchina
-p'aquina
-p'aquichina
-APRENDER
-yachacuna
-yachana
-yachajuna
-yachaguna
-APRETAR
-ajushtana
-nitina
-sipina
-capina
-llapina
-apurtana
-apitana
-AQUI
-caipi
-caibi
-quibi
-AQUEL
-chai
-chi
-ARADO
-arma
-yapuna
-aradu
-charina
-yapuna aradu
-llugu
-timun
-ARMA
-araña
-ariana
-ARAR
-yapuna
-ARBOL
-yura
-quiru
-ARCO
-chaqui shungu
-chaqui pamba
-chaqui ucu
-chaqui planta
-chaqui arcuyashca
-chaqui curvas
-chaupi chaqui
-ARCO IRIS
-cuichi
-cuyuchij
-hualambari
-ari chiri
-ARDER
-rupana
-raurana
-cunujchina
-cunugyana
-cunyana
-ARENA
-t'iyu
-tiyu
-jarina
-yugzi
-zugzi
-alpa
-allpa
-llugzi ashpa
-llugzi allpa
-ARETE
-sarsillu
-sarsillus
-urijiris
-urijis
-aritis
-sarsilis
-sarsisu
-rinri huachca
-rinri urijis
-ARISCO
-qu'ita
-jita
-p'iña
-ariscu
-jitún
-ARRANCAR
-p'itina
-tirana
-fitina
-llujshichina
-cuchuna
-liquina
-ARREGLAR
-allichina
-parijana
-cumpunina
-cumbunina
-alichina
-riglana
-ARRIBA
-jahua
-janaj
-jana
-huichi
-ichi
-ARRIMAR
-cuchuyachina
-arrimana
-quimina
-quimichina
-muntunana
-laduchina
-tandachina
-chayachina
-cuchuchina
-ARRODILLARSE
-cungurina
-ARRUGA
-sipu
-zuzuj
-zuzugyashca
-sipurina
-sipushca
-ASAR
-cusana
-ASI
-chashna
-cashna
-shina
-china
-chasna
-ASOMARSE
-ricurina
-ASPERO
-shagra
-paza
-p'ala
-lluru lluru
-zharu
-sagruzu
-ASUSTARSE
-mancharina
-manllarina
-sustarina
-ATAJAR
-jarcana
-ATAR
-huatana
-ATRANCAR
-jarcana
-trancana
-ATRAS
-huasha
-huajta
-ATRASARSE
-qu'ipayana
-jichurina
-jipayana
-huashayana
-huashamuna
-quichurina
-atrazana
-huashada shamuna
-AUMENTAR
-mirachina
-mirana
-yapana
-AVE
-pishcu
-pishquitu
-bishu
-munchi
-AVENTADOR
-huairachidur
-abintadur
-huairachina
-p'ucuchina
-abintana
-abintu
-abanicu
-supladur
-AVENTAR
-huairachina
-abintana
-p'ucuna
-suplana
-AVERGONZARSE
-pingarina
-pingui tucuna
-pingai tucuna
-pinganayana
-pinganayarina
-pinganachina
-pinganayachina
-pinganana
-AVERIGUAR
-tapuna
-abiriguana
-taripana
-ahrigana
-AVISAR
-huillana
-villana
-illana
-AYER
-caina
-AYUDAR
-ayudana
-AZADON
-azadun
-AZIJL
-azadu
-azadu cahu
-AZOTAR
-azutina
-huajtana
-pigana
-dalina
-llulluna
-astina
-cashtigana
-llibachina
-AZOTE
-azil
-azuti
-cara huasca
-azutina
-chicuti
-bulliru
-AZUL
-ázul
-aururu
-laru
-BABAS
-ty'uca
-ch'uca
-llausa
-babas
-babus
-t'uca
-tuca
-lausa
-BAILAR
-hailana
-danzana
-tushuna
-BAJARSE
-uricuna
-uriyana
-urijuna
-uraicuna
-uriyajuna
-urtarina
-huaiquiyana
-BAJO
-ucu
-pamballa
-pambala
-baju
-urai
-alpalla
-alpala
-urilla
-huaicu
-BAJO
-uchilla
-utilla
-utila
-uchila
-BAÑARSE
-armana
-armarina
-BARBA
-barbus
-barbas
-BARRER
-p'ichana
-pichana
-fichana
-BARRIGA
-huijsa
-vijsa
-ijsa
-huigsa
-BARRO
-turu
-ludu
-guzu
-ashpa turu
-yacu ludu
-achpa
-BASTANTE
-achca
-ashca
-milga
-mirga
-ashtaca
-achija
-BASTON
-tauna
-caspi
-tauna caspi
-BASURA
-mapa
-basura
-jupa
-c'arca
-p'unzu
-p'untsu
-BATEA DE MADERA
-batia
-bacha
-caspi huigru
-bunqui
-batea de madera
-BATIR
-c'ahuina
-batina
-jahuina
-cuyuchina
-cavina
-nishina
-BAUL
-bahuil
-baul
-cájun
-baulu
-bahual
-BAUTIZAR
-shutchina
-bautisana
-bautizana
-BAUTIZO
-shutichina
-shutichi
-bautizu
-bautizmu
-bautizana
-BAYETA
-baita
-bayita
-anacu
-p'achalli
-ribusu
-BEBE
-huahua
-BEBER
-ubiana
-upiana
-BECERRO
-bizi
-billi
-shicu
-BESAR
-muchana
-BESO
-mucha
-muchana
-muchai
-BIEN
-alli
-bin
-ali
-BIZCO
-tuirtu
-biscu
-carglan
-ishtuda ricuj
-huistu ñahui
-hizgu
-turtu
-BLANCO
-yuraj
-yuruj
-BLUSA
-bluza
-camiza
-cutuna
-talpa
-pulca
-bulsa
-BOCA
-shimi
-ROCA ABAJO
-uri singa
-urai singa
-ura singa
-uri shimi
-shimi pambabi
-shimi huaicupi
-BOCA ARRIBA
-allagman
-huichi singa
-huichai singa
-vichai singa
-ichi singa
-shimi jahua
-allagma
-BOCADO
-amulli
-hucadu
-p'iticu
-p'itihua
-pitillahua
-amullihua
-amullillahua
-malina
-shimi junda
-BOLSA TEJIDA
-shigra
-sigra
-igra
-jigra
-muchilu
-bulsa shigra
-BONITO
-alaja
-sumaj
-c'uilla
-alli
-c'uyailla
-c'uyana
-c'uidi
-juila
-juyailla
-sumaimana
-sumita
-BORDE
-manya
-p'ilu
-huilu
-pata
-maya
-mujun
-urilla
-ladu
-BORRACHO
-machashca
-macha
-shinga
-ubiashca
-ufiashca
-macharishca
-mashca
-shingashca
-BOSTEZAR
-jayajchaina
-anina
-ampana
-jalla nina
-agulana
-aulajina
-ja nina
-yarijachina
-shimi pascana
-huai nina
-puñunachina
-bustizana
-jairichina
-BOTAR
-shitana
-sitana
-jicupana
-jichuna
-BOTON DE PLANTA
-llullu muyu
-muyu
-bútun
-ñahui
-sisa tucuna
-butu
-puluj
-mugmu
-pitu
-muru
-BRAVO
-p'iña
-culira
-millai
-fiña
-piñashca
-chiqui
-payuzu
-BRAZO
-rigra
-BRILLAR
-achij nina
-rupana
-p'ala nina
-punllayachina
-punchayachina
-p'aglinijuna
-p'alaquina
-yuragyana
-luziyana
-llipana
-achillana
-brillana
-BRINCAR
-saltana
-tincana
-tushuna
-brincana
-fahuana
-yumbuna
-BRINDAR
-carana
-cumbidana
-cuna
-BROMA
-chanza
-burla
-pugllana
-transia
-chascu
-brumana
-chisti
-BROTAR
-huiñana
-huiñamuna
-tugyana
-brutana
-viñamuna
-butuyana
-llujshina
-sisana
-tigyana
-BROTE FLORAL DE MATZ
-tujtu
-t'ujtu
-chugllu sisa
-tutui
-t'ucu
-BRUJA
-bruju
-yachaj
-yumhu
-salamanga
-ichiziru
-BRUJEAR
-brujyana
-brujiyana
-brujune
-p'ajtachina
-brujana
-brujuyana
-p'ucuchina
-brujuchina
-chiquiyana
-maluyana
-ichisana
-BUENO
-alli
-ali
-BUHO
-cusungu
-p'ucungu
-chushuj
-chushaj
-chushij
-pillij
-chuscu ñahui
-buho
-BULTO
-quipi
-quipipacha
-BURBUJA
-yacu bumha
-puscu
-yacu bula
-juirsti juirsti
-ispuma
-yacu t'imbu
-p'utsul nina
-yacu pirlas
-BUSCAR
-mashcana
-mascana
-CABALLO
-caballu
-bishcha
-abiu
-CABELLO
-ajcha
-agcha
-jajcha
-juajcha
-CABEZA
-uma
-mundungu
-CABUYA BLANCA
-yuraj chahuar
-yuruj chaür
-chahuar
-chaür
-yuraj tsahuar
-tsahuar
-tsaür
-cabuya
-pincu
-CABUYA NEGRA
-yana chahuar
-yana chaür
-yana tsaür
-yana tsahuar
-pinca
-chahuar
-chaür
-mijicu
-pincu
-CACA
-isma
-caca
-CADA
-cada
-CADAVER
-aya
-huañushca
-alma
-huañushca alma
-animas
-huañuj
-huañushca cuirpu
-CAERSE
-urmana
-sitarina
-singuna
-tigrana
-CALABAZA
-zambu
-quitumusu
-samhu
-quitu
-sapallu
-cálabaza
-p'uru
-mati
-angara
-quiti
-CALAMBRE
-calambri
-chaqui huañushca
-maqui huañushca
-quinti
-chaqui huañui
-maqui huañui
-chaqui upayashca
-maqui upayashca
-puzujina
-calambi
-calambris
-CALAVERA
-uma tullu
-huañushca tullu
-uma calabira
-huaire uma
-CALENTARSE
-cunugyana
-cunurina
-rupagyana
-rupugyana
-cunuchina
-cunujchina
-cununa
-titagyana
-CALIENTE
-cunuglla
-rupaj
-rupuj
-cunuj
-rupaglla
-titaj
-CALOR
-rupai
-rupi
-rupaj
-cunuj
-rupuj
-titaj
-CALLARSE
-upallana
-upayana
-upalana
-upana
-CAMA
-cama
-puñuna
-manda
-manta
-c'ahuitu
-cahuitu
-palti
-CAMINAR
-purina
-rina
-CAMINO
-ñan
-CANASTA
-taza
-canasta
-canista
-canastu
-canashta
-canishta
-ashanga
-jaladura
-pitaca
-CANCION
-cantu
-cantana
-candana
-tunu
-CANDELA
-nina
-CANILLA
-chaqui pingullu
-pingullu
-canilla
-sampi
-CANSADA
-shaicushca
-chaicushca
-jaicushca
-shaijushca
-CANSARSE
-shaicuna
-chaicuna
-jaicuna
-shaijuna
-CANTAR
-cantana
-birsiana
-candana
-CANTARO
-puñu
-huallu
-CAÑA DULCE
-huiru
-mishqui huiru
-viru
-iru
-CAPULI
-capúlis
-capus
-capulís
-capulí
-CARA
-ñahui
-ñavi
-uya
-CARACOL
-churu
-churucu
-caracul
-unij
-CARBON
-nina muru
-cárbun
-carbún
-chamba
-quillmishca
-CARDAR
-tisana
-cardana
-p'ichana
-pirchana
-raspana
-aspina
-CARGAR
-aparina
-huanduna
-quipina
-chi rash apana
-CARNE
-aicha
-CARNICERO
-aicha c'atuj
-aichiru
-aicha jatudur
-aicha jatu
-aicha jatuj
-tirsina
-carnisiru
-CARO
-caru
-bálur
-balij
-bali
-balishca
-caruyashca
-CARRIZO
-chaglla
-sucus
-carrizu
-jucus
-suru
-güamaj
-CASA
-huasi
-CASARSE
-cazarana
-cazarina
-CASCADA
-p'ajcha
-tasqui
-churrira
-churriamuna
-fajcha
-tasahuäi
-CASCARA
-cara
-CASCA
-sillu
-shillu
-CASI
-cazi
-ñalla
-yala
-ashamunta
-ñazitu
-yaca
-CASTIGAR
-castigana
-azutina
-tacana
-cashtigana
-pigana
-astina
-macana
-llaquichina
-dalina
-CASTRAR
-capana
-capu sitana
-ruru surcuna
-CATAPULTA
-p'licha
-catapulga
-tirana
-pallca
-tingadur
-catapulca
-catapugla
-plicha
-risurti
-jibi
-CATZO
-c'atsu
-jatsu
-catsu
-chuna
-p'illa
-c'achuj
-CAVAR
-allana
-ujtuna
-pambana
-CAZUELA
-huichi
-vichi
-ichi
-CEGAR
-tuirtuyana
-siguyachina
-amsayachina
-ansayachina
-ñausayachina
-ñahuichcana
-CEJA
-ñahu millma
-ñahu pata millma
-ñahu pata
-ñavi pata
-ñavi milma
-ñahui milma
-ñahui huillma
-ñahui p'arp'ara
-sija
-amparu
-quisipra
-CELOSO
-siluzu
-silaj
-silana
-silashca
-CENIZA
-ushpa
-uchupa
-uchpa
-uchufa
-CENTRO
-chaupi
-chajpi
-chaubi
-chullpi
-CEÑIR
-chumbillina
-huatana
-anacuna
-huatallina
-chumbilina
-tsutsuquina
-CERA
-ispilma
-bila
-sira
-sibu
-CERCA
-cuchulla
-cailla
-ladulla
-ladula
-ladu
-sircala
-juchu
-juchulla
-quinri
-manyalla
-cuchu
-CERCAR
-pircana
-quinllana
-quinzhana
-tafiana
-quimirina
-sircana
-quinlla rurana
-quichquiyana
-sanjana
-sancana
-pata tacana
-pata muyuchina
-CERCO
-quinlla
-talanquira
-pirca
-sanja
-curral
-sanjashca
-sanca
-quinzha
-pata
-pata muyushca
-CEREBRO
-uma ñutcu
-ñujtu
-ñutcu
-ñutuju
-uma ñutuju
-ñujtuhua
-mundungu ñutcu
-sisuhua
-CERNER
-shushuna
-CERRAR
-huichcana
-huishcana
-huichicana
-vichcana
-ichcana
-CERRO
-urcu
-luma
-CIEGO
-tuirtu
-ñausa
-sigu
-turtu
-mana riqui pudij
-mana ricuj
-churgu
-siñihui
-CIELO
-jahua pacha
-silu
-jahua silu
-janaj pacha
-CIEN
-patsaj
-pasaj
-CIENTO
-patsaj
-pasaj
-CINCO
-pichca
-pishca
-picha
-CINTURON
-chumbi
-curria
-huatana
-badana
-sintru
-siñidur
-sinitura
-cara chumbi
-CIRCULO
-muyundij
-bumba
-muyundi
-muyu
-muyushca
-muyuchishca
-muyui
-ridundu
-GLARO
-chuya
-achiglla
-laru
-p'unllalla
-punllalla
-puncha
-punzha
-trigli
-chirlilla
-limpiu
-CLASE
-laya
-yala
-CLAVAR
-clabana
-clabuda tacana
-tacana
-satina
-tabudu satina
-labuda satina
-ishtacana
-COAGULO
-cuajarishca
-tugru
-jinchiyashca
-curta
-curpa
-curpuyashca
-matashca
-carachishca
-birdiyashca
-COBIJA
-c'ata
-c'atana
-jatana
-mantana
-COBIJAR
-c'atana
-c'atallina
-c'atarina
-jatana
-jatachina
-jatarina
-p'achachina
-COCINA
-yanuna ucu
-cuzina ucu
-yanunaucu
-ucu yanuna
-nina ucu
-COCINAR
-yanuna
-rupachina
-CODO
-maqui cudu
-maqui mucu
-maqui talun
-rigra mucu
-uyun
-rigra talun
-rigra cudu
-maqui mudu
-COGER
-japina
-COGOLLO
-ñahui
-ñihui
-planta butiyashca
-llullu
-llullu qu'ihua
-nasirijuj
-huacu
-COJEAR
-suchuyana
-jangana
-suchuna
-suchu purina
-janga purina
-chulla changa purina
-ringu ringulla purina
-ringuyana
-jancana
-patujiana
-COJO
-suchu
-patuju
-ringu
-cuju
-cujitu
-janga
-janca
-janga patuj
-COL
-culus
-COLA
-chupa
-rabu
-cula
-COLADA
-api
-mazamurra
-sangu
-COLERA
-p'iñarina
-culira
-rabia
-rabi
-rabiarishca
-fiñai
-aburri
-COLORADO
-puca
-COLLAR
-huallca
-huashca
-hualca
-huachca
-cunga huashca
-COMADPE
-cumadri
-cumari
-achi mama
-COMENZAR
-callarina
-COMER
-micuna
-COMEZON
-shijshi
-shijshin
-cuminus
-COMIDA
-micuna
-COMJDA PARA LLEVAR A LA CASA
-huanlla
-huanllana
-huanllina
-COMO
-ima shina
-imana
-ima laya
-imashna
-imalya
-COMPADRE
-cumpadri
-cumpari
-cumbari
-achi taita
-COMPLETAMENTE
-tucuilla
-illijta
-libri
-cabalta
-dil tudu
-linshu
-illajta
-illaita
-illita
-ishta
-ali pacha
-limpiu
-tucui alli
-juin alli
-pajta
-COMPLETAR
-tucuchina
-pajtachina
-p'ajtachina
-ajushtana
-ajustana
-tandachina
-COMPONER
-allichina
-parijana
-cumpunina
-cumbunina
-alichina
-alliyachina
-COMPRAR
-randina
-CONCLUIR
-tucuchina
-puchucana
-rana
-rurana
-CONDOR
-cundur
-CONEJILLO DE INDIAS
-cuyi
-cui
-curbiñu
-CONEJO
-cunu
-cuniju
-CONOCER
-rijsina
-CONSTRUIR
-huasichina
-rurana
-shayachina
-ruhuana
-urana
-callarina
-rana
-trabajana
-CONTAR
-yunana
-cuintana
-parlana
-cuintana
-rimana
-CONTENTO
-cushi
-cuntintu
-cushilla
-alli
-aliri
-jushca
-CONTINUAR
-catina
-callarina
-c'atina
-CONVENCER
-mishana
-binsina
-cumbinsina
-atina
-crichina
-mandana
-yallina
-umana
-yalli parlana
-CONVERSAR
-parlanacuna
-parlana
-parlanucuna
-parlanajuna
-CONVERTIRSE
-tucuna
-trucana
-cambiyana
-builtarina
-COPO
-huangu
-millma huangu
-puchcana huangu
-puchcana maitu
-ulca
-CORAZON
-shungu
-curasun
-CORDERO
-batiuj
-ubija
-huahua llama
-llama
-hatiu
-huahua uhijita
-uchuil ufia
-llullu llama
-CORTAR
-cuchuna
-p'itina
-fichina
-CORTAR HIERBA
-qu'ihuata cuchuna
-qu'ihuana
-jihuana
-qu'ihuada cuchuna
-qu'ihuata c'uchuna
-jihuata cuchuna
-jihuada cuchuna
-qu'ihuata p'itina
-CORTAR PELO
-rutuna
-rutuchina
-muchuna
-n'itina
-nituna
-cuchuna
-CORTEZA
-yura cara
-cara
-caspi cara
-quiru cara
-yura shimi
-CORTO
-uchila
-utilla
-uchilla
-uchula
-uchuj
-umuta
-putu
-c'utu
-cutu
-jurula
-chilla
-CORRAL
-cúrral
-quinlla
-cúrrul
-huichcana
-CORREDOR
-currídur
-currídur pungu
-pungu
-pugra
-curdur
-huasi ñaupaj
-canlla pungu
-CORRER
-callpana
-bulana
-currina
-calpana
-curriyana
-saltana
-utca purina
-COSECHAR
-cuzichana
-cuchuna
-cuzuchana
-pallana
-tandachina
-chagrana
-chagllana
-COSER
-sirana
-COSQUILLEAR
-shijshichina
-cusquichina
-pishpichina
-COSTILLA
-custilla
-cushtilla
-cushtillas
-cushtilis
-custijis
-curtilis
-cushtis
-custis
-cushtiris tullu
-cartilis quinri
-COSTUMBRE
-cushtumbri
-custumbri
-yachashca
-yacharishca
-yachai
-COYUNTURA
-mucu
-juntashca
-CRECER
-huiñana
-jatunyana
-viñana
-iñana
-mirana
-mirachina
-CREER
-crina
-criyina
-CRESPO
-crispu
-tipu
-mirinu
-zirbu
-zhirbu
-zupi
-zipu
-izupu
-lluru
-tsirapa
-chirilu
-chivilu
-crispuma
-churu uma
-CRIAR
-huiñachina
-criana
-viñachina
-iñachina
-CRIATURA
-huahua
-llullu huahua
-utilla huahua
-uchilla huahua
-utilla huambra
-llullu mara
-CRIBAR
-shushuna
-sidasuna
-ajichana
-maillana
-CRUCIFICAR
-chacatana
-CRUDO
-chahua
-jalun
-c'alun
-CRUZAR
-chimbana
-cruzana
-pasana
-pasuna
-cruzarina
-dirichina
-CUADRAR
-cuadrana
-llagllana
-cuadrarina
-cuadriana
-labrana
-cuadrachina
-cuadraduda rurana
-chuscu isquinata rana
-CUAL
-maijan
-maijin
-maican
-maijun
-CUANDO
-ima ura
-ima uras
-imauras
-imaura
-jaica
-imura
-imuras
-ima urusta
-ima ratu
-ima caica
-CUANTO
-mashna
-CUARTO
-ucu
-CUATRO
-chuscu
-CUCHARON
-mama cuchara
-mama juchara
-visha
-huishla
-cuchárun
-cucharún
-CUELLO
-cunga
-CUERDA
-huasca
-cuirda
-cauchu
-angu
-alambri
-pajpa cuirda
-largu cauchu
-angu huasca
-CUERO
-cara
-CUERNO
-gachu
-cachu
-c'achu
-CUESTA
-huichi
-huichai
-vichai
-ichi
-ladira
-luma
-CUEVA
-utcu
-jutcu
-machai
-ujtu
-huaicu ujtu
-sucabún
-utuju
-jujtu
-matsi
-matsai
-c'ac'a utcu
-huaicu chuchu
-CUIDADO
-pajta
-p'ajta
-cuidadu
-cuidai
-CUIDAR
-cuidana
-ricuna
-ricurana
-chapana
-ricush cuidana
-CULPA
-jucha
-culpa
-juchachi
-causa
-cauza
-CULPAR
-juchachina
-culpana
-achacana
-cargunchina
-CUMBRE
-jahua punta
-urcu punta
-urcu uma
-urcu luma
-jahua luma
-urcu punda
-luma punda
-CUMPLIR
-pajtachina
-cumplina
-p'ajtana
-pagtachina
-ubidisina
-CUÑADA
-c'achun
-cuñada
-jachun
-cachun
-masha
-pani masha
-ñaña masha
-CUÑADO
-masha
-cuñado
-CURANDERO
-jambidur
-jambij
-jampij
-yachij
-miticuj
-jambij yumbu
-CHARCO
-tamia yacu
-cucha
-cuchayashca
-charcu
-tamia cucha
-yacu cucha
-tamia laguna
-utilla cuchahua
-yacu puza
-CHARQUI
-irqui
-tsarqui
-chaquishca aicha
-charqui
-CHATO
-ñatu singa
-ñatu
-llapa singa
-llapi singa
-singa tablayashca
-p'ataj singa
-ñapi singa
-llapirishca
-singa
-CHICO
-uchila
-utilla
-uchilla
-uticu
-uchuj
-uchiquilla
-ucha
-uchulla
-chuzu
-utila
-utijla
-uchuilla
-CHICHA
-as-hua
-asua
-asuhua
-CHICHERIA
-asua huasi
-ishtancu
-asuhua huasi
-ishtincu
-istancu
-asuaría
-asuhua ucu
-asuhua c'atu
-asuhua c'atuj
-asua c'atuna
-asuhua jatuj huasi
-asuhua c'atuj huasi
-CHILLAR
-caparina
-aullana
-huacana
-bullayana
-huillijana
-huizaj nina
-CHISTE
-chanza
-asichina
-burla
-burlana
-bruma
-pugllana
-chisti
-CHIVO
-chita
-chibu
-cabru
-CHOCHO
-tauri
-chuchu
-muru
-chocho
-CHOCLO
-chugllu
-CHOZA
-chuglla
-ujsha huasi
-sijsi huasi
-chuglla huasi
-puntsu huasi
-carpa
-CHUMARSE
-machana
-shingayana
-macharina
-CHUMARDO
-machashca
-macha
-shinga
-shingayishca
-mashca
-machaj
-machishca
-CHUPAR
-chupana
-tsupana
-tsungana
-DANZAR
-danzana
-bailana
-tushuna
-fahuana
-yumbuna
-DAÑAR
-huagllina
-dañana
-huagllichina
-huaglina
-huagllirina
-dañuna
-DAR
-cuna
-DAR A LUZ
-huachana
-unguna
-mirana
-pacarina
-sajhuarina
-huacash unguna
-DAR DE COMER
-carana
-micuchina
-cuna
-DAR VUELTAS
-muyuna
-DEBAJO DE
-ucu
-ura ucu
-ura
-DEBER
-dihina
-dibiyana
-cuna cana
-p'iana
-DEBIL
-irqui
-t'ala
-tullu
-t'alayashca
-p'luju
-p'lujulla
-zala
-pishi
-DECIR
-nina
-rimana
-DEDO
-didu
-DEFECAR
-ismana
-cacana
-ismashcana
-ismascana
-DEFENDER
-mitsana
-jarcana
-difindina
-misarina
-ama nina
-mitsarina
-shayarina
-na nisha jarcana
-difindirina
-quishpichina
-DEJAR
-saquina
-quipirina
-DELANTE DE
-ñaupaj
-yumpuj
-ñaupu
-ñaujpu
-ñaubu
-ñugpa
-ñumpai
-DELGADO
-ñañu
-tsala
-huañu langui
-ch'uzu
-chuzu
-jamzi
-yañuy
-raya raya
-caspi
-p'lacu
-tullu
-ñutu
-DELICADO
-ñañu
-dilicadu
-tullu
-jahualla
-p'aquij
-p'aquiriglla
-irqui
-tuparinala
-jamzi
-huaglinalla
-huagllinalla
-huaglli shungu
-uchu shungu
-LOS DEMAS
-caishujcuna
-chaishujcuna
-chaicuna
-shujcuna
-cutin shujcuna
-chashujcuna
-DEMASIADO
-yalli
-ashca
-yapa
-yallimana
-rucu
-yallijta
-dimasiadu
-dimus
-achca
-ashtan
-digushtu
-DEMONIO
-supai
-diablu
-aya
-cucu
-milli
-dimuñu
-p'antazmu
-judas
-DEMORAR
-uniyana
-tardana
-dimurana
-shuyana
-unayana
-cainana
-cainachina
-saquirina
-jipayana
-parana
-DENTRO DE
-ucu
-DERECHA
-alli ladu
-ali ladu
-runa ladu
-DERECHO
-rijtu
-dirichu
-DERRAMAR
-jichana
-tallina
-shutuchina
-talina
-t'allina
-yaiyuna
-llujshina
-DERRETIR
-yacuyachina
-yacuyana
-nuyurina
-nuyuna
-DERRUMBAR
-t'uñina
-t'uñirina
-t'unina
-t'unirina
-tunina
-tuñina
-DERRUMBE
-t'uni
-t'uñirishca
-t'uñi
-tuni
-tuñishca
-t'unishca
-tuñiri
-tuñi
-DESABRIDO
-jamlla
-chamuj
-chamaj
-chama
-chanlla
-aminda
-mana allichishca
-ganu
-gamu
-DESAPARECER
-chingarina
-chingana
-mana ricurina
-chingachina
-miticuchina
-DESATAR
-pascana
-cacharina
-disasina
-llujshichina
-DESAYUNO
-disayunu
-shungunchi
-shungui
-shunguna
-chinchi
-chinlli
-ayunana
-tutamanta micuna
-chinzhina
-DESCALZO
-lluchu chaqui
-llatan chaqui
-lataj chaqui
-chusha chaqui
-chaquilla
-llatanlla
-DESCANSAR
-samana
-samarina
-discansana
-DESCARGAR
-uricuchina
-urijuchina
-huaiquiyachina
-pascana
-uraicuchina
-uriyajuchina
-urtana
-uricachina
-uriquina
-quipita anlluchina
-DESCENDER
-uriyana
-urijuna
-uricuna
-uriquina
-uriyajuna
-urichina
-urtarimuna
-suchuna
-huaiquiyana
-huaicuyana
-siquiyana
-shitarina
-DESCUIDAR
-cungarina
-cungana
-discuidana
-sitana
-saquina
-saquirina
-mana cuidarana
-mana allillu cuidana
-man alli cuidana
-DESEAR
-munana
-DESEO
-munai
-muni
-munana
-ámur
-antuju
-DESGRANAR
-ishcuna
-huishcuna
-DESGREÑADO
-tsatsa uma
-uma sapa
-tsirapa
-puluyashca
-taza uma
-ajcha cacharishca
-sin ñajcha
-marqui uma
-ajcha jatarishca
-uma shayarishca
-uma carpayashca
-cupa urna
-shira urna
-DESHERBAR
-jallmana
-allmana
-jalmana
-jihuana
-quihuana
-cultivana
-jahuada anchuchina
-jihuata llujshichina
-DESHOJAR
-tipina
-malquina
-raumana
-tispina
-surcana
-DESIERTO
-shitashca
-sitashca
-jichushca
-jicushca
-chulunlla
-chulun
-chunlla
-shitishca
-DESIGUAL
-chulla
-chullayashca
-chullarishca
-chulla chulla
-chullayanacushca
-dischulla
-chuzu racu
-na igul
-mana igual
-disigualarishca
-shuj laya
-DESLIZAR
-lluchcana
-llushcana
-llushcarina
-lluchcarina
-lluchgarina
-llambuyana
-llushpina
-chapurina
-tilayachina
-DESMAYARSE
-dismayana
-ataqui tucuna
-ataqui cuna
-shungu ansayana
-ñahui ansayana
-malrusta charina
-dismayu japina
-rntu huañuna
-calagyana
-p'atigarina
-dismayachanina
-DESMONTAR
-uricuna
-bultachina
-truchana
-tulana
-urijuchina
-urtarina
-urtarina
-uriquina
-uriyana
-uraicuna
-huaiquiyana
-dismuntuna
-allana
-shitarina
-DESPACIO
-allila
-allilla
-gushtulla
-gustulla
-allimanda
-allimanta
-alimanda
-allimunta
-alilla
-lluca lluca
-jahualla
-DESNUDO
-lluchu
-llatan
-lluchulla
-llushti
-llatanlla
-aichalla
-DESOLLAR
-lluchuna
-pilana
-llushtina
-ushtina
-DESPEDAZAR
-p'aquina
-pidasuna
-pidasuchina
-liquina
-p'itina
-p'itinacuna
-utuna
-p'aqui p'aquida rurana
-p'iti p'itida rurana
-DESPEDIRSE
-dispidina
-bultangahu rina
-cayagama nina
-cayacama nina
-ratucama nina
-adius nina
-dispidisha rina
-cayacamana
-DESPERTARSE
-rijcharina
-llijcharina
-DESPIOJAR
-usana
-usa japina
-usa pallana
-usa mascana
-usa catina
-DESPLUMAR
-pilana
-lluchuna
-pluma anchuchina
-pilarina
-DESPUES
-qu'ipa
-jipa
-quipa
-cati
-chaijipa
-qu'ipamun
-ashallaun
-DESTRUIR
-tucuchina
-huagllichina
-dañana
-pascana
-p'aquina
-huaglichina
-p'aquisha tucuchina
-DESUNIR
-chicanyachina
-partina
-laduyachina
-siparana
-chaupina
-siparachina
-anchuchina
-pascana
-yaiyurina
-raquirish rina
-DETENER
-charirina
-jarcana
-charijuna
-charina
-shayachina
-cainachina
-ama nina
-jipayachina
-jinchijuna
-junchichina
-quimichina
-mana cacharina
-DETRAS DE
-huasha
-jipa
-huajtala
-siqui
-qu'ipa
-huashai
-DEUDA
-dihi
-p'iashca
-DEVANAR
-cururuna
-madijana
-tandachina
-cururuta rana
-pilluchina
-canillana
-DEVOLVER
-cutichina
-tigrachina
-bultachina
-buitachina
-intrigana
-bultiachina
-DIA
-punlla
-p'unlla
-punzha
-puncha
-DIA SIGUIENTE
-cayandij
-cayandi
-caya punlla
-catij p'unlla
-sarun puncha
-cayindi
-cayundi
-jayandi p'unlla
-cayandij p'unlla
-catirishca p'unlla
-qu'ipa p'unlla
-caya punzha
-mincha punlla
-chashna punzha
-DIABLO
-supai
-cucu
-diablu
-dimuñu
-milli
-diya
-aya
-camitis
-judas
-ujuju
-ajaja
-DIARREA
-quicha
-quicha yalina
-quichai
-camaris
-siguidillus
-quichana
-cursia
-DIENTE
-quiru
-DIEZ
-chunga
-DIFERENTE
-shujtaj
-shuj laya
-cutin shuj laya
-shuj
-shuj yala
-shujtij
-na igulchu
-mana igual
-chican chican
-DIFICIL
-trabaju
-jinchi
-sinchi
-mana p'asil
-shinlli
-mana ushanalla
-mana ushaipaj
-mana pudinachu
-chinchi
-mana jahualla
-dip'isil
-DIFUNTO
-huañushca
-aya
-huañuj
-alma
-juañuj alma
-DIMINUTO
-pichila
-utillahua
-antsala
-uchiquillahua
-utillahuahua
-uticu
-utillahualla
-c'utu
-utilla
-uchilla
-uchinlla
-añinguhua
-pichilla
-chuzu
-juin ñutu
-uchillitu
-uchuillitu
-DINERO
-cullqui
-culqui
-cushqui
-cuchqui
-cuzhqui
-DISFRAZADO
-mudarishca
-llujshishca
-disfrasarishca
-lujshishca
-disfrasadu
-llujshichishca
-mudushca
-bistishca
-huarmi tucushca
-churarishca
-llujshirishca
-DISLOCAR
-qu'ihuina
-quihuina
-cuyurina
-qu'ihuirina
-mucu p'aquirina
-quivina
-chugrina
-mucu llujshina
-lantusquirina
-pasachina
-DISOLVERSE
-yacuyana
-nuyuna
-nuyurina
-DISPARAR
-tirana
-tugyachina
-tiru cacharina
-apuntana
-DISTANTE
-caru
-DISTINTO
-shuj laya
-chican laya
-shican
-chican
-cutin shuj laya
-shujtaj shujtaj
-mana igual
-distintu
-DIVIDIR
-partina
-chaupina
-chagpina
-chahuapina
-chugpina
-DOBLARSE
-patarina
-dublana
-dublarina
-DOLER
-nanana
-nanachina
-DOLOR
-nanai
-nani
-DOMESTICAR
-mansana
-mansuyachina
-mansayachina
-yachachina
-cushiyachina
-mansuna
-yacharichina
-mansu tucuna
-DONDE
-mai
-DORMILON
-puñui siqui
-puñi siqui
-puñui abirishca
-suiñui siqui
-ipij
-suñudur
-durmui siqui
-DORMIR
-puñuna
-durmina
-suiñuna
-DOS
-ishqui
-ishcai
-iscai
-DUEÑO
-duiñu
-prupiu
-jatun amu
-cuñu
-DULCE
-mishqui
-DURO
-sinchi
-jinchi
-shinlli
-chinchi
-rumishna
-ECHAR
-shitana
-sitana
-jicupana
-sirichina
-huarcana
-carcuna
-abiana
-EDUCAR
-yachachina
-viñachina
-huiñachina
-cunsijana
-iducana
-EL
-pai
-ELEGANTE
-huapu
-sumaj
-alli
-juyailla
-jariyashca
-jari-jari
-huapula
-juhuila
-alli mudashca
-dipursi bistishca
-huirac'ucha tucushca
-alájahua
-sumajhua
-c'uilla
-juin alaja
-sumai mana
-ELLA
-pai
-EMBARAZADA
-chichu
-huijsayuj
-huijsayij
-vijsayuj
-huijsaun junda
-huijsa junda
-EMBORRACHARSE
-machana
-macharina
-shingayana
-shingana
-EMBOTADO
-chumu
-llambi
-putu
-bruncu
-llambulla
-tullmu
-p'ilu illij
-tugmu
-tyugmu
-utu ulu
-butarishca
-mutulu
-giluyashca
-EMBUDO
-imbudu
-jilpuna
-tutu
-imbudira
-EMPEÑAR
-prindana
-impiñana
-prinda saquina
-prinda churana
-prinda saquirina
-afanana
-EMPEZAR
-callarina
-EMPOBRECER
-huajchayana
-pubriyana
-illaj tucuna
-pugriyana
-huajchami tucuna
-pubri puru tucuna
-prubriyana
-huajcharina
-EMPREÑAR
-chichuchina
-chichuna
-saruna
-saruchina
-pasachina
-chichuyachina
-EMPUJAR
-t'angana
-tangana
-ENANO
-umutu
-uchila
-uchilla
-umuta gashta
-tatucuhua
-nipun
-ucupacha jinti
-c'utu
-changu
-qu'irij
-supun
-utilla
-utunlla
-utinlla
-uchuillitu
-ENCARGAR
-mingana
-mingaichina
-pusachina
-pudachina
-pudash saquina
-ENCENDER
-japichina
-catichina
-sindina
-ENCIAS
-quiru aicha
-quiru siqui aicha
-insías
-quiru guinsiaguna
-quiru huinguis
-quiru juchu aicha
-quiru chaqui aicha
-maca macaguna
-ENCIMA DE
-jahua
-ENCOGERSE
-quindiyana
-curparina
-tandanacuna
-utillayana
-curpayarina
-yaicurina
-c'utuyana
-huañurina
-uchillachina
-tandarina
-curpayana
-uchuillayana
-ENCONTRAR
-tarina
-japina
-ENCONTRARSE CON
-tupana
-tupanacuna
-tuparina
-ENDEREZAR
-dirichana
-dirichuna
-rijtuyachina
-allichina
-rijtiyachina
-alichina
-shayachina
-dirichina
-ENEMIGO
-cuntra
-inimigu
-cuntrariu
-p'iña
-ENFERMARSE
-ungurina
-unguna
-ungui japina
-ENFERMEDAD
-ungüi
-ungui
-ENGAÑAR
-umana
-ingañana
-huajtachina
-upallichina
-llullana
-crichina
-inquitana
-ENJUAGAR
-jahuana
-tajshi tucuna
-maillana
-tajshana
-yacu sitana
-guajana
-c'acuna
-ENOJAR
-p'iñachina
-culirachina
-p'iñarina
-p'iñana
-culirana
-fiñana
-fiñachina
-p'iñanacuna
-piñana
-ajana
-ENROLLAR
-pilluna
-pilluchina
-muyuchina
-cururuna
-patarina
-tandana
-p'illuna
-ENSARTAR
-cusana
-pallana
-pasachina
-jilbana
-tandachina
-insartana
-jilpuna
-mulluna
-cunga huashca sartada rurana
-ENSEÑAR
-yachachina
-ENSEÑARSE
-amañarina
-yacharina
-yachacuna
-ENTENADA
-la ushushi
-ila ushushi
-ilaushushi
-intinada
-laushi
-ila ushi
-shupaj ushi
-ENTENADO
-la churi
-ila churi
-intinadu
-shupaj churi
-ENTENADO
-la huahua
-ila huahua
-intinadu
-ENTENDER
-intindina
-uyana
-alli uyana
-ENTERAMENTE
-tucuita
-tucuilla
-libri
-illijta
-illajta
-linshu
-ishta
-limpiu
-illita
-cábal
-ENTERO
-tucui
-intiru
-junda
-cábal
-cábul
-tucuilla
-shinallataj
-tuqui
-libri
-dil tudu
-tucuita yalli
-ENTERRAR
-pambana
-intirana
-pambachina
-ENTONCES
-chaimanta
-chimunda
-chaimanda
-ña
-chimundaga
-shinchaca
-chaipi
-intunsis
-qu'ipa
-shinai
-ENTRAR
-yaicuna
-huaicuna
-huaiguna
-ENTREGAR
-cuna
-intrigana
-tigrachina
-intriguna
-cutichina
-chasquichina
-ENVIAR
-cachana
-ENVOLVER
-pilluna
-pilluchina
-quipina
-muyuchina
-patarina
-dublana
-mantana
-builtachina
-ENVOLVER A UN BEBE
-maituna
-envolver un bebe
-EQUIVALER
-pajtana
-igualana
-igulana
-igualtana
-pajtachina
-igulmi balina
-igualladi balina
-igulladi balina
-igulta balina
-balina
-iguallata balina
-balirina
-EQUIVOCARSE
-pandarina
-pandana
-pantarina
-pantana
-turbarina
-cungana
-cungarina
-ERUCTAR
-agyana
-agnina
-ajitana
-lanzanachina
-rigultana
-huiñarijuna
-bugyana
-iructana
-jairichina
-bugllina
-sami lujshina
-shungu bultana
-ESA
-chai
-chi
-ESE
-chai
-chi
-ESO
-chai
-chi
-ESCAMPAR
-pascarina
-usiana
-p'unlla pascarina
-silu claruyana
-p'uyu tucurina
-silu p'unllalla tucuna
-p'itirina
-pascacuna
-usiarina
-ESCASO
-pichilla
-ashalla
-illajlla
-p'itilla
-ashalla saquirishca
-iscasu
-pishilla
-p'iticuhualla
-pichila
-p'itihualla tucushca
-p'iti p'itilla
-casi illan
-ESCALERA
-iscalira
-chacana
-ESCAPAR
-miticuna
-mitijuna
-pacacuna
-safarina
-quishpirina
-iscapana
-pacajuna
-binsi tucuna
-ESCOBA
-p'ichana
-fichana
-ESCOJER
-agllana
-japina
-ESCONDER
-pacana
-miticuna
-miticuchina
-mitina
-pacacuchina
-pacayachina
-ESCRIBIR
-quillcana
-iscribina
-isquirbina
-quilcana
-apundana
-ESCUCHAR
-uyana
-uyarana
-riparana
-ESCUPIR
-ty'ucana
-t'ucana
-tucana
-chucana
-ESPALDA
-huasha
-lumu
-huasha tullu
-palitilla
-huasha cunga tullu
-ESPALDILLA
-huasha tullu
-palita
-ispada
-huasha
-huasha cudu
-huasha rigra
-mishqui tullu
-pala tullu
-rigra pala tullu
-rigra
-ESPANTAR
-manchachina
-manllarina
-ESPERAR
-shuyana
-ESPESO
-sangu
-japu
-ESPIAR
-chapana
-uyana
-chaparana
-unanchana
-ESPIGAR
-challana
-challina
-chalana
-pallajuna
-chujchina
-ispigana
-ispijana
-ispiga tucumuna
-sigana
-ESPINA
-casha
-ESPINAZO
-lumu tullu
-casha tullu
-huasha tullu
-ispinazu tullu
-casha puru
-huasha pilis tullu
-chaupi lumu tullu
-ESPOSA
-huarmi
-ESPOSO
-cusa
-ESPUMA
-puscu
-ispuma
-putsuju
-ESQUILAR
-rutuna
-p'itina
-ESTA
-cai
-qui
-ESTE
-cai
-qui
-ESTO
-cai
-qui
-ESTAR
-tiyana
-cana
-gana
-chutana
-aisana
-timplana
-timblana
-iñachina
-huiñachina
-mirachina
-tindina
-ESTOMAGO
-huijsa
-puzun
-shungu
-ijsa
-mama puzun
-ESTORNUDAR
-achu nina
-jachu nina
-jachaj nina
-jatsi nina
-jatsai nina
-ajtyu nina
-atsiana
-jatsiana
-achujsiana
-ESTRECHO
-quichqui
-quishqui
-quichiji
-ESTRELLA
-luziru
-istrilla
-ruziru
-p'ajna p'ajna
-ESTUDIAR
-yachana
-yachacuna
-istudiana
-istudina
-yachajuna
-ESTUFA
-tullpa
-tulpa
-chumin
-EUCALIPTO
-ucalitu
-ujalitu
-yucalitu
-yucalu
-nucaltu
-huajalitu
-EXCEDER
-yallina
-binsina
-atina
-pasana
-yalina
-yalli gana
-ashca pasana
-pirdish gastana
-jatun yupana
-EXCREMENTO
-isma
-caca
-huanu
-majada
-zili
-quicha
-EXISTIR
-tiyana
-causana
-cana
-gana
-EXPLOTAR
-umachina
-c'acuna
-shuhuana
-quichuna
-jacuna
-llapina
-jilluna
-EXPRIMIR
-capina
-EXTENDER
-chutana
-aisana
-suniyachina
-mirachina
-iñachina
-EXTRAÑO
-mana rijsishca
-p'urastiru
-shican
-juira
-p'uira
-ajinu
-piyiru
-shuj caru runa
-huichi llajta jinti
-shuj ladumunda jinti
-FACIL
-jahuall
-p'asil
-ruranalla
-juasil
-p'angalla
-facil
-FAENA
-p'aina
-faina
-FAJA
-chumbi
-sinidur
-FAJARSE
-chumbillina
-huatana
-anacuna
-chumbilina
-FALDA
-anacu
-pullira
-salla
-p'alda
-bata
-jiriquita
-ucunchi
-anagu
-FALDA
-miglla
-cunguri
-changa
-p'alda
-changa jahuapi
-FALSO
-llulla
-jualsu
-huagli
-jahualla
-dibil
-mana sirtu
-FALTAR
-illana
-p'altana
-faltana
-FAMILIA
-p'amilia
-aillu
-FELIZ
-cushi
-cuntintu
-allilla
-amur
-cushicui
-sumaj alli
-FEO
-p'iru
-jiru
-millai
-millanai
-millani
-malparisidu
-milli
-millanayai
-FERMENTAR
-p'ucuchina
-p'ucuna
-putsujuna
-agruchina
-agruyana
-puscuna
-timbuchina
-pucuchina
-FETIDO
-ashnaj
-ashna
-mucusiadu
-ashnarij
-ashnuzu
-ashnacuj
-ashnai
-FIAMBRE
-cucayu
-cucahui
-cucavi
-cucabi
-cucayi
-FIBRA DE CABUYA
-supas
-canatsi
-tsaür milma
-chahuar huangu
-chahuar cauchu
-tsaür ajcha
-qu'ihuilla chahuar
-qu'ihuilla puchca
-yugzuj
-cauchu
-ilacha
-puchca
-chahuar jilu
-jarsia
-pajpa
-FIEBRE
-calintura
-cálur
-ruparishca
-rupaj ungüi
-ujun calurian
-uju
-jibri
-quitaj
-cálur ungüi
-jatun ungüi
-rupari
-ungüi
-iscalu friu
-FIESTA
-p'ista
-p'ishta
-buda
-fishta
-bura
-p'isha
-p'isti
-juishta
-muguna
-FILTRAR
-shushana
-shushuna
-shutuna
-p'iltrachina
-FLACO
-irqui
-tullu
-tsala
-tsarqui
-lali
-charqui
-zala
-tulluyashca
-tullun caraun
-FLAUTA
-pingullu
-p'lauta
-gaita
-larnita
-lauta
-flauta
-FLOJO
-mana bali
-p'luju
-fluju
-amuglla
-p'luju p'luju
-lali
-p'angalla
-quilla
-cubardi
-qu'illa
-pluju
-FLOR
-sisa
-yura
-FLORECER
-sisana
-sisaguna
-sisamucuna
-sisayana
-sisacuna
-FLORIPONDIO
-huantuj
-lurip'undiu
-luripundiu
-huantuj sisa
-FLOTAR
-huambuna
-jacuna
-nadana
-sasuna
-p' lutana
-llutarina
-FOGON
-tullpa
-tulpa
-nina ata
-nina jutcu
-FONDO
-siqui
-FONDO
-ucu
-junda
-GIL
-p'aquirinalla
-p'aquirina
-jahualla
-faquirinalla
-faquirina
-p'aquina
-p'aquinalla
-jahualla p'aquinalla
-p'aquiriglla
-p'aquiri
-dilicadu
-p'aquirinala
-paquirinalla
-GAR
-c'acuna
-jacuna
-subana
-llunchina
-t 'acurina
-NTE
-p'rinti
-frinti
-ñahui pata
-p'rinti pata
-uma p'rinti
-ñaupaj uma
-JOL
-purutu
-p'rijul
-NTE A
-ñaupaj
-chimbapura
-p'rinti
-ñaupa
-ñaupu
-ñaupuj
-frinti
-pungu
-chimballa
-FRIO
-chiri
-FRUNCIR
-sipuna
-zuzugnina
-susugyana
-sipuyana
-p'runzi tucuna
-FRUTA
-p'ruta
-muyu
-FUEGO
-nina
-titaj
-calush
-calur
-FUENTE
-pugyu
-p'ugyu
-yacu ujtu
-yacu llujshij
-jundu yacu
-FUERA DE
-canlla
-huasha
-cancha
-siparadu
-juira
-FUERTE
-sinchi
-jinchi
-p'uirti
-shinlli
-chinchi
-p'uirzasapa
-huapu
-manchani
-juirsa
-duru
-FUERZA
-juirza
-jurza
-shinlli
-chinchi
-jinchi
-FUMAR
-chupana
-tsupana
-tabacuna
-fumana
-GALLINA
-atillpa
-atilla
-huallpa
-atilpa
-atulba
-atalpa
-atila
-átil
-atallpa
-hualpa
-GANA
-munai
-gana
-antuju
-munanayai
-muni
-GANADO
-huagra
-GANAR
-ganana
-GANAR
-binsina
-atina
-ganana
-mishana
-GARGANTA
-cunga
-tunguri
-guguti
-GARRA
-sillu
-shillu
-garra
-GASTAR
-gastana
-gashtana
-tucuchina
-GATEAR
-llucana
-GATO
-misi
-mishi
-GAVILAN
-anga
-huarru
-huaman
-gabilán
-quililicu
-GENEROSO
-alli shungu
-alli
-caraj
-alli alli
-alli cuj
-na mitsa
-jatun alli
-cariñuzu
-bali
-cumbidalun
-caralun
-GENTE
-jinti
-runa
-jindi
-GIRAR
-muyuna
-cuyuchina
-jirana
-GOLOSO
-jillu
-ansiuzu
-ánsiya
-milpadur
-achcón
-GOLPE
-huajtai
-tacana
-tacai
-macai
-taqui
-GOLPEAR
-huajtana
-tacana
-macana
-pigana
-GORDO
-gurdu
-huira
-racu
-rucu
-vira
-sapu
-GOTA
-shutui
-shutu
-gutila yacu
-GRACIAS
-Dius sulu pagui
-pagui
-Dius sulu pai
-Dius silu pagui
-paguirachu
-pashi
-GRANDE
-jatun
-GRANIZAR
-runduna
-rasuna
-rundu urmana
-GRANIZO
-rundu
-rasu
-muruchu
-GRANO
-muyu
-granu
-muru
-GRATIS
-yanga
-dimbaldi
-cumbidashca
-rigalashca
-GRIPE
-uju
-rumádis
-rumadisu
-catarru
-pisti
-uju ungüi
-uju ungui
-rumasu
-jibri ungüi
-purij ungüi
-GRIS
-puzu
-plumu
-cushni
-sucu
-zhiru
-uchupa
-GRITAR
-caparina
-huagnina
-GRITAR
-huacana
-caparina
-GRUESO
-racu
-GRUPO
-tandanacushca
-muntun
-ataju
-taucapura
-taugapura
-parga
-cancha
-buntun
-achcacuna
-juntu
-achica
-GUARDAR COMIDA PARA LLEVAR A LA CASA
-huanllana
-GUARDAR
-huaquichina
-huacaichina
-huajchina
-allichina
-alichina
-cuidana
-GUIAR
-pushana
-ñaupana
-ñagpana
-ñumpana
-ñupana
-catichina
-GUSANO
-c'uru
-curu
-juru
-GUSTAR
-gushtana
-munana
-munanana
-malina
-mishquichijuna
-munanayana
-HAVA
-jabas
-jabus
-abas
-aba
-HABLAR
-rimana
-rimarina
-HACER
-rurana
-ruhuana
-urana
-rana
-HACER CALOR
-rupai shitana
-rupana
-ruparina
-calur tiyana
-cunuglla cana
-rupuyaguna
-t'itagyachina
-juin rupai tiyana
-rupachina
-caluryachina
-HACER CASO DE
-cazuna
-HACER FRIO
-chiriyachina
-chirina
-chirichina
-chiri tucuna
-chiriyana
-chiriuna
-HACERSE
-tucuna
-HACIENDA
-jazinda
-asyinda
-asinda
-jasyinda
-HACHA
-jacha
-HALLAR
-tarina
-japina
-tupana
-HAMBRE
-yaricai
-yarcai
-yarijai
-yariji
-yariqui
-yarja
-yarijana
-DAR HAMBRI
-yaricana
-yarijana
-yarijanana
-yarcana
-yarijauna
-yarica cuna
-yaricachina
-HARAPOSO
-p'uchu
-tsuntsu
-tsunzu
-trapuzu
-sunllu
-p'utyu
-p'achai ura
-lluchu
-llachapa
-lliquirishca
-HARINA
-cuta
-jarina
-jacu
-HARTARSE
-sajsana
-huijsa jundajta micuna
-huijsa pajtana
-huijsa p'ajtana
-sagsana
-HATO
-muntun
-achca
-canlla
-manada
-ataju
-ashca
-tauga
-buntun
-HASTA MAÑANA
-cayacama
-cayagama
-cayacaman
-jayacama
-HAY
-tiyan
-tiyaun
-HECES
-cunllu
-jantsi
-jamzi
-subrada
-puchuj
-sumu puchushca
-asua basura
-mapalla asua
-jamchi
-HEDER
-ashnana
-ashnajuna
-ashnarina
-ashnajta chujcana
-HELADA
-casa
-casashca
-casishca
-casai
-HELAR
-casana
-casa pacarina
-casacuna
-casaichina
-HEMBRA
-huarmi
-HENDER
-chijtana
-lliquina
-chilpina
-liquina
-p'aquirina
-chaupirina
-rajana
-HERIDA
-chugri
-chugrishca
-chuchurishca
-izishca
-tsugrishca
-añi
-irida
-HERIR
-chugrina
-chugrichina
-tsugrina
-añichina
-cuchuna
-p'itirina
-nanachina
-HERMANA
-pani
-irmana
-HERMANA
-ñaña
-pani
-irmana
-HERMANO
-huauqui
-turi
-irmanu
-HERMANO
-turi
-huauqui
-irmanu
-HERMANO MAYOR
-ñaupa huauqui
-jatun huauqui
-rucu huauqui
-punta huauqui
-HERMANO MENOR
-qu'ipa huauqui
-jipa huauqui
-uchuj huauqui
-cati huauqui
-utila huauqui
-utilla huauqui
-uchu huauqui
-HERVIR
-timbuchina
-t'imhuchina
-timbuna
-HIEL
-jayaj
-jil
-jayij
-HIELO
-rasu
-casa
-chiri
-casishca
-ilu
-jilu
-rasu chiri chiri
-HIERBA
-qu' ihua
-jihua
-HIERBA MEDICINAL
-yuyu
-jambi jihua
-jambi yura
-jamhi
-HIERRO
-jiru
-jirru
-p'yirru
-p'irru
-HIGADO
-yana shungu
-shungu
-amsa shungu
-ígadu
-HIJA
-ushushi
-ushi
-huarmi huahua
-HIJO
-churi
-c'ari huahua
-HILAR
-puchcana
-pushcana
-puchicana
-puchana
-HILO
-puchca
-pushca
-puchica
-pucha
-HINCHAR
-punguina
-p'unguina
-punguichina
-punguillina
-cajayana
-HOJA
-p'anga
-chamiza
-fanga
-panga
-HOMBRE
-runa
-HOMBRE
-c'ari
-jari
-cari
-HOMBRO
-rigra
-umbru
-rigra jahua
-rigra luma
-jumbris
-rigra tullu
-aparina
-HONDO
-jundu
-ucu
-undu
-pugru
-HONGO
-ungu
-callamba
-llamba
-aujaramun
-callumba
-HORA
-uras
-ura
-urus
-sapalla
-HORMIGA
-añangu
-urmiga
-añingu
-chuspi
-llullu chuspi
-añungu
-jurmiga
-c'uru
-HORQUESTA
-parca
-jurquita
-pallca
-urquita
-jurcuh
-aspidur
-jurca
-HOY
-cunan
-cunun p'unlla
-cunan punlla
-cunan punzha
-cunun
-cunun puncha
-HUECO
-jutcu
-ujtu
-utcu
-pugru
-utuju
-jundu ucu
-HUELLA
-chaqui sarushca
-sarushca
-chaqui
-chaqui sarui
-siñai
-siñal
-chaqui saquirishca
-rastru
-HUERFANO
-huajcha
-sapalla
-huirfánu
-taita mama illaj
-yaya mama illaj
-sifarinu
-p'urastiru
-HUESO
-tullu
-HUEVO
-lulun
-ruru
-luluhua
-HUIR
-miticuna
-pacajuna
-anlluna
-mitijuna
-mitina
-uyish mitijuna
-miticushpa bulana
-uyina
-pacana
-HUMEAR
-cushnina
-cushnichina
-llaugana
-HUMEDO
-jucu
-jucushca
-shutuj
-umidu
-anguyashca
-mutiyashca
-shuturishca
-juachaj
-HUMILDE
-jumildi
-umildi
-alli shungu
-blanda
-muspalla
-huambra uchuj
-tuntuhua
-pingui tucuj
-sinsillu
-HUMITAS
-chugllu tanda
-chumal
-tujtitu
-turtilla
-HUMO
-cushni
-HUSO
-sijsij
-sijsi
-puchcana sijsij
-pushcana sijsij
-uzu
-IBARRA
-Ibarra
-Billa
-IDIOMA
-shimi
-parlu
-rimai
-c'allu
-IMPEDIR
-jarcana
-trancana
-misana
-ama nina
-INCA
-inga
-INDICAR
-ricuchina
-yachachina
-INDIGENA
-runa
-INFIERNO
-ucu pacha
-infirnu
-nina pacha
-uc'u pacha
-millai pacha
-purgaturiu c
-INFLAR
-p'ucuna
-jundachina
-inflana
-p'ucurina
-p'unguichina
-IGUAL
-igual
-igul
-pariju
-pagta
-chashna
-INSULTAR
-c'amina
-rimana
-camina
-lituna
-ajana
-plituchina
-insultana
-rimarina
-INTELIGENTE
-yachaj
-alli yachaj
-bibuyashca
-rasiunal
-yuyaj
-ali yachaj
-yachaj tucushca
-cutsilla
-bibushca
-alli urna
-alli pinsamintu
-INTERIOR
-ucu
-INVIERNO
-tamia tyimpu
-tamil timpu
-juirti tamia
-yallijta tamia
-tamiana quilla
-INVITAR
-cumbidana
-cayana
-shamui nina
-pushamuna
-inbitana
-INTESTINOS
-chunlluli
-chunllulli
-puzun
-chunzhulli
-puzunguna
-INYECTAR
-tujsina
-indijsiunda churana
-inyijsiun churana
-cutana
-indisiun satina
-indisu churana
-indisiunda cuna
-indijsiunda satina
-indinsiuta churana
-punsana
-IR
-rina
-IRAS
-culirana
-culíra
-rabia
-p'iñana
-fiñai
-fiñana
-p'iña
-p'iñai
-piñarina
-ahurri
-IZQUIERDA
-lluqui
-isquirda
-surdu
-JALAR
-aisana
-chutana
-JOROBADO
-curcu
-quipilumun
-cumurishca
-curculumu
-jarra
-JOVEN
-sultira
-huambra
-musa
-cuitsa
-huarmi mara
-huarmi huamhra
-lunga
-malta huarmi
-JOVEN
-muzu
-huambra
-lungu
-chairij
-sultiru
-jari huambra
-lungun
-jubin
-c'ari huambra
-malta runa
-mara
-JUEGO
-pugllai
-pugllana
-puglli
-llancana
-JUGAR
-pugllana
-llancana
-JUNTAR
-tandachina
-tandana
-pallana
-juntana
-JUNTOS
-tandanacushca
-pariju
-tandachishca
-tandanajushca
-igual
-illijcancha
-igulda
-tandanucushca
-tanda
-tandalla
-tandarishca
-tucuilla
-JUSTO
-cábal
-alli
-cábul
-justu
-ali
-dirichu
-lígal
-pajta
-LABIO
-shimi
-shimi cara
-jita
-shimi labiu
-huirpa
-LADO
-ladu
-cuchu
-maya
-AL LADO DE
-ladu
-uri
-maya
-bizinu
-c'uchu
-LADRAR
-aullana
-ladrana
-huacana
-ladranuna
-aullina
-agnina
-canshi nina
-canina
-LADRON
-shuhua
-shuhuaj
-jillu
-LAGARTIJA
-palu
-cula
-cucu palu
-tsilinquitsi
-huagza
-LAGO
-cucha
-LAGRIMA
-huiqui
-viqui
-iqui
-LAMER
-lambina
-llahuana
-supana
-LANA
-millma
-huillma
-LARGO
-suni
-largu
-jatun
-LATACUNGA
-Latacuriga
-Tacunga
-Latahuangu
-LASTIMAR
-chugrichina
-chugrina
-tsugrina
-jiridachina
-abiriana
-nanachina
-LAVAR
-maillana
-jahuana
-LAVAR ROPA
-tajshana
-tagshana
-LAZO
-lazu
-tuglla
-huasca
-lazana
-cara huasca
-lanzana
-angu
-lazia
-LEER
-rizana
-liyina
-catina
-liana
-LEJOS
-caru
-LENGUA
-c'allu
-callu
-jallu
-LEÑA
-yanta
-yamda
-yanda
-LEVANTARSE
-jatarina
-LIBRAR
-shayachina
-jatarichina
-jatachina
-altsana
-alzana
-jahuayachina
-LIBRAR
-quishpichina
-cacharina
-librana
-quishpina
-librina
-lushpichina
-safachina
-LIENDRE
-tsiya
-siya
-ziya
-tsiya lulun
-lintras
-piqui ruru
-LIGERO
-p'angalla
-lijiru
-cutsi
-ujta
-utca
-c'angalla
-ratu
-apuru
-ucha-ucha
-utcalla
-LIMPIAR
-p'ichana
-fichana
-LISO
-llambu
-llushca
-apilla
-lluchca
-puliyashca
-ñutuhua
-ñugñu
-LIVIANO
-p'angalla
-c'angalla
-fangalla
-p'angala
-pangalla
-mana llashaj
-jahualla
-LOBO
-atuj
-lubu
-caracha
-huaicu ashcu
-urcu ashcu
-izi
-atu
-rapusu
-LOCO
-lucu
-muspa
-lucu tucushca
-LODO
-turu
-ludu
-lluchca
-barru
-LOMA
-luma
-urcu
-jatun urcu
-tula
-altu
-LOMBRIZ
-cuica
-jumbaj
-LUCIERNAGA
-nina c'uru
-nina juru
-itsa cataj
-candillilla
-nina micha
-c'uru micha
-achigyana
-LUCHAR
-macanacuna
-macanajuna
-macanucuna
-llunchina
-luchana
-tacana
-chimbapurana
-piliana
-LUEGO
-astallahuan
-ashahuan
-ñapash
-ña
-ashaun
-ashallaun
-ratuhuallapi
-ashahuanlla
-ratu
-astalahuan
-ashallahuan
-ashun
-ñalla
-LUGAR
-pushtu
-lúgar
-puntu
-campu
-ladu
-pacha
-LUNA
-quilla
-luna
-luna mama
-LUZ
-achij
-micha
-lus
-punlla
-bila
-puncha
-nina
-nina lus
-p'unllalla
-achiga
-LLAMA
-nina cunyai
-nina llama
-nina llamarada
-nina
-pulunquirijun
-nina llamara
-llama
-titaj
-nina c'allu
-nina llamas
-LLAMAR
-cayana
-c'ayana
-LLAMAR
-shutichina
-cayana
-shutishina
-shuti cuna
-c'ayana
-LLAMINGO
-llama
-llamingu
-runa llama
-chantu
-llumingu
-LLANURA
-pamba
-pambarucu
-purun pamba
-llanu
-PONER LLAVE
-llabina
-llabi churana
-candadu churana
-llabita churana
-LLEGAR
-chayana
-LLENAR
-jundachina
-jundana
-LLENO
-junda
-jundashca
-LLEVAR
-apana
-abana
-LLEVAR EN BRAZOS
-marcana
-LLEVAR EN FALDA O EN PONCHO
-migllana
-nigllana
-millcana
-LLEVAR ENTRE VARIAS PERSONAS
-huanduna
-aisanacuna
-apana
-LLORAR
-huacana
-LLOVER
-tamiana
-LLOVIZNA
-tsirapa
-paramu
-lancha
-garua
-garhua
-chispa
-tsirapai
-ñutu tamia
-ñutu izi
-tamiarina
-LLUVIA
-tamia
-LLUVIA CON SOL
-lancha
-tsirapa
-tamia usia
-tamiun inti
-intin tamia
-rupi tamia
-rupai tamia
-curu tamia
-rupash tamia
-MACHICA
-machca
-mashca
-máchica
-masca
-jacu
-MACHO
-c'ari
-cari
-jari
-MADERA
-caspi
-quiru
-MADRASTRA
-la marna
-ila mama
-madrarsha
-madrastra
-ili mama
-curicu
-MADRE
-mama
-MADRINA DE BAUTIZO
-marcaj mama
-achi mama
-achila mama
-marquij mama
-cumari
-MADRINA DE MATRIMONIO
-madrina
-achi mama
-madrinama
-purtira
-cumari
-MADRUGADA
-pacari
-tutamunda
-tutamanta
-alba
-tutamanda
-madrugadu
-puzu-puzu
-MADRUGAR
-pacarina
-madrugana
-tutamanta rina
-tutamunda rina
-tutamunda jatarina
-albana
-MADURAR
-p'ucuna
-ujtuna
-fucuna
-MADURO
-p'ucushca
-fucuchca
-MAIZ
-sara
-MALEZA
-mana alli qu'ihua
-mana valij jihua
-malu jihua
-purun qu'ihua
-mana valij qu'ihua
-puca qu'ihua
-na cuzu qu'ihua
-mapa qu'ihua
-qu'iya
-c'apiru
-millai qu'ihua
-man valij qu'ihua
-MALO
-millai
-mana alli
-malu
-na ali
-na valinllu
-nalli
-p'iña
-p'irru
-man valij
-MAMAR
-chuchuna
-chucuna
-ñuñuchina
-MANCO
-chulla maqui
-chulla chaqui
-c'ullu
-suchu
-utu maqui
-utu chaqui
-c'ullu maqui
-huishtu
-cuju
-MANCHADO
-mapachishca
-mapayashca
-pincashca
-muru-muru
-mapala
-c'arcayashca
-mugllashca
-muruyashca
-yanayashca
-chapurishca
-MANDAR
-cachana
-MANILLA
-manilla
-maqui manilla
-maqui huatana
-maqui huallca
-aru
-maqui aru
-pulsira
-MANO
-maqui
-MANOJO
-huangu
-maqui junda
-puñadu
-chuzun
-manuju
-maqui chuzu junda
-pitallahua
-maqui
-lutsai
-MANTECA
-huira
-vira
-ira
-mantica
-MANZANA
-tunguri
-cutu
-manzana
-cunga mucu
-cunga
-MAÑANA
-caya
-jaya
-MAÑANA
-tutamanta
-tutamanda
-tutamunta
-tutamunda
-alba
-MAR
-mama cucha
-mar
-jatun yacu cucha
-jatun cucha
-yacu mar
-achca yacu
-manchani yacu
-jatun yacu
-lamar yacu
-cucha
-MARIDO
-cusa
-MAS
-ashtahuan
-ashtaun
-yalli
-astahuan
-ashca
-yali
-ashtan
-achca
-MASCAR
-cashtuna
-mucuna
-castuna
-carrusquina
-acuna
-cachuna
-gashtuna
-MATAR
-huañuchina
-huanchina
-MATRIMONIO
-cazarana
-cazarai
-cazamintu
-cazari
-cazarina
-cazarashca
-buda
-MAYOR
-ñaupa
-rucu
-punta
-yuyi
-yuyaj
-yuyaglla
-punda
-biju
-ñauba
-ñaupu
-MAYORAL
-quipu
-mayurdumu
-mairal
-qu'ipa
-mayural
-amupuj mandaj
-MAZAMORRA
-api
-mazamurra
-MAZORCA
-caspa
-chugllu
-MECER
-cuyuchina
-c'ahuina
-cahuina
-batina
-cavina
-chapunacuna
-MEDIANOCHE
-chaupi tuta
-chagpi tuta
-chaubi tuta
-chugpi tuta
-MEDICINA
-jambi
-rimidiu
-MEDIDA
-midida
-tupu
-tupuna
-tupushca
-midishca
-MEDIANO
-chaupi
-pariju
-parijhualla
-chagpi
-maltunlla
-malta
-maltahua
-rigular
-MEDIO
-chaupi
-chagpi
-chaubi
-chugpi
-MEDIODIA
-chaupi punlla
-chaupi p'unlla
-chaupi puncha
-chagpi punlla
-chaubi p'unlla
-chugpi punzha
-chaupi punzha
-MEDIR
-tupuna
-midina
-tupuda japina
-MEJILLA
-ñahui chichu
-ñahui huijsa
-ñahui uya
-ñavi chichu
-ñahui ichi
-ñahui
-uya
-quijadus
-MEJORAR
-alliyana
-allichina
-alli tucuna
-ali yana
-ali tucuna
-MENOR
-qu'ipa
-jipa
-qu'ipahua
-qu' ipa huiñai
-cati
-jubin
-utillahua
-ashtan huahualla
-MENTIR
-llullana
-llagmana
-MENTIRA
-llulla
-llullai
-llagma
-MERCADO
-plasa
-mircadu
-p'iria
-c'atuj plasa
-c'atuna ucu
-c'atuna plasa
-c'atuna pamba
-jatui
-lasa
-randichi plasa
-MES
-quilla
-MESTIZO
-chulu
-mistizu
-tsala
-huiracucha
-huirac'ucha
-huirajuchu
-virajucha
-mishu
-chulu mistizu
-chapurishca
-runaun blancaun chapurishca
-chagrushca amu
-shulu
-pamha chulu
-mulatu
-runa chapushca
-laichu
-laicha
-METAL
-jirru
-mítal
-p'irru
-titi
-lata
-qu'illu p'irru
-quillai
-METER
-satina
-churana
-yaicuchina
-huaicuchina
-huaiguchina
-MEZCLA
-chagruna
-chapu
-chagru
-miscla
-chapurishca
-chagrushca
-chapushca
-chapui
-MEZCLAR
-chapuna
-chagruna
-chapurina
-MEZQUINAR
-mitsana
-misana
-MIEDO
-manchai
-manlli
-manllanai
-manllai
-manchi
-MIL
-huaranga
-MILLON
-huaranga-huaranga
-míllun
-míllun patsaj
-chunga patsaj huaranga
-huaranga
-MINGA
-minga
-MIRAR
-ricuna
-MIRLO
-tsujtsuj
-huajtsuj
-sujsuj
-huaitsuj
-huajtsaj
-huajtsu
-huacau
-huajchu
-siluj
-MISERABLE
-mitsa
-misa
-misaj
-MITAD
-chaupi
-chagpi
-chugpi
-chaubi
-MOCO
-c'uña
-juña
-cuña
-mucu
-mucus
-jiña
-lula
-lagla
-bila
-MOJADO
-shutuj
-shutu
-jucushca
-shutushca
-muti
-mutiyashca
-latsaj
-lapuj
-p'ucushca
-juachaj
-MOJAR
-jucuyana
-jucuna
-shutuna
-shutuchina
-shutugyana
-mutuyana
-mutiyana
-jucuchina
-apiyachina
-lapugyachina
-zutiyachina
-juachagyana
-MOLER
-cutana
-cutuna
-tsancana
-MOLESTAR
-p'iñachina
-mulistana
-culirachina
-rabiachina
-aburrichina
-MONTAÑA
-sacha
-sacha urcu
-jatun urcu
-MONTAR A CABALLO
-tiyarina
-sicana
-muntuna
-caballujuna
-MONTE
-sacha
-urcu p'ilu
-MONTON
-muntun
-mundun
-parba
-parga
-achca
-culma
-bancu
-buntun
-MORDER
-canina
-MORIR
-huañuna
-tucurina
-chingarina
-MOSCA
-chuspi
-MOSTRAR
-ricuchina
-MOTE
-muti
-MOTEADO
-muru
-mutiashca
-MOVERSE
-cuyuna
-cuyurina
-MUCHACHA
-huarmi huambra
-sultira
-china
-lunga
-dunsilla
-cuitsa
-MUCHACHO
-huambra
-c'ari huambra
-jari huambra
-lungu
-sultiru
-MUCHO
-achca
-ashca
-ashtaca
-achica
-tauca
-tauga
-dubli
-mijur
-mirga
-milga
-MUDO
-upa
-tuntu
-upa shimi
-inusinti
-mudu
-tarta
-huatia
-muspitu
-man parla
-MUELA
-jashlin
-quiru
-p'aca
-paca quiru
-c'uchu quiru
-cuchu quiru
-mama quiru
-tatama quiru
-jallalan
-currimillun
-MUERTE
-huañui
-huañuna
-huañi
-MUJER
-huarmi
-MUÑECA
-maqui mucu
-muñica
-ríluj
-muñiquira
-maqui nudu
-MUÑON
-cullu
-c'ullu
-mutu
-mutushca
-t'uzu
-muchishca
-juru
-cullushca
-MURCIELAGO
-shuhua shungu
-mashu
-chimbilacu
-paya ucucha
-tupan
-tupáj
-tsijtsi
-tuta pishcu
-shuhua ucucha
-MURMURAR
-riparana
-murmurana
-huasha rimana
-rimana
-mulmurana
-camina
-rimarina
-ajaluna
-MURO
-pirca
-pata
-MUSCULO
-racu changa
-ñutu
-juirsa
-changa aicha
-rigra aicha
-pulsu
-músculu
-ñutu aicha
-cuyugu
-mucu
-MUSGO
-rumi millma
-rumi barba
-rumí barbus
-rumi milma
-rumi barbas
-muzgu
-sacha millma
-mujusiyashca
-MUSICA
-tunu
-musíca
-matsu
-MUSLO
-changa
-mama changa
-racu changa
-cunguri changa
-changa aicha
-huallpinchi
-MUY
-achca
-yapa
-ashtaca
-mundi
-ispantu
-manchaní
-ashca
-rucu
-jatun
-juin
-p'uin
-tuntaminti
-NABO
-nabus
-yuyu
-urcu nabus
-nabusyu
-NACER
-huachana
-huiñana
-nasina
-viñana
-nasirina
-huiñarina
-ricurina
-NADA
-ni ima
-NADAR
-huambuna
-nadana
-NADIE
-mana pi
-ni pi
-na pi
-na majin
-NALGAS
-siqui
-siqui ñutu
-siqui tullu
-siqui pata
-NARIZ
-singa
-NAUSEAS
-millanachina
-millanayana
-millana
-gumitana
-millañachina
-millanana
-lansanayana
-lanzanachina
-shungu bultanayana
-shungu bultanauna
-shungu shitanayana
-shungu shitana
-shungu tigranayachina
-NEBLINA
-p'uyu
-puyu
-fuyu
-NECESITAR
-minishtina
-ministina
-minishtirina
-NEGRO
-yana
-NEVAR
-rasuna
-rasucuna
-runduna
-nibadana
-NIDO
-tazin
-quisha
-cusha
-paca
-tazan
-NIETA
-ñita
-nita
-yapa huahua
-yapa ushushi
-NIETO
-ñitu
-nitu
-yapa huahua
-yapa churi
-NIEVE
-rasu
-rundu
-rundushca
-NIÑA
-huarmi huahua
-huarmi mara
-NIÑO
-c'ari huahua
-jari huahua
-c'ari mara
-NIÑO
-huahua
-mara
-NIVELAR
-pambachina
-midina
-pambayachina
-igualana
-dirichuna
-NO
-mana
-na
-ina
-man
-NO
-ama
-NO HAY
-illan
-illaun
-illin
-NOCHE
-tuta
-NOMBRAR
-shutichina
-numbrana
-marcana
-lumbrana
-cayana
-NOMBRE
-shuti
-NORTE
-janaj ladu
-nurti
-urai
-ura ladu
-huichi ladu
-uri ladu
-Quitu llajta ladu
-NOSOTROS
-ñucanchij
-ñucunchij
-ñucanchi
-ñucunchi
-ñuncuchi
-yucanchij
-NUBE
-p'uyu
-fuyu
-NUCA
-cunga tullu
-nuca
-cunga mucu
-nuca tullu
-huasha tullu
-huasha cunga
-NUDO
-huatashca
-huatana
-mucu
-butun
-pillushca
-NUERA
-c'achun
-jachun
-nuira
-cachun
-NUEVO
-mushuj
-mushu
-NUEVE
-iscun
-NUEZ
-tujti
-núgal
-núgul
-NUNCA
-ni ima ura
-nunca
-ni imamanda
-napacha
-ni jaica
-OBEDECER
-cazuna
-uyana
-cumplina
-casuna
-manchana
-ubidisina
-casu rurana
-OBSCURO
-amsa
-cushni
-ansa
-yana
-yana manga
-tuta
-p'agna
-pura
-OBSTRUIR
-jarcana
-huirzadu yaicuna
-OCA
-uca
-OCIOSO
-quilla
-usiuzu
-bagu
-quiya
-quillayashca
-quillalún
-quillan
-quillapudin
-OCHO
-pusaj
-pusuj
-pusij
-ODIAR
-p'iñana
-fiñana
-cuntra gana
-ashnana
-na ricunayana
-c'amina
-rimarina
-millana
-OESTE
-inti yaicuna ladu
-indi yaicuna ladu
-intida ricuna ladu
-ucsidinti
-chai ladu
-quibidu ladu
-jani llajta
-chaini llajta
-indi huaicuna ladu
-inti huaishicui ladu
-ura llagta
-ínti chingana llajta
-OFRECER
-ufrisina
-cuna
-cumbidana
-cusha nina
-carana
-ujsiricuna
-chasquichina
-OIR
-uyana
-OJO
-ñahui
-ñahui lulun
-ñavi lulun
-ñavi
-ñahuilan
-OLER
-mutquina
-mujtina
-ashnachina
-ashnana
-mutiquina
-mutijina
-OLVIDAR
-cungana
-OLLA
-manga
-caldera
-OMBLIGA
-pupu
-ORDEÑAR
-capina
-chahuana
-surcuna
-OREJA
-rinri
-rinrin
-ringri
-ORGULLOSO
-jatun tucushca
-c'ari tucushca
-yachaj tucushca
-chinchusu
-jariyashca
-tisu
-ORIENTE
-inti llujshina ladu
-urinti
-lurinti
-indi llujshina
-indi viñai
-indi jatarimuna
-cutin shuj ladu
-ura llajta
-javaria llagta
-chimba llagta
-samura ladu
-ORILLA
-manya
-p'ilu
-pata
-urilla
-yacu ladu
-yacurilla
-uris
-ORINA
-ishpa
-yacushpa
-yacu ishpa
-miyadu
-ishpa yacu
-ishpai yacu
-pishipi
-pichi
-disahua
-ORINAR
-ishpana
-yacu ishpana
-yacushpana
-miyana
-cushpana
-pichina
-disahuana
-ORO
-curi
-uru
-culqui
-ORTIGA
-chini
-tsini
-OTRA VEZ
-cutin
-cutin shuj viaji
-cutij
-bulta
-OTRO
-shujtaj
-shuj
-cutin shuj
-cai shuj
-cuti shuj
-chican
-cutish
-ORILLA DE HILO
-cururu
-tutu
-OVILLAR
-cururuna
-tutuna
-OVEJA
-ubija
-llama
-OZ
-usis
-usus
-us
-usi
-sapapicu
-PADRASTRO
-la yaya
-ila taita
-ila yaya
-la taita
-parashu
-parastru
-laya yaya
-ichi yaya
-ichi taita
-PADRE
-yaya
-taita
-papacu
-papashu
-PADRINO DE BAUTIZO
-marcaj yaya
-marcai taita
-achi taita
-marcaj
-padrinu
-marquij taita
-marquij yaya
-PADRINO DE MATRIMONIO
-padrinu
-purtiru
-achicu
-achi taita
-achila taita
-PAGANO
-auca
-jibaru
-aushiris
-mudu jinti
-muspa jinti
-ignuranti jinti
-mana shutichishca jinti
-na shutichishcachu
-Diusri mana criyij
-jintll
-PAGAR
-pagana
-PAIS
-llajta
-llagta
-mundu
-páis
-lugar
-PAJA
-paja
-tamu
-t'amu
-jupa
-raspa
-PAJA
-ujsha
-ugsha
-PAJARO
-pishcu
-munchi
-pajaritu
-pishu
-PALA
-pala
-lampa
-PALABRA
-shimi
-rimana
-rimai
-palabra
-rimi
-parlu
-PALADAR
-palágar
-paláguir
-plagran
-palagru
-palagara
-langadur
-tacazu
-t'acazu
-PALANCA
-huanca
-huanga
-huanguna caspi
-PALIDO
-yuragyashca
-quillu
-ungushca
-caspi
-qui'illu
-quilluyishca
-quilluyashca
-quillu quillu ñahui
-ñahui puca puca
-ñahui pucashca
-PALMA
-maqui shungu
-maqui pamba
-maqui planta
-maqui plantas
-maqui plana
-maqui tabla
-PALO
-caspi
-quiru
-PALO PARA CAVAR PAPAS
-huallmu
-tula
-hualmu
-aspidur
-PALUDISMO
-chujchu ungüi
-chugchu ungüi
-chujchi ungüi
-chujchui ungüi
-palutismu
-paludismu
-paludismu chujchu
-cujchui
-PAN
-tanda
-PANELA
-rapadura
-raspadura
-mishqui
-panila
-PANTALON
-cálzun
-pantálun
-PANZA
-huijsa
-puzun
-huijsasapa
-vijsa
-ijsa
-PAÑAL
-maituna
-yachapa
-llachapa
-p'acha
-pañu
-trapuhua
-impañalis
-PAPA
-papa
-PARA QUE
-imapaj
-imabuj
-imauti
-imapuj
-imapa
-imaguti
-imaj
-PARALIZADO
-suchu
-tisu
-tsugrishca
-paralisu japishca
-cuirpu upa
-yashca
-PARARSE
-shayarina
-PARDO
-uqui
-puzu
-sucu
-pardu
-plumu
-p'agna puzu
-PARECER
-ricurina
-rijchana
-parisirina
-PARED
-pirca
-pata
-yata
-tafia
-tapial
-pirca huichi
-PARIR
-huachana
-parina
-PARTERA
-partira
-unguchij huarmi
-huachachij
-huachidura
-huachachidur
-huachachilún
-unguchij
-jambij huarmi
-pacarichij
-cumadruna
-PARTIR
-chijtana
-chaupina
-partina
-raquina
-PASADO MANANA
-cayapaj cayandij
-cayandi
-caya yalli
-caya sarun pasashca
-sarun p'unzha
-jayapuj jayandi
-chashuj caya
-chaishuj caya
-caya yallij
-cayapaj caya
-c'ayapuj caya
-caya mincha
-mincha punlla
-minzha punzha
-PASAR
-pasana
-rina
-PASAR
-cainana
-punchami pasana
-PASEAR
-purina
-pasiana
-PASTAR
-michina
-PASTO
-qu'ihua
-michi
-michina
-jihua
-michicui
-milin
-PASTOR
-michij
-michidur
-michidura
-michilún
-PASTORA
-michij
-michidur
-michidura
-michilún
-PATA
-chaqui
-PATEAR
-jaitana
-PATIO
-huasi canlla
-patiu
-canlla pamba
-ira
-pungu pamba
-canchamba
-PECADO
-jucha
-PECHO
-pichu
-buchi
-PEDAZO
-p'iti
-p'aquishca
-p'aqui
-mirga
-milga
-pidasu
-fiti
-paqui
-paquishca
-truzu
-PEDIR
-mañana
-PEGAR
-juchana
-jucha tucuna
-jucha rurana
-juchada urana
-jucha gana
-juchayana
-picana
-PEGAR CON GOLPES
-macana
-PEGAR CON GOMA
-llutana
-pigana
-culana
-satina
-apigana
-PEINAR
-ñaj chana
-ñagchana
-PEINE
-ñajcha
-ñagcha
-PELAR
-llushtina
-lluchuna
-pilana
-PELEAR
-macanacuna
-macanucuna
-macanajuna
-tacanacuna
-tacanucuna
-piliana
-PELEAR
-lluchuna
-llushtina
-pilana
-carada llujshichina
-PELO
-millma
-millhua
-milma
-PELO
-ajcha
-jajcha
-juajcha
-agcha
-PELLIZCAR
-tispina
-tsitsiquina
-PENA
-llaqui
-sustu
-PENE
-pishcu
-ullu
-bishu
-PENSAMIENTO
-yuyai
-yuyi
-pinsarina
-pinsamintu
-PENSAR
-yayana
-pinsana
-mimuriana
-limuriana
-yuya japina
-PEPA
-muyu
-muru
-PEÑA
-c'aca
-jaca
-c'ata
-matsi
-machi
-rumi hiuchi
-PEQUEÑO
-uchilla
-utilla
-utila
-uchila
-utinlla
-uchinlla
-uchuilla
-ichiquila
-chuzu
-iñu
-PERDER
-chingana
-jichuna
-quichuna
-juchuna
-pirdina
-PERDIZ
-yutu
-pirdis
-lutu
-chaujpa
-yuta
-PERFORAR
-utcuna
-perdiz
-ujtuna
-jutcuna
-utujuna
-allana
-aillana
-PERICOTE
-piricuti
-piricu
-ucucha
-rata
-PERMANECER
-saquirina
-quidana
-tiyana
-causana
-pacarina
-cainana
-shuyana
-PERRO
-allcu
-ashcu
-alcu
-achcu
-allzhcu
-PERSEGUIR
-caticachina
-catina
-catirana
-catijachina
-catijichina
-PERSONA
-jinti
-runa
-jindi
-PESADO
-llashaj
-llashij
-llasha
-lashij
-PESAR
-pizana
-llashana
-llashagyana
-lashij cana
-PESCADO
-piscadu
-piji
-challihua
-chaluhua
-chaula
-chalhua
-challua
-PESCUEZO
-cunga
-guguti
-PESTAÑA
-ñahui mi llma
-ñahui pistafia
-ñavi milma
-ñahuilun milma
-ñahui ujuti
-ñahui huillma
-ñahui uja
-ñahui p'arp'ara
-ñahui sijas
-PICAFLOR
-quindi
-sisapica
-PICANTE
-yayaj
-jayij
-PICAR
-tujsina
-iquina
-PICAR
-canina
-tispina
-picana
-PIE
-chaqui
-PIEDRA
-rumi
-PIEL
-cara
-PIERNA
-changa
-PILCHE
-pilchi
-mati
-basu
-PINCHAR
-tujsina
-tispina
-chusiyana
-punsana
-PIOJO DE LA CABEZA
-usa
-PIOJO DEL CUERPO
-pilis
-usa
-PISAR
-saruna
-PISO
-pamha
-ucu pamba
-alpa
-ucu tablana
-altu
-allpa
-sarushca
-pazan
-PLACENTA
-madri
-huahua mama
-huahua uma
-babia
-madri uma
-mama madri
-PLANO
-pamba
-pamballa
-planu
-llambu
-planu pamba
-planitu
-pugru pamba
-PLANTA
-yura
-lanta
-yuyu
-planta
-utilla yura
-PLANTA DEL PIE
-chaqui plantas
-chaqui pamba
-chaqui shungu
-chaqui pataj
-chaqui plancha
-PLANTAR
-tarpuna
-tarbuna
-lantana
-mallquina
-PLATA
-cullqui
-cushqui
-culqui
-cuchqui
-cuzhqui
-PLATO
-latu
-platu
-barru platu
-turu platu
-PLAYA
-yacu pata
-yacu playa
-yacu manya
-playa
-yunga
-yacu ucu playa
-yacu pamba
-yacu ladu
-playas
-ura pamba
-PLUMA
-pluma
-pulma
-p'luma
-POBRE
-huajcha
-lluchu
-pubri
-mana charij
-juyaipaj
-pugri
-chushaglla
-huagcha
-haugcha llusti
-POCO
-ashala
-ashalla
-p'itilla
-asha
-pishi
-p'iti
-ashata
-p'iticulla
-pichila
-p'ityilla
-ashilla
-p'intilla
-ashallitu
-PODER
-pudina
-ushana
-tucuna
-balina
-PODRIDO
-ismushca
-ismu
-POLVO
-ñutu allpa
-pulbu
-ñutu alpa
-allpa pulbu
-alpa fuyu
-alpa cushni
-ushpa
-achpa pulbu
-uchupa laya
-bulbu
-POLLITO
-pullitu
-chuchi
-pullu
-huahua pullu
-utila atula
-huahua pullitu
-huahua atillpa
-PONCHO
-punchu
-hualutu
-ruhuana
-jirga
-PONER
-churana
-PONER HUEVOS
-huachana
-lunta hauchana
-lulunta huachana
-lulunda huachana
-lulunta churana
-ruruta huachana
-ruruta churana
-POR QUE
-imamanta
-imamunda
-ima nisha
-ima nishpa
-imamunta
-imashpa
-imasha
-imarsha
-POROSO
-traguyuj
-ujturishca
-jutcurishca
-utujusapa
-aujarinrishina
-zácal
-záquil
-ajichu
-arriniru
-PORTERO
-purtiru
-pungu cuidaj
-pungucama
-huasi cuidaj
-purtiru taita
-pungu chapa
-huasicama
-pungu pishayaj
-PORTRERO
-putrirru
-putriru
-jihua pamba
-qu'ihua pamba
-putru
-putiru
-muya
-michi pamba
-POSADA
-puzada
-tamhu
-mingachina huasi
-puñuna huasi
-mingana huasi
-puzana
-PREGUNTAR
-tapuna
-PRENDEDOR
-tupu
-tupullina
-tupulina
-tupulli
-prindidur
-PRENDER CANDELA
-japichina
-japina
-catichina
-p'ucuna
-PRENDER
-prizuna
-prizu japina
-japina
-carsilman apana
-prizuchina
-huatana
-PRESTAR
-mañachina
-p'iana
-p'iachina
-PRIMA
-prima
-prima pani
-prima ñaña
-subrina pani
-subrina ñaña
-pani
-PRIMERO
-ñaupa
-punta
-primiru
-ñagpa
-ñugpa
-ñumpa
-ñaupuj
-jipa
-japayana
-punda
-PRIMO
-primu
-primu huauqui
-primu turi
-subrinu huauqui
-subrinu turi
-turi
-PRIMOGENITO
-punta huahua
-punda huahua
-lijitimu huahua
-ñagpa huahua
-ñahui hauhua
-PROBAR
-mallina
-prubana
-imalayashca ricuna
-malina
-llamina
-PROFESOR
-yachachij
-maistru
-dilituriu
-dirijtur
-yachachilun
-PROFUNDO
-jundu
-ucu
-undu
-huaicu
-PRONTO
-utca
-ujta
-cai ratu
-cutsi
-utiya
-ujtushca
-PROPIO
-quiquin
-prupiu
-duiñu
-diñu
-PUDRIRSE
-ismuna
-PUEBLO
-llajta
-puiblu
-PUENTE
-chaca
-PUERCO
-c'uchi
-cuchi
-juchi
-PUERTA
-pungu
-PUESTO
-puistu
-puente
-pushtu
-PULGA
-piqui
-PULIR
-llambuyachina
-llambuna
-llambuchina
-llambuyana
-lahrana
-pulillana
-llushcayachina
-lluchayachina
-PULGAR
-mama didu
-PULMONES
-yuraj shungu
-yuruj shungu
-pulmun
-pulmunis
-púrmun
-putu shungu
-PUNTA
-punta
-punda
-PUÑADO
-maqui junda
-lutsun
-maqui lutsun
-lutsun
-chuzun
-chuzunquina
-lutsai
-zugzug
-maquilla
-PUÑO
-muquiti
-puñitis
-puñiti
-ulun maqui
-maquita curpashca
-muquita
-maquiti
-maqui pigtuna
-PUPILA
-ñahui anjil
-ñavi anjil
-ñahuilun anjil
-ñahui muru
-ñavi Santa Lusiya
-PUS
-quiya
-incunu
-chupu
-chugrishca
-tsugrishca
-QUE
-ima
-QUE CALOR
-ararái
-araráu
-astaráu
-QUE CLASE
-ima laya
-ima yala
-ima shina
-QUE DOLOR
-ayayái
-QUE FRIO
-achachái
-atsatsái
-QUEBRADA
-huaicu
-c'aca
-jaca
-pugru
-QUEBRAR
-p'aquina
-faquina
-paquina
-QUEDARSE
-saquirina
-QUEMAR
-rupachina
-rupana
-QUERER
-munana
-nina
-c'uyana
-cuyana
-ricunachina
-QUICHUA
-runa shimi
-inga shima
-inga
-inga parlu
-inguiru
-inguichu
-quichua
-yanga shimi
-inga parlana
-QUIEN
-pi
-maijin
-majin
-maijun
-maijan
-maican
-QUIENQUIERA
-pipish
-pipash
-maijimbish
-pibish
-maijin gashash
-pipurabish
-pipurish
-majin gashash
-majish
-maijanchari
-pichari
-pish
-pi gashash
-maicampish
-QUIETO
-casila
-casilla
-chulun
-umildi
-quitu
-upalla
-allimanda
-tiyilla
-tiyailla
-tiyaglla
-chunla
-upala
-QUIJADA
-quijadus
-quijada
-jita
-cashtunas
-shirni jita
-quijaru
-jazhlin
-uya
-jasha
-quijadas
-RABO
-chuna
-RACIMO
-rasimu
-huangu
-malqui
-luntsa
-cabiza
-urna
-rama
-marcai
-gaju
-RAIZ
-sapi
-angu
-RAJAR
-chijtana
-chilpina
-rajana
-jachana
-chaupina
-RALLAR
-aspina
-rasnana
-rallana
-llagllana
-trahajana
-e'acuna
-RAMA
-rama
-caspi
-malqui
-RAPIDO
-utca
-ujta
-ratu
-ligiru
-utiya
-ujtallahua
-huli
-utcai
-apurai
-utsiya
-RASCAR
-aspina
-RASPAR
-aspina
-RATON
-ucucha
-ucuchu
-RAYO
-rayu
-rilampagu
-ficha
-alumbra
-inti chaqui
-rilamna
-rilampaj
-REBAJAR
-ribajana
-bajana
-uriyachina
-bajuyachina
-urijuchina
-REBOZO
-p'achallina
-baita
-manta
-ribuzu
-lliglla
-fachalina
-chalina
-jalina
-p'achalli
-ullira
-pachalli
-pullu
-huallcarina
-REBUSCAR
-mashcana
-ch'alana
-chalana
-chaillana
-chujchina
-pallajuna
-chalina
-challina
-RECIBIR
-chasquina
-japina
-RECLINARSE
-siririna
-sirijuna
-quinrillami gana
-andarina
-samana
-quimirina
-RECODO
-quingu
-curva
-cudu
-tingu
-arcu larca
-muyui
-quinri
-RECOGER
-tandachina
-tandana
-pallana
-japina
-RECORDAR
-yuyarina
-yuyana
-SECTO
-dirichu
-rijtu
-largu ñan
-largu
-RED
-linlli
-rid
-shigra
-llica
-sigra
-llinlli
-facha
-p'acha
-REDONDO
-muyundij
-bumha tucushca
-muyu
-muyushca
-muyundi
-ruida
-ridundu
-bulungu
-REGALAR
-cumbidana
-rigalana
-cunbidana
-carana
-REGAR AGUA
-jichana
-tarpugrina
-parcuna
-rigana
-tallina
-talina
-yayuna
-REGAR COSAS
-jichana
-tindina
-chajcuna
-yayuna
-rigana
-sitana
-REGAR PAJA
-jichana
-shighuana
-sighuana
-shiquina
-tindina
-rigana
-REGRESAR
-tigrana
-bultana
-builtana
-cutina
-REIR
-asina
-RELAMPAGO
-achij nina
-rilampagu
-rilampa
-rayu
-flichana
-rilampaj
-REMEDAR
-yachapayana
-rimidana
-yachabayana
-REMEDIO
-jamhi
-REMENDAR
-rimindana
-sirana
-p'utiuna
-REMOJAR
-jucuchina
-nuyuchina
-ñuñuchina
-apiyachina
-shutuchina
-lapugyachina
-REMOLINO
-acapana
-rimulinu
-REPARAR
-allichina
-parijachina
-alichina
-REPENTE
-di ripinti
-huaquimbi
-huaquin
-cungashcaipi
-hauquimpi
-shuj ratu
-huaquinllabi
-cungai
-maijan ratu
-cungalla
-REPETIR
-cutin rurana
-cutina
-cutichina
-yapana
-yapachina
-cutimbish urana
-ripitina
-yapa rurana
-cutin shuj builta rurana
-ran rurana
-RESALADIZO
-lluchca
-llushca
-lluchica
-llushpi
-llamba
-llamhu
-RESBALARSE
-lluchcana
-llushcana
-lluchicana
-llushpirina
-RESIDUO
-subra
-nuchu
-jantsi
-shushuna
-jamzi
-suhrita
-RESINA
-huiqui
-viqui
-guma
-miguiyashca
-llausa
-RESPIRAR
-samaita aisana
-sami cachana
-samana
-rispirana
-sami llujshina
-p'ucuna
-RESPONDER
-cutichina
-cuntistana
-tigrachina
-bultachina
-builtachina
-rispundina
-RESTITUIR
-tigrachina
-aliichina
-bultachina
-cutichina
-ristituina
-RETENER
-jarcana
-charina
-charirina
-huaquichina
-huacaichina
-chutana
-jinchijuna
-aisana
-shuyachina
-RETIRAR
-anchuchina
-anlluna
-chutana
-aisana
-quichuna
-caruyachina
-RETOÑAR
-huiñana
-uticu huiñana
-viñarina
-utila rituñajuna
-tsiga huiñana
-bultarina
-cutin iñarina
-huiñarina
-butyana
-brutana
-shuruna
-RETOÑO
-huiñashca
-malqui
-huiñajui
-huiñana
-utilahua huiñamujui
-tsigashca
-rituñu
-huiñagui
-shurushca
-RETORCER
-cauchuna
-caupuna
-tursina
-REUNION
-tandanacuna
-tandanacui
-tandanachi
-tandanajui
-tandachina
-tandanuqui
-tandarina
-REUNIRSE
-tandanacuna
-tandarina
-tandanajuna
-mundunana
-muntunana
-REVENTAR
-tugyana
-tugyachina
-REVES
-huasha laduman
-al ríbis
-lluqui
-panda
-lluquimun
-ladumun
-panta
-siqui laclu
-ucu ladu
-bultachisha
-uma churushca
-tigraman
-shuj laduman
-REVOLCAR
-singuna
-urmachina
-bultachina
-ribulcana
-simbuna
-zinguna
-REVOLVERSE
-cuyurina
-tigrarina
-muyurina
-muyuna
-bultachina
-RICO
-charij
-ricu
-charij tucushca
-chayuj
-culquiyuj
-RIGIDO
-sinchi
-caspiyashca
-shinlli
-jinchi
-aruyashca
-jinchiyashca
-tisuyashca
-caspi
-tisu
-rataj
-ratuj
-RTNCON
-cuchu
-juchu
-isquina
-pata isquina
-cunchu
-RIO
-jatun yacu
-yacu
-larca
-jati yacu
-RIOBAMBA
-Rimba
-Riubamba
-Rubamba
-Ribamba
-Billa
-ROBAR
-shuhuana
-shuhuarina
-jilluna
-ROCIO
-shulla
-sirinu
-rasu
-angulla
-rusiu
-p'utzutzu
-sulla
-chulla
-p'uga
-sarpa
-RODAR
-singuna
-muyuna
-pilutarina
-urmana
-RODEAR
-muyuna
-builtacuna
-RODELA
-sijsij
-piruru
-puchcana huangu
-sijsi
-sigsi
-uzu
-RODILLA
-cunguri
-pingullu
-cungurina
-mucu
-ROER
-cashtuna
-cachuna
-mutusquina
-ROGAR
-mañana
-rugana
-ROJO
-puca
-ROMPER
-p'aquina
-lliquina
-p'itina
-faquina
-RONDADOR
-runduna
-rundadur
-BONRONNEAR
-pushcana
-runcana
-caupuna
-puchcana
-murnicuna
-marau marau nina
-puchana
-rum nina
-ROPA
-churana
-trasti
-churacuna
-churajuna
-RUBIO
-puca uma
-sucu
-hirmiju
-puca ajcha
-yuruj uma
-sarcus
-RUIDO
-bulla
-huacai
-ruido
-caparigu
-RUINA
-shitashca huasi
-dañarishca huasi
-sitashca huasi
-shitarishca huasi
-paya huasi
-urmacuj huasi
-huasi yata
-biju huasi
-RUMIAR
-mucuna
-rimulina
-mulina
-acuna
-cutana
-cashturina
-cascana
-tigrachishpa cashtuna
-micuna
-SABER
-yachana
-SABIO
-yachaj
-yachij
-intindij
-ashca pinsamintu charij
-SABROSO
-mishqui
-sabruzu
-alli
-sumaj
-SACAR
-llujshichina
-surcuna
-llujchina
-llugchina
-SACERDOTE
-taita cura
-cura
-yaya cura
-SACUDIR
-chaspina
-chafsina
-sacudina
-SAL
-cachi
-SALCEDO
-Salsidu
-San Miguel
-Llajta
-SALIR
-llujshina
-llugshina
-SALIVA
-ty'uca
-t'uca
-tuca
-chuca
-llausa
-lausa
-SALTAR
-saltana
-brincana
-fahuana
-tincana
-jahuana
-SALVAJE
-auca
-sacha runa
-jibaru
-aushiris
-alama
-iriji
-salbaji
-SANAR
-alliyana
-jamibina
-alli tucuna
-ali tucuna
-aliyachina
-sanuyana
-SANDALIA
-pargati
-ushuta
-changlita
-pargatis
-alfargata
-alparagati
-sitibidas
-SANGRE
-yahuarr
-yaür
-ñahuar
-SAPO
-sapu
-jambatu
-jambatyu
-jamhatyuj
-amhatyu
-hualaj
-huartaj
-ty'ungil
-SARNA
-caracha
-sisu
-shijsi
-izi
-igzi
-llaga
-SECARSE
-chaquina
-chaquirina
-SECO
-chaquishca
-chaquichishca
-chaqui
-SECRETAMENTE
-pacalla
-upalla
-pacalla
-upala
-SED
-yacunayai
-yacunai
-yacuni
-chaqui
-SEGAR
-sigana
-pallana
-cuchuna
-cuzichana
-p'itina
-tandachina
-chujchina
-huajtana
-SEGUIR
-catina
-c'atina
-catish rina
-SEIS
-sujta
-SELVA
-sacha
-sacha urcu
-jatun sacha
-urcu
-lumas
-SEMBRAR
-tarpuna
-shitana
-jichana
-SEMENTERA
-chagra
-tsagra
-pampa
-simintira
-pushtu
-allpa
-tarpuna allpa
-SEMILLA
-muyu
-SENDERO
-chaqui ñan
-grada
-pasamanu
-SENO
-chuchu
-ñuñu
-chucu
-quinllulli
-quinlluli
-quinllu
-SENTARSE
-tiyarina
-SEPARAR
-chicanyachina
-chicanyana
-siparana
-partina
-anchuchina
-raquina
-shicanyachina
-SEPARADO
-chican
-siparadu
-chiquinyashca
-chicanyashca
-shican
-raquishca
-SER
-cana
-gana
-SESGO
-huishtu
-ishtu
-gachu
-quingu
-SESO
-ñutcu
-ñujtu
-ñutuju
-urna ñujtu
-mundungu ñutcu
-SI
-ari
-SIEMPRE
-simpri
-tucui ratu
-tucui timpu
-tuqui timpu
-tuqui bida
-tucui uras
-chaisir
-caillapitaj
-SIERRA
-jahua llajta
-sirra
-urcu
-SIETE
-canchis
-SIGUIENTE
-cati
-catij
-qu'ipa
-jipa
-c'atinacui
-SILENCIO
-upalla
-upala
-chulunlla
-chulunla
-illaj
-illij
-SIN PAREJA
-chulla
-SIN PUNTA
-punta illaj
-tugmu
-punta illij
-chumu
-tullmu
-bruncu
-putu
-muchu
-mutuluyashca
-mutu
-SIN SAL
-chamuj
-gamu
-chamu
-chanlla
-chamaj
-cachi illan
-cachi illij
-aminda
-chama
-chijsa
-man allichishca
-SOBACO
-rigra ucu
-subacu
-cashu
-rigra juchu
-arca
-suhacu ucu
-SOBAR
-c'acuna
-jacuna
-masana
-huajtana
-subana
-dalina
-batana
-SOBRAR
-puchuna
-suhrana
-SOBRINA
-subrina
-SOBRINO
-subrinu
-SOFOCAR
-augana
-ajugana
-aguarina
-augarina
-jumbichina
-mana sami cachana
-aturana
-chucarina
-sami jarcarina
-samaita jarcana
-mana p'ucuna
-samaita mana cachai pudina
-samai jarcarina
-shaicuna
-jarcarina
-ujurina
-SOGA
-huasca
-SOL
-inti
-indi
-rupi
-rupai
-SOLO
-sapalla
-shuglla
-pailla
-shugla
-sapala
-sulu
-sululla
-sulitu
-SOLTAR
-cacharina
-pascarina
-jichuna
-SOLTERA
-sultira
-lunga
-muza
-huambra
-SOLTERO
-sultiru
-muzu
-lungu
-SOMBRA
-llandu
-sumbra
-alma
-lantu
-aya
-SOMBRERO
-sumirru
-sumiru
-sumbiru
-sumbrirru
-surnbriru
-sumbirru
-suriru
-jambatu sumbiru
-muchiju
-utu
-panza de burru
-SONREIR
-asirina
-asina
-cushiyana
-asisha nina
-aligri tucuna
-SOÑAR
-muscuna
-muspana
-suñuna
-suiñuna
-SOPA
-micuna
-lugru
-supa
-api
-mazamura
-caldu
-cachi yanushca
-p'idiu
-micui
-yangalla micuna
-api micuna
-SOPLAR
-p'ucuna
-fucuna
-samaita churana
-SORDO
-mana uyaj
-surdu
-upa rinri
-na intindi
-tuntu
-pillca
-rinri mana uya
-rinrita ungushca
-surdu man uya
-SOSTENER
-charina
-charirina
-quimichina
-mantinina
-jinchichina
-jinchi tucuna
-huancana
-sujitana
-cuntinina
-SUAVE
-jahuala
-jahualla
-blandu
-ñutulln
-api
-apilla
-amuglla
-amugla
-shamba
-samba
-c'angalla
-juhualla
-ñutuhua
-ñutitu
-juiñutitu
-panguila
-cahia
-SUAVIZAR
-blanduyachina
-apiyachina
-amugyachina
-landuchina
-cacuna
-suabida rurana
-jahuallayachina
-c'acuna
-jahualayachina
-llamhayachina
-sambayachina
-ñutuchina
-SUBIDA
-huichi
-huichai
-llujshina
-vichai
-ichi
-patai
-sicana
-SUBIR
-jahuayana
-sicana
-huichiyana
-llujshina
-vitsana
-huichi sicana
-ichimu rina
-pataiyana
-hiuchícuna
-SUCEDER
-tucuna
-pasana
-susidina
-SUCESIVAMENTE
-cati catilla
-cati catila
-cati cati
-SUCIEDAD
-mapa
-c'arca
-carca
-muglla
-majada
-SUCIO
-mapa
-shuyu
-c'arca
-carca
-muglla
-c'ahui
-javi
-hualuj
-chushij
-SUDAR
-jumbina
-sudana
-SUDOR
-jumbi
-jumbina
-jumbishca
-suda
-súdur
-sudashca
-SHEGRA
-suidra
-suigra
-ipa
-SUEGRO
-suidru
-suigru
-yaya uma
-yaya suidru
-SUELO
-pamba
-allpa
-alpa
-achpa
-SUEÑO
-muscui
-muscuna
-suiñu
-puñuna
-puñui
-puñi
-suñui
-suiñuna
-durmina
-SUFICIENTE
-cabal
-chailla
-achca
-p'ajtana
-sufisinti
-cábul
-illaj
-ashca
-ña tucui alli
-ña ali
-chila
-ña p'ajta
-ña bashta
-pagta
-achcalla
-allisitu
-SUFRIR
-sufrina
-llaquina
-padisina
-padidina
-llaquirina
-chaicuna
-piñana
-llaquilla causana
-SUR
-ura
-sur
-uri ladu
-huasha
-huichi ladu
-jahua ladu
-huasha ladu
-indi llujshi ladu
-Riubamha llajta ladu
-huasha llajta
-chimba llagta
-jahua llagta
-vichai
-SURCO DE ARADO
-rahua
-huachu
-huachushca
-yapushca
-milga
-SUSPENDER
-huarcuna
-huaiyuna
-SUSTO
-manchai
-mancharina
-manchari
-manchi
-mancharishca
-manchana
-manllai
-sushtu
-sustu
-TABANO
-jatun chuspi
-chuspi
-birdi chuspi
-tabanu
-TACAÑO
-mitsa
-misaj
-misa
-TAL VEZ
-dinu
-tálhis
-qilisasllachari
-taubischari
-quisuschari
-quisás
-áqui
-uhin
-icha
-TALON
-chaqui talun
-talun
-TALLAR
-labrana
-llagllana
-cuchuna
-caspida burdana
-rurana
-sipillana
-aspina
-quillcana
-p'itina
-p'aquina
-TAMAÑO
-purti
-tupu
-bali
-balij
-p'ajta
-laya
-TAMBOR
-támbur
-caja
-bumhu
-tamhura
-dansa támbur
-TAPAR
-quilpana
-tapana
-c'atana
-tapachina
-quishpana
-quillpana
-quipina
-quishpachina
-quirpana
-jatana
-jatachina
-c'atachina
-c'atallina
-ty'unguchina
-cumbana
-churana
-TAPIA
-tapial
-tapia
-pata
-pirca
-adubidu
-TARDAR
-uniyana
-tardana
-tardiyana
-qu'ipayana
-quipayana
-unayana
-chingana
-parana
-TARDE
-chishi
-tardi
-ansa
-amsaya
-indi tardi
-TARDECER
-chishiyana
-tardiyana
-tutayana
-amsayana
-ansayana
-tardiyamuna
-chishiyamuna
-TARTAMUDO
-mana uyaj
-upa
-surdu tartsu upa
-tsunshu
-mudu
-surdu mudu
-shimillaj
-shandu surdu
-tarta tuntu
-tuntu
-huatiaj
-jarca
-tartusu tuntu
-mana alli rimaj
-muduyashca
-inusinti
-man uyan man parlan mudu
-TAZON DE BARRO
-latu
-punchira
-shila
-huallu shila
-platu
-iscudilla
-TECHO
-c'ata
-tichu
-jata
-huasi c'ata
-huasi c'atashca
-huasi p'ataj
-huasi tapashca
-huasi cumba
-cubirta
-c'atana
-cumha
-TEJER
-ahuana
-trahajana
-tijina
-TELA
-tila
-ahuashca
-linsu
-p'acha
-jirga
-tilashca
-TELAR
-ahuana caspi
-ahuana
-ahuana tílar
-ahuana tílir
-tilana
-tílir
-tflar
-TEMBLAR
-chujchuna
-chujchurina
-chujchina
-zimbrarina
-timblachina
-tiritana
-TEMER
-manllana
-manchana
-TENDON
-angu
-tindun
-bina
-TENEDOR
-trinchi
-charina
-chinchi
-trinti
-charidur
-TENER
-charina
-TEÑIR
-tiñina
-culurta rurana
-TERCO
-millai
-mana cazuj
-ahurridu
-mana intindij
-n'yiru
-chinchi
-quillayashca
-mal criadu
-sunsu
-tuntu
-brutu
-TERMINAR
-tucuchina
-puchucana
-TERNERO
-bizi
-billi
-bizhi
-shicu
-huahua huagra
-TERREMOTO
-allpa chujchui
-timblur
-allpa cuyui
-alpa chujchuna
-alpa cuyuna
-mama alpa cuyui
-alpa mama cuyuj
-tímplur
-t'unin
-dirrumhu
-achpa cuyi
-allpa tuñiri
-allpa t'imbushca
-allpa cuyurishca
-tunirishca
-TERRENO
-allpa
-pamba
-achpa
-azhpa
-alpa
-TESTICULO
-lulun
-ruru
-curuta
-TETA
-chuchu
-ñuñu
-chuchuna
-chucu
-TIA
-tía
-TIBIO
-cunuglla
-cunuj
-TIEMPO
-uras
-timpu
-tyimpu
-urus
-uñai
-unilla
-sarun
-pacha
-unai
-TIERNO
-llullu
-TIERRA
-allpa
-alpa
-achpa
-azhpa
-TIESO
-sinlli
-tisu
-jinchi
-caspiyashca
-caspi
-shinlli
-ajushtadu
-cullma
-c'azilyishca
-rijtu
-TIESTO
-callana
-TINAJON PARA CARGAR AGUA
-p'undu
-funclu
-baldi
-TINAJON PARA GUARDAR AGUA
-magma
-maguma
-TINTURAR
-tiñina
-tinturana
-pintana
-TIO
-tíu
-TIPO
-laya
-TIRAR
-chutana
-aisana
-shitana
-chutarina
-chutachina
-timplana
-TOBILLO
-chaqui mucu
-tutu
-chaqui tálun
-chaqui surtija
-mucu
-chaqui tullu
-TOGAR
-tucana
-japina
-japirina
-tupana
-tuparina
-llangana
-tacarina
-tantiana
-TODAVIA NO
-manaraj
-manari
-manarij
-naraj
-inaraj
-naruj
-mana ru
-TODOS
-tucui
-tuqui
-illij
-ishta
-TODO
-tucui
-tuqui
-illij
-ishta
-TOMAR
-ubiana
-upiana
-ufiana
-ubina
-TOMAR
-japina
-chasquina
-prusisiunda japina
-TOME
-jaica
-c'aiga
-caica
-japi
-jaiga
-c'aica
-sirbi
-TONTO
-upa
-muspa
-tuntu
-mudu
-sunsu
-shunllu
-shunshu
-muspaj
-buru
-urdimal
-huantsu
-TORCER
-quihuina
-tursina
-huishtuyana
-quivina
-vishtuyana
-huishuyana
-caupina
-TORTOLA
-urpi
-churutu
-TOS
-uju
-ujuna
-ujui
-TOSCO
-grusiru CS
-tuscu
-yapa millai
-malquiriadu
-raculla
-piña
-piñashca
-jatun tacushca
-shinlli
-sinchi
-brutu
-TOSER
-ujuna
-ujurina
-TOSTADO
-camcha
-cancha
-canchashca
-camchashca
-camlla
-camllana
-TOSTAR
-camchana
-canchana
-camllana
-TOTALMENTE
-tucuilla
-illajta
-illijta
-tuquila
-ishta
-illaita
-tuqui tuquita
-tucuila
-tucuita
-tuntaminti
-TRABAJAR
-trahajana
-rurana
-urana
-TRADUCIR
-pasachina
-mudana
-yalichina
-tigrachina
-catichina
-tradusina
-cutin shujta rimana
-alli rimana
-pasana
-trandusina
-TRAER
-apamuna
-abamuna
-TRAGAR
-millpuna
-milpuna
-langana
-limpuna
-TRAMPA
-trampa
-tuglla
-tugllai
-japina
-TRANQUILO
-casilla
-gushtulla
-cungailla
-casila
-cushilla
-jahualla
-cungashcalla
-cungüila
-allimanda
-cungarishca
-upalla
-casi
-tranquilla
-TRANSPARENTE
-utcashpa ricunalla
-ispiju cuinta
-ricurina
-yalishpa ricunalla
-chuya
-punllalla
-igul
-pariju
-alairi
-ispiju
-zaquil
-ricurishca
-TRAPO
-llachapa
-trapu
-findu
-chapu
-p'uchu
-TRASERO
-siqui
-siqui tullu
-TRASPLANTAR
-plantata tarpuna
-tarpuna
-lujshisha tarpuna
-cati tarpuan
-huashan lantana
-tarbuna
-shujmi pasachina
-tigra tarpuna
-allichi plantana
-shuj ladum tarpuna
-TRASQUILAR
-rutuna
-TRES
-quimsa
-quinsa
-TRENZA
-chimba
-shimba
-jimba
-huangu
-trinza
-TRENZAR
-chimbana
-shimbana
-jimbana
-TRILLAR A CABALLO
-trillana
-saruchina
-sarubayana
-bailachina
-TRILLAR A MANO
-huajtana
-trillana
-tacana
-TRIPAS
-chunllulli
-chunlluli
-puzun
-chunzhulli
-chunzhli
-TRISTE
-llaqui
-llaquilla
-llaquishquitu
-TROJE
-truji
-truja
-huaquichina
-putsa
-ira
-budiga
-taqui
-granuta huacaichina huasi
-surun
-TRONAR
-culun nina
-gulun nina
-trunana
-tamia huacana
-culunquirina
-tulun nina
-tujyana
-truyinana
-TRONCO
-caspi truncu
-truncu
-sapi
-tullu
-putu
-caspi
-c'ullu
-putuyashca
-TROPEZAR
-miticana
-nitijana
-mitcarina
-nijtana
-mijtina
-tacarina
-nitcana
-mijtana
-TRUENO
-culun nina
-culun nishca
-gulun
-truinu
-rayu
-culun nijui
-trunidu
-truyina
-TU
-can
-jan
-TUERTO
-tuirtu
-chulla ñahui
-biscu
-chulla ñavi
-sigu
-bizgu
-sin ñahui
-TUMBAR
-urmachina
-bultachina
-singuchina
-bultiyachina
-bultiana
-TUMOR
-chupu
-tugya
-tuzulyashca
-punguillishca
-pungui
-TURBIO
-sangu
-quillulla
-turu
-mapalla
-mapa
-quillula
-mapayashca
-mapa yacu
-turuhuan
-TUSA
-curunda
-curunta
-tusa
-ULTIMO
-tucuri
-ultimu
-qu'ipa
-puchucái
-jipa
-jichurishca
-ULTIMO BEBE
-qu'ipa huahua
-puchucái huahua
-pugllin huahua
-pugzin huahua
-puchuqui huahua
-chali hoahua
-ultimúhua
-UNICO
-shuglla
-shugla
-chuglla
-UNIDO
-tandanacushca
-tandachishca
-tandanajushca
-tandalla
-tandala
-UNIR
-tandanacuna
-tandachina
-tinguina
-juntana
-tandanajuna
-quimina
-UNO
-shuj
-chuj
-UÑA
-sillu
-shillu
-URDIR
-aullina
-urdina
-pushcaina
-aulina
-USTED
-can
-quiquin
-jan
-USTEDES
-cancuna
-canguna
-VACA
-huagra
-baca
-cachudu
-huarmi huagra
-VACIAR
-lugaryachina
-tallina
-chushagyachina
-chushigyachina
-chushugyachina
-luguryachina
-talina
-tarina
-jichana
-VACIO
-chushaj
-chushuj
-chushij
-chusha
-chushu
-tushaj
-VADEAR
-chimbana
-pasana
-VALER
-balina
-VALIENTE
-juirsayuy
-jinchijui
-shinlli
-chinchi
-jinchi
-sinlli
-jarishna
-jariyashca
-jari tucushca
-c'ari c'ari
-baliyinti
-huapu
-VALLE
-huaicu
-chaupi luma
-ura ucu
-halli
-urcu pamha
-pamha
-c'aca
-ura llajta
-llaru pamba
-jilucuna
-VAMONOS
-jacu
-VAMONOS
-jacuchij
-jacuchi
-jacuichi
-jacu rishun
-bamuchi
-VAPOR
-samai
-sami
-yacu sami
-timbun sami
-yacu cushni
-VARA
-bara
-tauna
-ñaña caspi
-bástun
-VARON
-c'ari
-jari
-VASIJA GRANDE PARA CARGAR AGUA
-p'undu
-fundu
-baldi
-VASIJA GRANDE PARA GUARDAR AGUA
-magma
-maguma
-VEJIGA
-ishpa p'uru
-surun
-ishpa furu
-ishpa juru
-p'uru
-p'urun
-pucuna
-VELA
-ispilma
-sira
-bila
-VELLO
-millma
-milma
-huillma
-VENA
-angu
-bina
-VENADO
-taruga
-sacha huagra
-VENCER
-binsina
-atina
-mishana
-mishanacuna
-ganana
-VENDEDOR
-c'atadur
-c'atuj
-jatudur
-jatu
-c'aturush
-randichilún
-VENENO
-bininu
-huañuna jambi
-jamhi
-bininu jambi
-huañuchij jambi
-VENIR
-shamuna
-chayamuna
-VER
-ricuna
-VERANO
-usiya quilla
-chaquishca timpu
-usiya timpu
-alli timpu
-na tamia timpu
-biranu
-chaqui timpu
-rupi timpu
-pascarishca timpu
-usiya
-VERDE
-birdi
-chilca
-VERGÜENZA
-pingai
-pinga
-pingui
-pinganayai
-pinganayan
-VERTER
-tallina
-talina
-huishina
-birtina
-yacu llujshina
-VESTIDO
-churana
-churashca
-churajuna
-churacuna t
-VESTIRSE
-churarina
-churana
-churajuna
-churacuna
-mudarina
-bishtirina
-VEZ
-cutin
-biaji
-builta
-shuj cutin
-tauca biaji
-bulta
-VEZ DE
-randi
-cuinta
-munda
-cuintamunda
-cambiadu
-manta
-VIA
-ñan
-VIAJAR
-purina
-biajana
-rina
-caruta rina
-VIDA
-causai
-causana
-causi
-VIEJA
-paya
-yuyaj
-bija
-mauca
-rucu huarmi
-VIEJO
-rucu
-yuyay
-yuyij
-VIEJO
-mauca
-paya
-mauga
-VIENTRE
-huijsa
-vijsa
-ijsa
-hiugsa
-VIENTO
-huaira
-airi
-VIGA
-biga
-sulira
-caspi
-jatun caspi
-sintal
-VIOLIN
-biúlin
-VIRAR
-tigrana
-bultachina
-bultana
-builtana
-muyuchina
-VIRUELA
-muru ungüi
-muru ungui
-virgüila
-c'uchi biruila
-VISITAR
-bizitana
-ricugrina
-VIUDA
-biuda
-sapalla
-huajcha huarmi
-VIUDO
-biudu
-sapalla
-huajchn runa
-VIVIR
-causana
-VIVO
-bihu
-cutsi
-VOZ
-icu
-shimi
-rimashca
-rimai
-capai
-parlu
-VUELTA
-muyui
-builta
-quingu
-bulta
-cutin
-cutimui
-muyi
-muyuna
-VOLAR
-bulana
-currina
-calpana
-callpana
-fahuana
-bulusha rina
-VOLTEAR
-tigrana
-bultachina
-builtachina
-muyuchina
-VOLUNTAD
-munai
-muni
-amur
-munana
-VOLVER
-tigramuna
-bultarnuna
-builtarnuna
-cutina
-VOLVERSE
-tucuna
-VOMITAR
-lanzana
-arcadana
-shungu bultina
-shungu shitana
-shungu bultana
-shungu bultachina
-shungu jahuayana
-shunguta tigrana
-ugnina
-arcazana
-gumitana
-YA
-ña
-ya
-YACER
-siriita
-siririna
-siriuna
-YERNO
-masha
-yirnu
-irnu
-YO
-ñuca
-yuca
-YUNTA
-yunta
-yunda
-hunagra yunta
-huagra yapnna
-ZAFAR
-cacharina
-pascana
-safana
-saujana
-ZANAHORIA
-sanuria
-zanura
-zanahuria
-sañura
-ZANJA
-sanja
-larca
-sanca
-zanca
-sanga
-ZONZO
-upa
-sunsu
-muspa
-tuntu
-mudu
-shunllu
-shunshu
-zunzu
-quilla
-ZORRO
-atuj
-aña
-añas
-lubu
-rapusu
-atu
-surru
-caracha
-ruzu
-sini
-ZURCIR
-sirana
-tachana
-tijana
-rimandana
-###
-ABA
-haba
-ABAMUNA
-traer
-ABANA
-A
-llevar
-ABANICU
-aventador
-ABAS
-haba
-ABIANA
-echar
-ABIJA
-abeja
-ABINTADUR
-aventador
-ABINTANA
-abanicar
-aventar
-aventador
-ABINTU
-aventador
-ABIRIANA
-lastimar
-ABIRIGUANA
-averiguar
-ABIU
-caballo
-ABRIGANA
-averiguar
-ABUILA
-abuela
-ABUILU
-abuelo
-ABURRI
-cólera
-iras
-ABURRICHINA
-molestar
-ABURRIDU
-terco
-ACAPANA
-remolino
-ACUJA
-aguja
-ACUNA
-mascar
-rumiar
-ACHACANA
-culpar
-ACHCA
-mucho
-bastante
-muy
-hato
-suficiente
-montón
-más
-demasiado
-ACHCA YACU
-mar
-ACHCACUNA
-grupo
-ACHCALAL
-suficiente
-ACHCON
-goloso
-ACHCU
-perro
-ACHI MAMA
-madrina de bautizo
-madrina de matrimonio
-comadre
-ACHI TAITA
-padrino de bautizo
-campadre
-ACHICA
-mucho
-grupo
-ACHIGA
-luz
-ACHIGANA
-aclarar
-ACHIGALLA
-claro
-ACHIGYANA
-aclarar
-amanecer
-luciérnaga
-ACHIJ
-luz
-ACHIJ NINA
-brillar
-relampago
-ACHIJA
-bastante
-ACHILA MAMA
-madrina de bautizo
-ACHILLANA
-brillar
-ACHIYAMUNA
-aclarar
-ACHIYANA
-amanecer
-ACHPA
-tierra
-terreno
-barro
-pamba
-ACHPA CUYI
-terremoto
-ACHPA PULBU
-polvo
-ACHU NINA
-estornudar
-ACHUJSIANA
-estornudar
-ACHUTI
-achiote
-ADIUS NINA
-despedirse
-ADIVINA
-adivinar
-ADIVINANA
-adivinar
-ADUBI
-adobe
-ADUBIDU
-adobe
-tapia
-AFANANA
-empeñar
-AFILACHINA
-afilar
-AFILANA
-afilar
-AFRICHILLU
-afrecho
-AFRICHU
-afrecho
-AGCHA
-pelo
-cabello
-AGLLANA
-escojer
-AGNINA
-eructar
-ladrar
-AGRADISINA
-agradecer
-AGRIU
-agrio
-AGRU
-agrio
-AGRUCHINA
-fermentar
-AGRUYANA
-fermentar
-AGUARINA
-sofocar
-ahogarse
-AGUARISHCA
-aguado
-AGÜILA
-abuela
-AGÜILU
-abuelo
-AGUJA
-aguja
-AGULANA
-bostezar
-AGYANA
-eructar
-AHUANA
-tejer
-telar
-AHUANA CASPI
-telar
-AHUANA TILAR
-telar
-AHUANA TILAR
-telar
-AHUANTANA
-aguantar
-AHUARINA
-ahogarse
-AHUASHCA
-tela
-AHUILA
-abuela
-AHUILU
-abuelo
-AICHA
-carne
-AICHA C'ATUJ
-carnicero
-AICHA JATU
-carnicero
-AICHA JATUDUR
-carnicero
-AICHA JATUJ
-carnicero
-AICHALLA
-desnudo
-AICHIRU
-carnicero
-AILA
-abuela
-AILU
-abuelo
-AILLANA
-perforar
-AILLU
-familia
-AILLU SHUTI
-apellido
-AIRI
-viento
-AISANA
-jalar
-tirar
-estirar
-extender
-retirar
-AISANACUNA
-llevar entre varias personas
-AJAJA
-diablo
-AJALUNA
-murmurar
-AJANA
-insultar
-enojar
-AJCHA
-pelo
-cabello
-AJCHA CACHURISHCA
-desgreñado
-AJCHA JATARISHCA
-desgreñado
-AJICHANA
-cribar
-AJICHU
-poroso
-AJINU
-extraño
-AJITANA
-eructar
-AJTYU NINA
-estornudar
-AJUGANA
-sofocar
-AJUGARINA
-ahogarse
-AJUS
-ajo
-AJUSTANA
-ajustar
-completar
-AJUSHTANA
-ajustar
-apretar
-completar
-AJUSHTADU
-tieso
-AL RIBIS
-al revés
-ALAIRT
-transparente
-ALAJA
-bonito
-ALAJAHUA
-elegante
-ALAMA
-salvaje
-ALAMBRI
-cuerda
-ALAS
-ala
-ALBA
-madrugada
-mañana
-ALBANA
-madrugar
-ALBARDA
-aparejo
-ALBIJA
-alverja
-ALBIJAS
-alverja
-ALBIJIS
-alverja
-ALBIRJA
-alverja
-ALBIRJIS
-alverja
-ALBIS
-alverja
-ALBRIJIS
-alverja
-ALCU
-perro
-ALFA
-alfalfa
-ALFARGATA
-sandalia
-ALI
-bueno
-bien
-justo
-ALI LADU
-derecha
-ALI PACHA
-completamente
-ALI TUCUNA
-mejorar
-sanar
-ALI YACHAJ
-inteligente
-ALICHINA
-reparar
-arreglar
-enderezar
-guardar
-ALIGRI TUCUNA
-sonreir
-sonreirse
-ALILLA
-despacio
-ALIMANDA
-despacio
-ALIRI
-contento
-ALIS
-ala
-ALIYACHINA
-sanar
-ALIYANA
-mejorar
-ALJUA
-alfalfa
-ALMA
-alma
-sombra
-cadáver
-difunto
-ALMA HUAÑUSHCA
-alma
-ALPA
-terreno
-tierra
-piso
-arena
-pamba
-ALPA CUSHNI
-polvo
-ALPA CUYUNA
-terremoto
-ALPA CHUJCHUNA
-terremoto
-ALPA FUYU
-polvo
-ALPA MAMA CUYUJ
-terremoto
-ALPALA
-bajo
-ALPALLA
-bajo
-ALPARGATI
-sandalia
-ALP'A
-alfalfa
-ALP'A JIHUA
-alfalfa
-ALP'A QU'IHUA
-alfalfa
-ALP'ALP'A JIHUA
-alfalfa
-ALP'ALP'A QU'IHUA
-alfalfa
-ALSANA
-alzar
-ALTU
-alto
-loma
-piso
-ALTSANA
-levantar
-alzar
-ALUS
-ala
-alverja
-ALUMBRA
-rayo
-ALZANA
-levantar
-ALLAGMA
-boca arriba
-ALLAGMAN
-boca arriba
-ALLANA
-cavar
-perforar
-desmontar
-ALLCU
-perro
-ALLI
-bueno
-bien
-amable
-justo
-sabroso
-bonito
-contento
-elegante
-generoso
-ALLI ALLI
-generoso
-ALLI CUJ
-generoso
-ALLI LADU
-derecha
-ALLI MUDASHCA
-elegante
-ALLI PINSAMINTU
-inteligente
-ALLI RIMANA
-traducir
-ALLI SHUNGU
-generoso
-humilde
-amable
-ALLI SHUNGUYUJ
-amable
-ALLI TIMPU
-verano
-ALLI TUCUNA
-mejorar
-sanar
-ALLI UMA
-inteligente
-ALLI UYANA
-entender
-ALLI YACHAJ
-inteligente
-ALLICHINA
-arreglar
-reparar
-componer
-restituir
-mejorar
-enderezar
-guardar
-ajustar
-ALLICHI PLANTANA
-trasplantar
-ALLILA
-despacio
-ALLILLA
-despacio
-feliz
-ALLIMANDA
-despacio
-tranquilo
-quieto
-ALLIMANTA
-despacio
-ALLIMUNTA
-despacio
-ALLISITU
-suficiente
-ALLIYANA
-majorar
-sanar
-ALLMANA
-desherbar
-ALLPA
-terreno
-tierra
-suelo
-piso
-arena
-sementera
-ALLPA CHUJCHUI
-terremoto
-ALLPA CUYUI
-terremoto
-ALLPA CUYURISIJCA
-terremoto
-ALLPA PULBU
-polvo
-ALLPA T'IMBUSHCA
-terremoto
-ALLPA TUÑIRI
-terremoto
-ALLZHCU
-perro
-AMA
-no
-AMA NINA
-impedir
-detener
-defender
-AMAÑARINA
-enseñarse
-AMBATU
-Ambato
-AMBATYU
-sapo
-AMIGU
-amigo
-AMTNDA
-desabrido
-sin sal
-AMPANA
-bostezar
-AMPARU
-ceja
-AMPLIU
-amplio
-AMSA
-abscuro
-AMSA SHUNGU
-hígado
-AMSAYA
-tarde
-AMSAYACHINA
-cegar
-AMSAYANA
-tardecer
-anochecer
-AMUGCHINA
-suavizar
-AMUGLA
-suave
-AMUGLLA
-suave
-flojo
-AMULLI
-bocado
-AMULLIHUA
-bocado
-AMULLILLAHUA
-bocado
-AMUPUJ MANDAJ
-mayoral
-AMUR
-voluntad
-deseo
-feliz
-AMURUSU
-amable
-ANACU
-falda
-bayeta
-ANACUNA
-ceñir
-fajarse
-ANAGU
-falda
-ANCHU
-ancho
-amplio
-ANCHUCHINA
-retirar
-quitar
-separar
-desunir
-ANCHURINA
-alejarse
-ANDARINA
-reclinarse
-ANGA
-gavilán
-ANGARA
-calabaza
-ANGU
-vena
-tendón
-raiz
-cuerda
-ANGU HUASCA
-cuerda
-ANGULLA
-rocio
-ANGUSTU
-angosto
-ANGUYASHCA
-húmedo
-ANIMANA
-animarse
-ANIMARINA
-animarse
-ANIMAS
-cadáver
-ANINA
-bostezar
-ANLLU
-anchu
-ANLLUCHINA
-quitar
-ANLLUNA
-huir
-retirar
-ANLLURINA
-alejarse
-ANSA
-obscuro
-tarde
-ANSAYACHINA
-cegar
-ANSAYANA
-anochecer
-tardecer
-ANSIUZU
-goloso
-ANSIYA
-goloso
-ANTUJU
-deseo
-ANTSALA
-diminuto
-AÑA
-zorro
-AÑADINA
-añadir
-AÑANGU
-hormiga
-AÑAS
-zorro
-AÑI
-herida
-AÑICHINA
-herir
-ASINGU
-hormiga
-AÑINGUHUA
-diminuto
-AÑUNGU
-hormiga
-APAMUNA
-traer
-APANA
-llevar
-llevar entre varias personas
-APARINA
-cargar
-aparejo
-hombro
-API
-colada
-mazamorra
-sopa
-suave
-API MICUNA
-sopa
-APIGANA
-pegar con goma
-APILATIVU
-apellido
-APILLA
-suave
-liso
-APILLIDU
-apellido
-APILLIDU SHUTI
-apellido
-APITANA
-apretar
-APIYACHINA
-suavizar
-mojar
-remojar
-APIYANA
-ablandarse
-APUNDANA
-escribir
-APUNTANA
-disparar
-APURAI
-rápido
-APURTANA
-apretar
-ajustar
-APURU
-ligero
-AQUI
-tal vez
-ARADU
-arado
-ARAÑA
-araña
-ARARAI
-que calor
-ARARAU
-que calor
-ARCA
-sobaco
-ARCADANA
-vomitar
-ARCAZANA
-vomitar
-ARCU LARCA
-recodo
-ARI
-sí
-ARI CHIRI
-arco iris
-ARI NINA
-aceptar
-ARIANA
-araña
-ARISCU
-arisco
-ARITIS
-arete
-ARIYANA
-añadir
-ARMA
-arado
-ARMANA
-bañarse
-ARMARINA
-bañarse
-ARUGU
-agrio
-ARUYASHCA
-rígido
-ARRIMANA
-arrimar
-ARRINIRU
-poroso
-AS-HUA
-chicha
-ASICHINA
-chiste
-ASINA
-reir
-sonreír
-ASINDA
-hacienda
-ASIPTANA
-aceptar
-ASIRINA
-sonreír
-ASIRTANA
-adivinar
-ASISHA NINA
-sonreír
-ASPIDUR
-palo para cavar papas
-horqueta
-ASPINA
-rasgar
-raspar
-rallar
-cardar
-tallar
-ASTAHUAN
-más
-ASTALAHUAN
-luego
-ASTALLAHUAN
-luego
-ASTARAU
-que calor
-ASTINA
-azotar
-castigar
-ASUA
-chicha
-ASUA BASURA
-heces
-ASUA C'ATUNA
-chichería
-ASUA HUASI
-chichería
-ASUARIA
-chichería
-ASUHUA
-chicha
-ASUHUA C'ATU
-chichería
-ASUHUA C'ATUJ
-chichería
-ASUHUA C'ATUJ HUASI
-chichería
-ASUHUA HUASI
-chichería
-ASUHUA JATUJ HUASI
-chichería
-ASUHUA UCU
-chichería
-ASYINDA
-hacienda
-ASHA
-poco
-ASHAHUAN
-luego
-ASHAHUANLLA
-luego
-ASHALA
-poco
-ASHALLA
-poco
-escaso
-ASHALLA SAQUIRISHCA
-escaso
-ASHALLAHUAN
-luego
-ASHALLAUN
-luego
-después
-ASHALLITU
-poco
-ASHAMUNTA
-casi
-ASHANGA
-canasta
-ASHATA
-poco
-ASHAUN
-luego
-ASHCA
-bastante
-mucho
-más
-demasiado
-suficiente
-muy
-hato
-ASHCA PASANA
-exceder
-ASHCA PINSAMINTU CHÁRIJ
-sabio
-ASHCU
-perro
-ASHILLA
-poco
-ASHNA
-fétido
-ASHNACUJ
-fétido
-ASHNACHINA
-oler
-ASHNAI
-fétido
-ASHNAJ
-fétido
-ASHNAJTA CHUJCANA
-heder
-ASHNAJUNA
-heder
-ASHNANA
-heder
-odiar
-oler
-ASHNARIJ
-fétido
-ASHNARINA
-heder
-ASHNUZU
-fétido
-ASHPA TURU
-barro
-ASHTACA
-muy
-mucho
-bastante
-ASHTAHUAN
-más
-ASHTAN
-más
-demasiado
-ASHTAN HUAHUALLA
-menor
-ASHTANA
-acarrear
-ASHTAUN
-más
-ASHUN
-luego
-ATAJU
-grupo
-hato
-ATALPA
-gallina
-ATALLPA
-gallina
-ATAQUI CUNA
-desmayarse
-ATAQUI TUCUNA
-desmayarse
-ATIL
-gallina
-ATILA
-gallina
-ATILPA
-gallina
-ATILLA
-gallina
-ATILLPA
-gallina
-ATINA
-ganar
-convencer
-exceder
-ATRAZANA
-atrasarse
-ATU
-lobo
-zorro
-ATUJ
-lobo
-zorro
-ATULBA
-gallina
-ATURINA
-sofocar
-ATSATSAI
-que frío
-ATSIANA
-estornudar
-AUCA
-salvaje
-pagano
-AUGANA
-sofocar
-AUGARINA
-ahogarse
-sofocar
-AUJA
-aguja
-AUJARAMUN
-hongo
-AUJARINRISHINA
-poroso
-AULAJINA
-bostezar
-AULINA
-urdir
-AULLANA
-ladrar
-chillar
-AULLINA
-urdir
-ladrar
-AURURU
-azul
-AUSHIRIS
-salvaje
-pagano
-AYA
-alma
-cadáver
-difunto
-demonio
-diablo
-sombra
-AYAYAI
-que dolor
-AYUDANA
-ayudar
-AYUNANA
-desayuno
-AZADU
-azadón
-AZADU CABU
-azadón
-AZADUN
-azadón
-AZIL
-azote
-AZUL
-azul
-AZUTI
-azote
-AZUTINA
-azotar
-castigar
-azote
-AZHPA
-tierra
-terreno
-BABAS
-haba
-BABIA
-placenta
-BABUS
-baba
-BACA
-vaca
-BACHA
-batea de madera
-BADANA
-cinturón
-BAGU
-ocioso
-BAHUAL
-baul
-BAHUIL
-baul
-BATLACHINA
-trillar a caballo
-BAILANA
-bailar
-danzar
-BAITA
-bayeta
-rebozo
-BAJANA
-rebajar
-BAJU
-bajo
-RAJUYACHINA
-rebajar
-BALDI
-tinajón o vasija grande para
-cargar agua
-BALI
-caro
-tamaño
-generoso
-BALIJ
-caro
-tamaño
-BALINA
-valer
-poder
-equivaler
-BALIRINA
-equivaler
-BALISHCA
-caro
-BALIYINTI
-valiente
-BALUR
-caro
-BALLI
-valle
-BAMUCHI
-vámanos
-BANCU
-montón
-BANCUNA
-amontonar
-BANQUILLANA
-amontonar
-RANQUILLUNA
-amontonar
-BARA
-vara
-BARBAS
-barba
-BARBUS
-barba
-BARRU
-lodo
-BARRU PLATU
-plato
-BASTUN
-vara
-BASU
-pilche
-BASURA
-basura
-BATA
-falda
-BATANA
-sobar
-BATIA
-hatea de madera
-BATINA
-batir
-mecer
-BATIU
-cordero
-BATIUJ
-cordero
-BAUL
-baul
-BAULU
-baul
-BAUTISANA
-bautizar
-BAUTIZANA
-bautizar
-bautizo
-BAUTIZMU
-bautizo
-BAUTIZU
-bautizo
-BAYITA
-bayeta
-BIAJANA
-viajar
-BIAJI
-vez
-BIBU
-vivo
-inteligente
-BIBUSHCA
-inteligente
-BIBUYASHCA
-inteligente
-BIGA
-viga
-BIJA
-vieja
-BIJU
-mayor
-BIJU HUASI
-ruina
-BILA
-vela
-cera
-luz
-moco
-BILLA
-Ibarra
-Riobamba
-BILLI
-becerro
-ternero
-BIN
-bien
-BINA
-vena
-tendón
-BININU
-veneno
-BININU JAMBI
-veneno
-BINSI TUCUNA
-escapar
-BINSINA
-vencer
-ganar
-exceder
-convencer
-BIRANU
-verano
-BIRDI
-verde
-BIRDI CHUSPI
-tábano
-BIRDIYASHCA
-coágulo
-BIRGÜILA
-viruela
-BIRMIJU
-rubio
-BIRSIANA
-cantar
-BTRTINA
-verter
-BISCU
-bizco
-tuerto
-BISTISHCA
-disfrazado
-BISHTIRINA
-vestirse
-BISHU
-ave
-pájaro
-pene
-BIUDA
-viuda
-BIUDU
-viudo
-BIULIN
-violín
-BIZGU
-bizco
-tuerto
-BIZHI
-ternero
-BIZI
-becerro
-ternero
-BIZINU
-al lado de
-BIZITANA
-visitar
-BLANDA
-humilde
-BLANDU
-suave
-BLANDUYACHINA
-suavizar
-BLANDUYANA
-ablandarse
-BLUZA
-blusa
-BRILLANA
-brillar
-BRINCANA
-saltar
-brincar
-BRUJANA
-brujear
-BRUJIYANA
-brujear
-BRUJU
-brujo
-BRUJUCHINA
-brujear
-BRUJUNA
-brujear
-BRUJUYANA
-brujear
-BRUJYANA
-brujear
-BRUMA
-chiste
-BRUMANA
-broma
-BRUNCU
-embotado
-sin punta
-BRUTANA
-brotar
-retoñar
-BRUTU
-terco
-tosco
-BUCADU
-bocado
-BUCHI
-pecho
-BUDA
-fiesta
-matrimonio
-BUDIGA
-troje
-BUGLLINA
-eructar
-BUGYANA
-eructar
-BUILTA
-vuelta
-curva
-vez
-BUILTACUNA
-rodear
-BUILTACHINA
-voltear
-devolver
-responder
-envolver
-BUILTAMUNA
-volver
-BUILTANA
-regresar
-BUILTARINA
-convertirse
-BULANA
-volar
-correr
-BULBU
-polvo
-BULI
-rápido
-BULSA
-blusa
-BULSA SHIGRA
-bolsa tejida
-BULTA
-vuelta
-vez
-otra vez
-BULTACHINA
-voltear
-tumbar
-restituir
-devolver
-revolcar
-responder
-revolverse
-desmontar
-BULTACHISHA
-al revés
-BULTAMUNA
-volver
-BULTANA
-regresar
-BULTANGABU RINA
-despedirse
-RULTARINA
-retoñar
-BULTIACHINA
-devolver
-BULTIANA
-tumbar
-BULTIYACHINA
-tumbar
-BULUNGU
-redondo
-BULUSHA RINA
-volar
-BULLA
-ruido
-BULLAYANA
-chillar
-BULLIRU
-azote
-BUNQUI
-círculo
-BUMBA TUCUSHCA
-redondo
-BUMBU
-tambor
-BUNGA
-abeja
-BUNQUI
-batea de madera
-BUNTUN
-grupo
-montón
-hato
-BUNTUNANA
-amontonar
-BURA
-fiesta
-BURLA
-broma
-chiste
-BURLANA
-chiste
-BUSTIZANA
-bostezar
-BUTARISHCA
-embotado
-BUTU
-botón de planta
-BUTUN
-botón de planta
-nudo
-BUTUYANA
-brotar
-BUTYANA
-retoñar
-BUYI
-abeja
-CABAL
-justo
-suficiente
-entero
-enteramente
-CABALTA
-completamente
-CABALLIJUNA
-montar a caballo
-CABALLU
-caballo
-CABIA
-suave
-CABISIRA
-almohada
-CABIZA
-racimo
-CABRU
-chivo
-CABUL
-justo
-suficiente
-entero
-CABUYA
-cabuya blanca
-CACA
-caca
-excremento
-CACANA
-defecar
-CACUNA
-suavizar
-CACHANA
-enviar
-mandar
-CACHARICHINA
-alargar
-CACHARINA
-zafar
-aflojar
-librar
-desatar
-alargar
-soltar
-CACHI
-sal
-CACHI ILLAN
-sin sal
-CACHI ILLIJ
-sin sal
-CACHI YANUSHCA
-sopa
-CACHU
-cuerno
-CACHUDU
-vaca
-CACHUN
-cuñada
-nuera
-CACHUNA
-mascar
-roer
-CADA
-cada
-CAHUINA
-mecer
-CAHUITU
-cama
-CAI
-esta
-este
-esto
-CAI RATU
-pronto
-CAI SHUJ
-otro
-CAICA
-toma
-CAILLA
-cerca
-CAILLAPITAJ
-siempre
-CAINA
-ayer
-CAINA SARUN
-anteayer
-CAINA MINCHA
-anteayer
-CAINA YALLIJ
-anteayer
-CAINACHINA
-detener
-demorar
-CAINANA
-pasar
-demorar
-permanecer
-CAINAPAJ CAINA
-anteayer
-CAINIJ SHAMUNA
-acercarse
-CAIPI
-aquí
-CAISHUJCUNA
-los demás
-CAJA
-tambor
-CAJAYANA
-hinchar
-CAJUN
-baul
-CALABAZA
-calabaza
-CALAGYANA
-desmayarse
-CALAMBI
-calambre
-SALAMBRI
-calambre
-CALAMBRIS
-calambre
-CALDERA
-olla
-CALDU
-sopa
-CALINTURA
-fiebre
-CALPANA
-correr
-volar
-CALUR
-fiebre
-fuego
-CALUR TIYANA
-hacer calor
-CALUR UNGÜI
-fiebre
-CALUR YACHINA
-hacer calor
-CALUSH
-fuego
-CALZUN
-pantalón
-CALLAMBA
-hongo
-CALLANA
-tiesto
-CALLARINA
-comenzar
-empezar
-continuar
-construir
-CALLPANA
-correr
-volar
-CALLU
-lengua
-CALLUMBA
-hongo
-CAMA
-cama
-CAMARIS
-diarrea
-CAMATIS
-diablo
-CAMBIADU
-en vez de
-CAMBIYANA
-convertirse
-CAMCHA
-tostado
-CAMCHANA
-tostar
-CAMCHASHCA
-tostado
-CAMINA
-insultar
-murmurar
-CAMIZA
-blusa
-CAMLLA
-tostado
-CAMLLANA
-tostar
-tostado
-CAMPU
-amplio
-lugar
-CAN
-tu
-usted
-CANA
-ser
-estar
-existir
-CANASTA
-canasta
-CANASTU
-canasta
-CANASHTA
-canasta
-CANATSI
-fibra de cabuya
-CANCUNA
-ustedes
-CANCHA
-tostado
-afuera
-fuera de
-grupo
-CANCHAMBA
-patio
-CANCHANA
-tostar
-CANCHASHCA
-tostado
-CANCHIS
-siete
-CANDADU CHURANA
-poner llave
-CANDANA
-cantar
-canción
-CANDILLILLA
-luciérnaga
-CANGUNA
-ustedes
-CANILLA
-canilla
-CANILLANA
-devanar
-CANINA
-morder
-picar
-ladrar
-CANISTA
-canasta
-CANISH NINA
-ladrar
-CANISHTA
-canasta
-CANLLA
-fuera de
-afuera
-hato
-CANLLA PAMBA
-patio
-CANLLA PUNGU
-corredor
-CANTANA
-cantar
-canción
-CANTU
-canción
-CANZHA
-afuera
-CAPAI
-voz
-CAPANA
-castrar
-CAPARIGU
-ruido
-CAPARINA
-gritar
-gritar
-chillar
-CAPINA
-exprimir
-ordeñar
-apretar
-CAPU SITANA
-castrar
-CAPULI
-capulí
-CAPÚLIS
-capuli
-CAPUL
-capulí
-CAPUS
-capulí
-CARA
-piel
-cuero
-cáscara
-corteza
-CARA CHUMBI
-cinturón
-CARA HUASCA
-azote
-CARACUL
-caracol
-CARACHA
-sarna
-lobo
-zorro
-CARACHISHCA
-coágulo
-CARADA LLUJSHICHINA
-pelear
-CARAJ
-generoso
-CARALUN
-generoso
-CARANA
-dar de comer
-brindar
-regalar
-ofrecer
-CÁRBUN
-carbón
-CARBÚN
-carbón
-CARCA
-sucio
-suciedad
-CARCUNA
-echar
-CARDANA
-cardar
-CARGLAN
-bizco
-CARGUNCHINA
-culpar
-CARI
-macho
-hombre
-CARIÑUZU
-generoso
-amable
-CARNISIRU
-carnicero
-CARPA
-choza
-CARSILMAN APANA
-prender
-CARTILIS QUINRI
-costilla
-CARU
-lejos
-distante
-caro
-CARUTA RINA
-viajar
-CARUYACHINA
-retirar
-CARUYANA
-alejarse
-CARUYASHCA
-caro
-CARRIZU
-carrizo
-CARRUSQUINA
-mascar
-CASA
-helada
-hielo
-CASA PACARINA
-helar
-CASACUNA
-helar
-CASISHCA
-helada
-CASAI
-helada
-CASAICHINA
-helar
-CASANA
-helar
-CASASHCA
-helada
-CASCANA
-rumiar
-CASI
-tranquilo
-CASI ILLAN
-escaso
-CASILA
-quieto
-tranquilo
-CASILLA
-tranquilo
-quieto
-CASISHCA
-helada
-hielo
-CASPA
-mazorca
-CASPANA
-chamuscar
-CASPI
-palo
-madera
-bastón
-viga
-rama
-tronco
-tieso
-rígido
-delgado
-pálido
-CASPI CARA
-corteza
-CASPI HUIGRU
-batea de madera
-CASPI TRUNCU
-tronco
-CASPIDA BURDANA
-tallar
-CASPIYASHCA
-rígido
-tieso
-CASTIGANA
-castigar
-CASTUNA
-mascar
-CASU RURANA
-obedecer
-CASUNA
-obedecer
-CASHA
-espina
-CASHA PURU
-espinazo
-CASHA TULLU
-espinazo
-CASHNA
-así
-CASHTIGANA
-castigar
-azotar
-CASHTUNA
-roer
-mascar
-CASHTUNAS
-quijada
-CASHTURINA
-rumiar
-CASHU
-sobaco
-CATAPUGLA
-catapulta
-CATAPULCA
-catapulta
-CATARRU
-gripe
-CATI
-siguiente
-después
-menor
-CATI CATI
-sucesivamente
-CATI CATILA
-sucesivamente
-CATI CATILLA
-sucesivamente
-CATI HUAUQUI
-hermano menor
-CATI TARPUNA
-trasplantar
-CATICACHINA
-perseguir
-CATICHINA
-encender
-prender candela
-guiar
-traducir
-CATIJ
-siguiente
-CATIJ P'UNLLA
-día siguiente
-CATIJACHINA
-perseguir
-CATIJICHINA
-perseguir
-CATINA
-seguir
-continuar
-perseguir
-leer
-CATIRANA
-perseguir
-CATIRISHCA P'UNLLA
-día siguiente
-CATISH RINA
-seguir
-CATSU
-catzo
-CAUCHU
-cuerda
-fibra de cabuya
-CAUCHUNA
-retorcer
-CAUPANA
-ronronear
-CAUPINA
-torcer
-CAUPUNA
-retorcer
-CAUSA
-culpa
-CAUSAI
-vida
-CAUSANA
-vivir
-existir
-permanecer
-vida
-CAUSI
-vida
-CAUZA
-culpa
-CAVINA
-batir
-mecer
-CAYA
-mañana
-CAYA MINCHA
-pasado mañana
-CAYA PUNLLA
-día siguiente
-CAYA PUNZHA
-día siguiente
-CAYA SARUN PASASHCA
-pasado mañana
-CAYA YALLI
-pasado mañana
-CAYA YALLIJ
-pasado mañana
-CAYACAMA
-hasta mañana
-CAYACAMA NINA
-despedirse
-CAYACAMAN
-hasta mañana
-CAYACAMANA
-despedirse
-CAYAGAMA
-hasta mañana
-CAYAGAMA NINA
-despedirse
-CAYANA
-llamar
-invitar
-llamar
-nombrar
-CAYANDI
-día siguiente
-pasado mañana
-CAYANDIJ
-día siguiente
-CAYANDIJ P'UNLLA
-día siguiente
-CAYAPAJ CAYA
-pasado mañana
-CAYAPAJ CAYANDIJ
-pasado mañana
-CAYINDI
-día siguiente
-CAYUNDI
-día siguiente
-CAZAMINTU
-matrimonio
-CAZARAI
-matrimonio
-CAZARANA
-casarse
-matrimonio
-CAZARASHCA
-matrimonio
-CAZARI
-matrimonio
-CAZARINA
-casarse
-matrimonio
-CAZI
-casi
-CAZUNA
-hacer caso de
-obedecer
-CLABANA
-clavar
-CLABUDA TACANA
-clavar
-CRIANA
-criar
-CRICHINA
-convencer
-engañar
-CRINA
-creer
-CRISPU
-crespo
-CRISPUMA
-crespo
-CRIYINA
-creer
-CRUZANA
-cruzar
-CRUZARINA
-cruzar
-CUADRACHINA
-cuadrar
-CUADRADUDA RURANA
-cuadrar
-CUADRANA
-cuadrar
-CUADRARINA
-cuadrar
-CUAJARISHCA
-coágulo
-CUBIRTA
-techo
-CUCABI
-fiambre
-CUCAHUI
-fiambre
-CUCAVI
-fiambre
-CUCAYI
-fiambre
-CUCAYU
-fiambre
-CUCU
-diablo
-demonio
-CUCU PALU
-lagartija
-CUCHA
-lago
-charco
-mar
-CUCHÁRUN
-cucharón
-CUCHARÚN
-cucharón
-CUCHAYASHCA
-charco
-CUCHI
-chancho
-puerco
-CUCHQUI
-plata
-dinero
-CUCHU
-rincon
-lado
-cerca
-CUCHU QUIRU
-muela
-CUCHUCHINA
-arrimar
-CUCHULLA
-cerca
-CUCHUNA
-cortar
-cosechar
-segar
-tallar
-cortar
-herir
-arrancar
-CUCHURISHCA
-herida
-CUCHUYACHINA
-arrimar
-CUCHUYANA
-acercarse
-CUDU
-recodo
-CUI
-conejillo de indias
-CUICA
-lombriz
-CUICHI
-arco iris
-CUIDADU
-cuidado
-CUIDAI
-cuidado
-CUIDANA
-cuidar
-guardar
-CUINTA
-en vez de
-CUINTAMUNDA
-en vez de
-CUINTANA
-contar
-contar
-CUIRDA
-cuerda
-CUIRPU UPA
-paralizado
-CUIRPU UPAYASHCA
-paralizado
-CUITSA
-joven
-muchacha
-CUJCHUI
-paludismo
-CUJITU
-cojo
-CUJU
-cojo
-manco
-CULA
-cola
-lagartija
-CULANA
-pegar con goma
-CULIRA
-cólera
-iras
-bravo
-CULIRACHINA
-enojar
-molestar
-CULIRANA
-enojar
-iras
-CULIS
-col
-CULMA
-montón
-CULMANA
-amontonar
-CULPA
-culpa
-CULPANA
-culpar
-CULQUI
-plata
-dinero
-oro
-CULQUIYUJ
-rico
-CULTIVANA
-desherbar
-CULUN NIJUI
-trueno
-CULUN NINA
-tronar
-trueno
-CULUN NISHCA
-trueno
-CULUNQUIRINA
-tronar
-CULUR
-achiote
-CULURTA RURANA
-teñir
-CULLMA
-tieso
-CULLQUI
-dinero
-plata
-CULLU
-muñon
-CULLUSHCA
-muñon
-CUMADRI
-comadre
-CUMAÑANA
-acompañar
-CUMARI
-comadre
-madrina de bautizo o matrimonio
-CUMBA
-amigo
-techo
-CUMBANA
-acompañar
-tapar
-CUMBARI
-compadre
-CUMBIDALUN
-generoso
-CUMBIDANA
-regalar
-brindar
-ofrecer
-invitar
-CUMBIDASHCA
-gratis
-CUMBINSINA
-convencer
-CUMBUNINA
-arreglar
-CUMINUS
-comezon
-CUMPADRI
-compadre
-CUMPAÑANA
-acompañar
-CUMPAÑASHA PURINA
-acompañar
-CUMPAÑASHA RINA
-acompañar
-CUMPAÑIRITU
-amigo
-CUMPARI
-compadre
-CUMPLINA
-cumplir
-obedecer
-CUMPUNINA
-arreglar
-CUMU
-curva
-CUMURINA
-agacharse
-CUMURISHCA
-jorobado
-CUNA
-dar
-brindar
-entregar
-ofrecer
-dar de comer
-CUNA CANA
-deber
-CUNAGYANA
-abrigarse
-CUNAN
-ahora
-hoy
-CUNAN PUNLLA
-hoy
-CUNAN PUNZHA
-hoy
-CUNBIDANA
-regalar
-CUNCHU
-rincon
-CUNDUR
-cóndor
-CUNGA
-cuello
-pescuezo
-garganta
-manzana
-CUNGA HUASHCA
-collar
-CUNGA HUASHCA SARTADA RURANA
-ensartar
-CUNGA MUCU
-manzana
-nuca
-CUNGA TULLU
-nuca
-CUNGAI
-de repente
-CUNGAILLA
-tranquilo
-CUNGALLA
-de repente
-CUNGANA
-olvidar
-descuidar
-equivocarse
-CUNGARINA
-descuidar
-equivocarse
-CUNGARISHCA
-tranquilo
-CUNGASHCAIPI
-de repente
-CUNGASHCALLA
-tranquilo
-CUNGÜILA
-tranquilo
-CUNGURI
-rodilla
-falda
-CUNGURI CHANGA
-muslo
-CUNGURINA
-arrodillarse
-rodilla
-CUNIJU
-conejo
-CUNLLU
-heces
-CUNSIJANA
-educar
-CUNTININA
-sostener
-CUNTINTU
-contento
-alegre
-feliz
-CUNTISTANA
-responder
-CUNTRA
-enemigo
-CUNTRA GANA
-odiar
-CUNTRARIU
-enemigo
-CUNU
-conejo
-CUNUCHINA
-calentarse
-CUNUGLLA
-tibio
-caliente
-CUNUGLLA CANA
-hacer calor
-CUNUGYANA
-calentarse
-arder
-abrigarse
-CUNUJ
-tibio
-caliente
-calor
-CUNUJCHINA
-calentarse
-arder
-CUNUN
-ahora
-hoy
-CUNUN P'UNLLA
-hoy
-CUNUNA
-abrigarse
-calentarse
-CUNURINA
-abrigarse
-calentarse
-CUNYANA
-arder
-CUÑA
-moco
-CUÑADA
-cuñada
-CUPA UMA
-desgreñado
-CURA
-sacerdote
-CURASUN
-corazón
-CURBA
-curva
-CURBIÑU
-conejillo de indias
-CURCU
-jorobado
-CURCULUMU
-jorodado
-CURDUR
-corredor
-CURI
-oro
-CURICU
-madrastra
-CURPA
-coágulo
-CURPARINA
-encogerse
-CURPAYANA
-encogerse
-CURPAYARINA
-encogerse
-CURPUYASHCA
-coágulo
-CURSIA
-diarrea
-CURTA
-coágulo
-CURTILIS
-costilla
-CURU
-gusano
-CURU TAMIA
-lluvia con sol
-CURUNDA
-tusa
-CURUNTA
-tusa
-CURURU
-ovilla de hilo
-CURURUNA
-ovillar
-devanar
-enrollar
-CURURUTA RANA
-devanar
-CURUTA
-testículo
-CURVA
-recodo
-CURRAL
-corral
-cerco
-CURRIA
-cinturón
-CURRIDUR
-corredor
-CURRIDUR PUNGU
-corredor
-CURRIMILLUN
-muela
-CURRINA
-correr
-alargar
-CURRIYANA
-correr
-CURRUL
-corral
-CUSA
-esposo
-marido
-CUSANA
-asar
-ensartar
-CUSCUNGU
-buho
-CUSTIJIS
-costilla
-CUSTILLA
-costilla
-CUSTIS
-costilla
-CUSTUMBRI
-costumbre
-CUSHA
-nido
-CUSHA NINA
-ofrecer
-CUSHI
-contento
-feliz
-CUSHICUI
-feliz
-CUSHILA
-alegre
-CUSHILLA
-alegre
-contento
-tranquilo
-CUSHIYACHINA
-domesticar
-CUSHIYANA
-sonreírse
-sonreír
-CUSHNI
-humo
-obscuro
-gris
-CUSHNICHINA
-ahumar
-humear
-CUSHNIDA CHURANA
-ahumar
-CUSHINA
-humear
-ahumar
-CUSHNIYACHINA
-ahumar
-CUSHNIYANA
-ahumar
-CUSHPANA
-orinar
-CUSHQUI
-plata
-dinero
-CUSHTILIS
-costilla
-CUSHTILLA
-costilla
-CUSHTILLAS
-costilla
-CUSHTIRIS TULLU
-costilla
-CUSHTIS
-costilla
-CUSHTUMBRI
-costumbre
-CUTA
-harina
-CUTANA
-moler
-inyectar
-CUTI SHUJ
-otro
-CUTICHINA
-responder
-devolver
-repetir
-restituir
-entregar
-CUTIJ
-otra vez
-CUTIMBISH URANA
-repetir
-CUTIMUI
-vuelta
-CUTIN
-otra vez
-vez
-vuelta
-CUTIN IÑARINA
-retoñar
-CUTIN RURANA
-repetir
-CUTIN SHUJ
-otro
-CUTIN SHUJ BUILTA RURANA
-repetir
-CUTIN SHUJ LADU
-oriente
-CUTIN SHUJ LAYA
-diferente
-distinto
-CUTIN SHUJ VIAJI
-otra vez
-CUTIN SHUJCUNA
-los demás
-CUTIN SHUJTA RIMANA
-traducir
-CUTINA
-regresar
-volver
-repetir
-CUTISH
-otro
-CUTU
-manzana
-corto
-CUTUNA
-moler
-rumiar
-blusa
-CUTSI
-vivo
-ingenioso
-pronto
-ligero
-CUTSILLA
-inteligente
-CUYANA
-querer
-CUYI
-conejillo de indias
-CUYUCHIJ
-arco iris
-CUYUCHINA
-mecer
-batir
-girar
-CUYUGU
-músculo
-CUYUNA
-moverse
-CUYURINA
-revolverse
-moverse
-dislocar
-CUZICHANA
-cosechar
-segar
-CUZINA UCU
-cocina
-cuarto
-CUZUCHANA
-cosechar
-CUZHQUI
-plata
-dinero
-C'ACA
-peñia
-quebrada
-valle
-C'AC'A UTCU
-cueva
-C'ACUNA
-fregar
-sobar
-suavizar
-rallar
-enjuagar
-explotar
-C'ACHU
-cuerno
-C'ACHUJ
-catzo
-C'ACHUN
-nuera
-cuñada
-C'AHUI
-sucio
-C'AHUINA
-batir
-mecer
-C'AHUITU
-cama
-C'AICA
-toma
-C'AIGA
-toma
-C'ALMA
-apajejo
-C'ALUN
-crudo
-C'ALLU
-lengua
-idioma
-C'AMINA
-insultar
-odiar
-C'ANGALLA
-liviano
-ligero
-suave
-C'APIRU
-maleza
-C'ARCA
-sucio
-suciedad
-basura
-C'ARCAYASHCA
-manchado
-C'ARI
-varón
-hombre
-macho
-C'ARI HUAHUA
-niño
-hijo
-C'ARI C'ARI
-valiente
-C'ARI HUAMBRA
-muchacho
-joven
-C'ARI MARA
-niño
-C'ARI TUCUSHCA
-orgulloso
-C'ARIYANA
-animarse
-C'ASPANA
-chamuscar
-C'ATA
-cobija
-techo
-peña
-C'ATACHINA
-tapar
-C'ATADUR
-vendedor
-C'ATALLINA
-cobijar
-tapar
-abrigarse
-C'ATANA
-cobijar
-tapar
-cobija
-techo
-C'ATARINA
-cobijar
-C'ATINA
-seguir
-continuar
-C'ATINACUI
-siguiente
-C'ATSU
-catzo
-C'ATUJ
-vendedor
-C'ATUJ PLASA
-mercado
-C'ATUNA PAMBA
-mercado
-C'ATUNA PLASA
-mercado
-C'ATUNA UCU
-mercado
-C'ATURUSH
-vendedor
-C'AYANA
-llamar
-C'AYAPUJ CAYA
-pasado mañana
-C'AZILYISHCA
-tieso
-C'UCHI
-puerco
-chancho
-C'UCHI BIRUILA
-viruela
-C'UCHU
-al lado de
-C'UCHU QUIRU
-muela
-C'UIDI
-bonito
-C'UILLA
-bonito
-elegante
-C'ULLU
-muñon
-manco
-tronco
-C'ULLU MAQUI
-manco
-C'UÑA
-moco
-C'URU
-gusano
-hormiga
-C'URU MICHA
-luciérnaga
-C'UTU
-corto
-diminuto
-enano
-C'UTUYANA
-encogerse
-C'UYA
-amable
-C'UYAI
-amor
-amable
-C'UYAILLA
-bonito
-C'UYANA
-amar
-acariciar
-querer
-amor
-bonito
-CHACA
-puente
-CHACANA
-escalera
-CHACATANA
-crucificar
-CHAFSINA
-sacudir
-CHAGARINA
-acercarse
-CHAGLLA
-carrizo
-CHAGLLANA
-amarrar
-cosechar
-CHAGPI
-medio
-mediano
-mitad
-CHAGPI PUNLLA
-mediodía
-CHAGPI TUTA
-medianoche
-CHAGPINA
-dividir
-CHAGRA
-sementera
-CHAGRANA
-cosechar
-CHAGRU
-mezcla
-CHAGRUNA
-mezclar
-mezcla
-CHAGRUSHCA
-mezcla
-CHAGRUSHCA AMU
-mestizo
-CHAHUA
-crudo
-CHAHUANA
-ordeñar
-CHAHUAPINA
-dividir
-CHAHUAR
-cabuya blanca
-cabuya negra
-CHAHUAR CAUCHU
-fibra de cabuya
-CHAHUAR HUANGU
-fibra de cabuya
-CHAHUAR JILU
-fibra de cabuya
-CHAI
-esa
-ese
-eso
-aquel
-allí
-CHAI LADU
-oeste
-CHAICUNA
-cansarse
-sufrir
-los demás
-CHAICUSHCA
-cansado
-CHAIJIPA
-después
-CHAILLA
-suficiente
-allí
-CHAILLANA
-rebuscar
-CHAIMANDA
-entonces
-CHAIMANTA
-entonces
-CHAINANITA
-allí
-CHAINI LLAJTA
-oeste
-CHAIPI
-entonces
-CHAIRIJ
-joven
-CHAISIR
-siempre
-CHAISHUJ CAINA
-anteayer
-CHAISHUJ CAYA
-pasado mañana
-CHAISHUJCUNA
-los demás
-CHAJCUNA
-regar cosas
-CHAJPI
-centro
-CHALANA
-rebuscar
-espigar
-CHALHUA
-pescado
-CHALI HUAHUA
-último bebe
-CHALINA
-rebuscar
-rebozo
-CHALUHUA
-pescado
-CHALLANA
-espigar
-CHALLIHUA
-pescado
-CHALLINA
-espigar
-rebuscar
-CHALLUA
-pescado
-CHAMA
-desabrido
-sin sal
-CHAMAJ
-desabrido
-sin sal
-CHAMBA
-carbón
-CHAMIL
-olla
-CHAMIZA
-hoja
-CHAMU
-sin sal
-CHAMUJ
-desabrido
-sin sal
-CHAMUSCANA
-chamuscar
-CHANGA
-pierna
-muslo
-falda
-CHANGA AICHA
-músculo
-muslo
-CHANGA JAHUAPI
-falda
-CHANGLITA
-sandalia
-CHANGU
-enano
-CHANLLA
-desabrido
-sin sal
-CHANTU
-llamingo
-CHANZA
-broma
-chiste
-CHAPANA
-espiar
-cuidar
-CHAPARANA
-espiar
-CHAPU
-mezcla
-trapo
-andrajoso
-CHAPUI
-mezcla
-CHAPUNA
-mezclar
-CHAPUNACUNA
-mecer
-CHAPURIN
-mezclar
-deslizar
-CHAPURISHCA
-mezcla
-mestizo
-manchado
-CHAPUSHCA
-mezcla
-CHAQUI
-pie
-pata
-huella
-sed
-seco
-CHAQUI ARCUYASHCA
-arco
-CHAQUI CURVAS
-arco
-CHAQUI HUAÑUI
-calambre
-CHAQUI HUAÑUSHCA
-calambre
-CHAQUI MUCU
-tobillo
-CHAQUI ÑAN
-sendero
-CHAQUI PAMBA
-planta del pie
-arco
-CHAQUI PATAJ
-panta del pie
-CHAQUI PINGULLU
-canilla
-CHAQUI PLANCHA
-planta del pie
-CHAQUI PLANTA
-arco
-CHAQUI PLANTAS
-planta del pie
-CHAQUI SAQUIRISHCA
-huella
-CHAQUI SARUI
-huella
-CHAQUI SARUSHCA
-huella
-CHAQUI SHUNGU
-arco
-planta del pie
-CHAQUI SURTIJA
-tobillo
-CHAQUI TALUN
-talón
-tobillo
-CHAQUI TIMPU
-verano
-CHAQUI TULLU
-tobillo
-CHAQUI UCU
-arco
-CHAQUI UPAYASHCA
-calambre
-CHAQUICHISHCA
-seco
-CHAQUILLA
-descalzo
-CHAQUINA
-secarse
-CHAQUIRINA
-secarse
-CHAQUISHCA
-seco
-CHAQUISHCA AICHA
-charqui
-CHAQUISHCA TIMPU
-verano
-CHARCU
-charco
-CHARICHINA
-agarrar
-CHARIDUR
-tenedor
-CHARIJ
-rico
-CHARIJ TUCUSHCA
-rico
-CHARIJUNA
-detener
-CHARINA
-tener
-sostener
-detener
-agarrar
-tenedor
-arado
-CHARIRANA
-agarrar
-CHARIRINA
-sostener
-detener
-agarrar
-CHARQUI
-charqui
-flaco
-CHASCU
-broma
-CHASNA
-así
-CHASPANA
-chamuscar
-CHASPARINA
-chamuscar
-CHASPINA
-sacudir
-CHASQUICHINA
-entregar
-ofrecer
-CHASQUINA
-aceptar
-recibir
-tomar
-CHASHNA
-así
-igual
-CHASHNA PUNZHA
-día siguiente
-CHASHUJ CAINA
-anteayer
-CHASHUJ CAYA
-pasado mañana
-CHASHUJCUNA
-los demás
-CHAUBI
-mitad
-medio
-centro
-CHAURI P'UNLLA
-mediodía
-CHAUBI TUTA
-medianoche
-CHAUJPA
-perdiz
-CHAULA
-pescado
-CHAUPI
-mitad
-medio
-centro
-mediano
-CHAUPI CHAQUI
-arco
-CHAUPI LUMA
-valle
-CHAUPI LUMU TULLU
-espinazo
-CHAUPI PUNCHA
-mediodía
-CHAUPI PUNLLA
-mediodía
-CHAUPI PUNZHA
-mediodía
-CHAUPI P'UNLLA
-mediodía
-CHAUPI TUTA
-medianoche
-CHAUPINA
-dividir
-partir
-rajar
-desunir
-CHAUPIRINA
-hender
-CHAÜR
-cabuya blanca
-cabuya negra
-CHAYACHINA
-arrimar
-CHAYAJUNA
-acercarse
-CHAYAMUNA
-venir
-CHAYANA
-llegar
-CHAYARINA
-acercarse
-CHAYUJ
-rico
-CHI
-esa
-ese
-eso
-aquel
-allí
-CHIBU
-chivo
-CHICAN
-aparte
-separado
-distinto
-otro
-CHICAN CHICAN
-diferente
-CHICAN LAYA
-distinto
-CHICANYACHINA
-separar
-sesunir
-CHICANYANA
-separar
-CHICANYASHCA
-separado
-CHICUTI
-azote
-CHICHU
-embarazada
-CHICHUCHINA
-empreñar
-CHICHUNA
-empreñar
-CHICHUYACHINA
-empreñar
-CHIJSA
-sin sal
-CHIJTANA
-partir
-rajar
-hender
-CHILA
-suficiente
-CHILCA
-verde
-CHILPANA
-rajar
-CHILPINA
-hender
-CHILLA
-corto
-CHIMBA
-trenza
-CHIMBA LLAGTA
-oriente
-sur
-CHIMBALLA
-frente a
-CHIMBANA
-vadear
-cruzar
-trenzar
-CHIMBAPURA
-frente a
-CHIMBAPURANA
-luchar
-CHIMBILACU
-merciélago
-CHIMUNDA
-entonces
-CHIMUNDAGA
-entonces
-CHINA
-así
-muchacha
-CHINCHI
-tenedor
-desayuno
-duro
-difícil
-fuerte
-fuerza
-terco
-valiente
-CHINCHUSU
-orgulloso
-CHINGACHINA
-desaparecer
-CHINGANA
-perder
-desaparecer
-tardar
-CHINGARINA
-morir
-CHINI
-ortiga
-CHININA
-amortiguar
-CHINLLI
-desayuno
-CHIQUI
-bravo
-CHIQUINYASHCA
-separado
-CHIQUIYANA
-brujear
-CHIRCHI
-andrajoso
-CHIRI
-frío
-hielo
-CHIRI TUCUNA
-hacer frío
-CHIRICHINA
-hacer frío
-CHIRILU
-crespo
-CHIRINA
-hacer frío
-CHIRIUNA
-hacer frío
-CHIRIYACHINA
-hacer frío
-CHIRIYANA
-hacer frío
-CHIRLILLA
-claro
-CHISPA
-llovizna
-CHISTI
-broma
-chiste
-CHISHI
-tarde
-CHISHIYAMUNA
-tardecer
-CHISHIYANA
-tardecer
-CHITA
-chivo
-CHIVILU
-crespo
-CHUCA
-saliva
-CHUCANA
-escupir
-CHUCARINA
-sofocar
-CHUCU
-seno
-teta
-CHUCUNA
-mamar
-CHUCHI
-pollito
-CHUCHU
-teta
-seno
-chocho
-CHUCHULQUINA
-chamuscar
-CHUCHUNA
-mamar
-teta
-CHUGCHU UNGÜI
-paludismo
-CHUGLLA
-choza
-único
-CHUGLLA HUASI
-choza
-CHUGLLU
-choclo
-mazorca
-CHUGLLU SISA
-brote floral de maiz
-CHUGLLU TANDA
-humitas
-CHUGPI
-mitad
-medio
-CHUGPI PUNZHA
-mediodía
-CHUGPI TUTA
-medianoche
-CHUGPINA
-dividir
-CHUGRI
-herida
-absceso
-CHUGRICHINA
-lastimar
-herir
-CHUGRINA
-herir
-lastimar
-dislocar
-CHUGRISHCA
-herida
-pus
-CHUJ
-uno
-CHUJCHI UNGÜI
-paludismo
-CHUJCHINA
-rebuscar
-espigar
-segar
-temblar
-CHUJCHU UNGÜI
-paludismo
-CHUJCHUI UNGÜI
-paludismo
-CHUJCHUNA
-temblar
-CHUJCHURINA
-temblar
-CHULU
-mestizo
-CHULU MISTIZU
-mestizo
-CHULUN
-quieto
-desierto
-CHULUNLA
-silencio
-CHULUNLLA
-silencio
-desierto
-CHULLA
-sin pareja
-desigual
-rocio
-CHULLA CHANGA PURINA
-cojear
-CHULLA CHAQUI
-manco
-CHULLA CHULLA
-desigual
-CHULLA MAQUI
-manco
-CHULLA ÑAHUI
-tuerto
-CHULLA ÑAVI
-tuerto
-CHULLARISHCA
-desigual
-CHULLAYANACUSHCA
-desigual
-CHULLAYASHCA
-desigual
-CHULLPI
-centro
-CHULLUNA
-abortar
-CHUMAL
-humitas
-CHUMBI
-faja
-cinturón
-CHUMBILINA
-fajarse
-ceñir
-CHUMBILLINA
-fajarse
-ceñir
-CHUMIN
-estufa
-CHUMU
-embotado
-sin punta
-CHUNA
-catzo
-CHUNGA
-diez
-CHUNGA PATSAJ HUARANGA
-millón
-CHUNLA
-quieto
-CHUNLLA
-desierto
-CHUNLLULI
-tripas
-intestinos
-CHUNLLULLI
-tripas
-intestinos
-CHUNZHLI
-tripas
-CHUNZHULLI
-tripas
-intestinos
-CHUPA
-rabo
-cola
-CHUPANA
-fumar
-chuoar
-absorber
-CHUPU
-absceso
-tumor
-pus
-CHURACUNA
-ropa
-vestirse
-vestido
-CHURAJUNA
-vestirse
-ropa
-vestido
-CHURANA
-poner
-meter
-vestirse
-vestido
-ropa
-tapar
-CHURARINA
-vestirse
-CHURARISHCA
-disfrazado
-CHURASH APANA
-cargar
-CHURASHCA
-vestido
-CHURGU
-ciego
-CHURI
-hijo
-CHURU
-caracol
-CHURU UMA
-crespo
-CHURUCU
-caracol
-CHURUTU
-tórtola
-CHURRIAMUNA
-cascada
-CHURRIRA
-cascada
-CHUSAGYANA
-aflojar
-CHUSCU
-cuatro
-CHUSCU ISQUINATA RANA
-cuadrar
-CHUSCU ÑAHUI
-buho
-CHUSIYANA
-pinchar
-CHUSPI
-mosca
-tábano
-abeja
-hormiga
-CHUSPI BRUNCANA
-abeja
-CHUSHA
-vacio
-CHUSHA CHAQUI
-descalzo
-CHUSHAGLLA
-pobre
-CHUSHAGYACHINA
-vaciar
-CHUSHAJ
-vacio
-buho
-CHUSHIGYACHINA
-vaciar
-CHUSHIJ
-vacio
-sucio
-buho
-CHUSHU
-vacio
-CHUSHUGYACHINA
-vaciar
-CHUSHUJ
-vacio
-buho
-CHUTACHINA
-tirar
-estirar
-CHUTANA
-tirar
-extender
-estirar
-jalar
-retirar
-CHUTARINA
-tirar
-estirar
-CHUYA
-aguado
-claro
-transparente
-CHUZIJIRINA
-abrigarse
-CHUZU
-pequeño
-chico
-diminuto
-delgado
-CHUZU RACU
-desigual
-CHUZUN
-puñado
-manojo
-CHUZUNQUINA
-puñado
-CH'ALANA
-rebuscar
-CH'UCA
-baba
-CH'UZU
-delgado
-DALINA
-azotar
-castigar
-sobar
-DANSA TAMBUR
-tambor
-DANZANA
-danzar
-bailar
-DAÑANA
-dañar
-destruir
-DAÑARISHCA HUASI
-ruina
-DAÑUNA
-dañar
-DI RIPINTI
-de repente
-a veces
-DIABLU
-demonio
-DIBI
-deuda
-DIBIL
-falso
-DIBINA
-deber
-DIBIYANA
-deber
-DIDU
-dedo
-DIFINDINA
-defender
-DIFINDIRINA
-defender
-DIGUSHTU
-demasiado
-DIL TUDU
-completamente
-entero
-DILICADU
-delicado
-frágil
-DILITURIU
-profesor
-DIMASIADU
-demasiado
-DIMBALDI
-gratis
-DIMUÑU
-diablo
-demonio
-DIMURANA
-demorar
-DIMUS
-demasiado
-DINU
-tal vez
-DIPURSI BISTISHCA
-elegante
-DIP'ISIL
-difícil
-DIRICHANA
-enderezar
-DIRICHINA
-enderezar
-cruzar
-DIRICHU
-recto
-derecho
-justo
-DIRICHUNA
-enderezar
-nivelar
-DIRIJTUR
-profesor
-DIRRUMBU
-terremoto
-DISAHUA
-orina
-DISAHUANA
-orina
-DISASINA
-desatar
-DISAYUNU
-desayuno
-DISCANSANA
-descansar
-DISCUIDANA
-descuidar
-DISCHULLA
-desigual
-DISFRASADU
-disfrazado
-DISFRASARISHCA
-disfrazado
-DISIGUALARISHCA
-desigual
-DISMAYACHANINA
-desmayarse
-DISMAYANA
-desmayarse
-DISMAYU JAPINA
-desmayarse
-DISMUNTANA
-desmontar
-DISPIDINA
-despedirse
-DISPIDISHA RINA
-despedirse
-DISTINTU
-distinto
-DIUS SILU PAGUI
-gracias
-DIUS SILU PAGUI NINA
-agradecer
-DIUS SULU PAGUI
-gracias
-DIUS SULU PAGUI NINA
-agradecer
-DIUS SULU PAI
-gracias
-DIUSPI MANA CRIYIJ
-pagano
-DIUSUSLUPAI NINA
-agradecer
-DIYA
-diablo
-DUBLANA
-doblarse
-envolver
-DUBLARINA
-doblarse
-DUBLI
-mucho
-DUIÑU
-dueño
-DUNSILLA
-muchacha
-DUÑU
-dueño
-DURMINA
-dormir
-sueño
-DURMUI SIQUI
-dormilón
-DURU
-fuerte
-FACIL
-fácil
-FACHA
-red
-FACHILINA
-rebozo
-FAHUANA
-saltar
-brincar
-danzar
-volar
-FAINA
-faena
-FAJCHA
-cascada
-FALTANA
-faltar
-FANGA
-hoja
-FANGALLA
-liviano
-FAQUINA
-romper
-quebrar
-FAQUIRINA
-frágil
-FAQUIRINALLA
-frágil
-FICHA
-rayo
-FICHANA
-limpiar
-barrer
-escoba
-FILU
-agudo
-FINDU
-trapo
-FIÑA
-bravo
-FIÑACHINA
-enojar
-FIÑAI
-iras
-cólera
-FIÑANA
-enojar
-odiar
-iras
-fichana
-FISHTA
-fiesta
-FITI
-pedazo
-FITINA
-cortar
-arrancar
-FLICHANA
-relampago
-FLUJU
-flojo
-FRINTI
-frente
-frente a
-FUCUSHCA
-maduro
-FUCUNA
-madurar
-soplar
-FUMANA
-fumar
-FUNDU
-tinajon o vasija grande para cargar agua
-FUYU
-nube
-neblina
-GABILAN
-gavilán
-GACHU
-cuerno
-sesgo
-GAITA
-flauta
-GAJU
-racimo
-GAMU
-sin sal
-sin sabor
-desabrido
-GANA
-ser
-estar
-existir
-gana
-GANANA
-ganar
-vencer
-GANU
-desabrido
-GARHUA
-llovinzna
-GARUA
-llovizna
-GARRA
-garra
-GASTANA
-gastar
-GASHTANA
-gastar
-GASHTUNA
-mascar
-GILUYASHCA
-embotado
-GRADA
-sendero
-GRANUTA HUACAICHINA HUASI
-troje
-GRANU
-grano
-GRUSIRU
-tosco
-GÜAMAJ
-carrizu
-GUAJANA
-enjuagar
-GUGUTI
-garganta
-pescuezo
-GULUN
-trueno
-GULUN NINA
-tronar
-GUMA
-resina
-GUMITANA
-tener náuseas
-vomitar
-GURDU
-gordo
-GUSANA
-acariciar
-GUSHTANA
-gustar
-GUSHTULLA
-tranquilo
-despacio
-GUSTULLA
-despacio
-GUTITA YACU
-gota
-GUZU
-barro
-HUACAI
-ruido
-HUACAICHINA
-guardar
-HUACANA
-llorar
-gritar
-ladrar
-chillar
-HUACASH UNGUNA
-dar a luz
-HUACAU
-mirlo
-HUACU
-cogollo
-HUACHANA
-parir
-dar a luz
-poner huevos
-nacer
-HUACHCA
-collar
-HUACHU
-surco de arado
-HUACHUSHCA
-surco de arado
-HUAGCHA
-pobre
-HUAGCHA LLUSTI
-pobre
-HUAGLI
-falso
-HUAGLICHINA
-destruir
-HUAGLINA
-dañar
-HUAGLINALLA
-delicado
-HUAGLLI SHUNGU
-delicado
-HUAGLLICHINA
-destruir
-dañar
-HUAGLLINA
-dañar
-HUAGGLINALLA
-delicado
-HUAGLLIRINA
-dañar
-HUAGNINA
-gritar
-HUAGRA
-ganado
-vaca
-HUAGRA YAPUNA
-yunta
-HUAGRA YUNTA
-yunta
-HUAGZA
-lagartija
-HUAHUA
-bebe
-niño
-criatura
-HUAHUA ATILLPA
-pollito
-HUAHUA HUAGRA
-ternero
-HUAHUA LLAMA
-cordero
-HUAHUA MAMA
-placenta
-HUAHUA PULLITU
-pollito
-HIJAIIUA PULLU
-pollito
-HUAHUA UBIJITA
-cordero
-HUAHUA UMA
-placenta
-HUAI NINA
-bostezar
-HUAICU
-quebrada
-valle
-bajo
-profundo
-HUAICU ASHCU
-lobo
-HUAICU CHUCHU
-cueva
-HUAICU UJTU
-cueva
-HUAICUCHINA
-meter
-HUAICUNA
-entrar
-HUAICUYANA
-descender
-HUAIGUCHINA
-meter
-HUAIGUNA
-entrar
-HUAIQUIYACHINA
-descargar
-HUAIQUIYANA
-bajarse
-descender
-desmontar
-HUAIRA
-viento
-aire
-HUAIRA UMA
-calavera
-HUAIRACHIDUR
-aventador
-HUAIRACHINA
-aventar
-abanicar
-aventador
-HUAITSUJ
-mirlo
-HUAIYUNA
-suspender
-HUAJALITU
-eucalipto
-HUAJCHA
-huérfano
-pobre
-HUAJCHA HUARMI
-viuda
-HUAJCHA RUNA
-viudo
-HUAJCHAMI TUCUNA
-empobrecer
-HUAJCHARINA
-empobrecer
-HUAJCHAYANA
-empobrecer
-HUAJCHINA
-guardar
-HUAJCHU
-mirlo
-HUAJTA
-atrás
-HUAJTACHINA
-engañar
-HUAJTAI
-golpe
-HUAJTALA
-detrás de
-HUAJTANA
-golpear
-azotar
-sobar
-trillar a mano
-segar
-HUAJTSAJ
-mirlo
-HUAJTSU
-mirlo
-HUAJTSUJ
-mirlo
-HUALAJ
-sapo
-HUALAMBARI
-arco iris
-HUALCA
-collar
-HUALMU
-palo para cavar papas
-HUALPA
-gallina
-HUALUJ
-sucio
-HUALUTU
-poncho
-HUALLCA
-collar
-HUALLCARINA
-rebozo
-HUALLMU
-palo para cavar papas
-HUALLPA
-gallina
-HUALLPINCHI
-muslo
-HUALLU
-cántaro
-HUALLU SHIRA
-tazón de barro
-HUAMAN
-gavilán
-HUAMBRA
-muchacho
-joven
-joven
-soltera
-HUAMBRA UCHUJ
-humilde
-HUAMBUNA
-flotar
-nadar
-HUANCA
-palanca
-HUANCANA
-sostener
-HUANCHINA
-matar
-HUANDUNA
-llevar entre varias personas
-cargar
-HUANGA
-palanca
-HUANGU
-copo
-manojo
-racimo
-trenza
-HUANGUNA CASPI
-palanca
-HUANLLA
-comida para llevar a la casa
-HUANLLANA
-guardar comida para llevar a la casa
-comida para llevar a la casa
-HUANLLINA
-comida para llevar a la casa
-HUANTUJ
-floripondio
-HUANTUJ SISA
-floripondio
-HUANU
-abono
-excremento
-HUAÑI
-muerte
-HUAÑU LANGUI
-delgado
-HUAÑUCHIJ JAMBI
-veneno
-HUAÑUCHINA
-matar
-amortiguar
-HUAÑUI
-muerte
-HUAÑUJ
-difunto
-cadáver
-HUAÑUJ ALMA
-difunto
-HUAÑUNA
-morir
-muerte
-HUAÑUNA JAMBI
-veneno
-HUAÑURINA
-amortiguar
-encogerse
-HUAÑUSHCA
-difunto
-cadáver
-alma
-HUAÑUSHCA ALMA
-cadáver
-HUAÑUSHCA CUIRPU
-calavera
-HUAPU
-elegante
-valiente
-fuerte
-HUAPULA
-elegante
-HUAQUICHINA
-guardar
-troje
-HUAQUIMBI
-a veces
-de repente
-HUAQUIMPI
-de repente
-HUAQUIN
-alguien
-de repente
-HUAQUIN RATU
-a veces
-HUAQUINLLABI
-a veces
-de repente
-HUAQUINLLAMI
-a veces
-HUARANGA
-mil
-millón
-HUARANGA-HUARANGA
-millón
-HUARCANA
-echar
-HUARCUNA
-suspender
-colgar
-HUARCURINA
-colgar
-agarrar
-HUARMI
-hembra
-mujer
-esposa
-HUARMI HUAGRA
-vaca
-HUARMI HUAHUA
-niña
-hija
-HUARMI HUAMBRA
-muchacha
-joven
-HUARMI MARA
-niña
-joven
-HUARMI TUCUSHCA
-disfrazado
-HUARTAJ
-sapo
-HUARRU
-gavilán
-HUASCA
-soga
-cuerda
-HUASI
-casa
-HUASI CANLLA
-patio
-HUASI CUIDAJ
-portero
-HUASI CUMBA
-techo
-HUASI C'ATA
-techo
-HUASI C'ATASHCA
-techo
-HUASI ÑAUPAJ
-corredor
-HUASI P'ATAJ
-techo
-HUASI TAPASHCA
-techo
-HUASI YATA
-ruina
-HUASICAMA
-portero
-HUASICHINA
-construir
-HUASHA
-atrás
-detrás de
-fuera de
-alrededor de
-sur
-espalda
-espaldilla
-HUASHA CUDU
-espaldilla
-HUASHA CUNGA
-nuca
-HUASHA CUNGA TULLU
-espalda
-HUASHA LADU
-sur
-HUASHA LADUMAN
-al revés
-HUASHA PILIS TULLU
-espinazo
-HUASHA RIGRA
-espaldilla
-HUASHA RIMANA
-murmurar
-HUASHA TULLU
-espaldilla
-espalda
-espinazo
-nuca
-HUASHADA SHAMUNA
-atrasarse
-HUASHAI
-detrás de
-HUASHAMUNA
-atrasarse
-HUASHAN LANTANA
-trasplantar
-HUASHAYANA
-atrasarse
-HUATA
-año
-HUATALLINA
-ceñir
-HUATANA
-atar
-amarrar
-nudo
-ceñir
-fajarse
-cinturón
-prender
-HUATASHCA
-nudo
-HUATIA
-mudo
-HUATIAJ
-tartamudo
-HUAUQUI
-hermano
-HUICHAI
-cuesta
-subida
-HUICHAI SINGA
-boca arriba
-HUICHCANA
-cerrar
-corrál
-HUICHI
-cuesta
-subida
-arriba
-cazuela
-HUICHI LADU
-norte
-sur
-HUICHI LLAJTA JINTI
-extraño
-HUICHI SICANA
-subir
-HUICHI SINGA
-boca arriba
-HUICHICANA
-cerrar
-HUICHICUNA
-subir
-HUICHIYACHINA
-alzar
-HUICHIYANA
-subir
-HUIGSA
-barriga
-vientre
-HUIJSA
-barriga
-vientre
-estómago
-panza
-HUIJSA JUNDA
-embarazada
-HUIJSA JUNDAJTA MICUNA
-hartarse
-HUIJSA PAJTANA
-hartarse
-HUIJSA P'AJTANA
-hartarse
-HUIJSASAPA
-panza
-HUIJSAUN JUNDA
-embarazada
-HUIJSAYIJ
-embarazada
-HUIJSAYUJ
-embarazada
-HUILU
-borde
-HUILLANA
-avisar
-HUILLIJANA
-chillar
-HUILLMA
-lana
-vello
-HUIÑACHINA
-criar
-educar
-alargar
-estirar
-HUIÑAGUI
-retoño
-HUIÑAJUI
-retoño
-HUIÑAMUNA
-brotar
-HUIÑANA
-crecer
-retoñar
-brotar
-retoño
-nacer
-HUIÑARIJUNA
-eructar
-HUIÑARINA
-retoñar
-nacer
-HUIÑASHCA
-retoño
-HUIQUI
-lágrima
-resina
-HUIRA
-manteca
-gordo
-HUIRACUCHA
-mestizo
-HUIRAC'UCHA
-mestizo
-HUIRAC'UCHA TUCUSHCA
-elegante
-HUIRAJUCHA
-mestizo
-HUIRFANU
-huérfano
-HUIRPA
-labio
-HUIRU
-caña dulce
-HUIRZADU YAICUNA
-obstruir
-HUISTU ÑAHUI
-bizco
-HUISHCANA
-cerrar
-HUISHCUNA
-desgranar
-HUISHINA
-verter
-HUISHLA
-cucharón
-HUISHUYANA
-torcer
-HUISHTU
-sesgo
-manco
-HUISHTUYANA
-torcer
-HUIZAJ NINA
-chillar
-IBARRA
-Ibarra
-ICU
-voz
-ICHA
-tal vez
-ICHCANA
-cerrar
-ICHI
-cuesta
-subida
-arriba
-cazuela
-ICHI SINGA
-boca arriba
-ICHI TAITA
-padrastro
-ICHI YAYA
-padrastro
-ICHIMU RINA
-subir
-ICHIQUILA
-pequeño
-ICHISANA
-brujear
-ICHIZIRU
-brujo
-IDUCANA
-educar
-IGADU
-hígado
-IGNURANTI JINTI
-pagano
-IGRA
-bolsa tejida
-IGUAL
-igual
-juntos
-IGUALANA
-equivaler
-nivelar
-IGUALTANA
-equivaler
-IGUALLADI BALINA
-equivaler
-IGUALLATA BALINA
-equivaler
-IGUL
-igual
-transparente
-IGULANA
-equivaler
-IGULDA
-juntos
-IGULMI BALINA
-equivaler
-IGULTA BALINA
-equivaler
-IGULLADI BALINA
-equivaler
-IGZI
-sarna
-IJSA
-barriga
-estémago
-vientre
-panza
-ILA CHURI
-entenado
-ILA HUAHUA
-entenado
-ILA MAMA
-madrastra
-ILA TAITA
-padrastro
-ILA USHI
-entenada
-ILA USHUSHI
-entenada
-ILA YAYA
-padrastro
-ILACHA
-fibra de cabuya
-ILAUSHUSHI
-entenada
-ILI MAMA
-madrastra
-ILU
-hielo
-ILLAITA
-completamente
-totalmente
-ILLAJ
-sin
-suficiente
-ILLAJ TUCUNA
-empobrecer
-ILLAJLLA
-escaso
-ILLAJTA
-totalmente
-completamente
-enteramente
-ILLAN
-no hay
-ILLANA
-faltar
-avisar
-ILLAUN
-no hay
-ILLIJ
-sin
-todo
-ILLIJCANCHA
-juntos
-ILLIJTA
-completamente
-totalmente
-enteramente
-ILLIN
-no hay
-ILLITA
-completamente
-enteramente
-IMA
-qué
-IMA CAIGA
-cuándo
-IMA LAYA
-qué clase
-cómo
-IMA NISHA
-por qué
-IMA RATU
-cuando
-IMA SHINA
-como
-qué clase
-IMA URA
-cuándo
-IMA URABISH
-a veces
-IMA URAPISH
-a veces
-IMA URAS
-cuándo
-IMA URUSTA
-cuándo
-IMA YALA
-qué clase
-IMABUJ
-para qué
-IMAGUTI
-para qué
-IMAJ
-para qué
-IMALAYASHCA RICUNA
-probar
-IMALYA
-cómo
-IMAMANTA
-por qué
-IMAMUNDA
-por qué
-IMAMUNTA
-por qué
-IMANA
-cómo
-IMAPA
-para qué
-IMAPAJ
-para qué
-IMAPUJ
-para qué
-IMARSHA
-por qué
-IMASHA
-por qué
-IMASHNA
-cómo
-IMASHPA
-por qué
-IMAURA
-cuándo
-IMAURAS
-cuándo
-IMAUTI
-para qué
-IMBUDIRA
-embudo
-IMBUDU
-embudo
-IMPAÑALIS
-pañal
-IMPAÑANA
-empeñar
-IMURA
-cuándo
-IMURAS
-cuándo
-INA
-no
-INARAJ
-todavía no
-INBITANA
-invitar
-INCUNU
-pus
-absceso
-INDI
-sol
-INDI HUAICUNA LADU
-oeste
-INDI JATARIMUNA
-oriente
-INDI LLUJSHI LADU
-sur
-INDI LLUJSHINA
-oriente
-INDI TARDI
-tarde
-INDI VIÑAI
-oriente
-INDI YAICUNA LADU
-oeste
-INDIJSIUNDA CHURANA
-inyectar
-INDIJSIUNDA SATINA
-inyectar
-INDINSIUTA CHURANA
-inyectar
-INDISIUN SATINA
-inyectar
-INDISIUNDA CUNA
-inyectar
-INDISU CHURANA
-inyectar
-INFIRNU
-infierno
-INFLANA
-inflar
-INGA
-inca
-idioma quichua
-INGA PARLANA
-idioma quichua
-INGA PARLU
-idioma quichua
-INGA SHIMI
-idioma quichua
-INGAÑANA
-engañar
-INGUICHU
-idioma quichua
-INGUIRU
-idioma quichua
-INIMIGU
-enemigo
-INQUITANA
-engañar
-INSIAS
-encías
-INSARTANA
-ensartar
-INSULTANA
-insultar
-INTI
-sol
-INTI CHAQUI
-rayo
-INTI CHINGANA LLAJTA
-oeste
-INTI HUAISHICUI LADU
-oeste
-INTI LLUJSHINA LADU
-oriente
-INTI YAICUNA LADU
-oeste
-INTIDA RICUNA LADU
-oeste
-INTIN TAMIA
-lluvia con sol
-INTINADA
-entenada
-INTINADU
-entenado
-INTINDIJ
-sabio
-INTINDINA
-entender
-INTIRANA
-enterrar
-INTIRU
-entero
-INTRIGANA
-entregar
-devolver
-INTRIGUNA
-entregar
-INTUNSIS
-entonces
-INUSINTI
-mudo
-tartamudo
-INYIJSIUN CHURANA
-inyectar
-IÑACHINA
-criar
-alargar
-extender
-estirar
-IÑANA
-crecer
-IÑU
-pequeño
-IPA
-suegra
-IPIJ
-dormilón
-IQUI
-lagrima
-IQUINA
-picar
-IRA
-patio
-troje
-manteca
-IRIDA
-herir
-IRIJI
-salvaje
-IRMANA
-hermana
-IRMANU
-hermano
-IRNU
-yerno
-IRQUI
-débil
-delicado
-flaco
-charqui
-IRU
-caña dulce
-IRUCTANA
-eructar
-ISCAI
-dos
-ISCALIRA
-escalera
-ISCALUFRIU
-fiebre
-ISCAPANA
-escapar
-ISCASU
-escaso
-ISCRIBINA
-escribir
-ISCUDILLA
-tazón de barro
-ISCUN
-nueve
-ISMA
-excremento
-caca
-ISMANA
-defecar
-ISMASCANA
-defecar
-ISMASHCANA
-defecar
-ISMU
-podrido
-ISMUNA
-pudrirse
-ISMUSHCA
-podrido
-ISPADA
-espaldilla
-ISPANTU
-muy
-ISPIGA TUCUMUNA
-espigar
-ISPIGANA
-espigar
-ISPIJANA
-espigar
-ISPIJU
-transparente
-ISPIJU CUINTA
-transparente
-ISPILMA
-cera
-vela
-ISPINAZU TULLU
-espinazo
-ISPUMA
-espuma
-burbuja
-ISQUINA
-rincon
-ISQUIRBINA
-escribir
-ISQUIRDA
-izquierda
-ISTANCU
-chichería
-ISTRILLA
-estrella
-ISHCAI
-dos
-ISHCANDI
-ambos
-ISHCANDIJ
-ambos
-ISHCUNA
-desgranar
-ISHPA
-orina
-ISHPA FURU
-vejiga
-ISHPA JURU
-vejiga
-ISHPA P'URU
-vejiga
-ISHPA YACU
-orina
-ISHPAI YACU
-orina
-ISHPANA
-orinar
-ISHQUI
-dos
-ISHQUINDI
-ambos
-ISHQUINDIJ
-ambos
-ISHQUINDIN
-ambos
-ISHTA
-completament
-enteramente
-totalmente
-todos
-todo
-ISHTACANA
-clavar
-ISHTANCU
-chichería
-ISHTINCU
-chichería
-ISHTU
-sesgo
-ISHTUDA RICUJ
-bizco
-ITSA CATAJ
-luciérnaga
-IZI
-sarna
-lobo
-IZISHCA
-herida
-IZUPU
-crespo
-JA NINA
-bostezar
-JABAS
-haba
-JABUS
-haba
-JACA
-peña
-quebrada
-JACU
-vámonos
-harina
-máchica
-JACU RISHUN
-vámonos
-JACUCHI
-vámonos
-JACUCHIJ
-vámonos
-JACUICHI
-vámonos
-JACUNA
-fregar
-sobar
-explotar
-flotar
-JACHA
-hacha
-JACHAJ NINA
-estornudar
-JACHANA
-rajar
-JACHU NINA
-estornudar
-JACHUN
-cuñada
-nuera
-JAHUA
-arriba
-encima de
-JAHUA CANLLA
-afuera
-JAHUA LADU
-sur
-JAHUA LUMA
-cumbre
-JAHUA LLAJTA
-sierra
-sur
-JAHUA PACHA
-cielo
-JAHUA PUNGU
-afuera
-JAHUA PUNTA
-cumbre
-JAHUA SILU
-cielo
-JAHUACHINA
-alzar
-JAHUADA ANCHUCHINA
-desherbar
-JAHUALA
-suave
-JAHUALAYACHINA
-suavizar
-ablandarse
-JAHUALLA
-facil
-suave
-frágil
-delicado
-liviano
-tranquilo
-despacio
-falso
-JAHUALLA P'AQUINALLA
-frágil
-JAHUALLA TUCUNA
-ablandarse
-JAHUALLAYACHINA
-suavizar
-JAHUANA
-enjuagar
-lavar
-saltar
-JAHUAYANA
-subir
-JAHUAYACHINA
-alzar
-levantar
-JAHUINA
-batir
-JAICA
-toma
-cuándo
-JAICUNA
-cansarse
-JAICUSHCA
-cansado
-JAIGA
-toma
-JAINAPU JAINANDI
-anteayer
-JAIRICHINA
-eructar
-bostezar
-JAITANA
-patear
-JAJCHA
-pelo
-cabello
-JAJTUCU
-abuela
-abuelo
-JALADURA
-canasta
-JALINA
-rebozo
-JALMA
-aparejo
-JALMANA
-desherbar
-JALSANA
-amontonar
-JALSU
-falso
-JALUN
-crudo
-JALLA NINA
-bostezar
-JALLALAN
-muela
-JALLMANA
-desherbar
-JALLU
-lengua
-JAMBATU
-Ambato
-sapo
-JAMBATU SUMBIRU
-sombrero
-JAMBATYU
-sapo
-JAMBATYUJ
-sapo
-JAMBI
-remedio
-medicina
-veneno
-JAMBI JIHUA
-hierba medicinal
-JAMBI YURA
-hierba medicinal
-JAMBICHINA
-curar
-JAMBIDUR
-curandero
-JAMBIJ
-curandero
-JAMBIJ YUMBU
-curandero
-JAMBINA
-curar
-sanar
-JAMCHI
-afrecho
-heces
-JAMLLA
-desabrido
-JAMPIJ
-curandero
-JAMTSI
-afrecho
-JAMZI
-afrecho
-residuo
-heces
-delgado
-delicado
-JAN
-tu
-usted
-JANA
-arriba
-alto
-JANAJ
-arriba
-JANAJ LADU
-norte
-JANAJ PACHA
-cielo
-JANCA
-cojo
-JANCANA
-cojear
-JANGA
-cojo
-JANGA PATUJ
-cojo
-JANGA PURINA
-cojear
-JANGANA
-cojear
-JANI LLAJTA
-oeste
-JANTSI
-residuo
-heces
-afrecho
-JAPI
-toma
-JAPICHINA
-encender
-prender candela
-JAPINA
-cojer
-tomar
-agarrar
-recoger
-escojer
-recibir
-aceptar
-tocar
-hallar
-encontrar
-prender candela
-prender
-trampa
-JAPIRINA
-agarrar
-tocar
-JAPU
-espeso
-JAQUIMA
-aparejo
-JARCA
-tartamudo
-JARCANA
-atajar
-obstruir
-impedir
-atrancar
-detener
-defender
-JARCARINA
-sofocar
-JARI
-hombre
-varón
-macho
-JARI HUAHUA
-niño
-JARI HUAMBRA
-muchacho
-joven
-JARI-JARI
-elegante
-JARI TUCUSHCA
-valiente
-JARINA
-harina
-arena
-JARISHNA
-valiente
-JARIYASHCA
-orgulloso
-valiente
-elegante
-JARSIA
-fibra de cabuya
-JARRA
-jorobado
-JASYINDA
-hacienda
-JASHLIN
-quijada
-muela
-JATA
-techo
-JATACHINA
-tapar
-cobijar
-levantar
-JATANA
-abrigarse
-tapar
-cobijar
-cobija
-JATARICHINA
-levantar
-alzar
-JATARINA
-levantarse
-cobijar
-JATI YACU
-rio
-JATSAI NINA
-estornudar
-JATSI NINA
-estornudar
-JATSIANA
-estornudar
-JATU
-vendedor
-JATUDUR
-vendedor
-JATUI
-mercado
-JATUN
-grande
-alto
-largo
-amplio
-muy
-JATUN ALLI
-generoso
-JATUN AMU
-dueño
-JATUN CASPI
-viga
-JATUN CUCHA
-mar
-JATUN CHUSPI
-tábano
-JATUN HUAUQUI
-hermano mayor
-JATUN MAMA
-abuela
-JATUN SACHA
-selva
-JATUN TACUSHCA
-tosco
-JATUN TAITA
-abuelo
-JATUN TUCUSHCA
-orgulloso
-JATUN UNGÜI
-fiebre
-JATUN URCU
-loma
-JATUN YACU
-rio
-mar
-JATUN YACU CUCHA
-mar
-JATUN YAYA
-abuelo
-JATUN YUPANA
-exceder
-JATUNA
-cobija
-JATUNLLA
-ancho
-JATUNYACHINA
-alargar
-JATUNYANA
-crecer
-JATSU
-catzo
-JAVI
-sucio
-JAYA
-mañana
-JAYA CAMA
-hasta mañana
-JAYAJ
-agrio
-amargo
-picante
-JAYAJCHINA
-bostezar
-JAYANDI P'UNLLA
-día siguiente
-JAYAPUJ JAYANDI
-pasado mañana
-JAYIJ
-picante
-amargo
-agrio
-JAZINDA
-hacienda
-JAZHA
-quijada
-JIBARU
-salvaje
-pagano
-JIBI
-catapulta
-JIBRI
-fiebre
-JIBRI UNGÜI
-gripe
-JICUPANA
-echar
-botar
-JICUSHCA
-desierto
-JICHANA
-derramar
-regar agua
-regar cosas
-regar paja
-sembrar
-vaciar
-JICHUNA
-abandonar
-perder
-botar
-saltar
-JICHURINA
-atrasarse
-JICHURISHCA
-último
-JICHUSHCA
-desierto
-JIGRA
-bolsa tejida
-JIHUA
-hierba
-pasto
-JIHUA PAMBA
-potrero
-JIHUADA CUCHUNA
-cortar hierba
-JIHUANA
-cortar hierba
-desherbar
-JIHUATA CUCHUNA
-cortar hierba
-JIHUATA LLUJSHICHINA
-desherbar
-JILBANA
-ensartar
-JILPUNA
-ensartar
-embudo
-JILU
-agudo
-hielo
-JILUCUNA
-valle
-JILLU
-goloso
-amarillo
-JILLUNA
-explotar
-robar
-ladrón
-JIMBA
-trenza
-JIMBANA
-trenzar
-JINCHI
-duro
-fuerte
-difícil
-fuerza
-rígido
-tieso
-valiente
-JINCHI TUCUNA
-sostener
-JIPAYACHINA
-detener
-sostener
-JINCHIJUJ
-valiente
-JINCHIJUNA
-detener
-JINCHIYASHCA
-rígido
-coágulo
-JINDI
-gente
-persona
-JINTI
-gente
-persona
-JINTIL
-pagano
-JIÑA
-moco
-JIPA
-después
-menor
-siguiente
-detrás de
-último
-JIPA HUAUQUI
-hermano menor
-JIPAYACHINA
-detener
-JIPAYANA
-atrasarse
-demorar
-JIRANA
-girar
-JIRGA
-poncho
-tela
-JIRIDACHINA
-lastimar
-JIRIQUITA
-falda
-JIRU
-hierro
-feo
-JIRRU
-metal
-hierro
-JITA
-arisco
-labio
-quijada
-JITUN
-arisco
-JUACHAGYANA
-mojar
-JUACHAJ
-húmedo
-mojado
-JUAJCHA
-cabello
-pelo
-JUASIL
-facil
-JUBIN
-joven
-menor
-JUCU
-húmedo
-JUCUCHINA
-remojar
-mojar
-absorber
-JUCUNA
-mojar
-JUCUS
-carrizo
-JUCHACHI
-culpa
-JUCHACHINA
-culpar
-JUCHADA URANA
-pegar
-JUCUSHCA
-húmedo
-mojado
-JUCUYANA
-mojar
-JUCHA
-pecado
-culpa
-JUCHA GANA
-pegar
-JUCHA RURANA
-pegar
-JUCHA TUCUNA
-pegar
-JUCHANA
-pegar
-JUCHAYANA
-pegar
-JUCHI
-chancho
-puerco
-JUCHU
-rincon
-cerca
-JUCHULLA
-cerca
-JUCHUNA
-perder
-JUDAS
-diablo
-demonio
-JUHUALLA
-suave
-JUHUILA
-elegante
-JUILA
-bonito
-JUIN
-muy
-JUIN ALAJA
-elegante
-JUIN ALLI
-completamente
-JUIN ÑUTU
-diminuto
-JUIN RUPAI TIYANA
-hacer calor
-JUIÑUTITU
-suave
-JUIRA
-fuera de
-afuera
-extraño
-JUIRSA
-músculo
-fuerte
-JUIRSAYUJ
-valiente
-JUIRSTI JUIRSTI
-burbuja
-JUIRTI TAMIA
-invierno
-JUIRZA
-fuerza
-JUISHTA
-fiesta
-JUJTU
-cueva
-JULLUQUIRISHA HUAÑUNA
-ahogarse
-JUMBAJ
-lombriz
-JUMBI
-sudor
-JUMBICHINA
-sofocar
-JUMBINA
-sudar
-sudor
-JUMBISHCA
-sudor
-JUMBRIS
-hombro
-JUMILDI
-humilde
-JUNDA
-lleno
-entero
-fondo
-JUNDACHINA
-llenar
-inflar
-JUNDANA
-llenar
-JUNDASHCA
-lleno
-JUNDU
-profundo
-hondo
-JUNDU UCU
-hueco
-JUNDU YACU
-fuente
-JUNTANA
-unir
-juntar
-JUNTASHCA
-coyuntura
-JUNTU
-grupo
-JUÑA
-moco
-JUPA
-basura
-paja
-abono
-JURCA
-horqueta
-JURCUN
-horqueta
-JURMIGA
-hormiga
-JURQUITA
-horqueta
-JURU
-gusano
-muñon
-JURULA
-corto
-JURZA
-fuerza
-JUSTU
-justo
-JUSHCA
-contento
-JUTCU
-hueco
-cueva
-JUTCUNA
-perforar
-JUTCURISHCA
-poroso
-JUTYUQUIRINA
-ablandarse
-JUYACHINA
-acariciar
-JUYAI
-amor
-JUYAILLA
-bonito
-elegante
-JUYAIPAJ
-pobre
-JUYANA
-amar
-amor
-acariciar
-JUYANAYAI
-amable
-JUYASHCA
-amable
-LA CHURI
-entenado
-LA HUAHUA
-entenado
-LA MAMA
-madrastra
-LA TAITA
-padrastro
-LA USHUSHI
-entenada
-LA YAYA
-padrastro
-LABRANA
-tallar
-pulir
-cuadrar
-LABUDO SATINA
-clavar
-LADIRA
-cuesta
-LADRANA
-ladrar
-LADRANUNA
-ladrar
-LADU
-lado
-borde
-cerca
-lugar
-LADUCHINA
-arrimar
-LADULA
-cerca
-LADULLA
-cerca
-LADUMUN
-al revés
-LADUYACHINA
-desunir
-LADUYANA
-acercarse
-LADUYASH RINA
-alargar
-LAGLA
-moco
-LAICHA
-mestizo
-LAICHU
-mestizo
-LALI
-flaco
-flojo
-LALIYACHINA
-aflojar
-LAMAR YACU
-mar
-LAMBINA
-lamer
-LAMPA
-pala
-LANCHA
-lluvia con sol
-llovizna
-LANDUCHINA
-suavizar
-LANDUYARINA
-ablandarse
-LANGADUR
-paladar
-LANGANA
-trago
-LANSANAYANA
-tener náuseas
-LANTA
-planta
-LANTANA
-plantar
-LANTU
-sombra
-LANTUSQUIRINA
-dislocar
-LANZACHINA
-eructar
-LANZANA
-vomitar
-LANZANACHINA
-tener náuseas
-LAPUGYACHINA
-mojar
-remojar
-LAPUJ
-mojado
-LARCA
-acequia
-zanja
-rio
-LARGANA
-alargar
-LARGU
-largo
-recto
-LARGU CAUCHU
-cuerda
-LARGU ÑAN
-recto
-LARGUYACHINA
-alargar
-LARNITA
-flauta
-LARU
-claro
-azul
-LASA
-mercado
-LASHIJ
-pesado
-LASHIJCANA
-pesar
-LATA
-metal
-LATACUNGA
-Latacunga
-LATAHUANGU
-Latacunga
-LATAJ CHAQUI
-descalzo
-LATSAJ
-mojado
-LATU
-plato
-tazón de barro
-LAUSA
-saliva
-baba
-LAUSHI
-entenada
-LAUTA
-flauta
-LAYA
-tipo
-clase
-tamaño
-LAYA YAYA
-padrastro
-LAYACHINA
-aplanar
-LIANA
-leer
-LIBRANA
-librar
-LIBRI
-completamente
-enteramente
-entero
-aparte
-LIBRINA
-librar
-LIGAL
-justo
-LIGIRU
-rápido
-LIJANA
-alejarse
-LIJIRU
-ligero
-LIJITIMU HUAHUA
-primogénito
-LIMANA
-afilar
-LIMPIU
-completamente
-enteramente
-claro
-LIMPUNA
-tragar
-LIMURIANA
-pensar
-LINLLI
-red
-LINSU
-tela
-LINSHU
-completamente
-enteramente
-LINTRAS
-liendre
-LIQUINA
-despedazar
-arrancar
-hender
-LISANA
-alisar
-LITUNA
-insultar
-LIYINA
-leer
-LUBU
-lobo
-zorro
-LUCU
-loco
-LUCU TUCUSHCA
-loco
-LUCHANA
-luchar
-LUDU
-barro
-lodo
-LUGAR
-amplio
-lugar
-país
-LUGARYACHINA
-vaciar
-LUGRU
-sopa
-LUGURYACHINA
-vaciar
-LUJSHISHA TARPUNA
-trasplantar
-LUJSHISHCA
-disfrazado
-LULA
-moco
-LULUHUA
-huevo
-LULUN
-huevo
-testículo
-LULUNDA HUACHANA
-poner huevos
-LULUNTA CHURANA
-poner huevos
-LULUNTA HUACHANA
-poner huevos
-LUMA
-loma
-cerro
-cuesta
-LUMA PUNDA
-cumbre
-LUMAS
-selva
-LUMBRANA
-nombrar
-LUMU
-espalda
-LUMU TULLU
-espinazo
-LUNA
-luna
-LUNA MAMA
-luna
-LUNGA
-soltera
-muchacho
-joven
-LUNGU
-soltero
-muchacho
-joven
-LUNGUN
-joven
-LUNTA HUACHANA
-poner huevo
-LUNTSA
-racimo
-LURINTI
-oriente
-LURIPUNDIU
-floripondio
-LURIP'UNDIU
-floripondio
-LUS
-luz
-LUSHPICHINA
-librar
-LUTSAI
-manojo
-puñado
-LUTU
-perdiz
-LUZIRU
-estrella
-LUZIYANA
-brillar
-aclarar
-LLABI CHURANA
-poner llave
-LLABINA
-poner llave
-LLABITA CHURANA
-poner llave
-LLACHAPA
-trapo
-andrajoso
-haraposo
-pañal
-LLAGA
-sarna
-LLAGLLANA
-tallar
-acepillar
-rallar
-cuadrar
-LLAGMA
-mentira
-LLAGMANA
-mentir
-LLAGTA
-país
-LLAGYANA
-alisar
-LLAHUANA
-lamer
-LLAJTA
-pueblo
-país
-LLAMA
-oveja
-cordero
-llamingo
-llama
-LLAMBA
-resbaladizo
-hongo
-LLAMBAYACHINA
-suavizar
-LLAMBI
-embotado
-LLAMBU
-liso
-resbaladizo
-plano
-LLAMBUCHINA
-pulir
-alisar
-aplanar
-acariciar
-LLAMBULLA
-embotado
-LLAMBUNA
-pulir
-alisar
-aplanar
-LLAMBUYACHINA
-alisar
-pulir
-LLAMBUYANA
-pulir
-deslizar
-LLAMINA
-probar
-LLAMINGU
-llamingo
-LLANCANA
-jugar
-juego
-LLANDU
-sombra
-LLANGANA
-tocar
-LLANU
-llanuru
-LLANU PAMBA
-valle
-LLANUYACHINA
-aplanar
-LLAPA SINGA
-chato
-LLAPCHINA
-aplarstar
-LLAPI SINGA
-chato
-LLAPICHINA
-aplastar
-LLAPINA
-aplastar
-apretar
-explotar
-LLAPIRISHCA
-chato
-LLAQUI
-pena
-triste
-LLAQUICHINA
-castigar
-LLAQUILLA
-triste
-LLAQUILLA CAUSANA
-sufrir
-LLAQUINA
-sufrir
-LLAQUIRINA
-sufrir
-LLAQUISHQUITU
-triste
-LLASHA
-pesado
-LLASHAGYANA
-pesar
-LLASHAJ
-pesado
-LLASHANA
-pesar
-LLASHIJ
-pesado
-LLATAN
-desnudo
-LLATAN CHAQUI
-descalzo
-LLATANLLA
-descalzo
-desnudo
-LLAUGANA
-humear
-LLAUSA
-baba
-saliva
-resina
-LLIBACHINA
-azotar
-LLICA
-red
-LLIGLLA
-rebozo
-LLIJCHARINA
-despertarse
-LLINLLI
-red
-LLIPANA
-brillar
-LLIQUINA
-romper
-hender
-LLIQUIRISHCA
-haraposo
-LLUCA LLUCA
-despacio
-LLUCANA
-gatear
-LLUCHAYACHINA
-pulir
-LLUCHCA
-resbaladizo
-liso
-lodo
-LLUCHA RURANA
-alisar
-LLUCHCANA
-resbalarse
-deslizar
-LLUCHCARINA
-deslizar
-LLUCHCAYACHINA
-alisar
-LLUCHGARINA
-deslizar
-LLUCHICA
-resbaladizo
-LLUCHICANA
-resbalarse
-LLUCHU
-desnudo
-pobre
-haraposo
-LLUCHU CHAQUI
-descalzo
-LUCHULLA
-desnudo
-LLUCHUNA
-pelear
-desollar
-pelar
-desplumar
-LLUGCHINA
-sacar
-LLUGSHINA
-salir
-LLUGU
-arado
-LLUGZI ALLPA
-arena
-LLUGZI ASHPA
-arena
-LLUJCHINA
-sacar
-LLUJSHICHINA
-sacar
-arrancar
-desatar
-LLUJSHICHISHCA
-disfrazado
-LLUJSHINA
-salir
-derramar
-brotar
-subir
-subida
-LLUJSHIRISHCA
-disfrazado
-LLUJSHISHCA
-disfrazado
-LLUJSHISHPA RINA
-abandonar
-LLULLA
-mentira
-falso
-LLULLAI
-mentira
-LLULLANA
-mentir
-engañar
-LLULLU
-tierno
-cogollo
-LLULLU CHUSPI
-hormiga
-LULLU HUAHUA
-criatura
-LLULLU LLAMA
-cordero
-LLULLU MARA
-criatura
-LLULLU MUYU
-botón de planta
-LLULLU QU'IHUA
-cogollo
-LLULLUNA
-azotar
-LLUMINGU
-llamingo
-LLUMIYACHINA
-amortiguar
-LLUNCHINA
-luchar
-fregar
-LLUQUI
-izquierda
-al revés
-LLUQUIMUN
-al revés
-LLURU
-crespo
-LLURU LLURU
-áspero
-LLUSHCA
-resbaladizo
-liso
-LLUSHCANA
-resbalarse
-deslizar
-LLUSHCARINA
-deslizar
-LLUSHCAYACHINA
-pulir
-LLUSHPI
-resbaladizo
-LLUSHPINA
-deslizar
-LLUSHPIRINA
-resbalarse
-LLUSHTI
-desnudo
-LLUSHTINA
-pelar
-desollar
-pelear
-LLUTANA
-pegar con goma
-LLUTARINA
-flotar
-MACA MACAGUNA
-encías
-MACAI
-golpe
-MACANA
-pegar con golpes
-golpear
-castigar
-MACANACUNA
-pelear
-luchar
-MACANAJUNA
-pelear
-luchar
-MACANUCUNA
-pelear
-luchar
-MACHA
-borracho
-chumado
-MACHAI
-cueva
-MACHAJ
-chumado
-MACHANA
-chumarse
-emborracharse
-MACHARINA
-emborracharse
-MACHARISHCA
-borracho
-MACHASHCA
-borracho I
-chumado
-MACHCA
-máchica
-MACHI
-peña
-MACHICA
-máchica
-MACHISHCA
-chumado
-MADIJANA
-devanar
-MADRARSHA
-madrastra
-MADRASTA
-madrastra
-MADRI
-placenta
-MADRI UMA
-placenta
-MADRINA
-madrina de matrimonio
-MADRINAMA
-madrina de matrimonio
-MADRUGADU
-madrugado
-MADRUGANA
-madrugar
-MAGMA
-tinajón o vasija grande para
-guardar agua
-MAGUMA
-tinajón o vasija grande para
-guardar agua
-MAI
-dónde
-MAICAMPISH
-quienquiera
-MAICAN
-cuál
-quién
-alguien
-MAIJAN
-cuál
-alguien
-quién
-MAIJAN RATU
-de repente
-MAIJANCHARI
-quienquiera
-MAIJIMBISH
-quienquiera
-MAIJIN
-cuál
-alguien
-quién
-MAIJIN GASHASH
-quienquiera
-MAIJUN
-cuál
-alguien
-quién
-MAILLANA
-lavar
-enjuagar
-cribar
-MAIM
-a dónde
-MAIMA
-a dónde
-MAIMAN
-a dónde
-MAIMU
-a dónde
-MAIMUN
-a dónde
-MAIRAL
-mayoral
-MAISTRU
-profesor
-MAITUNA
-envolver a un bebé
-pañal
-MAJADA
-abono
-excremento
-suciedad
-MAJIN
-alguien
-quién
-MAJIN GASHASH
-quienquiera
-MAJISH
-quienquiera
-MAL CRIADU
-terco
-MALINA
-probar
-gustar
-bocado
-MALPARISIDU
-feo
-MALQUI
-tama
-retoño
-racimo
-MALQUINA
-deshojar
-MALQUIRIADU
-tosco
-MALRUSTA CHARINA
-desmayarse
-MALTA
-mediano
-MALTA HUARMI
-joven
-MALTA RUNA
-joven
-MALTAHUA
-mediano
-MALTUNLLA
-mediano
-MALU
-malo
-MALU JIHUA
-maleza
-MALUYANA
-brujear
-MALLINA
-probar
-MALLQUINA
-plantar
-MAMA
-madre
-MAMA ALPA CUYUI
-terremoto
-MAMA CUCHA
-mar
-MAMA CUCHARA
-cucharón
-MAMA CHANGA
-muslo
-MAMA DIDU
-pulgar
-MAMA GANDI
-abuela
-MAMA JUCHARA
-cucharón
-MAMA MADRI
-placenta
-MAMA PUZUN
-estómago
-MAMA QUIRU
-muela
-MAN
-no
-MAN ALLI CUIDANA
-descuidar
-MAN ALLICHISHCA
-sin sal
-MAN PARLA
-mudo
-MAN UYAN MAN PARLAN MUDU
-tartamudo
-MAN VALIJ
-malo
-MAN VALIJ QU'IHUA
-maleza
-MANA
-no
-MANA ALLI
-malo
-MANA ALLI QU'IHUA
-maleza
-MANA ALLI RIMAJ
-tartamudo
-MANA ALLICHISHCA
-desabrido
-MANA ALLILLU CUIDANA
-descuidar
-MANA BALI
-flojo
-MANA CACHARINA
-detener
-MANA CAZUJ
-terco
-MANA CUIDARANA
-descuidar
-MANA CHARIJ
-pobre
-MANA IGUAL
-desigual
-distinto
-diferente
-MANA INTINDIJ
-terco
-MANA JAHUALLA
-difícil
-MANA LLASHAJ
-liviano
-MANA PI
-nadie
-MANA PUDINACHU
-difícil
-MANA P'ASIL
-difícil
-MANA P'UCUNA
-sofocar
-MANA RICUJ
-ciego
-MANA RICURINA
-desaparecer
-MANA RIJSISHCA
-extraño
-MANA RIQUI PUDIJ
-ciego
-MANA SAMI CACHANA
-sofocar
-MANA SIRTU
-falso
-MANA SHUTICHISHCA JINTI
-pagano
-MANA USHAIPAJ
-difícil
-MANA USHANALLA
-difícil
-MANA UYAJ
-sordo
-tartamudo
-MANA VALIJ JIHUA
-maleza
-MANA VALIJ QU'IHUA
-maleza
-MANADA
-hato
-MANARAJ
-todavía no
-MANARI
-todavía no
-MANARIJ
-todavía no
-MANARUJ
-todavía no
-MANCHACHINA
-espantar
-MANCHAI
-miedo
-susto
-MANCHANA
-temer
-susto
-obedecer
-MANCHANI
-fuerte
-muy
-MANCHANI YACU
-mar
-MANCHARI
-susto
-MANCHARINA
-asustarse
-susto
-MANCHARISHCA
-susto
-MANCHI
-susto
-miedo
-MANDA
-cama
-MANDANA
-convencer
-MANGA
-olla
-MANLLAI
-susto
-miedo
-MANLLANA
-temer
-MANLLANAI
-miedo
-MANLLARINA
-asustarse
-espantar
-MANLLI
-miedo
-MANSANA
-domesticar
-MANSAYACHINA
-domesticar
-MANSU TUCUNA
-domesticar
-MANSUNA
-domesticar
-MANSUYACHINA
-domesticar
-amortiguar
-MANTA
-rebozo
-cama
-MANTA
-en vez de
-MANTANA
-envolver
-cobija
-MANTICA
-manteca
-MANTININA
-sostener
-MANUJU
-manojo
-MANYA
-borde
-orilla
-MANYALLA
-cerca
-MANZANA
-manzana
-MAÑACHINA
-prestar
-MAÑANA
-pedir
-rogar
-MAPA
-sucio
-suciedad
-basura
-turbio
-MAPA QU'IHUA
-maleza
-MAPA YACU
-turbio
-MAPACHISHCA
-manchado
-MAPALA
-manchado
-MAPALLA
-turbio
-MAPALLA ASUA
-heces
-MAPAYASHCA
-manchado
-turbio
-MAQUI
-mano
-manojo
-MAQUI ARU
-manilla
-MAQUI CUDU
-codo
-MAQUI CHUZU JUNDA
-manojo
-MAQUI HUALLCA
-manilla
-MAQUI HUAÑUI
-calambre
-MAQUI HUAÑUSHCA
-calambre
-MAQUI HUATANA
-manilla
-MAQUI JUNDA
-puñado
-manojo
-MAQUI LUTSUN
-puñado
-MAQUI MANILLA
-manilla
-MAQUI MUCU
-muñeca
-codo
-MAQUI MUDU
-codo
-MAQUI NUDU
-muñeca
-MAQUI PAMBA
-palma
-MAQUI PIGTUNA
-puño
-MAQUI PLANA
-palma
-MAQUI PLANTA
-palma
-MAQUI PLANTAS
-palma
-MAQUI SHUNGU
-palma
-MAQUI TABLA
-palma
-MAQUI TALUN
-codo
-MAQUI UPAYASHCA
-calambre
-MAQUILLA
-puñado
-MAQUITA CURPASHCA
-puño
-MAQUITI
-puño
-MAR
-mar
-MARA
-niño
-joven
-MARAU MARAU NINA
-ronronear
-MARCAI
-racimo
-MARCAJ
-padrino de bautizo
-MARCAJ MAMA
-madrina de bautizo
-MARCAJ TAITA
-padrino de bautizo
-MARCAJ YAYA
-padrino de bautizo
-MARCANA
-llevar en brazos
-alzar
-nombrar
-MARQUI UMA
-desgreñado
-MARQUIJ MAMA
-madrina de bautizo
-MARQUIJ TAITA
-padrino de bautizo
-MARQUIJ YAYA
-padrino de bautizo
-MASANA
-sobar
-MASCA
-máchica
-MASCANA
-buscar
-MASHA
-cuñado
-yerno
-cuñada
-MASHCA
-máchica
-chumado
-borracho
-MASHCANA
-buscar
-rebuscar
-MASHNA
-cuánto
-MASHU
-murciélago
-MATASHCA
-coágulo
-MATI
-pilche
-calabaza
-MATSAI
-cueva
-MATSI
-peña
-cueva
-MATSU
-música
-MAUCA
-viejo
-vieja
-MAUGA
-viejo
-MAYA
-lado
-al lado de
-borde
-MAYORAL
-mayoral
-MAYURDUMU
-mayoral
-MAZAMURA
-sopa
-MAZAMURRA
-mazamorra
-colada
-MICUCHINA
-dar de comer
-MICUI
-sopa
-MICUNA
-comer
-comida
-rumiar
-sopa
-MICHA
-luz
-MICHI
-pasto
-MICHI PAMBA
-potrero
-MICHICUI
-pasto
-MICHIDURA
-pastora
-MICHIJ
-pastora
-MICHILUN
-pastora
-MICHINA
-pastar
-pasto
-MIDIDA
-medida
-MIDINA
-medir
-nivelar
-MIDISHCA
-medida
-MIGLLA
-falda
-MIGLLANA
-llevar en falda o en poncho
-MIGUIYASHCA
-resina
-MIJICU
-cabuya negra
-MIJTANA
-tropezar
-MIJTINA
-tropezar
-MIJUR
-mucho
-MILGA
-pedazo de tierra
-surco de arado
-mucho
-bastante
-MILIN
-pasto
-MILMA
-pelo
-vello
-MILPADUR
-goloso
-MILPUNA
-tragar
-MILLAI
-malo
-feo
-bravo
-terco
-MILLAI PACHA
-infierno
-MILLAI OU'IHUA
-maleza
-MILLANA
-tener náuseas
-odiar
-MILLANACHINA
-tener náuseas
-MILLANAI
-feo
-MILLANANA
-tener náuseas
-MILLANAYAI
-feo
-MILLANAYANA
-tener náuseas
-MILLANI
-feo
-MILLAÑACHINA
-tener náuseas
-MILLCANA
-llevar en falda o en poncho
-MILLHUA
-pelo
-MILLI
-demonio
-diablo
-feo
-MILLINA
-abortar
-MILLMA
-lana
-pelo
-vello
-MILLMA HUANGU
-copo
-MILLPUNA
-tragar
-MILLUN
-millón
-MILLUN PATSAJ
-millón
-MIMURIANA
-pensar
-MINCHA PUNLLA
-pasado mañana
-día siguiente
-MINGA
-minga
-MINGACHINA HUASI
-posada
-MINGAICHINA
-encargar
-MINGANA
-encargar
-MINGANA HUASI
-posada
-MINISTINA
-necesitar
-MINISHTINA
-necesitar
-MINISHTIRINA
-necesitar
-MINZHA PUNZHA
-pasado mañana
-MIRACHINA
-aumentar
-añadir
-alargar
-extender
-estirar
-crecer
-MIRANA
-aumentar
-crecer
-dar a luz
-MIRCADU
-mercado
-MIRGA
-pedazo de tierra
-mucho
-bastante
-MIRINU
-crespo
-MISA
-tacaño
-miserable
-MTSAJ
-tacaño
-miserable
-MISANA
-mezquinar
-impedir
-MISARINA
-defender
-MISCLA
-mezcla
-MISI
-gato
-MISTIZU
-mestizo
-MISHANA
-convencer
-vencer
-ganar
-MISHANACUNA
-vencer
-MISHI
-gato
-MISHQUI
-dulce
-sabroso
-panela
-MISHQUI BALUN
-abeja
-MISHQUI CHUSPI
-abeja
-MISHQUI HUIRU
-caña dulce
-MISHQUI TULLU
-espaldilla
-MISHQUICHIJUNA
-gustar
-MISHU
-mestizo
-MITAL
-metal
-MITCANA
-tropezar
-MITCARINA
-tropezar
-MITICUCHINA
-esconder
-desaparecer
-MITICUJ
-curandero
-MITICUNA
-huir
-escapar
-esconder
-curar
-MITICUSHPA BULANA
-huir
-MITIJUNA
-huir
-escapar
-MITINA
-huir
-esconder
-MITSA
-tacaño
-miserable
-MITSANA
-mezquinar
-impedir
-defender
-MITSARINA
-defender
-MIYADU
-orina
-MIYANA
-orinar
-MUCU
-coyuntura
-nudo
-tobilla
-rodilla
-músculo
-moco
-MUCU LLUJSHINA
-dislocar
-MUCU P'AQUIRINA
-dislocar
-MUCUNA
-mascar
-rumiar
-MUCUS
-moco
-MUCUSIADU
-fétido
-MUCHA
-beso
-MUCHAI
-beso
-MUCHANA
-besar
-beso
-MUCHIJU
-sombrero
-MUCHILU
-bolsa tejida
-MUCHISHCA
-muñon
-MUCHU
-sin punta
-MUCHUNA
-cortar pelo
-MUDANA
-traducir
-MUDARINA
-vestirse
-MUDARISHCA
-disfrazado
-MUDU
-mudo
-zonzo
-tartamudo
-MUDU JUNTI
-pagano
-MUDUSHCA
-disfrazado
-MUDUYASHCA
-tartamudo
-MULANA
-sucio
-suciedad
-MUGLLASHCA
-manchado
-MUGMU
-boton de planta
-MUGUNA
-fiesta
-MUJTINA
-oler
-MUJUN
-borde
-MUJUSIYASHCA
-musgo
-MULANA
-afilar
-MULATU
-mestizo
-MULINA
-rumiar
-MULISTANA
-molestar
-MULMURANA
-murmurana
-MULLUNA
-ensartar
-MUNAI
-deseo
-voluntad
-gana
-MUNANA
-querer
-desear
-gustar
-deseo
-voluntad
-MUNANANA
-gustar
-MUNANAYAI
-gana
-MUNANAYANA
-gustar
-MUNCHI
-ave
-pájaro
-MUNDA
-en vez de
-MUNDI
-muy
-MUNDU
-país
-MUNDUN
-montón
-MUNDUNANA
-amontonar
-reunirse
-MUNDUNGU
-cabeza
-MUNDUNGU ÑUTCU
-seso
-cerebro
-MUNI
-deseo
-voluntad
-gana
-MUNTUN
-montón
-hato
-grupo
-MUNTUNA
-arrimar
-montar a caballo
-MUNTUNANA
-amontonar
-reunirse
-MUÑICA
-muñeca
-MUÑQUIRA
-muñeca
-MUQUITA
-puño
-MUQUITI
-puño
-MURMURANA
-murmurar
-MURNICUNA
-ronronear
-MURU
-moteado
-grano
-pepa
-botan de planta
-chocho
-MURU-MURU
-manchado
-MURU UNGUI
-viruela
-MURU UNGÜI
-viruela
-MURUCHU
-granizo
-MURUYASHCA
-manchado
-MUSA
-joven
-MUSCUI
-sueño
-MUSCULU
-músculo
-MUSCUNA
-soñar
-sueño
-MUSICA
-música
-MUSPA
-zonzo
-loco
-MUSPA JINTI
-pagano
-MUSPALLA
-humilde
-MUSPITU
-mudo
-MUSPUNA
-soñar
-MUSHU
-nuevo
-MUSHUJ
-nuevo
-MUTI
-mote
-mojado
-MUTIJINA
-oler
-MUTIQUINA
-oler
-MUTIYANA
-mojar
-MUTIYASHCA
-mojado
-húmedo
-moteado
-MUTQUINA
-oler
-MUTU
-muñan
-sin punta
-MUTULAYASHCA
-sin punta
-MUTULU
-embotado
-MUTUSQUINA
-roer
-MUTUSHCA
-muñan
-MUTUYANA
-mojar
-MUYA
-potrero
-MUYI
-vuelta
-MUYU
-semilla
-pepa
-botan de planta
-grano
-fruta
-redondo
-círculo
-MUYUCHINA
-enrollar
-envolver
-voltear
-MUYUCHISHCA
-círculo
-MUYUI
-vuelta
-recodo
-curva
-círculo
-MUYUNA
-dar vueltas
-girar
-rodear
-revolverse
-rodar
-curva
-vuelta
-MUYUNDI
-alrededor de
-círculo
-redondo
-MUYUNDIJ
-alrededor de
-círculo
-redondo
-MUYURINA
-revolverse
-MUYUSHCA
-redondo
-círculo
-MUZA
-soltera
-MUZGU
-musgo
-MUZU
-soltero
-joven
-NA
-no
-NA ALI
-malo
-NA CUZU QU'IHUA
-maleza
-NA IGUL
-desigual
-NA IGULCHU
-diferente
-NA INTINDI
-sordo
-NA MAJIN
-nadie
-NA MITSA
-generoso
-NA NISHA JARCANA
-defender
-NA PI
-nadie
-NA RICUNAYANA
-odiar
-NA SHUTICHISHCACHU
-pagano
-NA TAMIA TIMPU
-verano
-NA VALINLLU
-malo
-NABUS
-nabo
-NABUSYU
-nabo
-NADANA
-nadar
-flotar
-NALLI
-malo
-MANACHINA
-doler
-lastimar
-herir
-NANAI
-dolor
-NANANA
-doler
-NANI
-dolor
-NAPACHA
-nunca
-NARAJ
-todavía no
-NARUJ
-todavía no
-NASINA
-nacer
-NASIRIJUJ
-cogollo
-NASIRINA
-nacer
-NI IMA
-nada
-NI IMA URA
-nunca
-NI IMAMANDA
-nunca
-NI JAICA
-nunca
-NI PI
-nadie
-NIBADANA
-nevar
-NIGLLANA
-llevar en falda o en poncho
-NIJTANA
-tropezar
-NINA
-decir
-candela
-fuego
-querer
-llama
-luz
-NINA CUNYAI
-llama
-NINA C'ALLU
-llama
-NINA C'URU
-luciérnaga
-NINA JURU
-luciérnaga
-NINA JUTCU
-fogón
-NINA LUS
-luz
-NINA LLAMA
-llama
-NINA LLAMARA
-llama
-NINA LLAMARADA
-llama
-NINA LLAMAS
-llama
-NINA MICHA
-luciérnaga
-NINA MURU
-carbón
-NINA PACHA
-infierno
-NINA PATA
-fogón
-NINA UCU
-cocina
-NISHINA
-batir
-NITA
-nieta
-NITCANA
-tropezar
-NITIJANA
-tropezar
-NITINA
-apretar
-NITU
-nieto
-NITUNA
-cortar pelo
-NUCA
-nuca
-NUCA TULLU
-nuca
-NUCALTU
-eucalipto
-NUGAL
-nuez
-NUGUL
-nuez
-NUIRA
-nuera
-NUMBRANA
-nombrar
-NUNCA
-nunca
-NURTI
-norte
-NUYUCHINA
-remojar
-NUYUNA
-disolverse
-NUYURINA
-disolverse
-ÑA
-ya
-luego
-entonces
-ÑA ALI
-sificiente
-ÑA BASHTA
-suficiente
-ÑA P'AJTA
-suficiente
-ÑA TUCUI ALLI
-suficiente
-ÑAGCHA
-peine
-ÑAGCHANA
-peinar
-ÑAGPA
-anterior
-ÑAGPA HUAHUA
-primogénito
-ÑAGPAI
-adelante
-ÑAGPANA
-guiar
-ÑAHUAR
-sangre
-ÑAHUI
-cara
-ojo
-mejilla
-cogollo
-boton de planta
-ÑAHUI ANJIL
-pupila
-ÑAHUI ANSAYANA
-desmayarse
-ÑAHUI CHICHU
-mejilla
-ÑAHUI HUAHUA
-primogénito
-ÑAHUI HUIJSA
-mejilla
-ÑAHUI HUILLMA
-pestaña
-ceja
-ÑAHUI ICHI
-mejilla
-ÑAHUI LULUN
-ojo
-ÑAHUI MILMA
-ceja
-ÑAHUI MILLMA
-pestaña
-ceja
-ÑAHUI MURU
-pupila
-ÑAHUI PATA
-ceja
-frente
-ÑAHUI PATA MILLMA
-ceja
-ÑAHUI PISTAÑA
-pestaña
-ÑAHUI PUCA PUCA
-pálido
-ÑAHUI PUCASHCA
-pálido
-NAHUI P'ARP'ARA
-pestaña
-ceja
-ÑAHUI SIJAS
-pestaña
-ÑAHUI UJA
-pestaña
-ÑAHUI UJUTI
-pestaña
-ÑAHUI UYA
-mejilla
-ÑAHUICHCANA
-cegar
-ÑAHUILAN
-ojo
-ÑAHUILUN ANJIL
-pupila
-ÑAHUILUN MILMA
-pestaña
-ÑAJCHA
-peine
-ÑAJCHANA
-peinar
-ÑALLA
-casi
-luego
-ÑAN
-camino
-vía
-ÑAÑA
-hermana
-ÑAÑA CASPI
-vara
-ÑAÑA MASHA
-cuñada
-ÑAÑU
-delgado
-delicado
-ÑAPASH
-luego
-ÑAPI SINGA
-chato
-ÑATU
-chato
-ÑATU SINGA
-chato
-ÑAUBA
-anterior
-mayor
-ÑAUBANA
-adelantarse
-ÑAUBU
-delante de
-ÑAUBUQUI
-adelante
-ÑAUJPU
-delante de
-ÑAUPA
-anterior
-adelante
-frente a
-mayor
-ÑAUPA HUAUQUI
-hermano mayor
-ÑAUPAJ
-delante de
-adelante
-frente a
-ÑAUPAJ UMA
-frente
-ÑAUPANA
-adelantarse
-guiar
-ÑÁUPI
-adelante
-ÑAUPU
-delante de
-frente a
-mayor
-ÑAUPUJ
-frente a
-ÑAUSA
-ciego
-ÑAUSAYACHINA
-cegar
-ÑAVI
-cara
-ojo
-ÑAVI ANJIL
-pupila
-ÑAVI CHICHU
-mejilla
-ÑAVI LULUN
-ojo
-ÑAVI MILMA
-pestaña
-ceja
-ÑAVI PATA
-ceja
-ÑAVI SANTA LUSIYA
-pupila
-ÑAZITU
-casi
-ÑIHUI
-cogollo
-ÑITA
-nieta
-ÑITINA
-aplastar
-ÑITU
-nieto
-ÑUCA
-yo
-ÑUCANCHI
-nosotros
-ÑUCANCHIJ
-nosotros
-ÑUCUNCHI
-nosotros
-ÑUCUNCHIJ
-nosotros
-ÑUGÑU
-liso
-ÑUGPA
-delante de
-anterior
-ÑUGPAI
-adelante
-ÑUGPANA
-adelantarse
-ÑUJTU
-seso
-cerebro
-ÑUJTUHUA
-cerebro
-ÑUMPA
-anterior
-ÑUMPAI
-adelante
-delante de
-ÑUMPANA
-adelantarse
-guiar
-ÑUNCUCHI
-nosotros
-ÑUÑU
-seno
-teta
-ÑUÑUCHINA
-mamar
-remojar
-ÑUPANA
-guiar
-ÑUTCU
-seso
-cerebro
-ÑUTITU
-suave
-ÑUTU
-músculo
-delgado
-ÑUTU ALPA
-polvo
-ÑUTU ALLPA
-polvo
-ÑUTU IZI
-llovizna
-ÑUTU TAMIA
-llovizna
-ÑUTUCHINA
-suavizar
-alisar
-ÑUTUHUA
-suave
-liso
-ÑUTUJU
-seso
-cerebro
-ÑUTULLA
-suave
-ÑUTURINA
-ablandarse
-ÑUTUYANA
-ablandarse
-PACA
-nido
-PACA QUIRU
-muela
-PACACUCHINA
-esconder
-PACACUNA
-escapar
-PACAJUNA
-huir
-escapar
-PACALA
-secretamente
-PACALLA
-secretamente
-PACANA
-esconder
-huir
-PACARI
-madrugada
-PACARIMUNA
-amanecer
-PACARINA
-amanecer
-madrugar
-permanecer
-dar a luz
-PACAYACHINA
-esconder
-PACHA
-tiempo
-lugar
-PACHALLI
-rebozo
-PADIDINA
-sufrir
-PADISINA
-sufrir
-PADRINU
-padrino de bautizo
-PAGANA
-pagar
-PAGTA
-suficiente
-igual
-PAGTACHINA
-cumplir
-PAGTANA
-alcanzar
-PAGUI
-gracias
-PAGUI NINA
-agradecer
-PAGUIRACHU
-gracias
-PAGUIRACHU NINA
-agradecer
-PAI
-él
-ella
-PAIGUI NINA
-agradecer
-PAIS
-país
-PAJA
-paja
-PAJARITU
-pájaro
-PAJPA
-fibra de cabuya
-PAJPA CUIRDA
-cuerda
-PAJTA
-cuidado
-completamente
-justo
-PAJTACHINA
-cumplir
-completar
-ajustar
-equivaler
-PAJTANA
-alcanzar
-equivaler
-PALA
-pala
-PALA TULLU
-espaldilla
-PALABRA
-palabra
-FALAGAR
-paladar
-PALAGARA
-paladar
-PALAGRU
-paladar
-PALAGUIR
-paladar
-PALITA
-espaldilla
-PALITILLA
-espalda
-PALTANACUNA
-alllontonar
-PALTI
-cama
-PALU
-lagartija
-PALUDISMU
-paludismo
-PALUDISMU CHUJCHU
-paludismo
-PALUTISMU
-paludismo
-PAULLAJUNA
-espigar
-rebuscar
-PALLANA
-recoger
-segar
-cosechar
-juntar
-ensartar
-PALLCA
-horqueta
-catapulta
-PAMBA
-suelo
-llanura
-plano
-piso
-terreno
-sementera
-valle
-amplio
-PAMBA CHOLO
-mestizo
-PAMBACHINA
-nivelar
-aplanar
-enterrar
-PAMBADA RURANA
-aplanar
-PAMBALA
-bajo
-PAMBALLA
-plano
-bajo
-PAMBANA
-enterrar
-cavar
-PAMBARUCU
-llanura
-PAMBAYACHINA
-aplanar
-nivelar
-alisar
-PANDA
-al revés
-PANDANA
-equivocarse
-PANDARINA
-equivocarse
-PANGA
-hoja
-PANGALLA
-liviano
-PANGUILA
-suave
-PANI
-hermana
-hermana
-prima
-PANI MASHA
-cuñada
-PANILA
-panela
-PANTA
-al revés
-PANTALUN
-pantalón
-PANTANA
-equivocarse
-PANTARINA
-equivocarse
-PANZA DE BURRU
-sombrero
-PAÑU
-pañal
-PAPA
-papa
-PAPACU
-padre
-PAPASHU
-padre
-PAQUI
-pedazo
-PAQUINA
-quebrar
-PAQUIRINAILLA
-frágil
-PAQUISHCA
-pedazo
-PARALISU JAPISHCA
-paralizado
-PARAMU
-llovizna
-PARANA
-demorar
-tardar
-PARASTRU
-padrastro
-PARASHU
-padrastro
-PARBA
-montón
-PARCA
-horqueta
-PARCU
-acequia
-PARCUNA
-regar agua
-acequia
-PARDU
-pardo
-PARGA
-montón
-grupo
-PARGATI
-sandalia
-PARGATIS
-sandalia
-PARIJACHINA
-reparar
-PARIJANA
-arreglar
-PARIJU
-aparejo
-juntos
-igual
-mediano
-transparente
-PARIJUHUALLA
-mediano
-PARINA
-parir
-PARISIRINA
-parecer
-PARLANA
-contar
-conversar
-PARLANACUNA
-conversar
-PARLANAJUNA
-conversar
-PARLANUCUNA
-conversar
-PARLU
-idioma
-palabra
-voz
-PARTINA
-dividir
-partir
-separar
-desunir
-PASACHINA
-traducir
-ensartar
-dislocar
-empreñar
-PASAJ
-cien
-ciento
-PASAMANU
-sendero
-PASANA
-pasar
-cruzar
-vadear
-traducir
-suceder
-exceder
-PASCACUNA
-escampar
-PASCANA
-abrir
-desatar
-zafar
-desunir
-descargar
-destruir
-PASCARINA
-escampar
-soltar
-PASCARISHCA TIMPU
-verano
-PASIANA
-pasear
-PASUNA
-cruzar
-PASHI
-gracias
-PASHI NINA
-agradecer
-PATA
-pared
-muro
-cerco
-adobe
-tapia
-orilla
-borde
-PATA ISQUINA
-rincón
-PATA MUYUCHINA
-cercar
-PATA MUYUSHCA
-cerca
-PATA TACANA
-cercar
-PATAI
-subida
-PATAIYANA
-subir
-PATARINA
-doblarse
-envolver
-enrollar
-PATIU
-patio
-PATSAJ
-cien
-ciento
-PATU
-afrecho
-PATUJIANA
-cojear
-PATUJU
-cojo
-PAYA
-vieja
-viejo
-PAYA HUASI
-ruina
-PAYA UCUCHA
-murciélago
-PAYUZU
-bravo
-PAZA
-áspero
-PAZAN
-piso
-PI
-quién
-PI GASHASH
-quienquiera
-PIBISH
-quienquiera
-PICANA
-picar
-pegar
-PICHA
-cinco
-PICHANA
-barrer
-PICHARI
-alguien
-quienquiera
-PICHCA
-cinco
-PICHI
-orina
-PICHILA
-poco
-escaso
-diminuto
-PICHILLA
-escaso
-diminuto
-PICHINA
-orinar
-PICHU
-pecho
-PIDASU
-pedaso
-PIDASUCHINA
-despedazar
-PIDASUNA
-despedazar
-PIGANA
-pegar
-golpear
-azotar
-castigar
-PILANA
-desplumar
-desollar
-pelear
-pelar
-PILARINA
-desplumar
-PILCHI
-pilche
-PILIANA
-pelear
-luchar
-PILIS
-piojo del cuerpo
-PILUTARINA
-rodar
-PILLCA
-tonto
-PILLIJ
-buho
-PILLUCHINA
-envolver
-enrollar
-devanar
-PILLUNA
-enrollar
-envolver
-PILLUSHCA
-nudo
-PINCA
-cabuya negra
-PINCU
-cabuya blanca
-cabuya negra
-PINGA
-vergüenza
-PINGAI TUCUNA
-avergonzarse
-PINGANANA
-avergonzarse
-PINGANACHINA
-avergonzarse
-PINGANAYANA
-avergonzarse
-PINGANAYACHINA
-avergonzarse
-PINGANAYAI
-vergüenza
-PINGANAYAN
-vergüenza
-PINGANAYARINA
-avergonzarse
-PINGARINA
-avergonzarse
-PINGUI
-vergüenza
-PINGUI TUCUJ
-humilde
-PINGUI TUCUNA
-avergonzarse
-PINGULLU
-flauta
-canilla
-rodilla
-PINSAMINTU
-pensamiento
-PINSANA
-pensar
-PINSARINA
-pensamiento
-PINTANA
-tinturar
-PINGTASHCA
-manchado
-PINZHI
-regalo
-PIÑA
-tosco
-PIÑANA
-enojar
-sufrir
-PIÑARINA
-iras
-PIÑASHCA
-bravo
-tosco
-PIPASH
-alguien
-quienquiera
-PIPISH
-quienquiera
-PIPUN
-enano
-PIPURABISH
-quienquiera
-PIPURISH
-quienquiera
-PIQUI
-pulga
-PIQUI RURU
-liendre
-PIRCA
-pared
-muro
-cerco
-adobe
-tapia
-PIRCA HUICHI
-pared
-PIRCANA
-cercar
-PIRCHANA
-cardar
-PIRDINA
-perder
-PIRDIS
-perdiz
-PIRDISH GASTANA
-exceder
-PIRICU
-pericote
-PIRICUTI
-pericote
-PIRURU
-rodela
-PISCADU
-pescado
-PISTI
-gripe
-PISH
-alguien
-quienquiera
-PISHCA
-cinco
-PISHCU
-pájaro
-ave
-pene
-PISHI
-poco
-débil
-alguien
-PISHILLA
-escaso
-PISHIPI
-orina
-PISHQUITU
-ave
-PITACA
-canasta
-PITAJ
-alguien
-PITILLAHUA
-manojo
-PITU
-boton de planta
-PIYIRU
-extraño
-PIZANA
-pesar
-PIZI
-pescado
-FLAGRAN
-paladar
-PLANANA
-aplanar
-PLANITU
-plano
-PLANTA
-planta
-PLANTA BUTINYASHCA
-cogollo
-PLANTATA TARPUNA
-trasplantar
-PLANU
-plano
-PLANU PAMBA
-plano
-PLANU PAMBA RURANA
-alisar
-PLANUYACHINA
-alisar
-PLANYANA
-aplanar
-PLASA
-mercado
-PLATU
-plato
-tazón de barro
-PLAYA
-playa
-PLAYAS
-playa
-PLICHA
-catapulta
-PLITUCHINA
-insultar
-PLUJANA
-aflojar
-PLUJU
-flojo
-PLUMA
-pluma
-PLUMA ANCHUCHINA
-desplumar
-PLUMU
-pardo
-gris
-PRIMA
-prima
-PRIMA ÑAÑA
-prima
-PRIMA PANI
-prima
-PRIMU
-primo
-PRIMU HUAUQUI
-primo
-PRIMU TURI
-primo
-PRINDA CHURANA
-empeñar
-PRINDA SAQUINA
-empeñar
-PRINDA SAQUIRINA
-empeñar
-PRINDANA
-empeñar
-PRINDIDUR
-prendedor
-PRIZU JAPINA
-prender
-PRIZUCHINA
-prender
-PRIZUNA
-prender
-PRUBANA
-mallina
-PRUBRIYANA
-empobrecer
-PRUPIU
-dueño
-PRUSISIUNDA JAPINA
-tomar
-PUBRI
-pobre
-PUBRI PURU TUCUNA
-empobrecer
-PUBRIYANA
-empobrecer
-PUCA
-rojo
-colorado
-PUCA AJCHA
-rubio
-PUCA QU'IHUA
-maleza
-PUCA UMA
-rubio
-PUCUCHINA
-fermentar
-PUCUNA
-vejiga
-PUCHA
-hilo
-PUCHANA
-sobrar
-hilar
-ronronear
-PUCHANA HUANGU
-copo
-PUCHANA MAITU
-copo
-PUCHCA
-hilo
-fibra de cabuya
-PUCHCANA
-hilar
-ronronear
-PUCHCANA HUANGU
-rodela
-PUCHCANA SIJSIJ
-huso
-PUCHICA
-hilo
-PUCHICANA
-hilar
-PUCHU
-residuo
-PUCHUCAI
-ultimo
-PUCHUCAI HUAHUA
-último bebe
-PUCHUCANA
-concluir
-terminar
-PUCHUJ
-heces
-PUCHUQUI HUAHUA
-último bebe
-PUDACHINA
-encargar
-PUDASH SAQUINA
-encargar
-PUDINA
-poder
-PUGLLAI
-juego
-PUGLLANA
-jugar
-juego
-broma
-chiste
-PUGLLI
-juego
-PUGLLIN HUAHUA
-último bebe
-PUGRA
-corredor
-PUGRI
-pobre
-PUGRIYANA
-empobrecer
-PUGRU
-hondo
-hueco
-quebrada
-PUGRU PAMBA
-plano
-PUGYU
-fuente
-PUGZIN HUAHUA
-último bebe
-PUIBLU
-pueblo
-PUISTU
-puesto
-PULRU
-polvo
-PULGA
-blusa
-PULILLANA
-pulir
-PULIYASHCA
-liso
-PULMA
-pluma
-PULMUN
-pulmones
-PULMUNIS
-pulmones
-PULSIRA
-manilla
-PULSU
-músculo
-PULUJ
-boton de planta
-PULUNQUIRIJUN
-llama
-PULUYASHCA
-desgreñado
-PULLIRA
-falda
-PULLITU
-pollito
-PULLU
-pollito
-rebozo
-PUNCHA
-día
-luz
-claro
-PUNCHAMI PASANA
-pasar
-PUNCHAYACHINA
-brillar
-PUNCHAYANA
-aclarar
-amanecer
-PUNCHIRA
-tazón de barro
-PUNCHU
-poncho
-PUNDA
-primero
-anterior
-mayor
-punta
-PUNDA HUAHUA
-primogénito
-PUNGU
-puerta
-corredor
-frente a
-PUNGU CHAPA
-portero
-PUNGU CUIDAJ
-portero
-PUNGU PISHAYAJ
-portero
-PUNGUCAMA
-portero
-PUNGUI
-tumor
-PUNGUICHINA
-hinchar
-PUNGUILLINA
-hinchar
-PUNGUILLISHCA
-tumor
-PUNGUINA
-hinchar
-PUNLLA
-día
-luz
-PUNLLALLA
-claro
-transparente
-PUNLLAYACHINA
-aclarar
-brillar
-PUNLLAYANA
-aclarar
-amanecer
-PUNSANA
-pinchar
-inyectar
-PUNTA
-punta
-anterior
-mayor
-PUNTA HUAHUA
-primogénito
-PUNTA HUAUQUI
-hermano mayor
-PUNTA ILLAJ
-sin punta
-PUNTA ILLIJ
-sin punta
-PUNTANA
-añadir
-PUNTU
-lugar
-PUNTSU HUASI
-choza
-PUNZHA
-día
-claro
-PUNZHAYANA
-aclarar
-PUÑADU
-manojo
-PUÑI
-sueño
-PUÑI SIQUI
-dormilón
-PUÑITI
-puño
-PUÑITIS
-puño
-PUÑU
-cántaro
-PUÑUI
-sueño
-PUÑUI ABIRISHCA
-dormilón
-PUÑUI SIQUI
-dormilón
-PUÑUNA
-dormir
-sueño
-cama
-PUÑUNA HUASI
-posada
-PUÑUNACHINA
-bostezar
-PUPU
-ombligo
-PURA
-obscuro
-PURGATURIU
-infierno
-PURIJ UNGÜI
-gripe
-PURINA
-andar
-caminar
-viajar
-pasear
-PURMUN
-pulmones
-PURTI
-tamaño
-PURTIRA
-madrina de matrimonio
-PURTIRU
-portero
-PURTIRU TAITA
-portero
-PURUN PAMBA
-llanura
-PURUN QU'IHUA
-maleza
-PURUTU
-fréjol
-PUSACHINA
-encargar
-PUSAJ
-ocho
-PUSCU
-espuma
-burbuja
-PUSCUNA
-fermentar
-PUSCUSHCA
-agrio
-PUSIJ
-ocho
-PUSUJ
-ocho
-PUSHAMUNA
-invitar
-PUSHANA
-guiar
-PUSHCA
-hilo
-PUSHCAINA
-urdir
-PUSHCANA
-hilar
-ronronear
-PUSHCANA SIJSIJ
-huso
-PUSHTU
-puesto
-lugar
-sementera
-PUTAN CHUSPI
-abeja
-PUTIRU
-potrero
-PUTRIRU
-potrero
-PUTRIRRU
-potrero
-PUTRU
-potrero
-PUTU
-sin punta
-embotado
-tronco
-corto
-PUTU SHUNGU
-pulmones
-PUTUYASHCA
-tronco
-PUTSA
-troje
-PUTSUJU
-espuma
-PUTSUJUNA
-fermentar
-PUYU
-neblina
-PUZADA
-posada
-PUZANA
-posada
-PUZU
-gris
-pardo
-PUZU BUNGA
-abeja
-PUZU-PUZU
-madrugada
-PUZUJINA
-calambre
-PUZUN
-intestinos
-tripas
-panza
-estomago
-PUZUNGUNA
-intestinos
-PUZUQUICHINA
-amortiguar
-P'ACA
-muela
-P'ACHA
-pañal
-tela
-red
-P'ACHACHINA
-cobijar
-P'ACHAI URA
-haraposo
-P'ACHALINA
-abrigarse
-P'ACHALLI
-bayeta
-rebozo
-P'ACHALLINA
-rebozo
-P'AGLINIJUNA
-brillar
-P'AGNA
-obscuro
-P'AGNA PUZU
-pardo
-P'AINA
-faena
-P'AJCHA
-cascada
-P'AJNA P'AJNA
-estrella
-P'AJTA
-cuidado
-tamaño
-P'AJTACHINA
-completar
-ajustar
-brujear
-P'AJTANA
-cumplir
-suficiente
-P'ALA
-afrecho
-áspero
-P'ALA NINA
-brillar
-P'ALAQUINA
-brillar
-P'ALDA
-falda
-P'ALTANA
-faltar
-P'AMILIA
-familia
-P'ANGA
-hoja
-P'ANGALA
-liviano
-ligero
-fácil
-flojo
-P'ANTAZMU
-demonio
-P'AQUI
-pedazo
-P'AQUI P'AQUIDA RURANA
-despedazar
-P'AQUICHINA
-aplastar
-P'AQUIJ
-delicado
-P'AQUINA
-romper
-quebrar
-despedazar
-destruir
-aplastar
-tallar
-frágil
-P'AQUINALLA
-frágil
-P'AQUIRI
-frágil
-P'AQUIRIGLLA
-delicado
-frágil
-P'AQUIRINA
-hender
-frágil
-P'AQUIRINALA
-frágil
-P'AQUIRINALLA
-frágil
-P'AQUISHA TUCUCHINA
-destruir
-P'AQUISHCA
-pedazo
-P'ASIL
-fácil
-P'ATAJ
-ancho
-P'ATAJ SINGA
-chato
-P'ATIGARINA
-desmayarse
-P'IACHINA
-prestar
-P'IANA
-prestar
-deber
-P'IASHCA
-deuda
-P'ICHANA
-limpiar
-escoba
-barrer
-cardar
-acepillar
-P'IDIU
-sopa
-P'ILTRACHINA
-filtrar
-P'ILU
-agudo
-orilla
-borde
-P'ILU ILLIJ
-embotado
-P'ILLA
-catzo
-P'ILLUNA
-enrollar
-P'INTILLA
-poco
-P'INU
-agudo
-P'IÑA
-bravo
-arisco
-agudo
-malo
-iras
-enemigo
-P'IÑACHINA
-molestar
-enojar
-P'IÑAI
-iras
-P'IÑANA
-odiar
-enojar
-iras
-P'IÑANACUNA
-enojar
-P'IÑARINA
-enojar
-cólera
-P'IRIA
-mercado
-P'IRU
-feo
-P'IRRU
-metal
-hierro
-malo
-P'ISTA
-fiesta
-P'ISTI
-fiesta
-P'ISHA
-fiesta
-P'ISHTA
-fiesta
-P'ITI
-pedazo
-poco
-P'ITI P'ITIDA RURANA
-despedazar
-P'ITI P'ITILLA
-escaso
-P'ITICU
-bocado
-P'ITICUHUALLA
-escaso
-P'ITICULLA
-poco
-P'ITIHUA
-bocado
-P'ITIHUALLA TUCUSHCA
-escaso
-P'ITILLA
-poco
-escaso
-P'ITILLAHUA
-bocado
-P'ITINA
-cortar
-cortar pelo
-arrancar
-romper
-segar
-tallar
-despedazar
-esquilar
-P'ITINACUNA
-despedazar
-P'ITIRINA
-herir
-escampar
-P'ITYILLA
-poco
-P'LACU
-delgado
-P'LAUTA
-flauta
-P'LICHA
-catapulta
-P'LUJANA
-aflojar
-P'LUJAYANA
-ablandarse
-P'LUJU
-flojo
-débil
-P'LUJU P'LUJU
-flojo
-P'LUJULLA
-débil
-P'LUMA
-pluma
-P'LUTANA
-flotar
-P'RIJUL
-fréjol
-P'RINTI
-frente
-frente a
-P'RINTI PATA
-frente
-P'RUNZI TUCUNA
-fruncir
-P'RUTA
-fruta
-P'UCUCHINA
-fermentar
-brujear
-aventador
-P'UCUNA
-soplar
-madurar
-inflar
-fermentar
-abanicar
-aventar
-respirar
-prender candela
-P'UCUNGU
-buho
-P'UCURINA
-inflar
-P'UCUSHCA
-maduro
-agrio
-mojado
-P'UCHU
-trapo
-haraposo
-P'UGA
-rocio
-P'UGYU
-fuente
-P'UIN
-muy
-P'UIRA
-afuera
-extraño
-P'UIRTI
-fuerte
-P'UIRZASAPA
-fuerte
-P'UNDU
-tinajón o vasija grande para
-cargar agua
-P'UNGUICHINA
-inflar
-P'UNGUINA
-hinchar
-P'UNLLA
-día
-P'UNLLA PASCARINA
-escampar
-P'UNLLALLA
-claro
-luz
-P'UNLLAYACHINA
-aclarar
-P'UNLLAYANA
-aclarar
-P'UNTSU
-basura
-P'UNZU
-basura
-P'URASTIRU
-extraño
-huérfano
-P'URU
-vejiga
-calabaza
-P'URUN
-vejiga
-P'UTIUNA
-remendar
-P'UTZUTZU
-rocio
-P'UTSUL NINA
-burbuja
-P'UTYU
-haraposo
-andrajoso
-P'UYU
-nube
-neblina
-P'UYU TUCURINA
-escampar
-P'YIRU
-terco
-P'YIRRU
-hierro
-QUI
-esta
-este
-esto
-QUIBI
-aqui
-QUIBIDU LADU
-oeste
-QUICHA
-diarrea
-excremento
-QUICHA YALINA
-diarrea
-QUICHAI
-diarrea
-QUICHANA
-diarrea
-QUICHIJI
-estrecho
-QUICHIQUI
-angosto
-QUICHQUI
-estrecho
-angosto
-QUICHQUIYANA
-cercar
-QUICHUA
-idioma quichua
-QUICHUNA
-quitar
-retirar
-perder
-explotar
-OUICHURINA
-atrasarse
-QUIDANA
-permanecer
-QUIHUANA
-desherbar
-QUIHUINA
-torcer
-dislocar
-QUIJADA
-quijada
-QUIJADAS
-quijada
-QUIJADUS
-quijada
-mejilla
-QUIJARU
-quijada
-QUILCANA
-escribir
-QUILILICU
-gavilán
-QUILPANA
-tapar
-QUILLA
-mes
-luna
-ocioso
-flojo
-zonzo
-QUILLAYASHCA
-ocioso
-terco
-QUILLAI
-metal
-QUILLALUN
-ocioso
-QUILLAN
-ocioso
-QUILLAPUDIN
-ocioso
-QUILLCANA
-escribir
-tallar
-QUILLMISHCA
-carbón
-QUILLPANA
-tapar
-QUILLU
-amarillo
-pálido
-QUILLU QUILLU NAHUI
-pálido
-QUILLULA
-turbio
-QUILLULLA
-turbio
-QUILLUYASHCA
-pálido
-QUILLUYISHCA
-pálido
-QUIMICHINA
-arrimar
-sostener
-detener
-QUIMINA
-arrimar
-unir
-QUIMIRINA
-acercarse
-cercar
-reclinarse
-QUIMSA
-tres
-QUINDI
-picaflor
-QUINDIYANA
-encogerse
-QUINGU
-recodo
-curva
-vuelta
-sesgo
-QUINLLA
-cerco
-corral
-QUINLLA RURANA
-cercar
-QUINLLANA
-cercar
-QUINLLU
-seno
-QUINLLULU
-seno
-QUINLLULLI
-seno
-QUINRI
-recodo
-cerca
-QUINRILLAMI GANA
-reclinarse
-QUINSA
-tres
-QUINTI
-calambre
-QUINZHA
-cerco
-QUINZHANA
-cercar
-QUIPA
-después
-QUIPAYANA
-tardar
-QUIPI
-bulto
-QUIPILUMUN
-jorobado
-QUIPINA
-envolver
-cargar
-tapar
-QUIPIPACHA
-bulto
-QUIPIRINA
-dejar
-QUIPITA ANLLUCHINA
-descargar
-QUIPU
-mayoral
-QUIQUIN
-usted
-QUIRPANA
-tapar
-QUIRU
-diente
-muela
-palo
-madera
-árbol
-QUIRU AICHA
-encías
-QUIRU CARA
-corteza
-QUIRU CHAQUI AICHA
-encías
-QUIRU GUINSIAGUNA
-encías
-QU IRU HUINGUIS
-encías
-QUIRU JUCHU AICHA
-encías
-QUIRU SIQUI AICHA
-encías
-QUISAS
-tal vez
-QUISASLLACHARI
-tal vez
-QUISIPRA
-ceja
-QUISUSCHARI
-tal vez
-QUISHA
-nido
-QUISHPACHINA
-tapar
-QUISHPANA
-tapar
-QUISHPICHINA
-librar
-defender
-QUISHPINA
-librar
-QUISHPIRINA
-escapar
-QUISHQUI
-estrecho
-angosto
-QUISHQUIYANA
-acercarse
-QUITAJ
-fiebre
-QUITAR
-anchuchina
-quichuna
-anlluchina
-QUITI
-calabaza
-QUITU
-calabaza
-quieto
-QUITU LLAJTA LADU
-norte
-QUITU MUSU
-calabaza
-QUIVINA
-torcer
-dislocar
-QUIYA
-pus
-ocioso
-QU'IHUA
-hierba
-pasto
-alfalfa
-QU'IHUA PAMBA
-potrero
-QU'IHUADA CUCHUNA
-cortar hierba
-QU'IHUANA
-cortar hierba
-QU'IHUATA CUCHUNA
-cortar hierba
-QU'IHUATA C'UCHUNA
-cortar hierba
-QU'IHUATA P'ITINA
-cortar hierba
-QU'IHUILLA CHAHUAR
-fibra de cabuya
-QU'IHUILLA PUCHCA
-fibra de cabuya
-QU'IHUINA
-dislocar
-QU'IHUIRINA
-dislocar
-QU'ILLA
-flojo
-QU'ILLU
-amarillo
-pálido
-QU'ILLU P'IRRU
-metal
-QU'IPA
-después
-último
-siguiente
-detrás de
-menor
-entonces
-mayoral
-QU'IPA HUAHUA
-último bebe
-QU'IPA HUAUQUI
-hermano menor
-QU'IPA HUIÑAI
-menor
-QU'IPA P'UNLLA
-día siguiente
-QU'IPAHUA
-menor
-QU'IPAMUN
-después
-QU'IPAYANA
-atrasarse
-tardar
-QU'IRIJ
-enano
-QU'ITA
-arisco
-QU'IYA
-maleza
-RABI
-cólera
-RABIA
-iras
-cólera
-RABIACHINA
-molestar
-RABIARISHCA
-cólera
-RABU
-cola
-RACU
-grueso
-gordo
-RACU CHANGA
-muslo
-músculo
-RACULLA
-tosco
-RAHUA
-surco de arado
-RAJANA
-rajar
-hender
-RALLANA
-rallar
-RAMA
-rama
-racimo
-RAN RURANA
-repetir
-RANA
-hacer
-construir
-concluir
-RANDI
-en vez de
-RANDICHI PLASA
-mercado
-RANDICHILUN
-vendedor
-RANDINA
-comprar
-RAPADURA
-panela
-RAPUSU
-zorro
-lobo
-RAQUINA
-partir
-separar
-RAQUIRISH NINA
-desunir
-RAQUISHCA
-separado
-RASIMU
-racimo
-RASIUNAL
-inteligente
-RASPA
-paja
-RASPADURA
-panela
-RASPANA
-rallar
-cardar
-RASTRU
-huella
-RASU
-nieve
-hielo
-granizo
-rocío
-RASU CHIRI CHIRI
-hielo
-RASUCUNA
-nevar
-RASUNA
-nevar
-granizar
-RATA
-ucucha
-RATAJ
-rígido
-RATU
-rápido
-ligero
-luego
-RATU HUAÑUNA
-desmayarse
-RATUCAMA NINA
-despedirse
-RATUHUALLAPI
-luego
-RATUJ
-rígido
-RAUMANA
-deshojar
-RAURANA
-arder
-RAYA RAYA
-delgado
-RAYU
-rayo
-relámpago
-trueno
-RIBAJANA
-rebajar
-RIBAMBA
-Riobamba
-RIBULCANA
-revolcar
-RIBUSU
-bayeta
-RIBUZU
-rebozo
-RICU
-rico
-RICUCHINA
-mostrar
-indicar
-RICUGRINA
-visitar
-RICUNA
-ver
-mirar
-cuidar
-RICUNACHINA
-querer
-RICURANA
-cuidar
-RICURINA
-aparecer
-asomarse
-parecer I
-nacer
-transparente
-RICURISHCA
-transparente
-RICUSH CUIDANA
-cuidar
-RID
-red
-RIDUNDU
-círculo
-redondo
-alrededor de
-RIGALANA
-regalar
-RIGALASHCA
-gratis
-RIGANA
-regar agua
-regar cosas
-regar paja
-RIGLANA
-arreglar
-RIGRA
-brazo
-hombro
-ala
-espaldilla
-RIGRA AICHA
-músculo
-RIGRA CUDU
-codo
-RIGRA JAHUA
-hombro
-RIGRA JUCHU
-sobaco
-RIGRA LUMA
-hombro
-RIGRA MUCU
-codo
-RIGRA PALA TULLU
-espaldilla
-RIGRA TALUN
-codo
-RIGRA TULLU
-hombro
-RIGRA UCU
-sobaco
-RIGULAR
-mediano
-RIGULTANA
-eructar
-RIJCHANA
-parecer
-RIJCHARINA
-despertarse
-RIJSINA
-conocer
-RTJTIYACHINA
-enderezar
-RIJTU
-derecho
-recto
-tieso
-RIJTUYACHINA
-enderezar
-RILAMPA
-relámpago
-rayo
-RILAMPAGU
-relámpago
-rayo
-RILAMPAJ
-relámpago
-rayo
-RILUJ
-muñeca
-RIMAI
-idioma
-palahra
-voz
-RIMANA
-hablar
-decir
-contar
-murmurar
-insultar
-palabra
-RIMANDANA
-zurcir
-RIMARINA
-hablar
-insultar
-murmurar
-odiar
-RIMASHCA
-voz
-RIMBA
-Riobamba
-RIMI
-palabra
-RIMIDANA
-remedar
-RIMIDIU
-medicina
-RIMINDANA
-remendar
-RIMULINA
-rumiar
-RIMULINU
-rimolino
-RINRIN
-oreja
-RINA
-ir
-viajar
-pasar
-caminar
-RINGRI
-oreja
-RINGU
-cojo
-RINGU RINGULLA PURINA
-cojear
-RINGUYANA
-cojear
-RINRI
-oreja
-RINRI HUACHCA
-arete
-RINRI MANA UYA
-sordo
-RINRI URIJIS
-arete
-RINRITA UNGUSHCA
-sordo
-RIPARANA
-murmurar
-escuchar
-RIPITINA
-repetir
-RISPIRANA
-respirar
-RISPUNDINA
-responder
-RISTITUINA
-restituir
-RISURTI
-catapulta
-RITUÑU
-retoño
-RIUBAMBA
-Riobamba
-RIUBAMBA LLAJTA LADU
-sur
-RIZANA
-leer
-RUBAMBA
-Riobamba
-RUCU
-viejo
-mayor
-anterior
-demasiado
-muy
-gordo
-RUCU HUARMI
-vieja
-RUCU HUAUQUI
-hermano mayor
-RUGANA
-rogar
-RUHUANA
-hacer
-construir
-poncho
-RUIDA
-redondo
-ruido
-RUM NINA
-ronronear
-RUMADIS
-gripe
-RUMADISU
-gripe
-RUMASU
-gripe
-RUMI
-piedra
-RUMI BARBA
-musgo
-RUMI BARBAS
-musgo
-RUMI BARBUS
-musgo
-RUMI HUICHI
-peña
-RUMI MILMA
-musgo
-RUMI MILLMA
-musgo
-RUMISHNA
-duro
-RUNA
-indígena
-hombre indígena
-persona
-gente
-RUNA CHAPUSHCA
-mestizo
-RUNA LADU
-derecha
-RUNA LLAMA
-llamingo
-RUNA SHIMI
-idioma quichua
-RUNAUN BLANCAUN CHAPURISHCA
-mestizo
-RUNCANA
-ronronear
-RUNDADUR
-rondador
-RUNDU
-granizo
-nieve
-RUNDU URMANA
-granizar
-RUNDUNA
-granizar t
-nevar
-rondador
-RUNDUSHCA
-nieve
-RUPACHINA
-quemar
-chamuscar
-hacer calor
-cocinar
-RUPAGLLA
-caliente
-RUPAGYANA
-calentarse
-RUPAI
-calor
-sol
-RUPAI SHITANA
-hacer calor
-RUPAI TAMIA
-lluvia con sol
-RUPAJ
-caliente
-calor
-RUPAJ UNGÜI
-fiebre
-RUPANA
-arder
-quemar
-hacer calor
-brillar
-RUPARI
-fiebre
-RUPARINA
-hacer calor
-RUPARISHCA
-fiebre
-RUPASH TAMIA
-lluvia con sol
-RUPI
-calor
-sol
-RUPI TAMIA
-lluvia con sol
-RUPI TIMPU
-verano
-RUPUGYANA
-calentarse
-RUPUJ
-caliente
-calor
-RUPUYAGUNA
-hacer calor
-RURANA
-hacer
-construir
-trabajar
-tallar
-concluir
-RURANALLA
-fácil
-RURU
-huevo
-testículo
-RURU SURCUNA
-castrar
-RURUTA CHURANA
-poner huevos
-RURUTA HUACHANA
-poner huevos
-RUSIU
-rocio
-RUTINA
-cortar pelo
-RUTUCHINA
-cortar pelo
-RUTUNA
-trasquilar
-esquilar
-RUZIRU
-estrella
-RUZU
-zorro
-SABRUZU
-sabroso
-SACUDINA
-sacudir
-SACHA
-monte
-selva
-montaña
-SACHA HUAGRA
-venado
-SACHA JAMBI
-hierba medicinal
-SACHA MILLMA
-musgo
-SACHA RUNA
-salvaje
-SACHA URCU
-montaña
-selva
-SAFACHINA
-librar
-SAFANA
-zafar
-SAFARINA
-escapar
-SAGRUZU
-aspero
-SAGSANA
-hartarse
-SAHUASANA
-ahumar
-SAJHUARINA
-dar a luz
-SAJSANA
-hartarse
-SALAMANCA
-brujo
-SALBAJI
-salvaje
-SALTANA
-brincar
-saltar
-correr
-SALLA
-falda
-SAMAI
-vapor
-SAMAI JARCARINA
-sofocar
-SAMAITA AISANA
-respirar
-SAMAITA CHURANA
-soplar
-SAMAITA JARCANA
-sofocar
-SAMAITA MANA CACHAI PUDINA
-sofocar
-SAMANA
-descansar
-reclinarse
-respirar
-SAMARINA
-descansar
-SAMBA
-suave
-SAMBAYACHINA
-suavizar
-SAMBAYANA
-ablandarse
-SAMBU
-calabaza
-SAMI
-vapor
-aire
-SAMI CACHANA
-respirar
-SAMI JARCARINA
-sofocar
-SAMI LUJSHINA
-eructar
-SAMI LLUJSHINA
-respirar
-SAMPI
-canilla
-SANCA
-zanja
-cerco
-SAMURA LADU
-oriente
-SANCANA
-cercar
-SANGA
-zanja
-SANGU
-espeso
-turbio
-colada
-SANJA
-zanja
-cerco
-SANJANA
-cercar
-SANJASHCA
-cerco
-SANURIA
-zanahoria
-SANUYANA
-sanar
-SAÑURA
-zanahoria
-SAPALLA
-viuda
-huérfano
-SAPALLU
-calabaza
-SAPAPICU
-oz
-SAPI
-raíz
-tronco
-SAPU
-sapo
-gordo
-SAQUINA
-dejar
-abandonar
-descuidar
-SAQUIRINA
-quedarse
-permanecer
-demorar
-descuidar
-SARA
-maíz
-SARCUS
-rubio
-SARPA
-rocio
-SARNA
-absceso
-SARSILIS
-arete
-SARSILLU
-arete
-SARSILLUS
-arete
-SARSISU
-arete
-SARUBAYANA
-trillar a caballo
-SARUCHINA
-trillar a caballo
-empreñar
-SARUN
-anteayer
-anterior
-tiempo
-SARUN PUNCHA
-día siguiente
-SARUN PUNZHA
-anteayer
-SARUN P'UNLLA
-anteayer
-SARUN P'UNZHA
-pasado mañana
-SARUNA
-pisar
-empreñar
-SARUSHCA
-huella
-piso
-SASUNA
-flotar
-SATINA
-meter
-pegar con goma
-clavar
-SAUJANA
-aflojar
-zafar
-SAUNA
-almohada
-SIBU
-cera
-SICANA
-subir
-montar a caballo
-subida
-SIDASUNA
-cribar
-SIFARINU
-huérfano
-SIGANA
-segar
-espigar
-SIGRA
-bolsa tejida
-red
-SIGSI
-rodela
-ciego
-tuerto
-SIGUIDILLUS
-diarrea
-SIGUYACHINA
-cegar
-SIJA
-ceja
-SIJSI
-huso
-rodela
-SIJSI HUASI
-choza
-SIJSIJ
-huso
-rodela
-SILAJ
-celoso
-SILASHCA
-celoso
-SILU
-cielo
-SILU CLARUYANA
-escampar
-SILU P'UNLLALLA TUCUNA
-escampar
-SILUJ
-mirlo
-SILUZU
-celoso
-SILLU
-uña
-garra
-casco
-SIMBUNA
-revolcar
-SIMINTIRA
-sementera
-SIMPRI
-siempre
-SIN ÑAJCHA
-desgreñado
-SIN ÑAHUI
-tuerto
-SINCHI
-fuerte
-duro
-rígido
-tosco
-difícil
-SINCHIYANA
-animarse
-SINDINA
-encender
-SINGA
-nariz
-chato
-SINGA TABLAYASHCA
-chato
-SINGUCHINA
-tumbar
-SINGUNA
-rodar
-revolcar
-caerse
-SINI
-zorro
-SINIDUR
-faja
-SINLLI
-tieso
-valiente
-SINLLIYAJUNA
-animarse
-SINSILLU
-humilde
-SINTAL
-viga
-SINTRU
-cinturón
-SINTURA
-cinturón
-SIÑAI
-huella
-SIÑAL
-huella
-SIÑIDUR
-cinturón
-SIÑIHUI
-ciego
-SIPARACHINA
-desunir
-SIPARADU
-separado
-aparte
-fuera de
-SIPARANA
-separar
-desunir
-abandonar
-SIPILLANA
-acepillar
-tallar
-SIPINA
-ahorcar
-apretar
-SIPIRINA
-ahorcar
-SIPU
-arruga
-SIPUNA
-fruncir
-SIPURINA
-arruga
-SIPUSHCA
-arruga
-SIPUYANA
-fruncir
-SIQUI
-trasero
-fondo
-nalgas
-ano
-detrás de
-alrededor de
-SIQUI LADU
-al revés
-SIQUI ÑUTU
-nalgas
-SIQUI PATA
-nalgas
-SIQUI PUNGU
-ano
-SIQUI TULLU
-trasero
-nalgas
-ano
-SIQUI UJTU
-ano
-SIQUI UTCU
-ano
-SIQUI UTUJU
-ano
-SIQUIYANA
-descender
-SIQUIA
-acequia
-SIRA
-vela
-cera
-SIRANA
-coser
-zurcir
-remendar
-SIRBI
-toma
-SIRCALA
-cerca
-SIRCANA
-cercar
-SIRCAYANA
-acercarse
-SIRICHINA
-echar
-SIRIJUNA
-reclinarse
-SIRINA
-yacer
-SIRINU
-rocio
-SIRIRINA
-acostarse
-reclinarse
-yacer
-SIRIUNA
-yacer
-SIRRA
-sierra
-SISA
-flor
-SISA TUCUNA
-botan de planta
-SISACUNA
-florecer
-SISAGUNA
-florecer
-SISAMUCUNA
-florecer
-SISANA
-florecer
-brotar
-SISAPICA
-picaflor
-SISAYANA
-florecer
-SISU
-sarna
-absceso
-SISUHUA
-cerebro
-SITANA
-botar
-echar
-abandonar
-regar cosas
-descuidar
-SITARINA
-caerse
-SITASHA RINA
-abandonar
-SITASHCA
-desierto
-SITASHCA HUASI
-ruina
-SITIBIDAS
-sandalia
-SIYA
-liendre
-SUABIDA RURANA
-suavizar
-SUBACU
-sobaco
-SUBACU UCU
-sobaco
-SUBANA
-fregar
-sobar
-SUBRA
-residuo
-SUBRADA
-heces
-SUBRANA
-sobrar
-SUBRINA
-sobrina
-SUBRINA ÑAÑA
-prima
-SUBRINA PANI
-priina
-SUBRINU
-sobrino
-SUBRINU HUAUQUI
-primo
-SUBRINU TURI
-primo
-SUBRITA
-residuo
-SUCABUN
-cueva
-SUCU
-rubio
-pardo
-gris
-SUCUS
-carrizo
-SUCHU
-cojo
-paralizado
-manco
-SUCHU PURINA
-cojear
-SUCHUNA
-cojear
-descender
-SUCHUYANA
-cojear
-SUDA
-sudor
-SUDANA
-sudar
-SUDASHCA
-sudor
-SUDUR
-sudor
-SUFISINTI
-suficiente
-SUFRINA
-sufrir
-SUIDRA
-suegra
-SUIDRU
-suegro
-SUIGRA
-suegra
-SUIGRU
-suegro
-SUINU
-sueño
-SUIÑUNA
-dormir
-soñar
-sueño
-SUJITANA
-sostener
-SUJSUJ
-mirlo
-SUJTA
-seis
-SULIRA
-viga
-SULTIRA
-joven
-soltera
-muchacha
-SULTIRU
-soltero
-joven
-muchacho
-SULLA
-rocio
-SUMAIMANA
-elegante
-bonito
-SUMAJ
-bonito
-elegante
-sabroso
-SUMAJ ALLI
-feliz
-SUMAJHUA
-elegante
-SUMBIRU
-sombrero
-SUMBIRRU
-sombrero
-SUMBRA
-sombra
-alma
-SUMBRIRU
-sombrero
-SUMBRIRRU
-sombrero
-SUMIRU
-sombrero
-SUMIRRU
-sombrero
-SUMITA
-bonito
-SUMU PUCHUSHCA
-heces
-SUNDINGUCHINA
-alargar
-SUNI
-largo
-SUNIYACHINA
-alargar
-extender
-SUNLLU
-haraposo
-SUNSU
-zonzo
-terco
-andrajoso
-SUÑUDUR
-dormilón
-SUÑUI
-sueño
-SUÑUI SIGUI
-dormilón
-SUÑUNA
-soñar
-SUPA
-sopa
-SUPAI
-diablo
-demonio
-SUPANA
-lamer
-SUPAS
-fibra de cabuya
-SUPLADUR
-aventador
-SUPLANA
-aventar
-SUPUN
-enano
-SUR
-sur
-SURCANA
-deshojar
-SURCUNA
-sacar
-ordeñar
-SURDU
-sordo
-izquierda
-SURDU MAN UYA
-sordo
-SURDU MUDU
-tartamudo
-SURDU TARTSU UPA
-tartamudo
-SURIRU
-sombrero
-SURTIJAS
-anillo
-SURTIJIS
-anillo
-SURTIQUIS
-anillo
-SURU
-carrizo
-SURUN
-vejiga
-troje
-SURRU
-zorro
-SUSIDINA
-suceder
-SUSTU
-susto
-pena
-SUSUGYANA
-fruncir
-SUSTARINA
-asustarse
-SUSHTU
-susto
-SHAGRA
-áspero
-SHAICUNA
-cansarse
-sofocar
-SHAICUSHCA
-cansado
-SHAIJUNA
-cansarse
-SHAIJUSHCA
-cansado
-SHAMBA
-suave
-SHAMUI NINA
-invitar
-SHAMUNA
-venir
-SHANDU SURDU
-tartamudo
-SHAYACHINA
-construir
-levantar
-detener
-enderezar
-SHAYARINA
-pararse
-defender
-SHICAN
-aparte
-separado
-distinto
-extraño
-SHICANYACHINA
-separar
-SHICU
-ternero
-becerro
-SHIGHUANA
-regar paja
-SHIGRA
-bolsa tejida
-red
-SHIJSHI
-comezón
-sarna
-SHIJSHIN
-comezón
-SHILA
-tazón de barro
-SHILUJ
-uña
-garra
-casco
-SHIMBA
-trenza
-SHIMBANA
-trenzar
-SHIMI
-boca
-labio
-voz
-idioma
-palabra
-SHIMI CARA
-labio
-SHIMI HUAICUPI
-boca abajo
-SHIMI JAHUA
-boca arriba
-SHIMI JITA
-quijada
-SHIMI JUNDA
-bocado
-SHIMI LABIU
-labio
-SHIMI PAMBAPI
-boca abajo
-SHIMI PASCANA
-bostezar
-SHIMILLAJ
-tartamudo
-SHINA
-así
-SHINAI
-entonces
-SHINALLATAJ
-entero
-SHINCHACA
-entonces
-SHINGA
-borracho
-chumado
-SHINGANA
-emborracharse
-SHINGASHCA
-borracho
-SHINGAYANA
-emborracharse
-SHINGAYISHCA
-chumado
-SHINLLI
-fuerte
-duro
-tieso
-rígido
-valiente
-difícil
-fuerza
-tosco
-SHIQUINA
-regar paja
-SHIRA UMA
-desgreñado
-SHITANA
-botar
-echar
-tirar
-abandonar
-sembrar
-SHITARINA
-descender
-desmontar
-SHITARISHCA HUASI
-ruina
-SHITASHA RINA
-abandonar
-SHITASHCA
-desierto
-SHITASHCA HUASI
-ruina
-SHITISHCA
-desierto
-SHUGLA
-único
-SHUGLLA
-único
-SHUHUA
-ladrón
-SHUHUA SHUNGU
-murciélago
-SHUHUA UCUCHA
-murciélago
-SHUHUAJ
-ladrón
-SHUHUANA
-robar
-explotar
-SHUHUARINA
-robar
-SHUJ
-uno
-otro
-alguien
-diferente
-SHUJ CARU RUNA
-extraño
-SHUJ CUTIN
-vez
-SHUJ LADUM TARPUNA
-trasplantar
-SHUJ LADUMAN
-al revés
-SHUJ LADUMUNDA JINTI
-extraño
-SHUJ LAYA
-distinto
-diferente
-desigual
-SHUJ RATU
-de repente
-SHUJ SHUJTA
-aparte
-SHUJ YALA
-diferente
-SHUJCA
-alguien
-SHUJCUNA
-los demás
-SHUJMI PASACHINA
-trasplantar
-SHUJTAJ
-otro
-diferente
-SHUJTAJ SHUJTAJ
-distinto
-SHUJTIJ
-diferente
-SHULU
-mestizo
-SHULLA
-rocio
-SHULLUNA
-abortar
-SHUNGU
-corazón
-estómago
-hígado
-SHUNGU ANSAYANA
-desmayarse
-SHUNGU BULTACHINA
-vomitar
-SHUNGU BULTANA
-vomitar
-eructar
-SHUNGU BULTANAUNA
-tener náuseas
-SHUNGU BULTANAYANA
-tener náuseas
-SHUNGU BULTINA
-vomitar
-SHUNGU JAHUAYANA
-vomitar
-SHUNGU SHITANA
-vomitar
-tener náuseas
-SHUNGU SHITANAYANA
-tener náuseas
-SHUNGU TIGRANAYACHINA
-tener náuseas
-SHUNGUI
-desayuno
-SHUNGUNA
-desayuno
-SHUNGUNCHI
-desayuno
-SHUNGUTA TIGRANA
-vomitar
-SHUNLLU
-zonzo
-SHUNSHU
-zonzo
-SHUPAJ CHURI
-entenado
-SHUPAJ USHI
-entenada
-SHURUNA
-retoñar
-SHURUSHCA
-retoño
-SHUSHANA
-filtrar
-SHUSHUNA
-cerner
-cribar
-filtrar
-residuo
-SHUTI
-nombre
-apellido
-SHUTI CUNA
-llamar
-SHUTICHI
-bautizo
-SHUTICHINA
-bautizar
-llamar
-nombrar f
-bautizo
-SHUTISHINA
-llamar
-SHUTU
-gota
-mojado
-SHUTUCHINA
-derramar
-mojar
-remojar
-SHUTUGYANA
-mojar
-SHUTUI
-gota
-SHUTUJ
-mojado
-húmedo
-SHUTUNA
-mojar
-filtrar
-SHUTURISHCA
-húmedo
-SHUTUSHCA
-mojado
-SHUYANA
-esperar
-demorar
-permanecer
-SHUYU
-sucio
-TABACUNA
-fumar
-TABANU
-tábano
-TABUDU SATINA
-clavar
-TACAI
-golpe
-TACANA
-golpear
-trillar a mano
-clavar
-castigar
-luchar
-golpe
-TACANACUNA
-pelear
-TACANUCUNA
-pelear
-TACARINA
-tocar
-tropezar
-TACAZU
-paladar
-TACUNGA
-Latacunga
-TACHANA
-zurcir
-TAFIA
-pared
-TAFIANA
-cercar
-TAGSHANA
-lavar ropa
-TAITA
-padre
-TAITA CURA
-sacerdote
-TAITA GANDI
-abuelo
-TAITA MAMA ILLAJ
-huérfano
-TAJSHANA
-lavar ropa
-enjuagar
-TAJSHI TUCUNA
-enjuagar
-TALANQUIRA
-cerco
-TALBIS
-tal vez
-TALINA
-verter
-derramar
-regar agua
-vaciar
-TALPA
-blusa
-TALUN
-talón
-TALLINA
-verter
-derramar
-regar agua
-vaciar
-TAMBU
-posada
-TAMBUR
-tambor
-TAMBURA
-tambor
-TAMIA
-lluvia
-TAMIA CUCHA
-charco
-TAMIA HUACANA
-tronar
-TAMIA LAGUNA
-charco
-TAMIA TIMPU
-invierno
-TAMIA TYIMPU
-invierno
-TAMIA USIA
-lluvia con sol
-TAMIA YACU
-cha reo
-TAMIANA
-llover
-TAMIANA QUILLA
-invierno
-TAMIARINA
-llovizna
-TAMIUN INTI
-lluvia con sol
-TAMU
-paja de cebada
-TANCANA
-moler
-TANCHANA
-adivinar
-TANDA
-pan
-juntos
-TANDACHINA
-juntar
-amontonar
-recoger
-unir
-arrimar
-completar
-ensartar
-devanar
-cosechar
-segar
-reunión
-TANDACHISHCA
-juntos
-TANDALLA
-juntos
-TANDANA
-recoger
-juntar
-enrollar
-TANDANACUI
-reunión
-TANDANACUNA
-reunirse
-unir
-encogerse
-reunión
-TANDANACUSHCA
-juntos
-grupo
-TANDANACHI
-reunión
-TANDANAJUI
-reunión
-TANDANAJUNA
-unir
-reunirse
-TANDANAJUSHCA
-juntos
-TANDANUCUSHCA
-juntos
-TANDANUQUI
-reunión
-TANDARINA
-reunirse
-encogerse
-reunión
-TANDARISHCA
-juntos
-TANGANA
-empujar
-TANTIANA
-tocar
-TAPACHINA
-tapar
-TAPANA
-tapar
-TAPIA
-tapia
-TAPIAL
-tapia
-pared
-TAPUNA
-preguntar
-averiguar
-TAQUI
-golpe
-troje
-TARBUNA
-plantar
-trasplantar
-TARDANA
-tardar
-demorar
-TARDI
-tarde
-TARDIYAMUNA
-tardecer
-TARDIYANA
-tardar
-tardecer
-TARINA
-hallar
-encontrar
-vaciar
-TARIPANA
-averiguar
-TARPUGRINA
-regar agua
-TARPUNA
-sembrar
-plantar
-trasplantar
-TARPUNA ALLPA
-sementera
-TARTA
-mudo
-TARTA TUNTU
-tartamudo
-TARTUSU TUNTU
-tartamudo
-TARUGA
-venado
-TASAHUAI
-cascada
-TASANA
-adivinar
-TASQUI
-cascada
-TATACUHUA
-enano
-TATAMA QUIRU
-muela
-TAUBISCHARI
-tal vez
-TAUCA
-mucho
-TAUCA BIAJI
-vez
-TAUCAPURA
-grupo
-TAUGA
-mucho
-hato
-TAUGAPURA
-grupo
-TAUNA
-bastón
-vara
-TAUNA CASPI
-bastón
-TAURI
-chocho
-TAZA
-canasta
-TAZA UMA
-desgreñado
-TAZAN
-nido
-TAZIN
-nido
-TIA
-tía
-TICHU
-techo
-TIGRA TARPUNA
-trasplantar
-TIGRACHINA
-devolver
-responder
-restituir
-traducir
-entregar
-TIGRACHISHPA CASHTUNA
-rumiar
-TIGRAMAN
-al revés
-TIGRAMUNA
-volver
-TIGRANA
-regresar
-voltear
-virar
-caerse
-TIGRARINA
-revolverse
-TIGYANA
-brotar
-TIJANA
-zurcir
-TIJINA
-tejer
-TILA
-tela
-TILANA
-telar
-TILAR
-telar
-TILASHCA
-tela
-TILAYACHINA
-deslizar
-TILIR
-telar
-TIMBLACHINA
-temblar
-TIMBLANA
-estirar
-TIMBLUR
-terremoto
-TIMBUCHINA
-hervir
-fermentar
-TIMBUR SAMI
-vapor
-TIMBUNA
-hervir
-TIMPLANA
-estirar
-tirar
-TIMPLUR
-terremoto
-TIMPU
-tiempo
-TIMUN
-arado
-TINCANA
-brincar
-saltar
-TINDINA
-regar cosas
-regar paja
-estirar
-TINDUN
-tendón
-TINGADUR
-catapulta
-TINGU
-recodo
-TINGUINA
-unir
-TINTURANA
-tinturar
-TIÑINA
-teñir
-tinturar
-TIPINA
-deshojar
-TIPU
-crespo
-TIRANA
-disparar
-arrancar
-catapulta
-TIRITANA
-temblar
-TIRSINA
-carnicero
-TIRU CACHARINA
-disparar
-TISANA
-cardana
-TISPINA
-pellizcar
-picar
-pinchar
-deshojar
-TISU
-tieso
-rígido
-paralizado
-orgulloso
-TISUYASHCA
-rígido
-TITAGYANA
-calentarse
-TITAJ
-fuego
-llama
-calor
-caliente
-TITI
-metal
-TIU
-tío
-TIYAGLLA
-quieto
-TIYAILLA
-quieto
-TIYAN
-hay
-TIYANA
-estar
-existir
-permanecer
-TIYARINA
-sentarse
-montar a caballo
-TIYAUN
-hay
-TIYILLA
-quieto
-TIYU
-arena
-TRABAJANA
-trabajar
-construir
-tejer
-rallar
-TRABAJU
-difícil
-TRADUSINA
-traducir
-TRAGUYUJ
-poroso
-TRAMPA
-trampa
-TRANCANA
-atrancar
-impedir
-TRANDUSINA
-traducir
-TRANQUILLA
-tranquilo
-TRANSIA
-broma
-TRAPU
-trapo
-TRAPUHUA
-pañal
-TRAPUSU
-andrajoso
-TRAPUZU
-haraposo
-TRASTI
-ropa
-TRIGLI
-claro
-TRILLANA
-trillar a caballo
-trillar a mano
-TRINCHI
-tenedor
-TRINTI
-tenedor
-TRINZA
-trenza
-TRUCANA
-convertirse
-TRUCHANA
-desmontar
-TRUINU
-trueno
-TRUJA
-troje
-TRUJI
-troje
-TRUNANA
-tronar
-TRUNCU
-tronco
-TRUNIDU
-trueno
-TRUYINA
-trueno
-TRUYINANA
-tronar
-TRUZU
-pedazo
-TUCA
-saliva
-baba
-TUCANA
-tocar
-escupir
-TUCUCHINA
-acabar
-concluir
-terminar
-completar
-gastar
-destruir
-TUCUI
-todo
-todos
-entero
-TUCUI ALLI
-completamente
-TUCUI RATU
-siempre
-TUCUI RATU
-siempre
-TUCUI URAS
-siempre
-TUCUILA
-totalmente
-TUCUILLA
-completamente
-totalmente
-enteramente
-entero
-juntos
-TUCUITA
-enteramente
-totalmente
-TUCUITA YALLI
-entero
-TUCUNA
-hacerse
-volverse
-convertirse
-suceder
-poder
-TUCURI
-último
-TUCURINA
-morir
-TUGLLA
-trampa
-TUGLLAI
-trampa
-TUGMU
-sir punta
-embotado
-TUGRU
-coágulo
-TUGYA
-tumor
-TUGYACHINA
-reventar
-disparar
-TUGYANA TUPAJ
-reventar
-brotar
-TUIRTU
-ciego
-tuerto
-bizco
-TUIRTUYANA
-cegar
-TUJSINA
-picar
-pinchar
-inyectar
-TUJTI
-nuez
-TUJTITU
-humitas
-TUJTU
-brote floral de maíz
-TUJYANA
-tronar
-TULA
-palo para cavar papas
-loma
-TULANA
-desmontar
-TULPA
-estufa
-fogón
-TULUN NINA
-tronar
-TULLMU
-embotado
-sin punta
-TULLPA
-fogón
-estufa
-TULLU
-hueso
-flaco
-delgado
-delicado
-débil
-tronco
-TULLUN CARAUN
-flaco
-TULLUYASHCA
-flaco
-TUMA
-acequia
-TUMUR
-absceso
-TUNDUJANA
-abrigarse
-TUNGURI
-garganta
-manzana
-TUNI
-derrumbe
-TUNINA
-derrumbar
-TUNIRISHCA
-terremoto
-TUNTAMINTI
-muy
-totalmente
-TUNTU
-mudo
-zonzo
-sordo
-tartamudo
-terco
-TUNTUHUA
-humilde
-TUNU
-música
-canción
-TUNUGYACHINA
-alargar
-TUÑI
-derrumbe
-TUÑINA
-derrumbar
-TUÑIRI
-derrumbe
-TUÑISHCA
-derrumbe
-TUPAJ
-murciélago
-TUPAN
-murciélago
-TUPANA
-encontrarse con
-hallar
-tocar
-TUPANACUNA
-encontrarse con
-TUPARINA
-encontrarse con
-tocar
-TUPARINALA
-delicado
-TUPU
-prendedor
-medida
-tamaño
-TUPUDA JAPINA
-medir
-TUPULINA
-prendedor
-TUPULLI
-prendedor
-TUPULLINA
-prendedor
-TUPUNA
-medir
-medida
-TUPUSHCA
-medida
-TUQUI
-todo
-todos
-entero
-TUQUI BIDA
-siempre
-TUQUI TIMPU
-siempre
-TUQUI TUQUITA
-totalmente
-TUQUILA
-totalmente
-TURBARINA
-equivocarse
-TURI
-hermano
-sobrino
-TURSINA
-torcer
-retorcer
-TURTILLA
-humitas
-TURTU
-ciego
-bizco
-TURU
-lodo
-barro
-turbio
-TURU PLATU
-plato
-TURUHUAN
-turbio
-TUSA
-tusa
-TUSCU
-tosco
-TUSHAJ
-vacio
-TUSHUNA
-bailar
-danzar
-brincar
-TUTA
-noche
-obscuro
-TUTA PISHCU
-murciélago
-TUTAMANDA
-mañana
-madrugada
-TUTAMANTA
-mañana
-madrugada
-TUTAMANTA MICUNA
-desayuno
-TUTAMANTA RINA
-madrugar
-TUTAMUNDA
-mañana
-madrugada
-TUTAMUNDA JATARINA
-madrugar
-TUTAMUNDA RINA
-madrugar
-TUTAMUNTA
-mañana
-TUTAYANA
-anochecer
-tardecer
-TUTU
-ovilla de hilo
-embudo
-tobillo
-TUTUJ
-brote floral de maíz
-TUTUNA
-ovillar
-TUZULYASHCA
-tumor
-T'ACAZU
-paladar
-T'ACURINA
-fregar
-T'ALA
-débil
-T'ALAYASHCA
-débil
-T'ALLINA
-derramar
-T'AMU
-paja
-T'ANGANA
-empujar
-T'IMBUCHINA
-hervir
-T'IMBUNA
-hervir
-T'ITAGYACHINA
-hacer calor
-T'IYU
-arena
-T'UCA
-saliva
-baba
-T'UCANA
-escupir
-T'UCU
-brote floral de maíz
-T'UJTU
-brote floral de maíz
-T'UNI
-derrumbe
-T'UNIN
-terremoto
-T'UNINA
-derrumbar
-T'UNIRINA
-derrumbar
-T'UNISHCA
-derrumbe
-T'UÑI
-derrumbe
-T'UÑINA
-derrumbar
-T'UÑIRINA
-derrumbar
-T'UÑIRISHCA
-derrumbe
-T'UZU
-muñon
-TSAGNANA
-amarrar
-TSAGRA
-sementera
-TSAHUAR
-cabuya blanca
-TSALA
-flaco
-delgado
-mestizo
-TSARQUI
-charqui
-flaco
-TSATSA UMA
-desgreñado
-TSAÜR
-cabuya blanca
-TSAÜR AJCHA
-fibra de cabuya
-TSAÜR MILMA
-fibra de cabuya
-TSIGA HUIÑANA
-retoñar
-TSIGASHCA
-retoño
-TSIJTSI
-murciélago
-TSILINQUITSI
-lagartija
-TSINI
-ortiga
-TSIRAPA
-llovizna
-lluvia con sol
-crespo
-desgreñado
-TSIRAPAI
-llovizna
-TSITSIQUINA
-pellizcar
-TSIYA
-liendre
-TSIYA LULUN
-liendre
-TSUGRINA
-herir
-lastimar
-TSUGRISHCA
-herida
-paralizado
-pus
-TSUJTSUJ
-mirlo
-TSUNGANA
-chupar
-absorber
-TSUNSHU
-tartamudo
-TSUNTSU
-andrajoso
-haraposo
-TSUNZU
-haraposo
-TSUPANA
-chupar
-absorber
-fumar
-TSUTSUQUINA
-agarrar
-ceñir
-TYIMPU
-tiempo
-TYUGMU
-embotado
-TY'UCA
-saliva
-baba
-TY'UCANA
-escupir
-TY'UNGIL
-sapo
-TY'UNGUCHINA
-tapar
-UBIANA
-beber
-tomar
-UBIASHCA
-borracho
-UBIDISINA
-obedecer
-cumplir
-UBIJA
-oveja
-cordero
-UBIN
-tal vez
-UBINA
-tomar
-UCA
-oca
-UCALITU
-eucalipto
-UCSIDINTI
-oeste
-UCU
-adentro
-dentro de
-interior
-cuarto
-debajo de
-bajo
-profundo
-hondo
-fondo
-UCU LADU
-al revés
-UCU PACHA
-infierno
-UCU PACHA JINTI
-enano
-UCU PAMBA
-piso
-UCU TABLANA
-piso
-UCU YANUNA
-cocina
-UCUCHA
-ratón
-pericote
-UCUCHU
-ratón
-UCUNCHI
-falda
-UCUTI
-ano
-UC'U PACHA
-infierno
-UCHA
-chico
-UCHA-UCHA
-ligero
-UCHILA
-corto
-bajo
-pequeño
-chico
-enano
-UCHILLA
-bajo
-corto
-pequeño
-chico
-diminuto
-enano
-UCHILLA HUAHUA
-criatura
-UCHILLACHINA
-encogerse
-UCHILLITU
-diminuto
-UCHINLLA
-pequeño
-diminuto
-UCHIQUILLA
-chico
-UCHIQUILLAHUA
-diminuto
-UCHPA
-ceniza
-UCHU
-ají
-UCHU HUAQUI
-hermano menor
-UCHU SHUNGU
-delicado
-UCHUFA
-ceniza
-UCHUIL UFIA
-cordero
-UCHUILLA
-chico
-pequeño
-UCHUILLAYANA
-encogerse
-UCHUILLITU
-diminuto
-enano
-UCHUJ
-corto
-chico
-UCHUJ HUAQUI
-hermano menor
-UCHULA
-corto
-UCHULLA
-chico
-UCHUPA
-ceniza
-gris
-UCHUPA LAYA
-polvo
-UFIANA
-tomar
-UFIASHCA
-borracho
-UFRISINA
-ofrecer
-UGLLANA
-abrazar
-acariciar
-UGLLARANA
-abrazar
-UGLLARINA
-abrazar
-UGNINA
-vomitar
-UGSHA
-paja
-UJALITU
-eucalipto
-UJSIRICUNA
-ofrecer
-UJSHA
-paja
-UJSHA HUASI
-choza
-UJTA
-rápido
-pronto
-ligero
-UJTALLAHUA
-rápido
-UJTU
-hueco
-cueva
-UJTUNA
-perforar
-cavar
-madurar
-UJTURISHCA
-poroso
-UJTUSHCA
-pronto
-UJU
-tos
-gripe
-fiebre
-UJU UNGUI
-gripe
-UJU UNGÜI
-gripe
-UJUI
-tos
-UJUJU
-diablo
-UJUN CALURIAN
-fiebre
-UJUNA
-toser
-tos
-UJURINA
-toser
-sofocar
-ULCA
-copo
-ULTIMU
-último
-ULTIMUHUA
-último bebe
-ULUN MAQUI
-puño
-ULLIRA
-rebozo
-ULLU
-pene
-UMA
-cabeza
-racimo
-UMA CALABIRA
-calavera
-UMA CARPAYASHCA
-desgreñado
-UMA CHURUSHCA
-al revés
-UMA ÑUTCU
-cerebro
-UMA ÑUJTU
-seso
-UMA ÑUTUJU
-cerebro
-UMA P'RINTI
-frente
-UMA SAPA
-desgreñado
-UMA SHAYARISHCA
-desgreñado
-UMA TULLU
-calavera
-UMACHINA
-explotar
-UMANA
-engañar
-convencer
-UMBRU
-hombro
-UMIDU
-húmedo
-UMIJUCHINA
-acabar
-UMILDI
-humilde
-UMUTA
-corto
-UMUTA GASHTA
-enano
-UMUTU
-enano
-UNAI
-tiempo
-UNAYANA
-demorar
-tardar
-UNDU
-hondo
-profundo
-UNGU
-hongo
-UNGUI
-enfermedad
-UNGÜI
-enfermedad
-fiebre
-UNGUI JAPINA
-enfermarse
-UNGUNA
-enfermarse
-dar a luz
-UNGURINA
-enfermarse
-UNGUSHCA
-pálido
-UNIJ
-caracol
-UNILLA
-tiempo
-UNIYANA
-demorar
-tardar
-UÑAI
-tiempo
-UPA
-zonzo
-mudo
-tartamudo
-UPA RINRI
-sordo
-UPA SHIMI
-mudo
-UPACHINA
-acallar
-UPALA
-silencio
-quieto
-secretamente
-UPALANA
-callarse
-acallar
-UPALAYACHINA
-acallar
-UPALLA
-silencio
-quieto
-tranquilo
-secretamente
-UPALLACHINA
-acallar
-UPALLANA
-callarse
-acallar
-UPALLAYACHINA
-acallar
-UPALLICHINA
-engañar
-UPANA
-callarse
-UPAYACHINA
-acallar
-amortiguar
-UPAYANA
-callarse
-amortiguar
-UPIANA
-beber
-tomar
-UQUI
-pardo
-URA
-abajo
-bajo
-debajo de
-sur
-hora
-URA LADU
-norte
-URA LLAGTA
-oeste
-URA LLAJTA
-valle
-oriente
-URA PAMBA
-playa
-URA SINGA
-boca abajo
-URA UCU
-debajo de
-valle
-URAI
-norte
-bajo
-URAL SINGA
-boca abajo
-URAICUCHINA
-descargar
-URAICUNA
-bajarse
-desmontar
-URANA
-hacer
-construir
-trabajar
-URAS
-tiempo
-hora
-URCU
-cerro
-sierra
-loma
-selva
-URCU ASHCU
-lobo
-URCU LUMA
-cumbre
-URCU NABUS
-nabo
-URCU PAMBA
-valle
-URCU PUNDA
-cumbre
-URCU PUNTA
-cumbre
-URCU P'ILU
-monte
-URCU UMA
-cumbre
-URDINA
-urdir
-URI
-abajo
-al lado de
-URI LADU
-norte
-sur
-URI SINGA
-boca abajo
-URI SHIMI
-boca abajo
-URICACHINA
-descargar
-URICUCHINA
-descargar
-URICUNA
-bajarse
-descender
-desmontar
-URICHINA
-descender
-URIJIRIS
-arete
-URIJIS
-arete
-URIJUCHINA
-descargar
-desmontar
-rebajar
-URIJUNA
-bajarse
-descender
-URILLA
-orilla
-borde
-bajo
-URINTI
-oriente
-URIQUINA
-descender
-descargar
-desmontar
-URIS
-orilla
-URIYACHINA
-rebajar
-URIYAJUCHINA
-descargar
-URIYAJUNA
-bajarse
-descender
-URIYANA
-bajarse
-descender
-desmontar
-URMACUJ HUASI
-ruina
-URMACHINA
-tumbar
-revolcar
-URMANA
-caerse
-rodar
-URMIGA
-hormiga
-URPI
-tórtola
-URQUITA
-horqueta
-URTANA
-descargar
-URTARIMUNA
-descender
-URTARINA
-bajarse
-desmontar
-URU
-oro
-URUS
-hora
-tiempo
-US
-oz
-USA
-piojo de la cabeza
-piojo del cuerpo
-USA CATINA
-despiojar
-USA JAPINA
-despiojar
-USA MASCANA
-despiojar
-USA PALLANA
-despiojar
-USANA
-despiojar
-USI
-oz
-USIANA
-escampar
-USIARINA
-escampar
-USIS
-oz
-USIUZU
-ocioso
-USIYA
-verano
-USIYA QUILLA
-verano
-USIYA TIMPU
-verano
-usus
-oz
-USYANA
-aclarar
-USHANA
-poder
-USHI
-hija
-USHPA
-ceniza
-polvo
-USHTINA
-desollar
-USHUSHI
-hija
-USHUTA
-sandalia
-UTCA
-pronto
-rápido
-ligero
-UTCA PURINA
-correr
-UTCAI
-rápido
-UTCALLA
-ligero
-UTCASHPA RICUNALLA
-transparente
-UTCU
-hueco
-cueva
-UTCUNA
-perforar
-UTICU
-chico
-diminuto
-UTICU HUIÑANA
-retoñar
-UTIJLA
-chico
-UTILA
-bajo
-pequeño
-chico
-UTILA ATULA
-pollito
-UTILA HUAUQUI
-hermano menor
-UTILA RITUÑAJUNA
-retoñar
-UTILAHUA HUIÑAMUJUI
-retoño
-UTILLA
-bajo
-corto
-pequeño
-chico
-diminuto
-angosto
-enano
-UTILLA CUCHAHUA
-charco
-UTILLA HUAHUA
-criatura
-UTILLA HUAMBRA
-criatura
-UTILLA HUAQUI
-hermano menor
-UTILLA YURA
-planta
-UTILLAHUA
-diminuto
-menor
-UTILLAHUAHUA
-diminuto
-UTILLAHUALLA
-diminuto
-UTILLAYANA
-encogerse
-UTINLLA
-pequeño
-enano
-UTIYA
-pronto
-rápido
-UTSIYA
-rápido
-UTU
-sombrero
-UTU CHAQUI
-manco
-UTU MAQUI
-manco
-UTU ULU
-embotado
-UTUJU
-hueco
-cueva
-UTUJU SAPA
-poroso
-UTUJUNA
-perforar
-UTUNA
-despedazar
-UTUNLLA
-enano
-UYA
-cara
-mejilla
-quijada
-UYANA
-oir
-escuchar
-entender
-obedecer
-espiar
-UYARANA
-escuchar
-UYINA
-huir
-UYISH MITIJUNA
-huir
-UYUN
-codo
-UZU
-huso
-rodela
-VICHAI
-subida
-cuesta
-sur
-VICHAI SINGA
-boca arriba
-VICHCANA
-cerrar
-VICHI
-cazuela
-VIJSA
-barriga
-vientre
-panza
-VIJSAYUJ
-embarazada
-VILLANA
-avisar
-VIÑACHINA
-criar
-educar
-VIÑAMUNA
-brotar
-VIÑANA
-crecer
-nacer
-VIÑARINA
-retoñar
-VIQUI
-lagrima
-resina
-VIRA
-manteca
-gordo
-VIRAJUCHA
-mestizo
-VIRU
-caña dulce
-VISHA
-cucharón
-VISHTUYANA
-torcer
-VITSANA
-subir
-YA
-ya
-YACA
-casi
-YACU
-agua
-río
-YACU BULA
-burbuja
-YACU BUMBA
-burbuja
-YACU CASHCA
-aguado
-YACU CUCHA
-charco
-YACU CUSHNI
-vapor
-YACU ISHPA
-orina
-YACU ISHPANA
-orinar
-YACU LADU
-orilla
-playa
-barro
-YACU LLUJSHIJ
-fuente
-YACU LLUJSHINA
-verter
-YACU MANYA
-playa
-YACU MAR
-mar
-YACU PAMBA
-playa
-YACU PATA
-playa
-YACU PIRLAS
-burbuja
-YACU PLAYA
-playa
-YACU PUZA
-charco
-YACU SAMI
-vapor
-YACU SIQUIA
-acequia
-YACU SITANA
-enjuagar
-YACU T'IMBU
-burbuja
-YACU UCU PLAYA
-playa
-YACU UJTU
-fuente
-YACULLA
-aguado
-YACUNAI
-sed
-YACUNAYAI
-sed
-YACUNI
-sed
-YACURILLA
-orilla
-YACUSHPA
-orina
-YACUSHPANA
-orinar
-YACUYACHINA
-derretir
-YACUYANA
-disolverse
-YACUYASHCA
-aguado
-YACHABAYANA
-remedar
-YACHACUNA
-aprender
-enseñarse
-YACHACHIJ
-profesor
-YACHACHILUN
-profesor
-YACHACHINA
-enseñar
-educar
-indicar
-domesticar
-YACHAGRINA
-adivinar
-YACHAGUNA
-aprender
-YACHAI
-costumbre
-YACHAJ
-sabio
-inteligente
-brujo
-YACHAJ TUCUSHCA
-orgulloso
-YACHAJUNA
-aprender
-YACHANA
-saber
-adivinar
-YACHAPA
-pañal
-YACHAPAYANA
-remedar
-YACHARICHINA
-domesticar
-YACHARINA
-enseñarse
-YACHARISHCA
-costumbre
-YACHASHCA
-costumbre
-YACHIJ
-sabio
-curandero
-YACHINA
-adivinar
-YAHUAR
-sangre
-YAICUCHINA
-meter
-YAICUNA
-entrar
-YAICURINA
-encogerse
-YAIYUNA
-derramar
-YAIYURINA
-desunir
-YALA
-casi
-clase
-YALI
-más
-YALICHINA
-traducir
-YALINA
-exceder
-YALISHPA RICUNALLA
-transparente
-YALLI
-más
-demasiado
-YALLI GANA
-exceder
-YALLI PARLANA
-convencer
-YALLIJTA
-demasiado
-YALLIJTA TAMIA
-invierno
-YALLIMANA
-demasiado
-YALLINA
-exceder
-convencer
-YAMDA
-leña
-YANA
-negro
-obscuro
-YANA CHAHUAR
-cabuya negra
-YANA CHAÜR
-cabuya negra
-YANA SHUNGU
-hígado
-YANA TSAHUAR
-cabuya negra
-YANA TSAÜR
-cabuya negra
-YANAYASHCA
-manchado
-YANDA
-leña
-YANGA
-gratis
-YANGA MANGA
-obscuro
-YANGA SHIMI
-idioma quichua
-YANGALLA MICUNA
-sopa
-YANTA
-leña
-YANUI
-delgado
-YANUNA
-cocinar
-YANUNA UCU
-cocina
-YANUNAUCU
-cocina
-YAPA
-muy
-demasiado
-YAPA CHURI
-nieto
-YAPA HUAHUA
-nieto
-nieta
-YAPA MILLAI
-tosco
-YAPA RURANA
-repetir
-YAPA SHUTI
-apellido
-YAPA USHUSHI
-nieta
-YAPACHINA
-añadir
-repetir
-YAPANA
-añadir
-aumentar
-repetir
-YAPUNA
-arar
-arado
-YAPUNA ARADU
-arado
-YAPUSHCA
-surco de arado
-YARCAI
-hambre
-YARCANA
-dar hambre
-YARICA CUNA
-dar hambre
-YARICACHINA
-dar hambre
-YARICAI
-hambre
-YARICANA
-dar hambre
-YARIJACHINA
-bostezar
-YARIJAI
-hambre
-YARIJANA
-dar hambre
-hambre
-YARIJANANA
-dar hambre
-YARIJAUNA
-dar hambre
-YARIJI
-hambre
-YARIQUI
-hambre
-YARJA
-hambre
-YATA
-pared
-YATA PASCANA
-aplanar
-YAÜR
-sangre
-YAYA
-padre
-YAYA CURA
-sacerdote
-YAYA MAMA ILLAJ
-huérfano
-YAYA SUIDRU
-suegro
-YAYA UMA
-suegro
-YAYUNA
-regar agua
-regar cosas
-YIRNU
-yerno
-YUCA
-yo
-YUCALITU
-eucalipto
-YUCALU
-eucalipto
-YUCANCHIJ
-nosotros
-YUGZI
-arena
-YUGZUJ
-fibra de cabuya
-YUMBU
-brujo
-YUMBUNA
-brincar
-danzar
-YUMPA
-anterior
-YUMPANA
-adelantarse
-YUMPI
-adelante
-YUMPUJ
-delante de
-anterior
-YUNDA
-yunta
-YUNGA
-playa
-YUNTA
-yunta
-YUPANA
-contar
-YURA
-árbol
-planta
-flor
-YURA CARA
-corteza
-YURA SHINA
-corteza
-YURAGYANA
-brillar
-YURAGYASHCA
-pálido
-YURAJ
-blanco
-YURAJ CHAHUAR
-cabuya blanca
-YURAJ SHUNGU
-pulmones
-YURAJ TSAHUAR
-cabuya blanca
-YURUJ
-blanco
-YURUJ CHAÜR
-cabuya blanca
-YURUJ SHUNGU
-pulmones
-YURUJ UMA
-rubio
-YURUJ YURUJ
-aguado
-YUSULPAGUI NINA
-agradecer
-YUTA
-perdiz
-YUTU
-perdiz
-YUYA JAPINA
-pensar
-YUYACHINA
-acordar
-YUYAGLLA
-mayor
-YUYAI
-pensamiento
-YUYAJ
-viejo
-vieja
-mayor
-inteligente
-YUYANA
-pensar
-acordar
-recordar
-YUYARINA
-acordarse
-recordar
-animarse
-YUYI
-pensamiento
-mayor
-YUYIJ
-viejo
-YUYU
-hierba medicinal
-nabo
-planta
-ZACAL
-poroso
-ZALA
-flaco
-débil
-ZAMBU
-calabaza
-ZANAJURIA
-zanahoria
-ZANCA
-zanja
-ZANURA
-zanahoria
-ZAQUIL
-poroso
-transparente
-ZARZA
-aguado
-ZILI
-excremento
-ZIMBRARINA
-temblar
-ZINGUNA
-revolcar
-ZIPU
-crespo
-ZIRBU
-crespo
-ZIYA
-liendre
-ZUGZI
-arena
-ZUGZUG
-puñado
-ZUNLLU
-andrajoso
-ZUNZU
-zonzo
-ZUPI
-crespo
-ZUTIYACHINA
-mojar
-ZUZUGNINA
-fruncir
-ZUZUGYASHCA
-arruga
-ZUZUJ
-arruga
-ZHARU
-áspero
-ZHIRBU
-crespo
-ZHIRU
-gris
+[["A DONDE", "SP"],
+["maiman", "Q"],
+["maimun", "Q"],
+["maimu", "Q"],
+["maima", "Q"],
+["maim", "Q"],
+["A VECES", "SP"],
+["huaquimbi", "Q"],
+["di ripinti", "Q"],
+["huaquinllabi", "Q"],
+["huaquin ratu", "Q"],
+["ima urabish", "Q"],
+["ima urapish", "Q"],
+["huaquinllami", "Q"],
+["maican ratu", "Q"],
+["ABAJO", "SP"],
+["ura", "Q"],
+["uri", "Q"],
+["ABANDONAR", "SP"],
+["shitana", "Q"],
+["saquina", "Q"],
+["sitasha rina", "Q"],
+["shitasha rina", "Q"],
+["sitana", "Q"],
+["siparana", "Q"],
+["jichuna", "Q"],
+["llujshishpa rina", "Q"],
+["ABANICAR", "SP"],
+["huairachina", "Q"],
+["abintana", "Q"],
+["p'ucuna", "Q"],
+["ABEJA", "SP"],
+["mishqui chuspi", "Q"],
+["bunga", "Q"],
+["abija", "Q"],
+["chuspi", "Q"],
+["mishqui balun", "Q"],
+["putan chuspi", "Q"],
+["puzu bunga", "Q"],
+["chuspi bruncana", "Q"],
+["buyi", "Q"],
+["ABLANDARSE", "SP"],
+["sambayana", "Q"],
+["apiyana", "Q"],
+["blanduyana", "Q"],
+["landuyarina", "Q"],
+["ñutuyana", "Q"],
+["ñuturina", "Q"],
+["p'lujayana", "Q"],
+["jutyuquirina", "Q"],
+["jahualayachina", "Q"],
+["jahualla tucuna", "Q"],
+["ABONO", "SP"],
+["majada", "Q"],
+["huanu", "Q"],
+["jupa", "Q"],
+["ABORTAR", "SP"],
+["shulluna", "Q"],
+["chulluna", "Q"],
+["millina", "Q"],
+["ABRAZAR", "SP"],
+["ugllana", "Q"],
+["ugllarina", "Q"],
+["ugllarana", "Q"],
+["ABRIGARSE", "SP"],
+["cununa", "Q"],
+["cunurina", "Q"],
+["jatana", "Q"],
+["p'achalina", "Q"],
+["tundujana", "Q"],
+["chuzijirina", "Q"],
+["cunugyana", "Q"],
+["cunagyana", "Q"],
+["c'atallina", "Q"],
+["ABRIR", "SP"],
+["pasçana", "Q"],
+["ABSCESO", "SP"],
+["chupu", "Q"],
+["chugri", "Q"],
+["tumur", "Q"],
+["incunu", "Q"],
+["sarna", "Q"],
+["sisu", "Q"],
+["ABSORBER", "SP"],
+["tsupana", "Q"],
+["chupana", "Q"],
+["tsunaga", "Q"],
+["jucuchina", "Q"],
+["ABUELA", "SP"],
+["ahuila", "Q"],
+["jatun mama", "Q"],
+["agüila", "Q"],
+["abuila", "Q"],
+["aila", "Q"],
+["jajtucu", "Q"],
+["mama gandi", "Q"],
+["ABUELO", "SP"],
+["ahuilu", "Q"],
+["jatun taita", "Q"],
+["agülu", "Q"],
+["abuilu", "Q"],
+["ailu", "Q"],
+["jajtucu", "Q"],
+["taita gandi", "Q"],
+["Jatun yaya", "Q"],
+["ACABAR", "SP"],
+["tucuchina", "Q"],
+["umijuchina", "Q"],
+["ACALLAR", "SP"],
+["upallayachina", "Q"],
+["upallachina", "Q"],
+["upayachina", "Q"],
+["upallana", "Q"],
+["upayachina", "Q"],
+["upallana", "Q"],
+["upalana", "Q"],
+["upalaychina", "Q"],
+["upachina", "Q"],
+["ACARICIAR", "SP"],
+["c'uyana", "Q"],
+["gusana", "Q"],
+["juyachina", "Q"],
+["juyana", "Q"],
+["ugllana", "Q"],
+["llambuchina", "Q"],
+["ACARREAR", "SP"],
+["ashtana", "Q"],
+["ACEPILLAR", "SP"],
+["llagllana", "Q"],
+["sipillana", "Q"],
+["p'ichana", "Q"],
+["ACEPTAR", "SP"],
+["chasquina", "Q"],
+["ari nina", "Q"],
+["japina", "Q"],
+["asiptana", "Q"],
+["ACEQUIA", "SP"],
+["larca", "Q"],
+["parcu", "Q"],
+["parcuna", "Q"],
+["tuma", "Q"],
+["yacusiquia", "Q"],
+["siquia", "Q"],
+["ACERCARSE", "SP"],
+["cuchuyana", "Q"],
+["chayarina", "Q"],
+["laduyana", "Q"],
+["quimirina", "Q"],
+["cercayana", "Q"],
+["chagarina", "Q"],
+["chayajuna", "Q"],
+["quishquiyana", "Q"],
+["cainij shamuna", "Q"],
+["ACLARAR", "SP"],
+["achigyana", "Q"],
+["p'unllayana", "Q"],
+["punllayana", "Q"],
+["punllayachina", "Q"],
+["p'unllayachina", "Q"],
+["punchayana", "Q"],
+["punzhayana", "Q"],
+["achigana", "Q"],
+["achiyamuna", "Q"],
+["luziyana", "Q"],
+["usyana", "Q"],
+["ACOMPAÑAR", "SP"],
+["cumpañana", "Q"],
+["cumpañasha purina", "Q"],
+["cumpañasha rina", "Q"],
+["cumbana", "Q"],
+["cumañana", "Q"],
+["ACORDAR", "SP"],
+["yuyachina", "Q"],
+["yuyana", "Q"],
+["ACORDARSE", "SP"],
+["yuyarina", "Q"],
+["ACOSTARSE", "SP"],
+["siririna", "Q"],
+["ACHIOTE", "SP"],
+["achuti", "Q"],
+["cúlur", "Q"],
+["ADELANTARSE", "SP"],
+["ñaupana", "Q"],
+["ñumpana", "Q"],
+["yumpana", "Q"],
+["ñaubana", "Q"],
+["ñugpana", "Q"],
+["ADELANTE", "SP"],
+["ñaupa", "Q"],
+["ñaupaj", "Q"],
+["ñurnpai", "Q"],
+["ñugpai", "Q"],
+["ñagpai", "Q"],
+["ñaupi", "Q"],
+["ñaubuqui", "Q"],
+["yumpi", "Q"],
+["ADENTRO", "SP"],
+["ucu", "Q"],
+["ADIVINAR", "SP"],
+["adivinana", "Q"],
+["tasana", "Q"],
+["yachana", "Q"],
+["yachagrina", "Q"],
+["yachina", "Q"],
+["asirtana", "Q"],
+["tanchana", "Q"],
+["adivina", "Q"],
+["ADOBE", "SP"],
+["pata", "Q"],
+["adubi", "Q"],
+["pirca", "Q"],
+["adubidu", "Q"],
+["AFILAR", "SP"],
+["afilana", "Q"],
+["mulana", "Q"],
+["limana", "Q"],
+["afilachina", "Q"],
+["AFLOJAR", "SP"],
+["cacharina", "Q"],
+["p'lujana", "Q"],
+["plujana", "Q"],
+["chusagyana", "Q"],
+["laliyachina", "Q"],
+["saujana", "Q"],
+["AFRECHO", "SP"],
+["jamtsi", "Q"],
+["p'ala", "Q"],
+["jamzi", "Q"],
+["jantzi", "Q"],
+["jamchi", "Q"],
+["africhillu", "Q"],
+["africhu", "Q"],
+["patu", "Q"],
+["AFUERA", "SP"],
+["canlla", "Q"],
+["cancha", "Q"],
+["jahua canlla", "Q"],
+["canzha", "Q"],
+["juira", "Q"],
+["p'uira", "Q"],
+["jahua pungu", "Q"],
+["AGACHARSE", "SP"],
+["cumurina", "Q"],
+["AGARRAR", "SP"],
+["japina", "Q"],
+["charirina", "Q"],
+["japirina", "Q"],
+["huarcurina", "Q"],
+["charina", "Q"],
+["charichina", "Q"],
+["charirana", "Q"],
+["tsutsuquina", "Q"],
+["AGRADECER", "SP"],
+["agradisina", "Q"],
+["Dius sulu pagui nina", "Q"],
+["pagui nina", "Q"],
+["pashi nina", "Q"],
+["Dius si lu pagui nina", "Q"],
+["paguirachu nina", "Q"],
+["paigui nina", "Q"],
+["Diusulupai nina", "Q"],
+["yusulpagui nina", "Q"],
+["AGRIO", "SP"],
+["jayaj", "Q"],
+["jayij", "Q"],
+["agru", "Q"],
+["agriu", "Q"],
+["arugu", "Q"],
+["puscushca", "Q"],
+["p'ucushca", "Q"],
+["AGUA", "SP"],
+["yacu", "Q"],
+["AGUADO", "SP"],
+["chuya", "Q"],
+["zarza", "Q"],
+["yaculla", "Q"],
+["aguarishca", "Q"],
+["yacuyashca", "Q"],
+["yuruj yuruj", "Q"],
+["yacu cashca", "Q"],
+["AGUANTAR", "SP"],
+["ahuantana", "Q"],
+["AGUDO", "SP"],
+["p'ilu", "Q"],
+["p'inu", "Q"],
+["filu", "Q"],
+["jilu", "Q"],
+["p'iña", "Q"],
+["AGUJA", "SP"],
+["auja", "Q"],
+["aguja", "Q"],
+["acuja", "Q"],
+["AHOGARSE", "SP"],
+["augarina", "Q"],
+["ahuarina", "Q"],
+["aguarina", "Q"],
+["ajugarina", "Q"],
+["julluquirisha huañuna", "Q"],
+["AHORA", "SP"],
+["cunan", "Q"],
+["cunun", "Q"],
+["AHHORCAR", "SP"],
+["sipina", "Q"],
+["sipirina", "Q"],
+["AHUMAR", "SP"],
+["cushnichina", "Q"],
+["cushnina", "Q"],
+["cushniyachina", "Q"],
+["cushniyana", "Q"],
+["sahuasana", "Q"],
+["cushnida churana", "Q"],
+["AIRE", "SP"],
+["huaira", "Q"],
+["sami", "Q"],
+["AJI", "SP"],
+["uchu", "Q"],
+["AJUSTAR", "SP"],
+["ajushtana", "Q"],
+["p'ajtachina", "Q"],
+["ajustana", "Q"],
+["pajtachina", "Q"],
+["allichina", "Q"],
+["apurtana", "Q"],
+["AJO", "SP"],
+["ajus", "Q"],
+["ALA", "SP"],
+["alas", "Q"],
+["alis", "Q"],
+["alus", "Q"],
+["rigra", "Q"],
+["ALARGAR", "SP"],
+["suniyachina", "Q"],
+["cacharina", "Q"],
+["larguyachina", "Q"],
+["jatunyachina", "Q"],
+["mirachina", "Q"],
+["cacharichina", "Q"],
+["currina", "Q"],
+["sundinguchina", "Q"],
+["tunugyachina", "Q"],
+["iñachina", "Q"],
+["huiñachina", "Q"],
+["largana", "Q"],
+["laduyash rina", "Q"],
+["ALCANZAR", "SP"],
+["pajtana", "Q"],
+["p'ajtana", "Q"],
+["pagtana", "Q"],
+["ALEGRE", "SP"],
+["cushilla", "Q"],
+["cuntintu", "Q"],
+["cushila", "Q"],
+["ALEJARSE", "SP"],
+["caruyana", "Q"],
+["anchurina", "Q"],
+["anllurina", "Q"],
+["lijana", "Q"],
+["ALFALFA", "SP"],
+["aljua", "Q"],
+["alp'a", "Q"],
+["qu'ihua", "Q"],
+["alp'a qu'ihua", "Q"],
+["alfa", "Q"],
+["alp'alp'a qu'ihua", "Q"],
+["alp'alp'a jihua", "Q"],
+["alp'a jihua", "Q"],
+["ALGUIEN", "SP"],
+["maijan", "Q"],
+["huaquin", "Q"],
+["pitaj", "Q"],
+["pichari", "Q"],
+["maijin", "Q"],
+["shuj", "Q"],
+["shujca", "Q"],
+["pipash", "Q"],
+["pish", "Q"],
+["pishi", "Q"],
+["maijun", "Q"],
+["majin", "Q"],
+["maican", "Q"],
+["ALISAR", "SP"],
+["llambuyachina", "Q"],
+["llambuna", "Q"],
+["pambayachina", "Q"],
+["llamhuchina", "Q"],
+["lisana", "Q"],
+["planuyachina", "Q"],
+["llagyana", "Q"],
+["ñutuchina", "Q"],
+["lluchcayachina", "Q"],
+["lluchca rurana", "Q"],
+["planu pamba rurana", "Q"],
+["ALMA", "SP"],
+["alma", "Q"],
+["aya", "Q"],
+["sumbra", "Q"],
+["huañushca", "Q"],
+["alma huañushca", "Q"],
+["ALMOHADA", "SP"],
+["sauna", "Q"],
+["cabisira", "Q"],
+["ALREDEDOR DE", "SP"],
+["muyundij", "Q"],
+["muyundi", "Q"],
+["siqui", "Q"],
+["huasha", "Q"],
+["ridundu", "Q"],
+["ALTO", "SP"],
+["jahua", "Q"],
+["altu", "Q"],
+["jatun", "Q"],
+["jana", "Q"],
+["ALTO", "SP"],
+["jatun", "Q"],
+["ALVERJA", "SP"],
+["albis", "Q"],
+["albija", "Q"],
+["albijis", "Q"],
+["albirjis", "Q"],
+["albirja", "Q"],
+["albrijis", "Q"],
+["albijas", "Q"],
+["alus", "Q"],
+["ALZAR", "SP"],
+["alzana", "Q"],
+["marcana", "Q"],
+["jahuayachina", "Q"],
+["jahuachina", "Q"],
+["jatarichina", "Q"],
+["huichiyachina", "Q"],
+["altsana", "Q"],
+["ALLI", "SP"],
+["chai", "Q"],
+["chi", "Q"],
+["chailla", "Q"],
+["chimha", "Q"],
+["chainanita", "Q"],
+["AMARLE", "SP"],
+["c'uya", "Q"],
+["alli", "Q"],
+["c'uyai", "Q"],
+["juyashca", "Q"],
+["juyanayai", "Q"],
+["cariñusu", "Q"],
+["amurusu", "Q"],
+["alli shungu", "Q"],
+["AMANECER", "SP"],
+["pacarina", "Q"],
+["p'unllayana", "Q"],
+["punllayana", "Q"],
+["punchayana", "Q"],
+["achigyana", "Q"],
+["achiyana", "Q"],
+["pacarimuna", "Q"],
+["AMAR", "SP"],
+["c'uyana", "Q"],
+["juyana", "Q"],
+["AMARGO", "SP"],
+["jayaj", "Q"],
+["jayij", "Q"],
+["AMARILLO", "SP"],
+["quillu", "Q"],
+["qu'illu", "Q"],
+["jillu", "Q"],
+["AMARRAR", "SP"],
+["huatana", "Q"],
+["tsagnana", "Q"],
+["chagllana", "Q"],
+["AMBATO", "SP"],
+["Jambatu", "Q"],
+["Ambatu", "Q"],
+["AMBOS", "SP"],
+["ishquindij", "Q"],
+["ishquindi", "Q"],
+["ishcandij", "Q"],
+["ishcandi", "Q"],
+["ishquindin", "Q"],
+["AMIGO", "SP"],
+["amigu", "Q"],
+["cumpañiritu", "Q"],
+["cumba", "Q"],
+["AMONTONAR", "SP"],
+["muntunana", "Q"],
+["bancuna", "Q"],
+["culmana", "Q"],
+["tandachina", "Q"],
+["mundunana", "Q"],
+["jalsana", "Q"],
+["banquillana", "Q"],
+["banquilluna", "Q"],
+["buntunana", "Q"],
+["paltanacuna", "Q"],
+["AMOR", "SP"],
+["c'uyai", "Q"],
+["c'uyana", "Q"],
+["juyana", "Q"],
+["AMORTIGUAR", "SP"],
+["huañurina", "Q"],
+["huañuchina", "Q"],
+["upayana", "Q"],
+["upayachina", "Q"],
+["chinina", "Q"],
+["puzuquichina", "Q"],
+["llumiyachina", "Q"],
+["mansuyachina", "Q"],
+["AMPLIO", "SP"],
+["lugar", "Q"],
+["anchu", "Q"],
+["jatun", "Q"],
+["campu", "Q"],
+["pamba", "Q"],
+["ampliu", "Q"],
+["ANCHO", "SP"],
+["anchu", "Q"],
+["anllu", "Q"],
+["jatunlla", "Q"],
+["p'ataj", "Q"],
+["ANDAR", "SP"],
+["purina", "Q"],
+["ANDRAJOSO", "SP"],
+["llachapa", "Q"],
+["tsuntsu", "Q"],
+["trapusu", "Q"],
+["zunllu", "Q"],
+["sunzu", "Q"],
+["p'utyu", "Q"],
+["chirchi", "Q"],
+["chapu", "Q"],
+["ANGOSTO", "SP"],
+["quichqui", "Q"],
+["quishqui", "Q"],
+["utilla", "Q"],
+["quichiqui", "Q"],
+["angustu", "Q"],
+["ANILLO", "SP"],
+["surtijas", "Q"],
+["surtijis", "Q"],
+["surtiquis", "Q"],
+["ANIMARSE", "SP"],
+["yuyarina", "Q"],
+["anillo", "Q"],
+["animarina", "Q"],
+["animana", "Q"],
+["sinchiyana", "Q"],
+["sinlliyajuna", "Q"],
+["c'ariyana", "Q"],
+["ANO", "SP"],
+["siqui", "Q"],
+["ucuti", "Q"],
+["siqui tullu", "Q"],
+["siqui utcu", "Q"],
+["siqui utuju", "Q"],
+["siqui ujtu", "Q"],
+["siqui pungu", "Q"],
+["ANOCHECER", "SP"],
+["tutayana", "Q"],
+["ansayana", "Q"],
+["amsayana", "Q"],
+["ANTEAYER", "SP"],
+["cainapaj caina", "Q"],
+["caina yallij", "Q"],
+["chaishuj caina", "Q"],
+["caina sarun", "Q"],
+["caina mincha", "Q"],
+["sarun", "Q"],
+["sarun p'unlla", "Q"],
+["sarun punzha", "Q"],
+["jainapu jainandi", "Q"],
+["chashuj caina", "Q"],
+["ANTERIOR", "SP"],
+["ñaupa", "Q"],
+["ñumpa", "Q"],
+["ñugpa", "Q"],
+["ñagpa", "Q"],
+["ñauba", "Q"],
+["yumpa", "Q"],
+["yumpuj", "Q"],
+["punta", "Q"],
+["punda", "Q"],
+["rucu", "Q"],
+["sarun", "Q"],
+["AÑADIR", "SP"],
+["yapana", "Q"],
+["mirachina", "Q"],
+["yapachina", "Q"],
+["ariyana", "Q"],
+["añadina", "Q"],
+["puntana", "Q"],
+["AÑO", "SP"],
+["huata", "Q"],
+["APAGAR", "SP"],
+["huañuchina", "Q"],
+["wañuchina", "Q"],
+["APARECER", "SP"],
+["ricurina", "Q"],
+["APAREJO", "SP"],
+["pariju", "Q"],
+["albarda", "Q"],
+["c'alma", "Q"],
+["jalma", "Q"],
+["aparina", "Q"],
+["jaquima", "Q"],
+["APARTE", "SP"],
+["chican", "Q"],
+["siparadu", "Q"],
+["libri", "Q"],
+["shican", "Q"],
+["shuj shujta", "Q"],
+["APELLIDO", "SP"],
+["apillidu", "Q"],
+["shuti", "Q"],
+["apilativu", "Q"],
+["yapa shuti", "Q"],
+["apillidu shuti", "Q"],
+["aillu shuti", "Q"],
+["APLANAR", "SP"],
+["pamhayachina", "Q"],
+["yata pascana", "Q"],
+["planyana", "Q"],
+["planana", "Q"],
+["llambuna", "Q"],
+["llamhuchina", "Q"],
+["llanuyachina", "Q"],
+["layachina", "Q"],
+["pambachina", "Q"],
+["pamhada rurana", "Q"],
+["APLASTAR", "SP"],
+["llapina", "Q"],
+["llapichina", "Q"],
+["ñitina", "Q"],
+["llapchina", "Q"],
+["p'aquina", "Q"],
+["p'aquichina", "Q"],
+["APRENDER", "SP"],
+["yachacuna", "Q"],
+["yachana", "Q"],
+["yachajuna", "Q"],
+["yachaguna", "Q"],
+["APRETAR", "SP"],
+["ajushtana", "Q"],
+["nitina", "Q"],
+["sipina", "Q"],
+["capina", "Q"],
+["llapina", "Q"],
+["apurtana", "Q"],
+["apitana", "Q"],
+["AQUI", "SP"],
+["caipi", "Q"],
+["caibi", "Q"],
+["quibi", "Q"],
+["AQUEL", "SP"],
+["chai", "Q"],
+["chi", "Q"],
+["ARADO", "SP"],
+["arma", "Q"],
+["yapuna", "Q"],
+["aradu", "Q"],
+["charina", "Q"],
+["yapuna aradu", "Q"],
+["llugu", "Q"],
+["timun", "Q"],
+["ARMA", "SP"],
+["araña", "Q"],
+["ariana", "Q"],
+["ARAR", "SP"],
+["yapuna", "Q"],
+["ARBOL", "SP"],
+["yura", "Q"],
+["quiru", "Q"],
+["ARCO", "SP"],
+["chaqui shungu", "Q"],
+["chaqui pamba", "Q"],
+["chaqui ucu", "Q"],
+["chaqui planta", "Q"],
+["chaqui arcuyashca", "Q"],
+["chaqui curvas", "Q"],
+["chaupi chaqui", "Q"],
+["ARCO IRIS", "SP"],
+["cuichi", "Q"],
+["cuyuchij", "Q"],
+["hualambari", "Q"],
+["ari chiri", "Q"],
+["ARDER", "SP"],
+["rupana", "Q"],
+["raurana", "Q"],
+["cunujchina", "Q"],
+["cunugyana", "Q"],
+["cunyana", "Q"],
+["ARENA", "SP"],
+["t'iyu", "Q"],
+["tiyu", "Q"],
+["jarina", "Q"],
+["yugzi", "Q"],
+["zugzi", "Q"],
+["alpa", "Q"],
+["allpa", "Q"],
+["llugzi ashpa", "Q"],
+["llugzi allpa", "Q"],
+["ARETE", "SP"],
+["sarsillu", "Q"],
+["sarsillus", "Q"],
+["urijiris", "Q"],
+["urijis", "Q"],
+["aritis", "Q"],
+["sarsilis", "Q"],
+["sarsisu", "Q"],
+["rinri huachca", "Q"],
+["rinri urijis", "Q"],
+["ARISCO", "SP"],
+["qu'ita", "Q"],
+["jita", "Q"],
+["p'iña", "Q"],
+["ariscu", "Q"],
+["jitún", "Q"],
+["ARRANCAR", "SP"],
+["p'itina", "Q"],
+["tirana", "Q"],
+["fitina", "Q"],
+["llujshichina", "Q"],
+["cuchuna", "Q"],
+["liquina", "Q"],
+["ARREGLAR", "SP"],
+["allichina", "Q"],
+["parijana", "Q"],
+["cumpunina", "Q"],
+["cumbunina", "Q"],
+["alichina", "Q"],
+["riglana", "Q"],
+["ARRIBA", "SP"],
+["jahua", "Q"],
+["janaj", "Q"],
+["jana", "Q"],
+["huichi", "Q"],
+["ichi", "Q"],
+["ARRIMAR", "SP"],
+["cuchuyachina", "Q"],
+["arrimana", "Q"],
+["quimina", "Q"],
+["quimichina", "Q"],
+["muntunana", "Q"],
+["laduchina", "Q"],
+["tandachina", "Q"],
+["chayachina", "Q"],
+["cuchuchina", "Q"],
+["ARRODILLARSE", "SP"],
+["cungurina", "Q"],
+["ARRUGA", "SP"],
+["sipu", "Q"],
+["zuzuj", "Q"],
+["zuzugyashca", "Q"],
+["sipurina", "Q"],
+["sipushca", "Q"],
+["ASAR", "SP"],
+["cusana", "Q"],
+["ASI", "SP"],
+["chashna", "Q"],
+["cashna", "Q"],
+["shina", "Q"],
+["china", "Q"],
+["chasna", "Q"],
+["ASOMARSE", "SP"],
+["ricurina", "Q"],
+["ASPERO", "SP"],
+["shagra", "Q"],
+["paza", "Q"],
+["p'ala", "Q"],
+["lluru lluru", "Q"],
+["zharu", "Q"],
+["sagruzu", "Q"],
+["ASUSTARSE", "SP"],
+["mancharina", "Q"],
+["manllarina", "Q"],
+["sustarina", "Q"],
+["ATAJAR", "SP"],
+["jarcana", "Q"],
+["ATAR", "SP"],
+["huatana", "Q"],
+["ATRANCAR", "SP"],
+["jarcana", "Q"],
+["trancana", "Q"],
+["ATRAS", "SP"],
+["huasha", "Q"],
+["huajta", "Q"],
+["ATRASARSE", "SP"],
+["qu'ipayana", "Q"],
+["jichurina", "Q"],
+["jipayana", "Q"],
+["huashayana", "Q"],
+["huashamuna", "Q"],
+["quichurina", "Q"],
+["atrazana", "Q"],
+["huashada shamuna", "Q"],
+["AUMENTAR", "SP"],
+["mirachina", "Q"],
+["mirana", "Q"],
+["yapana", "Q"],
+["AVE", "SP"],
+["pishcu", "Q"],
+["pishquitu", "Q"],
+["bishu", "Q"],
+["munchi", "Q"],
+["AVENTADOR", "SP"],
+["huairachidur", "Q"],
+["abintadur", "Q"],
+["huairachina", "Q"],
+["p'ucuchina", "Q"],
+["abintana", "Q"],
+["abintu", "Q"],
+["abanicu", "Q"],
+["supladur", "Q"],
+["AVENTAR", "SP"],
+["huairachina", "Q"],
+["abintana", "Q"],
+["p'ucuna", "Q"],
+["suplana", "Q"],
+["AVERGONZARSE", "SP"],
+["pingarina", "Q"],
+["pingui tucuna", "Q"],
+["pingai tucuna", "Q"],
+["pinganayana", "Q"],
+["pinganayarina", "Q"],
+["pinganachina", "Q"],
+["pinganayachina", "Q"],
+["pinganana", "Q"],
+["AVERIGUAR", "SP"],
+["tapuna", "Q"],
+["abiriguana", "Q"],
+["taripana", "Q"],
+["ahrigana", "Q"],
+["AVISAR", "SP"],
+["huillana", "Q"],
+["villana", "Q"],
+["illana", "Q"],
+["AYER", "SP"],
+["caina", "Q"],
+["AYUDAR", "SP"],
+["ayudana", "Q"],
+["AZADON", "SP"],
+["azadun", "Q"],
+["AZIJL", "SP"],
+["azadu", "Q"],
+["azadu cahu", "Q"],
+["AZOTAR", "SP"],
+["azutina", "Q"],
+["huajtana", "Q"],
+["pigana", "Q"],
+["dalina", "Q"],
+["llulluna", "Q"],
+["astina", "Q"],
+["cashtigana", "Q"],
+["llibachina", "Q"],
+["AZOTE", "SP"],
+["azil", "Q"],
+["azuti", "Q"],
+["cara huasca", "Q"],
+["azutina", "Q"],
+["chicuti", "Q"],
+["bulliru", "Q"],
+["AZUL", "SP"],
+["ázul", "Q"],
+["aururu", "Q"],
+["laru", "Q"],
+["BABAS", "SP"],
+["ty'uca", "Q"],
+["ch'uca", "Q"],
+["llausa", "Q"],
+["babas", "Q"],
+["babus", "Q"],
+["t'uca", "Q"],
+["tuca", "Q"],
+["lausa", "Q"],
+["BAILAR", "SP"],
+["hailana", "Q"],
+["danzana", "Q"],
+["tushuna", "Q"],
+["BAJARSE", "SP"],
+["uricuna", "Q"],
+["uriyana", "Q"],
+["urijuna", "Q"],
+["uraicuna", "Q"],
+["uriyajuna", "Q"],
+["urtarina", "Q"],
+["huaiquiyana", "Q"],
+["BAJO", "SP"],
+["ucu", "Q"],
+["pamballa", "Q"],
+["pambala", "Q"],
+["baju", "Q"],
+["urai", "Q"],
+["alpalla", "Q"],
+["alpala", "Q"],
+["urilla", "Q"],
+["huaicu", "Q"],
+["BAJO", "SP"],
+["uchilla", "Q"],
+["utilla", "Q"],
+["utila", "Q"],
+["uchila", "Q"],
+["BAÑARSE", "SP"],
+["armana", "Q"],
+["armarina", "Q"],
+["BARBA", "SP"],
+["barbus", "Q"],
+["barbas", "Q"],
+["BARRER", "SP"],
+["p'ichana", "Q"],
+["pichana", "Q"],
+["fichana", "Q"],
+["BARRIGA", "SP"],
+["huijsa", "Q"],
+["vijsa", "Q"],
+["ijsa", "Q"],
+["huigsa", "Q"],
+["BARRO", "SP"],
+["turu", "Q"],
+["ludu", "Q"],
+["guzu", "Q"],
+["ashpa turu", "Q"],
+["yacu ludu", "Q"],
+["achpa", "Q"],
+["BASTANTE", "SP"],
+["achca", "Q"],
+["ashca", "Q"],
+["milga", "Q"],
+["mirga", "Q"],
+["ashtaca", "Q"],
+["achija", "Q"],
+["BASTON", "SP"],
+["tauna", "Q"],
+["caspi", "Q"],
+["tauna caspi", "Q"],
+["BASURA", "SP"],
+["mapa", "Q"],
+["basura", "Q"],
+["jupa", "Q"],
+["c'arca", "Q"],
+["p'unzu", "Q"],
+["p'untsu", "Q"],
+["BATEA DE MADERA", "SP"],
+["batia", "Q"],
+["bacha", "Q"],
+["caspi huigru", "Q"],
+["bunqui", "Q"],
+["batea de madera", "Q"],
+["BATIR", "SP"],
+["c'ahuina", "Q"],
+["batina", "Q"],
+["jahuina", "Q"],
+["cuyuchina", "Q"],
+["cavina", "Q"],
+["nishina", "Q"],
+["BAUL", "SP"],
+["bahuil", "Q"],
+["baul", "Q"],
+["cájun", "Q"],
+["baulu", "Q"],
+["bahual", "Q"],
+["BAUTIZAR", "SP"],
+["shutchina", "Q"],
+["bautisana", "Q"],
+["bautizana", "Q"],
+["BAUTIZO", "SP"],
+["shutichina", "Q"],
+["shutichi", "Q"],
+["bautizu", "Q"],
+["bautizmu", "Q"],
+["bautizana", "Q"],
+["BAYETA", "SP"],
+["baita", "Q"],
+["bayita", "Q"],
+["anacu", "Q"],
+["p'achalli", "Q"],
+["ribusu", "Q"],
+["BEBE", "SP"],
+["huahua", "Q"],
+["BEBER", "SP"],
+["ubiana", "Q"],
+["upiana", "Q"],
+["BECERRO", "SP"],
+["bizi", "Q"],
+["billi", "Q"],
+["shicu", "Q"],
+["BESAR", "SP"],
+["muchana", "Q"],
+["BESO", "SP"],
+["mucha", "Q"],
+["muchana", "Q"],
+["muchai", "Q"],
+["BIEN", "SP"],
+["alli", "Q"],
+["bin", "Q"],
+["ali", "Q"],
+["BIZCO", "SP"],
+["tuirtu", "Q"],
+["biscu", "Q"],
+["carglan", "Q"],
+["ishtuda ricuj", "Q"],
+["huistu ñahui", "Q"],
+["hizgu", "Q"],
+["turtu", "Q"],
+["BLANCO", "SP"],
+["yuraj", "Q"],
+["yuruj", "Q"],
+["BLUSA", "SP"],
+["bluza", "Q"],
+["camiza", "Q"],
+["cutuna", "Q"],
+["talpa", "Q"],
+["pulca", "Q"],
+["bulsa", "Q"],
+["BOCA", "SP"],
+["shimi", "Q"],
+["ROCA ABAJO", "SP"],
+["uri singa", "Q"],
+["urai singa", "Q"],
+["ura singa", "Q"],
+["uri shimi", "Q"],
+["shimi pambabi", "Q"],
+["shimi huaicupi", "Q"],
+["BOCA ARRIBA", "SP"],
+["allagman", "Q"],
+["huichi singa", "Q"],
+["huichai singa", "Q"],
+["vichai singa", "Q"],
+["ichi singa", "Q"],
+["shimi jahua", "Q"],
+["allagma", "Q"],
+["BOCADO", "SP"],
+["amulli", "Q"],
+["hucadu", "Q"],
+["p'iticu", "Q"],
+["p'itihua", "Q"],
+["pitillahua", "Q"],
+["amullihua", "Q"],
+["amullillahua", "Q"],
+["malina", "Q"],
+["shimi junda", "Q"],
+["BOLSA TEJIDA", "SP"],
+["shigra", "Q"],
+["sigra", "Q"],
+["igra", "Q"],
+["jigra", "Q"],
+["muchilu", "Q"],
+["bulsa shigra", "Q"],
+["BONITO", "SP"],
+["alaja", "Q"],
+["sumaj", "Q"],
+["c'uilla", "Q"],
+["alli", "Q"],
+["c'uyailla", "Q"],
+["c'uyana", "Q"],
+["c'uidi", "Q"],
+["juila", "Q"],
+["juyailla", "Q"],
+["sumaimana", "Q"],
+["sumita", "Q"],
+["BORDE", "SP"],
+["manya", "Q"],
+["p'ilu", "Q"],
+["huilu", "Q"],
+["pata", "Q"],
+["maya", "Q"],
+["mujun", "Q"],
+["urilla", "Q"],
+["ladu", "Q"],
+["BORRACHO", "SP"],
+["machashca", "Q"],
+["macha", "Q"],
+["shinga", "Q"],
+["ubiashca", "Q"],
+["ufiashca", "Q"],
+["macharishca", "Q"],
+["mashca", "Q"],
+["shingashca", "Q"],
+["BOSTEZAR", "SP"],
+["jayajchaina", "Q"],
+["anina", "Q"],
+["ampana", "Q"],
+["jalla nina", "Q"],
+["agulana", "Q"],
+["aulajina", "Q"],
+["ja nina", "Q"],
+["yarijachina", "Q"],
+["shimi pascana", "Q"],
+["huai nina", "Q"],
+["puñunachina", "Q"],
+["bustizana", "Q"],
+["jairichina", "Q"],
+["BOTAR", "SP"],
+["shitana", "Q"],
+["sitana", "Q"],
+["jicupana", "Q"],
+["jichuna", "Q"],
+["BOTON DE PLANTA", "SP"],
+["llullu muyu", "Q"],
+["muyu", "Q"],
+["bútun", "Q"],
+["ñahui", "Q"],
+["sisa tucuna", "Q"],
+["butu", "Q"],
+["puluj", "Q"],
+["mugmu", "Q"],
+["pitu", "Q"],
+["muru", "Q"],
+["BRAVO", "SP"],
+["p'iña", "Q"],
+["culira", "Q"],
+["millai", "Q"],
+["fiña", "Q"],
+["piñashca", "Q"],
+["chiqui", "Q"],
+["payuzu", "Q"],
+["BRAZO", "SP"],
+["rigra", "Q"],
+["BRILLAR", "SP"],
+["achij nina", "Q"],
+["rupana", "Q"],
+["p'ala nina", "Q"],
+["punllayachina", "Q"],
+["punchayachina", "Q"],
+["p'aglinijuna", "Q"],
+["p'alaquina", "Q"],
+["yuragyana", "Q"],
+["luziyana", "Q"],
+["llipana", "Q"],
+["achillana", "Q"],
+["brillana", "Q"],
+["BRINCAR", "SP"],
+["saltana", "Q"],
+["tincana", "Q"],
+["tushuna", "Q"],
+["brincana", "Q"],
+["fahuana", "Q"],
+["yumbuna", "Q"],
+["BRINDAR", "SP"],
+["carana", "Q"],
+["cumbidana", "Q"],
+["cuna", "Q"],
+["BROMA", "SP"],
+["chanza", "Q"],
+["burla", "Q"],
+["pugllana", "Q"],
+["transia", "Q"],
+["chascu", "Q"],
+["brumana", "Q"],
+["chisti", "Q"],
+["BROTAR", "SP"],
+["huiñana", "Q"],
+["huiñamuna", "Q"],
+["tugyana", "Q"],
+["brutana", "Q"],
+["viñamuna", "Q"],
+["butuyana", "Q"],
+["llujshina", "Q"],
+["sisana", "Q"],
+["tigyana", "Q"],
+["BROTE FLORAL DE MATZ", "SP"],
+["tujtu", "Q"],
+["t'ujtu", "Q"],
+["chugllu sisa", "Q"],
+["tutui", "Q"],
+["t'ucu", "Q"],
+["BRUJA", "SP"],
+["bruju", "Q"],
+["yachaj", "Q"],
+["yumhu", "Q"],
+["salamanga", "Q"],
+["ichiziru", "Q"],
+["BRUJEAR", "SP"],
+["brujyana", "Q"],
+["brujiyana", "Q"],
+["brujune", "Q"],
+["p'ajtachina", "Q"],
+["brujana", "Q"],
+["brujuyana", "Q"],
+["p'ucuchina", "Q"],
+["brujuchina", "Q"],
+["chiquiyana", "Q"],
+["maluyana", "Q"],
+["ichisana", "Q"],
+["BUENO", "SP"],
+["alli", "Q"],
+["ali", "Q"],
+["BUHO", "SP"],
+["cusungu", "Q"],
+["p'ucungu", "Q"],
+["chushuj", "Q"],
+["chushaj", "Q"],
+["chushij", "Q"],
+["pillij", "Q"],
+["chuscu ñahui", "Q"],
+["buho", "Q"],
+["BULTO", "SP"],
+["quipi", "Q"],
+["quipipacha", "Q"],
+["BURBUJA", "SP"],
+["yacu bumha", "Q"],
+["puscu", "Q"],
+["yacu bula", "Q"],
+["juirsti juirsti", "Q"],
+["ispuma", "Q"],
+["yacu t'imbu", "Q"],
+["p'utsul nina", "Q"],
+["yacu pirlas", "Q"],
+["BUSCAR", "SP"],
+["mashcana", "Q"],
+["mascana", "Q"],
+["CABALLO", "SP"],
+["caballu", "Q"],
+["bishcha", "Q"],
+["abiu", "Q"],
+["CABELLO", "SP"],
+["ajcha", "Q"],
+["agcha", "Q"],
+["jajcha", "Q"],
+["juajcha", "Q"],
+["CABEZA", "SP"],
+["uma", "Q"],
+["mundungu", "Q"],
+["CABUYA BLANCA", "SP"],
+["yuraj chahuar", "Q"],
+["yuruj chaür", "Q"],
+["chahuar", "Q"],
+["chaür", "Q"],
+["yuraj tsahuar", "Q"],
+["tsahuar", "Q"],
+["tsaür", "Q"],
+["cabuya", "Q"],
+["pincu", "Q"],
+["CABUYA NEGRA", "SP"],
+["yana chahuar", "Q"],
+["yana chaür", "Q"],
+["yana tsaür", "Q"],
+["yana tsahuar", "Q"],
+["pinca", "Q"],
+["chahuar", "Q"],
+["chaür", "Q"],
+["mijicu", "Q"],
+["pincu", "Q"],
+["CACA", "SP"],
+["isma", "Q"],
+["caca", "Q"],
+["CADA", "SP"],
+["cada", "Q"],
+["CADAVER", "SP"],
+["aya", "Q"],
+["huañushca", "Q"],
+["alma", "Q"],
+["huañushca alma", "Q"],
+["animas", "Q"],
+["huañuj", "Q"],
+["huañushca cuirpu", "Q"],
+["CAERSE", "SP"],
+["urmana", "Q"],
+["sitarina", "Q"],
+["singuna", "Q"],
+["tigrana", "Q"],
+["CALABAZA", "SP"],
+["zambu", "Q"],
+["quitumusu", "Q"],
+["samhu", "Q"],
+["quitu", "Q"],
+["sapallu", "Q"],
+["cálabaza", "Q"],
+["p'uru", "Q"],
+["mati", "Q"],
+["angara", "Q"],
+["quiti", "Q"],
+["CALAMBRE", "SP"],
+["calambri", "Q"],
+["chaqui huañushca", "Q"],
+["maqui huañushca", "Q"],
+["quinti", "Q"],
+["chaqui huañui", "Q"],
+["maqui huañui", "Q"],
+["chaqui upayashca", "Q"],
+["maqui upayashca", "Q"],
+["puzujina", "Q"],
+["calambi", "Q"],
+["calambris", "Q"],
+["CALAVERA", "SP"],
+["uma tullu", "Q"],
+["huañushca tullu", "Q"],
+["uma calabira", "Q"],
+["huaire uma", "Q"],
+["CALENTARSE", "SP"],
+["cunugyana", "Q"],
+["cunurina", "Q"],
+["rupagyana", "Q"],
+["rupugyana", "Q"],
+["cunuchina", "Q"],
+["cunujchina", "Q"],
+["cununa", "Q"],
+["titagyana", "Q"],
+["CALIENTE", "SP"],
+["cunuglla", "Q"],
+["rupaj", "Q"],
+["rupuj", "Q"],
+["cunuj", "Q"],
+["rupaglla", "Q"],
+["titaj", "Q"],
+["CALOR", "SP"],
+["rupai", "Q"],
+["rupi", "Q"],
+["rupaj", "Q"],
+["cunuj", "Q"],
+["rupuj", "Q"],
+["titaj", "Q"],
+["CALLARSE", "SP"],
+["upallana", "Q"],
+["upayana", "Q"],
+["upalana", "Q"],
+["upana", "Q"],
+["CAMA", "SP"],
+["cama", "Q"],
+["puñuna", "Q"],
+["manda", "Q"],
+["manta", "Q"],
+["c'ahuitu", "Q"],
+["cahuitu", "Q"],
+["palti", "Q"],
+["CAMINAR", "SP"],
+["purina", "Q"],
+["rina", "Q"],
+["CAMINO", "SP"],
+["ñan", "Q"],
+["CANASTA", "SP"],
+["taza", "Q"],
+["canasta", "Q"],
+["canista", "Q"],
+["canastu", "Q"],
+["canashta", "Q"],
+["canishta", "Q"],
+["ashanga", "Q"],
+["jaladura", "Q"],
+["pitaca", "Q"],
+["CANCION", "SP"],
+["cantu", "Q"],
+["cantana", "Q"],
+["candana", "Q"],
+["tunu", "Q"],
+["CANDELA", "SP"],
+["nina", "Q"],
+["CANILLA", "SP"],
+["chaqui pingullu", "Q"],
+["pingullu", "Q"],
+["canilla", "Q"],
+["sampi", "Q"],
+["CANSADA", "SP"],
+["shaicushca", "Q"],
+["chaicushca", "Q"],
+["jaicushca", "Q"],
+["shaijushca", "Q"],
+["CANSARSE", "SP"],
+["shaicuna", "Q"],
+["chaicuna", "Q"],
+["jaicuna", "Q"],
+["shaijuna", "Q"],
+["CANTAR", "SP"],
+["cantana", "Q"],
+["birsiana", "Q"],
+["candana", "Q"],
+["CANTARO", "SP"],
+["puñu", "Q"],
+["huallu", "Q"],
+["CAÑA DULCE", "SP"],
+["huiru", "Q"],
+["mishqui huiru", "Q"],
+["viru", "Q"],
+["iru", "Q"],
+["CAPULI", "SP"],
+["capúlis", "Q"],
+["capus", "Q"],
+["capulís", "Q"],
+["capulí", "Q"],
+["CARA", "SP"],
+["ñahui", "Q"],
+["ñavi", "Q"],
+["uya", "Q"],
+["CARACOL", "SP"],
+["churu", "Q"],
+["churucu", "Q"],
+["caracul", "Q"],
+["unij", "Q"],
+["CARBON", "SP"],
+["nina muru", "Q"],
+["cárbun", "Q"],
+["carbún", "Q"],
+["chamba", "Q"],
+["quillmishca", "Q"],
+["CARDAR", "SP"],
+["tisana", "Q"],
+["cardana", "Q"],
+["p'ichana", "Q"],
+["pirchana", "Q"],
+["raspana", "Q"],
+["aspina", "Q"],
+["CARGAR", "SP"],
+["aparina", "Q"],
+["huanduna", "Q"],
+["quipina", "Q"],
+["chi rash apana", "Q"],
+["CARNE", "SP"],
+["aicha", "Q"],
+["CARNICERO", "SP"],
+["aicha c'atuj", "Q"],
+["aichiru", "Q"],
+["aicha jatudur", "Q"],
+["aicha jatu", "Q"],
+["aicha jatuj", "Q"],
+["tirsina", "Q"],
+["carnisiru", "Q"],
+["CARO", "SP"],
+["caru", "Q"],
+["bálur", "Q"],
+["balij", "Q"],
+["bali", "Q"],
+["balishca", "Q"],
+["caruyashca", "Q"],
+["CARRIZO", "SP"],
+["chaglla", "Q"],
+["sucus", "Q"],
+["carrizu", "Q"],
+["jucus", "Q"],
+["suru", "Q"],
+["güamaj", "Q"],
+["CASA", "SP"],
+["huasi", "Q"],
+["CASARSE", "SP"],
+["cazarana", "Q"],
+["cazarina", "Q"],
+["CASCADA", "SP"],
+["p'ajcha", "Q"],
+["tasqui", "Q"],
+["churrira", "Q"],
+["churriamuna", "Q"],
+["fajcha", "Q"],
+["tasahuäi", "Q"],
+["CASCARA", "SP"],
+["cara", "Q"],
+["CASCA", "SP"],
+["sillu", "Q"],
+["shillu", "Q"],
+["CASI", "SP"],
+["cazi", "Q"],
+["ñalla", "Q"],
+["yala", "Q"],
+["ashamunta", "Q"],
+["ñazitu", "Q"],
+["yaca", "Q"],
+["CASTIGAR", "SP"],
+["castigana", "Q"],
+["azutina", "Q"],
+["tacana", "Q"],
+["cashtigana", "Q"],
+["pigana", "Q"],
+["astina", "Q"],
+["macana", "Q"],
+["llaquichina", "Q"],
+["dalina", "Q"],
+["CASTRAR", "SP"],
+["capana", "Q"],
+["capu sitana", "Q"],
+["ruru surcuna", "Q"],
+["CATAPULTA", "SP"],
+["p'licha", "Q"],
+["catapulga", "Q"],
+["tirana", "Q"],
+["pallca", "Q"],
+["tingadur", "Q"],
+["catapulca", "Q"],
+["catapugla", "Q"],
+["plicha", "Q"],
+["risurti", "Q"],
+["jibi", "Q"],
+["CATZO", "SP"],
+["c'atsu", "Q"],
+["jatsu", "Q"],
+["catsu", "Q"],
+["chuna", "Q"],
+["p'illa", "Q"],
+["c'achuj", "Q"],
+["CAVAR", "SP"],
+["allana", "Q"],
+["ujtuna", "Q"],
+["pambana", "Q"],
+["CAZUELA", "SP"],
+["huichi", "Q"],
+["vichi", "Q"],
+["ichi", "Q"],
+["CEGAR", "SP"],
+["tuirtuyana", "Q"],
+["siguyachina", "Q"],
+["amsayachina", "Q"],
+["ansayachina", "Q"],
+["ñausayachina", "Q"],
+["ñahuichcana", "Q"],
+["CEJA", "SP"],
+["ñahu millma", "Q"],
+["ñahu pata millma", "Q"],
+["ñahu pata", "Q"],
+["ñavi pata", "Q"],
+["ñavi milma", "Q"],
+["ñahui milma", "Q"],
+["ñahui huillma", "Q"],
+["ñahui p'arp'ara", "Q"],
+["sija", "Q"],
+["amparu", "Q"],
+["quisipra", "Q"],
+["CELOSO", "SP"],
+["siluzu", "Q"],
+["silaj", "Q"],
+["silana", "Q"],
+["silashca", "Q"],
+["CENIZA", "SP"],
+["ushpa", "Q"],
+["uchupa", "Q"],
+["uchpa", "Q"],
+["uchufa", "Q"],
+["CENTRO", "SP"],
+["chaupi", "Q"],
+["chajpi", "Q"],
+["chaubi", "Q"],
+["chullpi", "Q"],
+["CEÑIR", "SP"],
+["chumbillina", "Q"],
+["huatana", "Q"],
+["anacuna", "Q"],
+["huatallina", "Q"],
+["chumbilina", "Q"],
+["tsutsuquina", "Q"],
+["CERA", "SP"],
+["ispilma", "Q"],
+["bila", "Q"],
+["sira", "Q"],
+["sibu", "Q"],
+["CERCA", "SP"],
+["cuchulla", "Q"],
+["cailla", "Q"],
+["ladulla", "Q"],
+["ladula", "Q"],
+["ladu", "Q"],
+["sircala", "Q"],
+["juchu", "Q"],
+["juchulla", "Q"],
+["quinri", "Q"],
+["manyalla", "Q"],
+["cuchu", "Q"],
+["CERCAR", "SP"],
+["pircana", "Q"],
+["quinllana", "Q"],
+["quinzhana", "Q"],
+["tafiana", "Q"],
+["quimirina", "Q"],
+["sircana", "Q"],
+["quinlla rurana", "Q"],
+["quichquiyana", "Q"],
+["sanjana", "Q"],
+["sancana", "Q"],
+["pata tacana", "Q"],
+["pata muyuchina", "Q"],
+["CERCO", "SP"],
+["quinlla", "Q"],
+["talanquira", "Q"],
+["pirca", "Q"],
+["sanja", "Q"],
+["curral", "Q"],
+["sanjashca", "Q"],
+["sanca", "Q"],
+["quinzha", "Q"],
+["pata", "Q"],
+["pata muyushca", "Q"],
+["CEREBRO", "SP"],
+["uma ñutcu", "Q"],
+["ñujtu", "Q"],
+["ñutcu", "Q"],
+["ñutuju", "Q"],
+["uma ñutuju", "Q"],
+["ñujtuhua", "Q"],
+["mundungu ñutcu", "Q"],
+["sisuhua", "Q"],
+["CERNER", "SP"],
+["shushuna", "Q"],
+["CERRAR", "SP"],
+["huichcana", "Q"],
+["huishcana", "Q"],
+["huichicana", "Q"],
+["vichcana", "Q"],
+["ichcana", "Q"],
+["CERRO", "SP"],
+["urcu", "Q"],
+["luma", "Q"],
+["CIEGO", "SP"],
+["tuirtu", "Q"],
+["ñausa", "Q"],
+["sigu", "Q"],
+["turtu", "Q"],
+["mana riqui pudij", "Q"],
+["mana ricuj", "Q"],
+["churgu", "Q"],
+["siñihui", "Q"],
+["CIELO", "SP"],
+["jahua pacha", "Q"],
+["silu", "Q"],
+["jahua silu", "Q"],
+["janaj pacha", "Q"],
+["CIEN", "SP"],
+["patsaj", "Q"],
+["pasaj", "Q"],
+["CIENTO", "SP"],
+["patsaj", "Q"],
+["pasaj", "Q"],
+["CINCO", "SP"],
+["pichca", "Q"],
+["pishca", "Q"],
+["picha", "Q"],
+["CINTURON", "SP"],
+["chumbi", "Q"],
+["curria", "Q"],
+["huatana", "Q"],
+["badana", "Q"],
+["sintru", "Q"],
+["siñidur", "Q"],
+["sinitura", "Q"],
+["cara chumbi", "Q"],
+["CIRCULO", "SP"],
+["muyundij", "Q"],
+["bumba", "Q"],
+["muyundi", "Q"],
+["muyu", "Q"],
+["muyushca", "Q"],
+["muyuchishca", "Q"],
+["muyui", "Q"],
+["ridundu", "Q"],
+["GLARO", "SP"],
+["chuya", "Q"],
+["achiglla", "Q"],
+["laru", "Q"],
+["p'unllalla", "Q"],
+["punllalla", "Q"],
+["puncha", "Q"],
+["punzha", "Q"],
+["trigli", "Q"],
+["chirlilla", "Q"],
+["limpiu", "Q"],
+["CLASE", "SP"],
+["laya", "Q"],
+["yala", "Q"],
+["CLAVAR", "SP"],
+["clabana", "Q"],
+["clabuda tacana", "Q"],
+["tacana", "Q"],
+["satina", "Q"],
+["tabudu satina", "Q"],
+["labuda satina", "Q"],
+["ishtacana", "Q"],
+["COAGULO", "SP"],
+["cuajarishca", "Q"],
+["tugru", "Q"],
+["jinchiyashca", "Q"],
+["curta", "Q"],
+["curpa", "Q"],
+["curpuyashca", "Q"],
+["matashca", "Q"],
+["carachishca", "Q"],
+["birdiyashca", "Q"],
+["COBIJA", "SP"],
+["c'ata", "Q"],
+["c'atana", "Q"],
+["jatana", "Q"],
+["mantana", "Q"],
+["COBIJAR", "SP"],
+["c'atana", "Q"],
+["c'atallina", "Q"],
+["c'atarina", "Q"],
+["jatana", "Q"],
+["jatachina", "Q"],
+["jatarina", "Q"],
+["p'achachina", "Q"],
+["COCINA", "SP"],
+["yanuna ucu", "Q"],
+["cuzina ucu", "Q"],
+["yanunaucu", "Q"],
+["ucu yanuna", "Q"],
+["nina ucu", "Q"],
+["COCINAR", "SP"],
+["yanuna", "Q"],
+["rupachina", "Q"],
+["CODO", "SP"],
+["maqui cudu", "Q"],
+["maqui mucu", "Q"],
+["maqui talun", "Q"],
+["rigra mucu", "Q"],
+["uyun", "Q"],
+["rigra talun", "Q"],
+["rigra cudu", "Q"],
+["maqui mudu", "Q"],
+["COGER", "SP"],
+["japina", "Q"],
+["COGOLLO", "SP"],
+["ñahui", "Q"],
+["ñihui", "Q"],
+["planta butiyashca", "Q"],
+["llullu", "Q"],
+["llullu qu'ihua", "Q"],
+["nasirijuj", "Q"],
+["huacu", "Q"],
+["COJEAR", "SP"],
+["suchuyana", "Q"],
+["jangana", "Q"],
+["suchuna", "Q"],
+["suchu purina", "Q"],
+["janga purina", "Q"],
+["chulla changa purina", "Q"],
+["ringu ringulla purina", "Q"],
+["ringuyana", "Q"],
+["jancana", "Q"],
+["patujiana", "Q"],
+["COJO", "SP"],
+["suchu", "Q"],
+["patuju", "Q"],
+["ringu", "Q"],
+["cuju", "Q"],
+["cujitu", "Q"],
+["janga", "Q"],
+["janca", "Q"],
+["janga patuj", "Q"],
+["COL", "SP"],
+["culus", "Q"],
+["COLA", "SP"],
+["chupa", "Q"],
+["rabu", "Q"],
+["cula", "Q"],
+["COLADA", "SP"],
+["api", "Q"],
+["mazamurra", "Q"],
+["sangu", "Q"],
+["COLERA", "SP"],
+["p'iñarina", "Q"],
+["culira", "Q"],
+["rabia", "Q"],
+["rabi", "Q"],
+["rabiarishca", "Q"],
+["fiñai", "Q"],
+["aburri", "Q"],
+["COLORADO", "SP"],
+["puca", "Q"],
+["COLLAR", "SP"],
+["huallca", "Q"],
+["huashca", "Q"],
+["hualca", "Q"],
+["huachca", "Q"],
+["cunga huashca", "Q"],
+["COMADPE", "SP"],
+["cumadri", "Q"],
+["cumari", "Q"],
+["achi mama", "Q"],
+["COMENZAR", "SP"],
+["callarina", "Q"],
+["COMER", "SP"],
+["micuna", "Q"],
+["COMEZON", "SP"],
+["shijshi", "Q"],
+["shijshin", "Q"],
+["cuminus", "Q"],
+["COMIDA", "SP"],
+["micuna", "Q"],
+["COMJDA PARA LLEVAR A LA CASA", "SP"],
+["huanlla", "Q"],
+["huanllana", "Q"],
+["huanllina", "Q"],
+["COMO", "SP"],
+["ima shina", "Q"],
+["imana", "Q"],
+["ima laya", "Q"],
+["imashna", "Q"],
+["imalya", "Q"],
+["COMPADRE", "SP"],
+["cumpadri", "Q"],
+["cumpari", "Q"],
+["cumbari", "Q"],
+["achi taita", "Q"],
+["COMPLETAMENTE", "SP"],
+["tucuilla", "Q"],
+["illijta", "Q"],
+["libri", "Q"],
+["cabalta", "Q"],
+["dil tudu", "Q"],
+["linshu", "Q"],
+["illajta", "Q"],
+["illaita", "Q"],
+["illita", "Q"],
+["ishta", "Q"],
+["ali pacha", "Q"],
+["limpiu", "Q"],
+["tucui alli", "Q"],
+["juin alli", "Q"],
+["pajta", "Q"],
+["COMPLETAR", "SP"],
+["tucuchina", "Q"],
+["pajtachina", "Q"],
+["p'ajtachina", "Q"],
+["ajushtana", "Q"],
+["ajustana", "Q"],
+["tandachina", "Q"],
+["COMPONER", "SP"],
+["allichina", "Q"],
+["parijana", "Q"],
+["cumpunina", "Q"],
+["cumbunina", "Q"],
+["alichina", "Q"],
+["alliyachina", "Q"],
+["COMPRAR", "SP"],
+["randina", "Q"],
+["CONCLUIR", "SP"],
+["tucuchina", "Q"],
+["puchucana", "Q"],
+["rana", "Q"],
+["rurana", "Q"],
+["CONDOR", "SP"],
+["cundur", "Q"],
+["CONEJILLO DE INDIAS", "SP"],
+["cuyi", "Q"],
+["cui", "Q"],
+["curbiñu", "Q"],
+["CONEJO", "SP"],
+["cunu", "Q"],
+["cuniju", "Q"],
+["CONOCER", "SP"],
+["rijsina", "Q"],
+["CONSTRUIR", "SP"],
+["huasichina", "Q"],
+["rurana", "Q"],
+["shayachina", "Q"],
+["ruhuana", "Q"],
+["urana", "Q"],
+["callarina", "Q"],
+["rana", "Q"],
+["trabajana", "Q"],
+["CONTAR", "SP"],
+["yunana", "Q"],
+["cuintana", "Q"],
+["parlana", "Q"],
+["cuintana", "Q"],
+["rimana", "Q"],
+["CONTENTO", "SP"],
+["cushi", "Q"],
+["cuntintu", "Q"],
+["cushilla", "Q"],
+["alli", "Q"],
+["aliri", "Q"],
+["jushca", "Q"],
+["CONTINUAR", "SP"],
+["catina", "Q"],
+["callarina", "Q"],
+["c'atina", "Q"],
+["CONVENCER", "SP"],
+["mishana", "Q"],
+["binsina", "Q"],
+["cumbinsina", "Q"],
+["atina", "Q"],
+["crichina", "Q"],
+["mandana", "Q"],
+["yallina", "Q"],
+["umana", "Q"],
+["yalli parlana", "Q"],
+["CONVERSAR", "SP"],
+["parlanacuna", "Q"],
+["parlana", "Q"],
+["parlanucuna", "Q"],
+["parlanajuna", "Q"],
+["CONVERTIRSE", "SP"],
+["tucuna", "Q"],
+["trucana", "Q"],
+["cambiyana", "Q"],
+["builtarina", "Q"],
+["COPO", "SP"],
+["huangu", "Q"],
+["millma huangu", "Q"],
+["puchcana huangu", "Q"],
+["puchcana maitu", "Q"],
+["ulca", "Q"],
+["CORAZON", "SP"],
+["shungu", "Q"],
+["curasun", "Q"],
+["CORDERO", "SP"],
+["batiuj", "Q"],
+["ubija", "Q"],
+["huahua llama", "Q"],
+["llama", "Q"],
+["hatiu", "Q"],
+["huahua uhijita", "Q"],
+["uchuil ufia", "Q"],
+["llullu llama", "Q"],
+["CORTAR", "SP"],
+["cuchuna", "Q"],
+["p'itina", "Q"],
+["fichina", "Q"],
+["CORTAR HIERBA", "SP"],
+["qu'ihuata cuchuna", "Q"],
+["qu'ihuana", "Q"],
+["jihuana", "Q"],
+["qu'ihuada cuchuna", "Q"],
+["qu'ihuata c'uchuna", "Q"],
+["jihuata cuchuna", "Q"],
+["jihuada cuchuna", "Q"],
+["qu'ihuata p'itina", "Q"],
+["CORTAR PELO", "SP"],
+["rutuna", "Q"],
+["rutuchina", "Q"],
+["muchuna", "Q"],
+["n'itina", "Q"],
+["nituna", "Q"],
+["cuchuna", "Q"],
+["CORTEZA", "SP"],
+["yura cara", "Q"],
+["cara", "Q"],
+["caspi cara", "Q"],
+["quiru cara", "Q"],
+["yura shimi", "Q"],
+["CORTO", "SP"],
+["uchila", "Q"],
+["utilla", "Q"],
+["uchilla", "Q"],
+["uchula", "Q"],
+["uchuj", "Q"],
+["umuta", "Q"],
+["putu", "Q"],
+["c'utu", "Q"],
+["cutu", "Q"],
+["jurula", "Q"],
+["chilla", "Q"],
+["CORRAL", "SP"],
+["cúrral", "Q"],
+["quinlla", "Q"],
+["cúrrul", "Q"],
+["huichcana", "Q"],
+["CORREDOR", "SP"],
+["currídur", "Q"],
+["currídur pungu", "Q"],
+["pungu", "Q"],
+["pugra", "Q"],
+["curdur", "Q"],
+["huasi ñaupaj", "Q"],
+["canlla pungu", "Q"],
+["CORRER", "SP"],
+["callpana", "Q"],
+["bulana", "Q"],
+["currina", "Q"],
+["calpana", "Q"],
+["curriyana", "Q"],
+["saltana", "Q"],
+["utca purina", "Q"],
+["COSECHAR", "SP"],
+["cuzichana", "Q"],
+["cuchuna", "Q"],
+["cuzuchana", "Q"],
+["pallana", "Q"],
+["tandachina", "Q"],
+["chagrana", "Q"],
+["chagllana", "Q"],
+["COSER", "SP"],
+["sirana", "Q"],
+["COSQUILLEAR", "SP"],
+["shijshichina", "Q"],
+["cusquichina", "Q"],
+["pishpichina", "Q"],
+["COSTILLA", "SP"],
+["custilla", "Q"],
+["cushtilla", "Q"],
+["cushtillas", "Q"],
+["cushtilis", "Q"],
+["custijis", "Q"],
+["curtilis", "Q"],
+["cushtis", "Q"],
+["custis", "Q"],
+["cushtiris tullu", "Q"],
+["cartilis quinri", "Q"],
+["COSTUMBRE", "SP"],
+["cushtumbri", "Q"],
+["custumbri", "Q"],
+["yachashca", "Q"],
+["yacharishca", "Q"],
+["yachai", "Q"],
+["COYUNTURA", "SP"],
+["mucu", "Q"],
+["juntashca", "Q"],
+["CRECER", "SP"],
+["huiñana", "Q"],
+["jatunyana", "Q"],
+["viñana", "Q"],
+["iñana", "Q"],
+["mirana", "Q"],
+["mirachina", "Q"],
+["CREER", "SP"],
+["crina", "Q"],
+["criyina", "Q"],
+["CRESPO", "SP"],
+["crispu", "Q"],
+["tipu", "Q"],
+["mirinu", "Q"],
+["zirbu", "Q"],
+["zhirbu", "Q"],
+["zupi", "Q"],
+["zipu", "Q"],
+["izupu", "Q"],
+["lluru", "Q"],
+["tsirapa", "Q"],
+["chirilu", "Q"],
+["chivilu", "Q"],
+["crispuma", "Q"],
+["churu uma", "Q"],
+["CRIAR", "SP"],
+["huiñachina", "Q"],
+["criana", "Q"],
+["viñachina", "Q"],
+["iñachina", "Q"],
+["CRIATURA", "SP"],
+["huahua", "Q"],
+["llullu huahua", "Q"],
+["utilla huahua", "Q"],
+["uchilla huahua", "Q"],
+["utilla huambra", "Q"],
+["llullu mara", "Q"],
+["CRIBAR", "SP"],
+["shushuna", "Q"],
+["sidasuna", "Q"],
+["ajichana", "Q"],
+["maillana", "Q"],
+["CRUCIFICAR", "SP"],
+["chacatana", "Q"],
+["CRUDO", "SP"],
+["chahua", "Q"],
+["jalun", "Q"],
+["c'alun", "Q"],
+["CRUZAR", "SP"],
+["chimbana", "Q"],
+["cruzana", "Q"],
+["pasana", "Q"],
+["pasuna", "Q"],
+["cruzarina", "Q"],
+["dirichina", "Q"],
+["CUADRAR", "SP"],
+["cuadrana", "Q"],
+["llagllana", "Q"],
+["cuadrarina", "Q"],
+["cuadriana", "Q"],
+["labrana", "Q"],
+["cuadrachina", "Q"],
+["cuadraduda rurana", "Q"],
+["chuscu isquinata rana", "Q"],
+["CUAL", "SP"],
+["maijan", "Q"],
+["maijin", "Q"],
+["maican", "Q"],
+["maijun", "Q"],
+["CUANDO", "SP"],
+["ima ura", "Q"],
+["ima uras", "Q"],
+["imauras", "Q"],
+["imaura", "Q"],
+["jaica", "Q"],
+["imura", "Q"],
+["imuras", "Q"],
+["ima urusta", "Q"],
+["ima ratu", "Q"],
+["ima caica", "Q"],
+["CUANTO", "SP"],
+["mashna", "Q"],
+["CUARTO", "SP"],
+["ucu", "Q"],
+["CUATRO", "SP"],
+["chuscu", "Q"],
+["CUCHARON", "SP"],
+["mama cuchara", "Q"],
+["mama juchara", "Q"],
+["visha", "Q"],
+["huishla", "Q"],
+["cuchárun", "Q"],
+["cucharún", "Q"],
+["CUELLO", "SP"],
+["cunga", "Q"],
+["CUERDA", "SP"],
+["huasca", "Q"],
+["cuirda", "Q"],
+["cauchu", "Q"],
+["angu", "Q"],
+["alambri", "Q"],
+["pajpa cuirda", "Q"],
+["largu cauchu", "Q"],
+["angu huasca", "Q"],
+["CUERO", "SP"],
+["cara", "Q"],
+["CUERNO", "SP"],
+["gachu", "Q"],
+["cachu", "Q"],
+["c'achu", "Q"],
+["CUESTA", "SP"],
+["huichi", "Q"],
+["huichai", "Q"],
+["vichai", "Q"],
+["ichi", "Q"],
+["ladira", "Q"],
+["luma", "Q"],
+["CUEVA", "SP"],
+["utcu", "Q"],
+["jutcu", "Q"],
+["machai", "Q"],
+["ujtu", "Q"],
+["huaicu ujtu", "Q"],
+["sucabún", "Q"],
+["utuju", "Q"],
+["jujtu", "Q"],
+["matsi", "Q"],
+["matsai", "Q"],
+["c'ac'a utcu", "Q"],
+["huaicu chuchu", "Q"],
+["CUIDADO", "SP"],
+["pajta", "Q"],
+["p'ajta", "Q"],
+["cuidadu", "Q"],
+["cuidai", "Q"],
+["CUIDAR", "SP"],
+["cuidana", "Q"],
+["ricuna", "Q"],
+["ricurana", "Q"],
+["chapana", "Q"],
+["ricush cuidana", "Q"],
+["CULPA", "SP"],
+["jucha", "Q"],
+["culpa", "Q"],
+["juchachi", "Q"],
+["causa", "Q"],
+["cauza", "Q"],
+["CULPAR", "SP"],
+["juchachina", "Q"],
+["culpana", "Q"],
+["achacana", "Q"],
+["cargunchina", "Q"],
+["CUMBRE", "SP"],
+["jahua punta", "Q"],
+["urcu punta", "Q"],
+["urcu uma", "Q"],
+["urcu luma", "Q"],
+["jahua luma", "Q"],
+["urcu punda", "Q"],
+["luma punda", "Q"],
+["CUMPLIR", "SP"],
+["pajtachina", "Q"],
+["cumplina", "Q"],
+["p'ajtana", "Q"],
+["pagtachina", "Q"],
+["ubidisina", "Q"],
+["CUÑADA", "SP"],
+["c'achun", "Q"],
+["cuñada", "Q"],
+["jachun", "Q"],
+["cachun", "Q"],
+["masha", "Q"],
+["pani masha", "Q"],
+["ñaña masha", "Q"],
+["CUÑADO", "SP"],
+["masha", "Q"],
+["cuñado", "Q"],
+["CURANDERO", "SP"],
+["jambidur", "Q"],
+["jambij", "Q"],
+["jampij", "Q"],
+["yachij", "Q"],
+["miticuj", "Q"],
+["jambij yumbu", "Q"],
+["CHARCO", "SP"],
+["tamia yacu", "Q"],
+["cucha", "Q"],
+["cuchayashca", "Q"],
+["charcu", "Q"],
+["tamia cucha", "Q"],
+["yacu cucha", "Q"],
+["tamia laguna", "Q"],
+["utilla cuchahua", "Q"],
+["yacu puza", "Q"],
+["CHARQUI", "SP"],
+["irqui", "Q"],
+["tsarqui", "Q"],
+["chaquishca aicha", "Q"],
+["charqui", "Q"],
+["CHATO", "SP"],
+["ñatu singa", "Q"],
+["ñatu", "Q"],
+["llapa singa", "Q"],
+["llapi singa", "Q"],
+["singa tablayashca", "Q"],
+["p'ataj singa", "Q"],
+["ñapi singa", "Q"],
+["llapirishca", "Q"],
+["singa", "Q"],
+["CHICO", "SP"],
+["uchila", "Q"],
+["utilla", "Q"],
+["uchilla", "Q"],
+["uticu", "Q"],
+["uchuj", "Q"],
+["uchiquilla", "Q"],
+["ucha", "Q"],
+["uchulla", "Q"],
+["chuzu", "Q"],
+["utila", "Q"],
+["utijla", "Q"],
+["uchuilla", "Q"],
+["CHICHA", "SP"],
+["as-hua", "Q"],
+["asua", "Q"],
+["asuhua", "Q"],
+["CHICHERIA", "SP"],
+["asua huasi", "Q"],
+["ishtancu", "Q"],
+["asuhua huasi", "Q"],
+["ishtincu", "Q"],
+["istancu", "Q"],
+["asuaría", "Q"],
+["asuhua ucu", "Q"],
+["asuhua c'atu", "Q"],
+["asuhua c'atuj", "Q"],
+["asua c'atuna", "Q"],
+["asuhua jatuj huasi", "Q"],
+["asuhua c'atuj huasi", "Q"],
+["CHILLAR", "SP"],
+["caparina", "Q"],
+["aullana", "Q"],
+["huacana", "Q"],
+["bullayana", "Q"],
+["huillijana", "Q"],
+["huizaj nina", "Q"],
+["CHISTE", "SP"],
+["chanza", "Q"],
+["asichina", "Q"],
+["burla", "Q"],
+["burlana", "Q"],
+["bruma", "Q"],
+["pugllana", "Q"],
+["chisti", "Q"],
+["CHIVO", "SP"],
+["chita", "Q"],
+["chibu", "Q"],
+["cabru", "Q"],
+["CHOCHO", "SP"],
+["tauri", "Q"],
+["chuchu", "Q"],
+["muru", "Q"],
+["chocho", "Q"],
+["CHOCLO", "SP"],
+["chugllu", "Q"],
+["CHOZA", "SP"],
+["chuglla", "Q"],
+["ujsha huasi", "Q"],
+["sijsi huasi", "Q"],
+["chuglla huasi", "Q"],
+["puntsu huasi", "Q"],
+["carpa", "Q"],
+["CHUMARSE", "SP"],
+["machana", "Q"],
+["shingayana", "Q"],
+["macharina", "Q"],
+["CHUMARDO", "SP"],
+["machashca", "Q"],
+["macha", "Q"],
+["shinga", "Q"],
+["shingayishca", "Q"],
+["mashca", "Q"],
+["machaj", "Q"],
+["machishca", "Q"],
+["CHUPAR", "SP"],
+["chupana", "Q"],
+["tsupana", "Q"],
+["tsungana", "Q"],
+["DANZAR", "SP"],
+["danzana", "Q"],
+["bailana", "Q"],
+["tushuna", "Q"],
+["fahuana", "Q"],
+["yumbuna", "Q"],
+["DAÑAR", "SP"],
+["huagllina", "Q"],
+["dañana", "Q"],
+["huagllichina", "Q"],
+["huaglina", "Q"],
+["huagllirina", "Q"],
+["dañuna", "Q"],
+["DAR", "SP"],
+["cuna", "Q"],
+["DAR A LUZ", "SP"],
+["huachana", "Q"],
+["unguna", "Q"],
+["mirana", "Q"],
+["pacarina", "Q"],
+["sajhuarina", "Q"],
+["huacash unguna", "Q"],
+["DAR DE COMER", "SP"],
+["carana", "Q"],
+["micuchina", "Q"],
+["cuna", "Q"],
+["DAR VUELTAS", "SP"],
+["muyuna", "Q"],
+["DEBAJO DE", "SP"],
+["ucu", "Q"],
+["ura ucu", "Q"],
+["ura", "Q"],
+["DEBER", "SP"],
+["dihina", "Q"],
+["dibiyana", "Q"],
+["cuna cana", "Q"],
+["p'iana", "Q"],
+["DEBIL", "SP"],
+["irqui", "Q"],
+["t'ala", "Q"],
+["tullu", "Q"],
+["t'alayashca", "Q"],
+["p'luju", "Q"],
+["p'lujulla", "Q"],
+["zala", "Q"],
+["pishi", "Q"],
+["DECIR", "SP"],
+["nina", "Q"],
+["rimana", "Q"],
+["DEDO", "SP"],
+["didu", "Q"],
+["DEFECAR", "SP"],
+["ismana", "Q"],
+["cacana", "Q"],
+["ismashcana", "Q"],
+["ismascana", "Q"],
+["DEFENDER", "SP"],
+["mitsana", "Q"],
+["jarcana", "Q"],
+["difindina", "Q"],
+["misarina", "Q"],
+["ama nina", "Q"],
+["mitsarina", "Q"],
+["shayarina", "Q"],
+["na nisha jarcana", "Q"],
+["difindirina", "Q"],
+["quishpichina", "Q"],
+["DEJAR", "SP"],
+["saquina", "Q"],
+["quipirina", "Q"],
+["DELANTE DE", "SP"],
+["ñaupaj", "Q"],
+["yumpuj", "Q"],
+["ñaupu", "Q"],
+["ñaujpu", "Q"],
+["ñaubu", "Q"],
+["ñugpa", "Q"],
+["ñumpai", "Q"],
+["DELGADO", "SP"],
+["ñañu", "Q"],
+["tsala", "Q"],
+["huañu langui", "Q"],
+["ch'uzu", "Q"],
+["chuzu", "Q"],
+["jamzi", "Q"],
+["yañuy", "Q"],
+["raya raya", "Q"],
+["caspi", "Q"],
+["p'lacu", "Q"],
+["tullu", "Q"],
+["ñutu", "Q"],
+["DELICADO", "SP"],
+["ñañu", "Q"],
+["dilicadu", "Q"],
+["tullu", "Q"],
+["jahualla", "Q"],
+["p'aquij", "Q"],
+["p'aquiriglla", "Q"],
+["irqui", "Q"],
+["tuparinala", "Q"],
+["jamzi", "Q"],
+["huaglinalla", "Q"],
+["huagllinalla", "Q"],
+["huaglli shungu", "Q"],
+["uchu shungu", "Q"],
+["LOS DEMAS", "SP"],
+["caishujcuna", "Q"],
+["chaishujcuna", "Q"],
+["chaicuna", "Q"],
+["shujcuna", "Q"],
+["cutin shujcuna", "Q"],
+["chashujcuna", "Q"],
+["DEMASIADO", "SP"],
+["yalli", "Q"],
+["ashca", "Q"],
+["yapa", "Q"],
+["yallimana", "Q"],
+["rucu", "Q"],
+["yallijta", "Q"],
+["dimasiadu", "Q"],
+["dimus", "Q"],
+["achca", "Q"],
+["ashtan", "Q"],
+["digushtu", "Q"],
+["DEMONIO", "SP"],
+["supai", "Q"],
+["diablu", "Q"],
+["aya", "Q"],
+["cucu", "Q"],
+["milli", "Q"],
+["dimuñu", "Q"],
+["p'antazmu", "Q"],
+["judas", "Q"],
+["DEMORAR", "SP"],
+["uniyana", "Q"],
+["tardana", "Q"],
+["dimurana", "Q"],
+["shuyana", "Q"],
+["unayana", "Q"],
+["cainana", "Q"],
+["cainachina", "Q"],
+["saquirina", "Q"],
+["jipayana", "Q"],
+["parana", "Q"],
+["DENTRO DE", "SP"],
+["ucu", "Q"],
+["DERECHA", "SP"],
+["alli ladu", "Q"],
+["ali ladu", "Q"],
+["runa ladu", "Q"],
+["DERECHO", "SP"],
+["rijtu", "Q"],
+["dirichu", "Q"],
+["DERRAMAR", "SP"],
+["jichana", "Q"],
+["tallina", "Q"],
+["shutuchina", "Q"],
+["talina", "Q"],
+["t'allina", "Q"],
+["yaiyuna", "Q"],
+["llujshina", "Q"],
+["DERRETIR", "SP"],
+["yacuyachina", "Q"],
+["yacuyana", "Q"],
+["nuyurina", "Q"],
+["nuyuna", "Q"],
+["DERRUMBAR", "SP"],
+["t'uñina", "Q"],
+["t'uñirina", "Q"],
+["t'unina", "Q"],
+["t'unirina", "Q"],
+["tunina", "Q"],
+["tuñina", "Q"],
+["DERRUMBE", "SP"],
+["t'uni", "Q"],
+["t'uñirishca", "Q"],
+["t'uñi", "Q"],
+["tuni", "Q"],
+["tuñishca", "Q"],
+["t'unishca", "Q"],
+["tuñiri", "Q"],
+["tuñi", "Q"],
+["DESABRIDO", "SP"],
+["jamlla", "Q"],
+["chamuj", "Q"],
+["chamaj", "Q"],
+["chama", "Q"],
+["chanlla", "Q"],
+["aminda", "Q"],
+["mana allichishca", "Q"],
+["ganu", "Q"],
+["gamu", "Q"],
+["DESAPARECER", "SP"],
+["chingarina", "Q"],
+["chingana", "Q"],
+["mana ricurina", "Q"],
+["chingachina", "Q"],
+["miticuchina", "Q"],
+["DESATAR", "SP"],
+["pascana", "Q"],
+["cacharina", "Q"],
+["disasina", "Q"],
+["llujshichina", "Q"],
+["DESAYUNO", "SP"],
+["disayunu", "Q"],
+["shungunchi", "Q"],
+["shungui", "Q"],
+["shunguna", "Q"],
+["chinchi", "Q"],
+["chinlli", "Q"],
+["ayunana", "Q"],
+["tutamanta micuna", "Q"],
+["chinzhina", "Q"],
+["DESCALZO", "SP"],
+["lluchu chaqui", "Q"],
+["llatan chaqui", "Q"],
+["lataj chaqui", "Q"],
+["chusha chaqui", "Q"],
+["chaquilla", "Q"],
+["llatanlla", "Q"],
+["DESCANSAR", "SP"],
+["samana", "Q"],
+["samarina", "Q"],
+["discansana", "Q"],
+["DESCARGAR", "SP"],
+["uricuchina", "Q"],
+["urijuchina", "Q"],
+["huaiquiyachina", "Q"],
+["pascana", "Q"],
+["uraicuchina", "Q"],
+["uriyajuchina", "Q"],
+["urtana", "Q"],
+["uricachina", "Q"],
+["uriquina", "Q"],
+["quipita anlluchina", "Q"],
+["DESCENDER", "SP"],
+["uriyana", "Q"],
+["urijuna", "Q"],
+["uricuna", "Q"],
+["uriquina", "Q"],
+["uriyajuna", "Q"],
+["urichina", "Q"],
+["urtarimuna", "Q"],
+["suchuna", "Q"],
+["huaiquiyana", "Q"],
+["huaicuyana", "Q"],
+["siquiyana", "Q"],
+["shitarina", "Q"],
+["DESCUIDAR", "SP"],
+["cungarina", "Q"],
+["cungana", "Q"],
+["discuidana", "Q"],
+["sitana", "Q"],
+["saquina", "Q"],
+["saquirina", "Q"],
+["mana cuidarana", "Q"],
+["mana allillu cuidana", "Q"],
+["man alli cuidana", "Q"],
+["DESEAR", "SP"],
+["munana", "Q"],
+["DESEO", "SP"],
+["munai", "Q"],
+["muni", "Q"],
+["munana", "Q"],
+["ámur", "Q"],
+["antuju", "Q"],
+["DESGRANAR", "SP"],
+["ishcuna", "Q"],
+["huishcuna", "Q"],
+["DESGREÑADO", "SP"],
+["tsatsa uma", "Q"],
+["uma sapa", "Q"],
+["tsirapa", "Q"],
+["puluyashca", "Q"],
+["taza uma", "Q"],
+["ajcha cacharishca", "Q"],
+["sin ñajcha", "Q"],
+["marqui uma", "Q"],
+["ajcha jatarishca", "Q"],
+["uma shayarishca", "Q"],
+["uma carpayashca", "Q"],
+["cupa urna", "Q"],
+["shira urna", "Q"],
+["DESHERBAR", "SP"],
+["jallmana", "Q"],
+["allmana", "Q"],
+["jalmana", "Q"],
+["jihuana", "Q"],
+["quihuana", "Q"],
+["cultivana", "Q"],
+["jahuada anchuchina", "Q"],
+["jihuata llujshichina", "Q"],
+["DESHOJAR", "SP"],
+["tipina", "Q"],
+["malquina", "Q"],
+["raumana", "Q"],
+["tispina", "Q"],
+["surcana", "Q"],
+["DESIERTO", "SP"],
+["shitashca", "Q"],
+["sitashca", "Q"],
+["jichushca", "Q"],
+["jicushca", "Q"],
+["chulunlla", "Q"],
+["chulun", "Q"],
+["chunlla", "Q"],
+["shitishca", "Q"],
+["DESIGUAL", "SP"],
+["chulla", "Q"],
+["chullayashca", "Q"],
+["chullarishca", "Q"],
+["chulla chulla", "Q"],
+["chullayanacushca", "Q"],
+["dischulla", "Q"],
+["chuzu racu", "Q"],
+["na igul", "Q"],
+["mana igual", "Q"],
+["disigualarishca", "Q"],
+["shuj laya", "Q"],
+["DESLIZAR", "SP"],
+["lluchcana", "Q"],
+["llushcana", "Q"],
+["llushcarina", "Q"],
+["lluchcarina", "Q"],
+["lluchgarina", "Q"],
+["llambuyana", "Q"],
+["llushpina", "Q"],
+["chapurina", "Q"],
+["tilayachina", "Q"],
+["DESMAYARSE", "SP"],
+["dismayana", "Q"],
+["ataqui tucuna", "Q"],
+["ataqui cuna", "Q"],
+["shungu ansayana", "Q"],
+["ñahui ansayana", "Q"],
+["malrusta charina", "Q"],
+["dismayu japina", "Q"],
+["rntu huañuna", "Q"],
+["calagyana", "Q"],
+["p'atigarina", "Q"],
+["dismayachanina", "Q"],
+["DESMONTAR", "SP"],
+["uricuna", "Q"],
+["bultachina", "Q"],
+["truchana", "Q"],
+["tulana", "Q"],
+["urijuchina", "Q"],
+["urtarina", "Q"],
+["urtarina", "Q"],
+["uriquina", "Q"],
+["uriyana", "Q"],
+["uraicuna", "Q"],
+["huaiquiyana", "Q"],
+["dismuntuna", "Q"],
+["allana", "Q"],
+["shitarina", "Q"],
+["DESPACIO", "SP"],
+["allila", "Q"],
+["allilla", "Q"],
+["gushtulla", "Q"],
+["gustulla", "Q"],
+["allimanda", "Q"],
+["allimanta", "Q"],
+["alimanda", "Q"],
+["allimunta", "Q"],
+["alilla", "Q"],
+["lluca lluca", "Q"],
+["jahualla", "Q"],
+["DESNUDO", "SP"],
+["lluchu", "Q"],
+["llatan", "Q"],
+["lluchulla", "Q"],
+["llushti", "Q"],
+["llatanlla", "Q"],
+["aichalla", "Q"],
+["DESOLLAR", "SP"],
+["lluchuna", "Q"],
+["pilana", "Q"],
+["llushtina", "Q"],
+["ushtina", "Q"],
+["DESPEDAZAR", "SP"],
+["p'aquina", "Q"],
+["pidasuna", "Q"],
+["pidasuchina", "Q"],
+["liquina", "Q"],
+["p'itina", "Q"],
+["p'itinacuna", "Q"],
+["utuna", "Q"],
+["p'aqui p'aquida rurana", "Q"],
+["p'iti p'itida rurana", "Q"],
+["DESPEDIRSE", "SP"],
+["dispidina", "Q"],
+["bultangahu rina", "Q"],
+["cayagama nina", "Q"],
+["cayacama nina", "Q"],
+["ratucama nina", "Q"],
+["adius nina", "Q"],
+["dispidisha rina", "Q"],
+["cayacamana", "Q"],
+["DESPERTARSE", "SP"],
+["rijcharina", "Q"],
+["llijcharina", "Q"],
+["DESPIOJAR", "SP"],
+["usana", "Q"],
+["usa japina", "Q"],
+["usa pallana", "Q"],
+["usa mascana", "Q"],
+["usa catina", "Q"],
+["DESPLUMAR", "SP"],
+["pilana", "Q"],
+["lluchuna", "Q"],
+["pluma anchuchina", "Q"],
+["pilarina", "Q"],
+["DESPUES", "SP"],
+["qu'ipa", "Q"],
+["jipa", "Q"],
+["quipa", "Q"],
+["cati", "Q"],
+["chaijipa", "Q"],
+["qu'ipamun", "Q"],
+["ashallaun", "Q"],
+["DESTRUIR", "SP"],
+["tucuchina", "Q"],
+["huagllichina", "Q"],
+["dañana", "Q"],
+["pascana", "Q"],
+["p'aquina", "Q"],
+["huaglichina", "Q"],
+["p'aquisha tucuchina", "Q"],
+["DESUNIR", "SP"],
+["chicanyachina", "Q"],
+["partina", "Q"],
+["laduyachina", "Q"],
+["siparana", "Q"],
+["chaupina", "Q"],
+["siparachina", "Q"],
+["anchuchina", "Q"],
+["pascana", "Q"],
+["yaiyurina", "Q"],
+["raquirish rina", "Q"],
+["DETENER", "SP"],
+["charirina", "Q"],
+["jarcana", "Q"],
+["charijuna", "Q"],
+["charina", "Q"],
+["shayachina", "Q"],
+["cainachina", "Q"],
+["ama nina", "Q"],
+["jipayachina", "Q"],
+["jinchijuna", "Q"],
+["junchichina", "Q"],
+["quimichina", "Q"],
+["mana cacharina", "Q"],
+["DETRAS DE", "SP"],
+["huasha", "Q"],
+["jipa", "Q"],
+["huajtala", "Q"],
+["siqui", "Q"],
+["qu'ipa", "Q"],
+["huashai", "Q"],
+["DEUDA", "SP"],
+["dihi", "Q"],
+["p'iashca", "Q"],
+["DEVANAR", "SP"],
+["cururuna", "Q"],
+["madijana", "Q"],
+["tandachina", "Q"],
+["cururuta rana", "Q"],
+["pilluchina", "Q"],
+["canillana", "Q"],
+["DEVOLVER", "SP"],
+["cutichina", "Q"],
+["tigrachina", "Q"],
+["bultachina", "Q"],
+["buitachina", "Q"],
+["intrigana", "Q"],
+["bultiachina", "Q"],
+["DIA", "SP"],
+["punlla", "Q"],
+["p'unlla", "Q"],
+["punzha", "Q"],
+["puncha", "Q"],
+["DIA SIGUIENTE", "SP"],
+["cayandij", "Q"],
+["cayandi", "Q"],
+["caya punlla", "Q"],
+["catij p'unlla", "Q"],
+["sarun puncha", "Q"],
+["cayindi", "Q"],
+["cayundi", "Q"],
+["jayandi p'unlla", "Q"],
+["cayandij p'unlla", "Q"],
+["catirishca p'unlla", "Q"],
+["qu'ipa p'unlla", "Q"],
+["caya punzha", "Q"],
+["mincha punlla", "Q"],
+["chashna punzha", "Q"],
+["DIABLO", "SP"],
+["supai", "Q"],
+["cucu", "Q"],
+["diablu", "Q"],
+["dimuñu", "Q"],
+["milli", "Q"],
+["diya", "Q"],
+["aya", "Q"],
+["camitis", "Q"],
+["judas", "Q"],
+["ujuju", "Q"],
+["ajaja", "Q"],
+["DIARREA", "SP"],
+["quicha", "Q"],
+["quicha yalina", "Q"],
+["quichai", "Q"],
+["camaris", "Q"],
+["siguidillus", "Q"],
+["quichana", "Q"],
+["cursia", "Q"],
+["DIENTE", "SP"],
+["quiru", "Q"],
+["DIEZ", "SP"],
+["chunga", "Q"],
+["DIFERENTE", "SP"],
+["shujtaj", "Q"],
+["shuj laya", "Q"],
+["cutin shuj laya", "Q"],
+["shuj", "Q"],
+["shuj yala", "Q"],
+["shujtij", "Q"],
+["na igulchu", "Q"],
+["mana igual", "Q"],
+["chican chican", "Q"],
+["DIFICIL", "SP"],
+["trabaju", "Q"],
+["jinchi", "Q"],
+["sinchi", "Q"],
+["mana p'asil", "Q"],
+["shinlli", "Q"],
+["mana ushanalla", "Q"],
+["mana ushaipaj", "Q"],
+["mana pudinachu", "Q"],
+["chinchi", "Q"],
+["mana jahualla", "Q"],
+["dip'isil", "Q"],
+["DIFUNTO", "SP"],
+["huañushca", "Q"],
+["aya", "Q"],
+["huañuj", "Q"],
+["alma", "Q"],
+["juañuj alma", "Q"],
+["DIMINUTO", "SP"],
+["pichila", "Q"],
+["utillahua", "Q"],
+["antsala", "Q"],
+["uchiquillahua", "Q"],
+["utillahuahua", "Q"],
+["uticu", "Q"],
+["utillahualla", "Q"],
+["c'utu", "Q"],
+["utilla", "Q"],
+["uchilla", "Q"],
+["uchinlla", "Q"],
+["añinguhua", "Q"],
+["pichilla", "Q"],
+["chuzu", "Q"],
+["juin ñutu", "Q"],
+["uchillitu", "Q"],
+["uchuillitu", "Q"],
+["DINERO", "SP"],
+["cullqui", "Q"],
+["culqui", "Q"],
+["cushqui", "Q"],
+["cuchqui", "Q"],
+["cuzhqui", "Q"],
+["DISFRAZADO", "SP"],
+["mudarishca", "Q"],
+["llujshishca", "Q"],
+["disfrasarishca", "Q"],
+["lujshishca", "Q"],
+["disfrasadu", "Q"],
+["llujshichishca", "Q"],
+["mudushca", "Q"],
+["bistishca", "Q"],
+["huarmi tucushca", "Q"],
+["churarishca", "Q"],
+["llujshirishca", "Q"],
+["DISLOCAR", "SP"],
+["qu'ihuina", "Q"],
+["quihuina", "Q"],
+["cuyurina", "Q"],
+["qu'ihuirina", "Q"],
+["mucu p'aquirina", "Q"],
+["quivina", "Q"],
+["chugrina", "Q"],
+["mucu llujshina", "Q"],
+["lantusquirina", "Q"],
+["pasachina", "Q"],
+["DISOLVERSE", "SP"],
+["yacuyana", "Q"],
+["nuyuna", "Q"],
+["nuyurina", "Q"],
+["DISPARAR", "SP"],
+["tirana", "Q"],
+["tugyachina", "Q"],
+["tiru cacharina", "Q"],
+["apuntana", "Q"],
+["DISTANTE", "SP"],
+["caru", "Q"],
+["DISTINTO", "SP"],
+["shuj laya", "Q"],
+["chican laya", "Q"],
+["shican", "Q"],
+["chican", "Q"],
+["cutin shuj laya", "Q"],
+["shujtaj shujtaj", "Q"],
+["mana igual", "Q"],
+["distintu", "Q"],
+["DIVIDIR", "SP"],
+["partina", "Q"],
+["chaupina", "Q"],
+["chagpina", "Q"],
+["chahuapina", "Q"],
+["chugpina", "Q"],
+["DOBLARSE", "SP"],
+["patarina", "Q"],
+["dublana", "Q"],
+["dublarina", "Q"],
+["DOLER", "SP"],
+["nanana", "Q"],
+["nanachina", "Q"],
+["DOLOR", "SP"],
+["nanai", "Q"],
+["nani", "Q"],
+["DOMESTICAR", "SP"],
+["mansana", "Q"],
+["mansuyachina", "Q"],
+["mansayachina", "Q"],
+["yachachina", "Q"],
+["cushiyachina", "Q"],
+["mansuna", "Q"],
+["yacharichina", "Q"],
+["mansu tucuna", "Q"],
+["DONDE", "SP"],
+["mai", "Q"],
+["DORMILON", "SP"],
+["puñui siqui", "Q"],
+["puñi siqui", "Q"],
+["puñui abirishca", "Q"],
+["suiñui siqui", "Q"],
+["ipij", "Q"],
+["suñudur", "Q"],
+["durmui siqui", "Q"],
+["DORMIR", "SP"],
+["puñuna", "Q"],
+["durmina", "Q"],
+["suiñuna", "Q"],
+["DOS", "SP"],
+["ishqui", "Q"],
+["ishcai", "Q"],
+["iscai", "Q"],
+["DUEÑO", "SP"],
+["duiñu", "Q"],
+["prupiu", "Q"],
+["jatun amu", "Q"],
+["cuñu", "Q"],
+["DULCE", "SP"],
+["mishqui", "Q"],
+["DURO", "SP"],
+["sinchi", "Q"],
+["jinchi", "Q"],
+["shinlli", "Q"],
+["chinchi", "Q"],
+["rumishna", "Q"],
+["ECHAR", "SP"],
+["shitana", "Q"],
+["sitana", "Q"],
+["jicupana", "Q"],
+["sirichina", "Q"],
+["huarcana", "Q"],
+["carcuna", "Q"],
+["abiana", "Q"],
+["EDUCAR", "SP"],
+["yachachina", "Q"],
+["viñachina", "Q"],
+["huiñachina", "Q"],
+["cunsijana", "Q"],
+["iducana", "Q"],
+["EL", "SP"],
+["pai", "Q"],
+["ELEGANTE", "SP"],
+["huapu", "Q"],
+["sumaj", "Q"],
+["alli", "Q"],
+["juyailla", "Q"],
+["jariyashca", "Q"],
+["jari-jari", "Q"],
+["huapula", "Q"],
+["juhuila", "Q"],
+["alli mudashca", "Q"],
+["dipursi bistishca", "Q"],
+["huirac'ucha tucushca", "Q"],
+["alájahua", "Q"],
+["sumajhua", "Q"],
+["c'uilla", "Q"],
+["juin alaja", "Q"],
+["sumai mana", "Q"],
+["ELLA", "SP"],
+["pai", "Q"],
+["EMBARAZADA", "SP"],
+["chichu", "Q"],
+["huijsayuj", "Q"],
+["huijsayij", "Q"],
+["vijsayuj", "Q"],
+["huijsaun junda", "Q"],
+["huijsa junda", "Q"],
+["EMBORRACHARSE", "SP"],
+["machana", "Q"],
+["macharina", "Q"],
+["shingayana", "Q"],
+["shingana", "Q"],
+["EMBOTADO", "SP"],
+["chumu", "Q"],
+["llambi", "Q"],
+["putu", "Q"],
+["bruncu", "Q"],
+["llambulla", "Q"],
+["tullmu", "Q"],
+["p'ilu illij", "Q"],
+["tugmu", "Q"],
+["tyugmu", "Q"],
+["utu ulu", "Q"],
+["butarishca", "Q"],
+["mutulu", "Q"],
+["giluyashca", "Q"],
+["EMBUDO", "SP"],
+["imbudu", "Q"],
+["jilpuna", "Q"],
+["tutu", "Q"],
+["imbudira", "Q"],
+["EMPEÑAR", "SP"],
+["prindana", "Q"],
+["impiñana", "Q"],
+["prinda saquina", "Q"],
+["prinda churana", "Q"],
+["prinda saquirina", "Q"],
+["afanana", "Q"],
+["EMPEZAR", "SP"],
+["callarina", "Q"],
+["EMPOBRECER", "SP"],
+["huajchayana", "Q"],
+["pubriyana", "Q"],
+["illaj tucuna", "Q"],
+["pugriyana", "Q"],
+["huajchami tucuna", "Q"],
+["pubri puru tucuna", "Q"],
+["prubriyana", "Q"],
+["huajcharina", "Q"],
+["EMPREÑAR", "SP"],
+["chichuchina", "Q"],
+["chichuna", "Q"],
+["saruna", "Q"],
+["saruchina", "Q"],
+["pasachina", "Q"],
+["chichuyachina", "Q"],
+["EMPUJAR", "SP"],
+["t'angana", "Q"],
+["tangana", "Q"],
+["ENANO", "SP"],
+["umutu", "Q"],
+["uchila", "Q"],
+["uchilla", "Q"],
+["umuta gashta", "Q"],
+["tatucuhua", "Q"],
+["nipun", "Q"],
+["ucupacha jinti", "Q"],
+["c'utu", "Q"],
+["changu", "Q"],
+["qu'irij", "Q"],
+["supun", "Q"],
+["utilla", "Q"],
+["utunlla", "Q"],
+["utinlla", "Q"],
+["uchuillitu", "Q"],
+["ENCARGAR", "SP"],
+["mingana", "Q"],
+["mingaichina", "Q"],
+["pusachina", "Q"],
+["pudachina", "Q"],
+["pudash saquina", "Q"],
+["ENCENDER", "SP"],
+["japichina", "Q"],
+["catichina", "Q"],
+["sindina", "Q"],
+["ENCIAS", "SP"],
+["quiru aicha", "Q"],
+["quiru siqui aicha", "Q"],
+["insías", "Q"],
+["quiru guinsiaguna", "Q"],
+["quiru huinguis", "Q"],
+["quiru juchu aicha", "Q"],
+["quiru chaqui aicha", "Q"],
+["maca macaguna", "Q"],
+["ENCIMA DE", "SP"],
+["jahua", "Q"],
+["ENCOGERSE", "SP"],
+["quindiyana", "Q"],
+["curparina", "Q"],
+["tandanacuna", "Q"],
+["utillayana", "Q"],
+["curpayarina", "Q"],
+["yaicurina", "Q"],
+["c'utuyana", "Q"],
+["huañurina", "Q"],
+["uchillachina", "Q"],
+["tandarina", "Q"],
+["curpayana", "Q"],
+["uchuillayana", "Q"],
+["ENCONTRAR", "SP"],
+["tarina", "Q"],
+["japina", "Q"],
+["ENCONTRARSE CON", "SP"],
+["tupana", "Q"],
+["tupanacuna", "Q"],
+["tuparina", "Q"],
+["ENDEREZAR", "SP"],
+["dirichana", "Q"],
+["dirichuna", "Q"],
+["rijtuyachina", "Q"],
+["allichina", "Q"],
+["rijtiyachina", "Q"],
+["alichina", "Q"],
+["shayachina", "Q"],
+["dirichina", "Q"],
+["ENEMIGO", "SP"],
+["cuntra", "Q"],
+["inimigu", "Q"],
+["cuntrariu", "Q"],
+["p'iña", "Q"],
+["ENFERMARSE", "SP"],
+["ungurina", "Q"],
+["unguna", "Q"],
+["ungui japina", "Q"],
+["ENFERMEDAD", "SP"],
+["ungüi", "Q"],
+["ungui", "Q"],
+["ENGAÑAR", "SP"],
+["umana", "Q"],
+["ingañana", "Q"],
+["huajtachina", "Q"],
+["upallichina", "Q"],
+["llullana", "Q"],
+["crichina", "Q"],
+["inquitana", "Q"],
+["ENJUAGAR", "SP"],
+["jahuana", "Q"],
+["tajshi tucuna", "Q"],
+["maillana", "Q"],
+["tajshana", "Q"],
+["yacu sitana", "Q"],
+["guajana", "Q"],
+["c'acuna", "Q"],
+["ENOJAR", "SP"],
+["p'iñachina", "Q"],
+["culirachina", "Q"],
+["p'iñarina", "Q"],
+["p'iñana", "Q"],
+["culirana", "Q"],
+["fiñana", "Q"],
+["fiñachina", "Q"],
+["p'iñanacuna", "Q"],
+["piñana", "Q"],
+["ajana", "Q"],
+["ENROLLAR", "SP"],
+["pilluna", "Q"],
+["pilluchina", "Q"],
+["muyuchina", "Q"],
+["cururuna", "Q"],
+["patarina", "Q"],
+["tandana", "Q"],
+["p'illuna", "Q"],
+["ENSARTAR", "SP"],
+["cusana", "Q"],
+["pallana", "Q"],
+["pasachina", "Q"],
+["jilbana", "Q"],
+["tandachina", "Q"],
+["insartana", "Q"],
+["jilpuna", "Q"],
+["mulluna", "Q"],
+["cunga huashca sartada rurana", "Q"],
+["ENSEÑAR", "SP"],
+["yachachina", "Q"],
+["ENSEÑARSE", "SP"],
+["amañarina", "Q"],
+["yacharina", "Q"],
+["yachacuna", "Q"],
+["ENTENADA", "SP"],
+["la ushushi", "Q"],
+["ila ushushi", "Q"],
+["ilaushushi", "Q"],
+["intinada", "Q"],
+["laushi", "Q"],
+["ila ushi", "Q"],
+["shupaj ushi", "Q"],
+["ENTENADO", "SP"],
+["la churi", "Q"],
+["ila churi", "Q"],
+["intinadu", "Q"],
+["shupaj churi", "Q"],
+["ENTENADO", "SP"],
+["la huahua", "Q"],
+["ila huahua", "Q"],
+["intinadu", "Q"],
+["ENTENDER", "SP"],
+["intindina", "Q"],
+["uyana", "Q"],
+["alli uyana", "Q"],
+["ENTERAMENTE", "SP"],
+["tucuita", "Q"],
+["tucuilla", "Q"],
+["libri", "Q"],
+["illijta", "Q"],
+["illajta", "Q"],
+["linshu", "Q"],
+["ishta", "Q"],
+["limpiu", "Q"],
+["illita", "Q"],
+["cábal", "Q"],
+["ENTERO", "SP"],
+["tucui", "Q"],
+["intiru", "Q"],
+["junda", "Q"],
+["cábal", "Q"],
+["cábul", "Q"],
+["tucuilla", "Q"],
+["shinallataj", "Q"],
+["tuqui", "Q"],
+["libri", "Q"],
+["dil tudu", "Q"],
+["tucuita yalli", "Q"],
+["ENTERRAR", "SP"],
+["pambana", "Q"],
+["intirana", "Q"],
+["pambachina", "Q"],
+["ENTONCES", "SP"],
+["chaimanta", "Q"],
+["chimunda", "Q"],
+["chaimanda", "Q"],
+["ña", "Q"],
+["chimundaga", "Q"],
+["shinchaca", "Q"],
+["chaipi", "Q"],
+["intunsis", "Q"],
+["qu'ipa", "Q"],
+["shinai", "Q"],
+["ENTRAR", "SP"],
+["yaicuna", "Q"],
+["huaicuna", "Q"],
+["huaiguna", "Q"],
+["ENTREGAR", "SP"],
+["cuna", "Q"],
+["intrigana", "Q"],
+["tigrachina", "Q"],
+["intriguna", "Q"],
+["cutichina", "Q"],
+["chasquichina", "Q"],
+["ENVIAR", "SP"],
+["cachana", "Q"],
+["ENVOLVER", "SP"],
+["pilluna", "Q"],
+["pilluchina", "Q"],
+["quipina", "Q"],
+["muyuchina", "Q"],
+["patarina", "Q"],
+["dublana", "Q"],
+["mantana", "Q"],
+["builtachina", "Q"],
+["ENVOLVER A UN BEBE", "SP"],
+["maituna", "Q"],
+["envolver un bebe", "Q"],
+["EQUIVALER", "SP"],
+["pajtana", "Q"],
+["igualana", "Q"],
+["igulana", "Q"],
+["igualtana", "Q"],
+["pajtachina", "Q"],
+["igulmi balina", "Q"],
+["igualladi balina", "Q"],
+["igulladi balina", "Q"],
+["igulta balina", "Q"],
+["balina", "Q"],
+["iguallata balina", "Q"],
+["balirina", "Q"],
+["EQUIVOCARSE", "SP"],
+["pandarina", "Q"],
+["pandana", "Q"],
+["pantarina", "Q"],
+["pantana", "Q"],
+["turbarina", "Q"],
+["cungana", "Q"],
+["cungarina", "Q"],
+["ERUCTAR", "SP"],
+["agyana", "Q"],
+["agnina", "Q"],
+["ajitana", "Q"],
+["lanzanachina", "Q"],
+["rigultana", "Q"],
+["huiñarijuna", "Q"],
+["bugyana", "Q"],
+["iructana", "Q"],
+["jairichina", "Q"],
+["bugllina", "Q"],
+["sami lujshina", "Q"],
+["shungu bultana", "Q"],
+["ESA", "SP"],
+["chai", "Q"],
+["chi", "Q"],
+["ESE", "SP"],
+["chai", "Q"],
+["chi", "Q"],
+["ESO", "SP"],
+["chai", "Q"],
+["chi", "Q"],
+["ESCAMPAR", "SP"],
+["pascarina", "Q"],
+["usiana", "Q"],
+["p'unlla pascarina", "Q"],
+["silu claruyana", "Q"],
+["p'uyu tucurina", "Q"],
+["silu p'unllalla tucuna", "Q"],
+["p'itirina", "Q"],
+["pascacuna", "Q"],
+["usiarina", "Q"],
+["ESCASO", "SP"],
+["pichilla", "Q"],
+["ashalla", "Q"],
+["illajlla", "Q"],
+["p'itilla", "Q"],
+["ashalla saquirishca", "Q"],
+["iscasu", "Q"],
+["pishilla", "Q"],
+["p'iticuhualla", "Q"],
+["pichila", "Q"],
+["p'itihualla tucushca", "Q"],
+["p'iti p'itilla", "Q"],
+["casi illan", "Q"],
+["ESCALERA", "SP"],
+["iscalira", "Q"],
+["chacana", "Q"],
+["ESCAPAR", "SP"],
+["miticuna", "Q"],
+["mitijuna", "Q"],
+["pacacuna", "Q"],
+["safarina", "Q"],
+["quishpirina", "Q"],
+["iscapana", "Q"],
+["pacajuna", "Q"],
+["binsi tucuna", "Q"],
+["ESCOBA", "SP"],
+["p'ichana", "Q"],
+["fichana", "Q"],
+["ESCOJER", "SP"],
+["agllana", "Q"],
+["japina", "Q"],
+["ESCONDER", "SP"],
+["pacana", "Q"],
+["miticuna", "Q"],
+["miticuchina", "Q"],
+["mitina", "Q"],
+["pacacuchina", "Q"],
+["pacayachina", "Q"],
+["ESCRIBIR", "SP"],
+["quillcana", "Q"],
+["iscribina", "Q"],
+["isquirbina", "Q"],
+["quilcana", "Q"],
+["apundana", "Q"],
+["ESCUCHAR", "SP"],
+["uyana", "Q"],
+["uyarana", "Q"],
+["riparana", "Q"],
+["ESCUPIR", "SP"],
+["ty'ucana", "Q"],
+["t'ucana", "Q"],
+["tucana", "Q"],
+["chucana", "Q"],
+["ESPALDA", "SP"],
+["huasha", "Q"],
+["lumu", "Q"],
+["huasha tullu", "Q"],
+["palitilla", "Q"],
+["huasha cunga tullu", "Q"],
+["ESPALDILLA", "SP"],
+["huasha tullu", "Q"],
+["palita", "Q"],
+["ispada", "Q"],
+["huasha", "Q"],
+["huasha cudu", "Q"],
+["huasha rigra", "Q"],
+["mishqui tullu", "Q"],
+["pala tullu", "Q"],
+["rigra pala tullu", "Q"],
+["rigra", "Q"],
+["ESPANTAR", "SP"],
+["manchachina", "Q"],
+["manllarina", "Q"],
+["ESPERAR", "SP"],
+["shuyana", "Q"],
+["ESPESO", "SP"],
+["sangu", "Q"],
+["japu", "Q"],
+["ESPIAR", "SP"],
+["chapana", "Q"],
+["uyana", "Q"],
+["chaparana", "Q"],
+["unanchana", "Q"],
+["ESPIGAR", "SP"],
+["challana", "Q"],
+["challina", "Q"],
+["chalana", "Q"],
+["pallajuna", "Q"],
+["chujchina", "Q"],
+["ispigana", "Q"],
+["ispijana", "Q"],
+["ispiga tucumuna", "Q"],
+["sigana", "Q"],
+["ESPINA", "SP"],
+["casha", "Q"],
+["ESPINAZO", "SP"],
+["lumu tullu", "Q"],
+["casha tullu", "Q"],
+["huasha tullu", "Q"],
+["ispinazu tullu", "Q"],
+["casha puru", "Q"],
+["huasha pilis tullu", "Q"],
+["chaupi lumu tullu", "Q"],
+["ESPOSA", "SP"],
+["huarmi", "Q"],
+["ESPOSO", "SP"],
+["cusa", "Q"],
+["ESPUMA", "SP"],
+["puscu", "Q"],
+["ispuma", "Q"],
+["putsuju", "Q"],
+["ESQUILAR", "SP"],
+["rutuna", "Q"],
+["p'itina", "Q"],
+["ESTA", "SP"],
+["cai", "Q"],
+["qui", "Q"],
+["ESTE", "SP"],
+["cai", "Q"],
+["qui", "Q"],
+["ESTO", "SP"],
+["cai", "Q"],
+["qui", "Q"],
+["ESTAR", "SP"],
+["tiyana", "Q"],
+["cana", "Q"],
+["gana", "Q"],
+["chutana", "Q"],
+["aisana", "Q"],
+["timplana", "Q"],
+["timblana", "Q"],
+["iñachina", "Q"],
+["huiñachina", "Q"],
+["mirachina", "Q"],
+["tindina", "Q"],
+["ESTOMAGO", "SP"],
+["huijsa", "Q"],
+["puzun", "Q"],
+["shungu", "Q"],
+["ijsa", "Q"],
+["mama puzun", "Q"],
+["ESTORNUDAR", "SP"],
+["achu nina", "Q"],
+["jachu nina", "Q"],
+["jachaj nina", "Q"],
+["jatsi nina", "Q"],
+["jatsai nina", "Q"],
+["ajtyu nina", "Q"],
+["atsiana", "Q"],
+["jatsiana", "Q"],
+["achujsiana", "Q"],
+["ESTRECHO", "SP"],
+["quichqui", "Q"],
+["quishqui", "Q"],
+["quichiji", "Q"],
+["ESTRELLA", "SP"],
+["luziru", "Q"],
+["istrilla", "Q"],
+["ruziru", "Q"],
+["p'ajna p'ajna", "Q"],
+["ESTUDIAR", "SP"],
+["yachana", "Q"],
+["yachacuna", "Q"],
+["istudiana", "Q"],
+["istudina", "Q"],
+["yachajuna", "Q"],
+["ESTUFA", "SP"],
+["tullpa", "Q"],
+["tulpa", "Q"],
+["chumin", "Q"],
+["EUCALIPTO", "SP"],
+["ucalitu", "Q"],
+["ujalitu", "Q"],
+["yucalitu", "Q"],
+["yucalu", "Q"],
+["nucaltu", "Q"],
+["huajalitu", "Q"],
+["EXCEDER", "SP"],
+["yallina", "Q"],
+["binsina", "Q"],
+["atina", "Q"],
+["pasana", "Q"],
+["yalina", "Q"],
+["yalli gana", "Q"],
+["ashca pasana", "Q"],
+["pirdish gastana", "Q"],
+["jatun yupana", "Q"],
+["EXCREMENTO", "SP"],
+["isma", "Q"],
+["caca", "Q"],
+["huanu", "Q"],
+["majada", "Q"],
+["zili", "Q"],
+["quicha", "Q"],
+["EXISTIR", "SP"],
+["tiyana", "Q"],
+["causana", "Q"],
+["cana", "Q"],
+["gana", "Q"],
+["EXPLOTAR", "SP"],
+["umachina", "Q"],
+["c'acuna", "Q"],
+["shuhuana", "Q"],
+["quichuna", "Q"],
+["jacuna", "Q"],
+["llapina", "Q"],
+["jilluna", "Q"],
+["EXPRIMIR", "SP"],
+["capina", "Q"],
+["EXTENDER", "SP"],
+["chutana", "Q"],
+["aisana", "Q"],
+["suniyachina", "Q"],
+["mirachina", "Q"],
+["iñachina", "Q"],
+["EXTRAÑO", "SP"],
+["mana rijsishca", "Q"],
+["p'urastiru", "Q"],
+["shican", "Q"],
+["juira", "Q"],
+["p'uira", "Q"],
+["ajinu", "Q"],
+["piyiru", "Q"],
+["shuj caru runa", "Q"],
+["huichi llajta jinti", "Q"],
+["shuj ladumunda jinti", "Q"],
+["FACIL", "SP"],
+["jahuall", "Q"],
+["p'asil", "Q"],
+["ruranalla", "Q"],
+["juasil", "Q"],
+["p'angalla", "Q"],
+["facil", "Q"],
+["FAENA", "SP"],
+["p'aina", "Q"],
+["faina", "Q"],
+["FAJA", "SP"],
+["chumbi", "Q"],
+["sinidur", "Q"],
+["FAJARSE", "SP"],
+["chumbillina", "Q"],
+["huatana", "Q"],
+["anacuna", "Q"],
+["chumbilina", "Q"],
+["FALDA", "SP"],
+["anacu", "Q"],
+["pullira", "Q"],
+["salla", "Q"],
+["p'alda", "Q"],
+["bata", "Q"],
+["jiriquita", "Q"],
+["ucunchi", "Q"],
+["anagu", "Q"],
+["FALDA", "SP"],
+["miglla", "Q"],
+["cunguri", "Q"],
+["changa", "Q"],
+["p'alda", "Q"],
+["changa jahuapi", "Q"],
+["FALSO", "SP"],
+["llulla", "Q"],
+["jualsu", "Q"],
+["huagli", "Q"],
+["jahualla", "Q"],
+["dibil", "Q"],
+["mana sirtu", "Q"],
+["FALTAR", "SP"],
+["illana", "Q"],
+["p'altana", "Q"],
+["faltana", "Q"],
+["FAMILIA", "SP"],
+["p'amilia", "Q"],
+["aillu", "Q"],
+["FELIZ", "SP"],
+["cushi", "Q"],
+["cuntintu", "Q"],
+["allilla", "Q"],
+["amur", "Q"],
+["cushicui", "Q"],
+["sumaj alli", "Q"],
+["FEO", "SP"],
+["p'iru", "Q"],
+["jiru", "Q"],
+["millai", "Q"],
+["millanai", "Q"],
+["millani", "Q"],
+["malparisidu", "Q"],
+["milli", "Q"],
+["millanayai", "Q"],
+["FERMENTAR", "SP"],
+["p'ucuchina", "Q"],
+["p'ucuna", "Q"],
+["putsujuna", "Q"],
+["agruchina", "Q"],
+["agruyana", "Q"],
+["puscuna", "Q"],
+["timbuchina", "Q"],
+["pucuchina", "Q"],
+["FETIDO", "SP"],
+["ashnaj", "Q"],
+["ashna", "Q"],
+["mucusiadu", "Q"],
+["ashnarij", "Q"],
+["ashnuzu", "Q"],
+["ashnacuj", "Q"],
+["ashnai", "Q"],
+["FIAMBRE", "SP"],
+["cucayu", "Q"],
+["cucahui", "Q"],
+["cucavi", "Q"],
+["cucabi", "Q"],
+["cucayi", "Q"],
+["FIBRA DE CABUYA", "SP"],
+["supas", "Q"],
+["canatsi", "Q"],
+["tsaür milma", "Q"],
+["chahuar huangu", "Q"],
+["chahuar cauchu", "Q"],
+["tsaür ajcha", "Q"],
+["qu'ihuilla chahuar", "Q"],
+["qu'ihuilla puchca", "Q"],
+["yugzuj", "Q"],
+["cauchu", "Q"],
+["ilacha", "Q"],
+["puchca", "Q"],
+["chahuar jilu", "Q"],
+["jarsia", "Q"],
+["pajpa", "Q"],
+["FIEBRE", "SP"],
+["calintura", "Q"],
+["cálur", "Q"],
+["ruparishca", "Q"],
+["rupaj ungüi", "Q"],
+["ujun calurian", "Q"],
+["uju", "Q"],
+["jibri", "Q"],
+["quitaj", "Q"],
+["cálur ungüi", "Q"],
+["jatun ungüi", "Q"],
+["rupari", "Q"],
+["ungüi", "Q"],
+["iscalu friu", "Q"],
+["FIESTA", "SP"],
+["p'ista", "Q"],
+["p'ishta", "Q"],
+["buda", "Q"],
+["fishta", "Q"],
+["bura", "Q"],
+["p'isha", "Q"],
+["p'isti", "Q"],
+["juishta", "Q"],
+["muguna", "Q"],
+["FILTRAR", "SP"],
+["shushana", "Q"],
+["shushuna", "Q"],
+["shutuna", "Q"],
+["p'iltrachina", "Q"],
+["FLACO", "SP"],
+["irqui", "Q"],
+["tullu", "Q"],
+["tsala", "Q"],
+["tsarqui", "Q"],
+["lali", "Q"],
+["charqui", "Q"],
+["zala", "Q"],
+["tulluyashca", "Q"],
+["tullun caraun", "Q"],
+["FLAUTA", "SP"],
+["pingullu", "Q"],
+["p'lauta", "Q"],
+["gaita", "Q"],
+["larnita", "Q"],
+["lauta", "Q"],
+["flauta", "Q"],
+["FLOJO", "SP"],
+["mana bali", "Q"],
+["p'luju", "Q"],
+["fluju", "Q"],
+["amuglla", "Q"],
+["p'luju p'luju", "Q"],
+["lali", "Q"],
+["p'angalla", "Q"],
+["quilla", "Q"],
+["cubardi", "Q"],
+["qu'illa", "Q"],
+["pluju", "Q"],
+["FLOR", "SP"],
+["sisa", "Q"],
+["yura", "Q"],
+["FLORECER", "SP"],
+["sisana", "Q"],
+["sisaguna", "Q"],
+["sisamucuna", "Q"],
+["sisayana", "Q"],
+["sisacuna", "Q"],
+["FLORIPONDIO", "SP"],
+["huantuj", "Q"],
+["lurip'undiu", "Q"],
+["luripundiu", "Q"],
+["huantuj sisa", "Q"],
+["FLOTAR", "SP"],
+["huambuna", "Q"],
+["jacuna", "Q"],
+["nadana", "Q"],
+["sasuna", "Q"],
+["p' lutana", "Q"],
+["llutarina", "Q"],
+["FOGON", "SP"],
+["tullpa", "Q"],
+["tulpa", "Q"],
+["nina ata", "Q"],
+["nina jutcu", "Q"],
+["FONDO", "SP"],
+["siqui", "Q"],
+["FONDO", "SP"],
+["ucu", "Q"],
+["junda", "Q"],
+["GIL", "SP"],
+["p'aquirinalla", "Q"],
+["p'aquirina", "Q"],
+["jahualla", "Q"],
+["faquirinalla", "Q"],
+["faquirina", "Q"],
+["p'aquina", "Q"],
+["p'aquinalla", "Q"],
+["jahualla p'aquinalla", "Q"],
+["p'aquiriglla", "Q"],
+["p'aquiri", "Q"],
+["dilicadu", "Q"],
+["p'aquirinala", "Q"],
+["paquirinalla", "Q"],
+["GAR", "SP"],
+["c'acuna", "Q"],
+["jacuna", "Q"],
+["subana", "Q"],
+["llunchina", "Q"],
+["t 'acurina", "Q"],
+["NTE", "SP"],
+["p'rinti", "Q"],
+["frinti", "Q"],
+["ñahui pata", "Q"],
+["p'rinti pata", "Q"],
+["uma p'rinti", "Q"],
+["ñaupaj uma", "Q"],
+["JOL", "SP"],
+["purutu", "Q"],
+["p'rijul", "Q"],
+["NTE A", "SP"],
+["ñaupaj", "Q"],
+["chimbapura", "Q"],
+["p'rinti", "Q"],
+["ñaupa", "Q"],
+["ñaupu", "Q"],
+["ñaupuj", "Q"],
+["frinti", "Q"],
+["pungu", "Q"],
+["chimballa", "Q"],
+["FRIO", "SP"],
+["chiri", "Q"],
+["FRUNCIR", "SP"],
+["sipuna", "Q"],
+["zuzugnina", "Q"],
+["susugyana", "Q"],
+["sipuyana", "Q"],
+["p'runzi tucuna", "Q"],
+["FRUTA", "SP"],
+["p'ruta", "Q"],
+["muyu", "Q"],
+["FUEGO", "SP"],
+["nina", "Q"],
+["titaj", "Q"],
+["calush", "Q"],
+["calur", "Q"],
+["FUENTE", "SP"],
+["pugyu", "Q"],
+["p'ugyu", "Q"],
+["yacu ujtu", "Q"],
+["yacu llujshij", "Q"],
+["jundu yacu", "Q"],
+["FUERA DE", "SP"],
+["canlla", "Q"],
+["huasha", "Q"],
+["cancha", "Q"],
+["siparadu", "Q"],
+["juira", "Q"],
+["FUERTE", "SP"],
+["sinchi", "Q"],
+["jinchi", "Q"],
+["p'uirti", "Q"],
+["shinlli", "Q"],
+["chinchi", "Q"],
+["p'uirzasapa", "Q"],
+["huapu", "Q"],
+["manchani", "Q"],
+["juirsa", "Q"],
+["duru", "Q"],
+["FUERZA", "SP"],
+["juirza", "Q"],
+["jurza", "Q"],
+["shinlli", "Q"],
+["chinchi", "Q"],
+["jinchi", "Q"],
+["FUMAR", "SP"],
+["chupana", "Q"],
+["tsupana", "Q"],
+["tabacuna", "Q"],
+["fumana", "Q"],
+["GALLINA", "SP"],
+["atillpa", "Q"],
+["atilla", "Q"],
+["huallpa", "Q"],
+["atilpa", "Q"],
+["atulba", "Q"],
+["atalpa", "Q"],
+["atila", "Q"],
+["átil", "Q"],
+["atallpa", "Q"],
+["hualpa", "Q"],
+["GANA", "SP"],
+["munai", "Q"],
+["gana", "Q"],
+["antuju", "Q"],
+["munanayai", "Q"],
+["muni", "Q"],
+["GANADO", "SP"],
+["huagra", "Q"],
+["GANAR", "SP"],
+["ganana", "Q"],
+["GANAR", "SP"],
+["binsina", "Q"],
+["atina", "Q"],
+["ganana", "Q"],
+["mishana", "Q"],
+["GARGANTA", "SP"],
+["cunga", "Q"],
+["tunguri", "Q"],
+["guguti", "Q"],
+["GARRA", "SP"],
+["sillu", "Q"],
+["shillu", "Q"],
+["garra", "Q"],
+["GASTAR", "SP"],
+["gastana", "Q"],
+["gashtana", "Q"],
+["tucuchina", "Q"],
+["GATEAR", "SP"],
+["llucana", "Q"],
+["GATO", "SP"],
+["misi", "Q"],
+["mishi", "Q"],
+["GAVILAN", "SP"],
+["anga", "Q"],
+["huarru", "Q"],
+["huaman", "Q"],
+["gabilán", "Q"],
+["quililicu", "Q"],
+["GENEROSO", "SP"],
+["alli shungu", "Q"],
+["alli", "Q"],
+["caraj", "Q"],
+["alli alli", "Q"],
+["alli cuj", "Q"],
+["na mitsa", "Q"],
+["jatun alli", "Q"],
+["cariñuzu", "Q"],
+["bali", "Q"],
+["cumbidalun", "Q"],
+["caralun", "Q"],
+["GENTE", "SP"],
+["jinti", "Q"],
+["runa", "Q"],
+["jindi", "Q"],
+["GIRAR", "SP"],
+["muyuna", "Q"],
+["cuyuchina", "Q"],
+["jirana", "Q"],
+["GOLOSO", "SP"],
+["jillu", "Q"],
+["ansiuzu", "Q"],
+["ánsiya", "Q"],
+["milpadur", "Q"],
+["achcón", "Q"],
+["GOLPE", "SP"],
+["huajtai", "Q"],
+["tacana", "Q"],
+["tacai", "Q"],
+["macai", "Q"],
+["taqui", "Q"],
+["GOLPEAR", "SP"],
+["huajtana", "Q"],
+["tacana", "Q"],
+["macana", "Q"],
+["pigana", "Q"],
+["GORDO", "SP"],
+["gurdu", "Q"],
+["huira", "Q"],
+["racu", "Q"],
+["rucu", "Q"],
+["vira", "Q"],
+["sapu", "Q"],
+["GOTA", "SP"],
+["shutui", "Q"],
+["shutu", "Q"],
+["gutila yacu", "Q"],
+["GRACIAS", "SP"],
+["Dius sulu pagui", "Q"],
+["pagui", "Q"],
+["Dius sulu pai", "Q"],
+["Dius silu pagui", "Q"],
+["paguirachu", "Q"],
+["pashi", "Q"],
+["GRANDE", "SP"],
+["jatun", "Q"],
+["GRANIZAR", "SP"],
+["runduna", "Q"],
+["rasuna", "Q"],
+["rundu urmana", "Q"],
+["GRANIZO", "SP"],
+["rundu", "Q"],
+["rasu", "Q"],
+["muruchu", "Q"],
+["GRANO", "SP"],
+["muyu", "Q"],
+["granu", "Q"],
+["muru", "Q"],
+["GRATIS", "SP"],
+["yanga", "Q"],
+["dimbaldi", "Q"],
+["cumbidashca", "Q"],
+["rigalashca", "Q"],
+["GRIPE", "SP"],
+["uju", "Q"],
+["rumádis", "Q"],
+["rumadisu", "Q"],
+["catarru", "Q"],
+["pisti", "Q"],
+["uju ungüi", "Q"],
+["uju ungui", "Q"],
+["rumasu", "Q"],
+["jibri ungüi", "Q"],
+["purij ungüi", "Q"],
+["GRIS", "SP"],
+["puzu", "Q"],
+["plumu", "Q"],
+["cushni", "Q"],
+["sucu", "Q"],
+["zhiru", "Q"],
+["uchupa", "Q"],
+["GRITAR", "SP"],
+["caparina", "Q"],
+["huagnina", "Q"],
+["GRITAR", "SP"],
+["huacana", "Q"],
+["caparina", "Q"],
+["GRUESO", "SP"],
+["racu", "Q"],
+["GRUPO", "SP"],
+["tandanacushca", "Q"],
+["muntun", "Q"],
+["ataju", "Q"],
+["taucapura", "Q"],
+["taugapura", "Q"],
+["parga", "Q"],
+["cancha", "Q"],
+["buntun", "Q"],
+["achcacuna", "Q"],
+["juntu", "Q"],
+["achica", "Q"],
+["GUARDAR COMIDA PARA LLEVAR A LA CASA", "SP"],
+["huanllana", "Q"],
+["GUARDAR", "SP"],
+["huaquichina", "Q"],
+["huacaichina", "Q"],
+["huajchina", "Q"],
+["allichina", "Q"],
+["alichina", "Q"],
+["cuidana", "Q"],
+["GUIAR", "SP"],
+["pushana", "Q"],
+["ñaupana", "Q"],
+["ñagpana", "Q"],
+["ñumpana", "Q"],
+["ñupana", "Q"],
+["catichina", "Q"],
+["GUSANO", "SP"],
+["c'uru", "Q"],
+["curu", "Q"],
+["juru", "Q"],
+["GUSTAR", "SP"],
+["gushtana", "Q"],
+["munana", "Q"],
+["munanana", "Q"],
+["malina", "Q"],
+["mishquichijuna", "Q"],
+["munanayana", "Q"],
+["HAVA", "SP"],
+["jabas", "Q"],
+["jabus", "Q"],
+["abas", "Q"],
+["aba", "Q"],
+["HABLAR", "SP"],
+["rimana", "Q"],
+["rimarina", "Q"],
+["HACER", "SP"],
+["rurana", "Q"],
+["ruhuana", "Q"],
+["urana", "Q"],
+["rana", "Q"],
+["HACER CALOR", "SP"],
+["rupai shitana", "Q"],
+["rupana", "Q"],
+["ruparina", "Q"],
+["calur tiyana", "Q"],
+["cunuglla cana", "Q"],
+["rupuyaguna", "Q"],
+["t'itagyachina", "Q"],
+["juin rupai tiyana", "Q"],
+["rupachina", "Q"],
+["caluryachina", "Q"],
+["HACER CASO DE", "SP"],
+["cazuna", "Q"],
+["HACER FRIO", "SP"],
+["chiriyachina", "Q"],
+["chirina", "Q"],
+["chirichina", "Q"],
+["chiri tucuna", "Q"],
+["chiriyana", "Q"],
+["chiriuna", "Q"],
+["HACERSE", "SP"],
+["tucuna", "Q"],
+["HACIENDA", "SP"],
+["jazinda", "Q"],
+["asyinda", "Q"],
+["asinda", "Q"],
+["jasyinda", "Q"],
+["HACHA", "SP"],
+["jacha", "Q"],
+["HALLAR", "SP"],
+["tarina", "Q"],
+["japina", "Q"],
+["tupana", "Q"],
+["HAMBRE", "SP"],
+["yaricai", "Q"],
+["yarcai", "Q"],
+["yarijai", "Q"],
+["yariji", "Q"],
+["yariqui", "Q"],
+["yarja", "Q"],
+["yarijana", "Q"],
+["DAR HAMBRI", "SP"],
+["yaricana", "Q"],
+["yarijana", "Q"],
+["yarijanana", "Q"],
+["yarcana", "Q"],
+["yarijauna", "Q"],
+["yarica cuna", "Q"],
+["yaricachina", "Q"],
+["HARAPOSO", "SP"],
+["p'uchu", "Q"],
+["tsuntsu", "Q"],
+["tsunzu", "Q"],
+["trapuzu", "Q"],
+["sunllu", "Q"],
+["p'utyu", "Q"],
+["p'achai ura", "Q"],
+["lluchu", "Q"],
+["llachapa", "Q"],
+["lliquirishca", "Q"],
+["HARINA", "SP"],
+["cuta", "Q"],
+["jarina", "Q"],
+["jacu", "Q"],
+["HARTARSE", "SP"],
+["sajsana", "Q"],
+["huijsa jundajta micuna", "Q"],
+["huijsa pajtana", "Q"],
+["huijsa p'ajtana", "Q"],
+["sagsana", "Q"],
+["HATO", "SP"],
+["muntun", "Q"],
+["achca", "Q"],
+["canlla", "Q"],
+["manada", "Q"],
+["ataju", "Q"],
+["ashca", "Q"],
+["tauga", "Q"],
+["buntun", "Q"],
+["HASTA MAÑANA", "SP"],
+["cayacama", "Q"],
+["cayagama", "Q"],
+["cayacaman", "Q"],
+["jayacama", "Q"],
+["HAY", "SP"],
+["tiyan", "Q"],
+["tiyaun", "Q"],
+["HECES", "SP"],
+["cunllu", "Q"],
+["jantsi", "Q"],
+["jamzi", "Q"],
+["subrada", "Q"],
+["puchuj", "Q"],
+["sumu puchushca", "Q"],
+["asua basura", "Q"],
+["mapalla asua", "Q"],
+["jamchi", "Q"],
+["HEDER", "SP"],
+["ashnana", "Q"],
+["ashnajuna", "Q"],
+["ashnarina", "Q"],
+["ashnajta chujcana", "Q"],
+["HELADA", "SP"],
+["casa", "Q"],
+["casashca", "Q"],
+["casishca", "Q"],
+["casai", "Q"],
+["HELAR", "SP"],
+["casana", "Q"],
+["casa pacarina", "Q"],
+["casacuna", "Q"],
+["casaichina", "Q"],
+["HEMBRA", "SP"],
+["huarmi", "Q"],
+["HENDER", "SP"],
+["chijtana", "Q"],
+["lliquina", "Q"],
+["chilpina", "Q"],
+["liquina", "Q"],
+["p'aquirina", "Q"],
+["chaupirina", "Q"],
+["rajana", "Q"],
+["HERIDA", "SP"],
+["chugri", "Q"],
+["chugrishca", "Q"],
+["chuchurishca", "Q"],
+["izishca", "Q"],
+["tsugrishca", "Q"],
+["añi", "Q"],
+["irida", "Q"],
+["HERIR", "SP"],
+["chugrina", "Q"],
+["chugrichina", "Q"],
+["tsugrina", "Q"],
+["añichina", "Q"],
+["cuchuna", "Q"],
+["p'itirina", "Q"],
+["nanachina", "Q"],
+["HERMANA", "SP"],
+["pani", "Q"],
+["irmana", "Q"],
+["HERMANA", "SP"],
+["ñaña", "Q"],
+["pani", "Q"],
+["irmana", "Q"],
+["HERMANO", "SP"],
+["huauqui", "Q"],
+["turi", "Q"],
+["irmanu", "Q"],
+["HERMANO", "SP"],
+["turi", "Q"],
+["huauqui", "Q"],
+["irmanu", "Q"],
+["HERMANO MAYOR", "SP"],
+["ñaupa huauqui", "Q"],
+["jatun huauqui", "Q"],
+["rucu huauqui", "Q"],
+["punta huauqui", "Q"],
+["HERMANO MENOR", "SP"],
+["qu'ipa huauqui", "Q"],
+["jipa huauqui", "Q"],
+["uchuj huauqui", "Q"],
+["cati huauqui", "Q"],
+["utila huauqui", "Q"],
+["utilla huauqui", "Q"],
+["uchu huauqui", "Q"],
+["HERVIR", "SP"],
+["timbuchina", "Q"],
+["t'imhuchina", "Q"],
+["timbuna", "Q"],
+["HIEL", "SP"],
+["jayaj", "Q"],
+["jil", "Q"],
+["jayij", "Q"],
+["HIELO", "SP"],
+["rasu", "Q"],
+["casa", "Q"],
+["chiri", "Q"],
+["casishca", "Q"],
+["ilu", "Q"],
+["jilu", "Q"],
+["rasu chiri chiri", "Q"],
+["HIERBA", "SP"],
+["qu' ihua", "Q"],
+["jihua", "Q"],
+["HIERBA MEDICINAL", "SP"],
+["yuyu", "Q"],
+["jambi jihua", "Q"],
+["jambi yura", "Q"],
+["jamhi", "Q"],
+["HIERRO", "SP"],
+["jiru", "Q"],
+["jirru", "Q"],
+["p'yirru", "Q"],
+["p'irru", "Q"],
+["HIGADO", "SP"],
+["yana shungu", "Q"],
+["shungu", "Q"],
+["amsa shungu", "Q"],
+["ígadu", "Q"],
+["HIJA", "SP"],
+["ushushi", "Q"],
+["ushi", "Q"],
+["huarmi huahua", "Q"],
+["HIJO", "SP"],
+["churi", "Q"],
+["c'ari huahua", "Q"],
+["HILAR", "SP"],
+["puchcana", "Q"],
+["pushcana", "Q"],
+["puchicana", "Q"],
+["puchana", "Q"],
+["HILO", "SP"],
+["puchca", "Q"],
+["pushca", "Q"],
+["puchica", "Q"],
+["pucha", "Q"],
+["HINCHAR", "SP"],
+["punguina", "Q"],
+["p'unguina", "Q"],
+["punguichina", "Q"],
+["punguillina", "Q"],
+["cajayana", "Q"],
+["HOJA", "SP"],
+["p'anga", "Q"],
+["chamiza", "Q"],
+["fanga", "Q"],
+["panga", "Q"],
+["HOMBRE", "SP"],
+["runa", "Q"],
+["HOMBRE", "SP"],
+["c'ari", "Q"],
+["jari", "Q"],
+["cari", "Q"],
+["HOMBRO", "SP"],
+["rigra", "Q"],
+["umbru", "Q"],
+["rigra jahua", "Q"],
+["rigra luma", "Q"],
+["jumbris", "Q"],
+["rigra tullu", "Q"],
+["aparina", "Q"],
+["HONDO", "SP"],
+["jundu", "Q"],
+["ucu", "Q"],
+["undu", "Q"],
+["pugru", "Q"],
+["HONGO", "SP"],
+["ungu", "Q"],
+["callamba", "Q"],
+["llamba", "Q"],
+["aujaramun", "Q"],
+["callumba", "Q"],
+["HORA", "SP"],
+["uras", "Q"],
+["ura", "Q"],
+["urus", "Q"],
+["sapalla", "Q"],
+["HORMIGA", "SP"],
+["añangu", "Q"],
+["urmiga", "Q"],
+["añingu", "Q"],
+["chuspi", "Q"],
+["llullu chuspi", "Q"],
+["añungu", "Q"],
+["jurmiga", "Q"],
+["c'uru", "Q"],
+["HORQUESTA", "SP"],
+["parca", "Q"],
+["jurquita", "Q"],
+["pallca", "Q"],
+["urquita", "Q"],
+["jurcuh", "Q"],
+["aspidur", "Q"],
+["jurca", "Q"],
+["HOY", "SP"],
+["cunan", "Q"],
+["cunun p'unlla", "Q"],
+["cunan punlla", "Q"],
+["cunan punzha", "Q"],
+["cunun", "Q"],
+["cunun puncha", "Q"],
+["HUECO", "SP"],
+["jutcu", "Q"],
+["ujtu", "Q"],
+["utcu", "Q"],
+["pugru", "Q"],
+["utuju", "Q"],
+["jundu ucu", "Q"],
+["HUELLA", "SP"],
+["chaqui sarushca", "Q"],
+["sarushca", "Q"],
+["chaqui", "Q"],
+["chaqui sarui", "Q"],
+["siñai", "Q"],
+["siñal", "Q"],
+["chaqui saquirishca", "Q"],
+["rastru", "Q"],
+["HUERFANO", "SP"],
+["huajcha", "Q"],
+["sapalla", "Q"],
+["huirfánu", "Q"],
+["taita mama illaj", "Q"],
+["yaya mama illaj", "Q"],
+["sifarinu", "Q"],
+["p'urastiru", "Q"],
+["HUESO", "SP"],
+["tullu", "Q"],
+["HUEVO", "SP"],
+["lulun", "Q"],
+["ruru", "Q"],
+["luluhua", "Q"],
+["HUIR", "SP"],
+["miticuna", "Q"],
+["pacajuna", "Q"],
+["anlluna", "Q"],
+["mitijuna", "Q"],
+["mitina", "Q"],
+["uyish mitijuna", "Q"],
+["miticushpa bulana", "Q"],
+["uyina", "Q"],
+["pacana", "Q"],
+["HUMEAR", "SP"],
+["cushnina", "Q"],
+["cushnichina", "Q"],
+["llaugana", "Q"],
+["HUMEDO", "SP"],
+["jucu", "Q"],
+["jucushca", "Q"],
+["shutuj", "Q"],
+["umidu", "Q"],
+["anguyashca", "Q"],
+["mutiyashca", "Q"],
+["shuturishca", "Q"],
+["juachaj", "Q"],
+["HUMILDE", "SP"],
+["jumildi", "Q"],
+["umildi", "Q"],
+["alli shungu", "Q"],
+["blanda", "Q"],
+["muspalla", "Q"],
+["huambra uchuj", "Q"],
+["tuntuhua", "Q"],
+["pingui tucuj", "Q"],
+["sinsillu", "Q"],
+["HUMITAS", "SP"],
+["chugllu tanda", "Q"],
+["chumal", "Q"],
+["tujtitu", "Q"],
+["turtilla", "Q"],
+["HUMO", "SP"],
+["cushni", "Q"],
+["HUSO", "SP"],
+["sijsij", "Q"],
+["sijsi", "Q"],
+["puchcana sijsij", "Q"],
+["pushcana sijsij", "Q"],
+["uzu", "Q"],
+["IBARRA", "SP"],
+["Ibarra", "Q"],
+["Billa", "Q"],
+["IDIOMA", "SP"],
+["shimi", "Q"],
+["parlu", "Q"],
+["rimai", "Q"],
+["c'allu", "Q"],
+["IMPEDIR", "SP"],
+["jarcana", "Q"],
+["trancana", "Q"],
+["misana", "Q"],
+["ama nina", "Q"],
+["INCA", "SP"],
+["inga", "Q"],
+["INDICAR", "SP"],
+["ricuchina", "Q"],
+["yachachina", "Q"],
+["INDIGENA", "SP"],
+["runa", "Q"],
+["INFIERNO", "SP"],
+["ucu pacha", "Q"],
+["infirnu", "Q"],
+["nina pacha", "Q"],
+["uc'u pacha", "Q"],
+["millai pacha", "Q"],
+["purgaturiu c", "Q"],
+["INFLAR", "SP"],
+["p'ucuna", "Q"],
+["jundachina", "Q"],
+["inflana", "Q"],
+["p'ucurina", "Q"],
+["p'unguichina", "Q"],
+["IGUAL", "SP"],
+["igual", "Q"],
+["igul", "Q"],
+["pariju", "Q"],
+["pagta", "Q"],
+["chashna", "Q"],
+["INSULTAR", "SP"],
+["c'amina", "Q"],
+["rimana", "Q"],
+["camina", "Q"],
+["lituna", "Q"],
+["ajana", "Q"],
+["plituchina", "Q"],
+["insultana", "Q"],
+["rimarina", "Q"],
+["INTELIGENTE", "SP"],
+["yachaj", "Q"],
+["alli yachaj", "Q"],
+["bibuyashca", "Q"],
+["rasiunal", "Q"],
+["yuyaj", "Q"],
+["ali yachaj", "Q"],
+["yachaj tucushca", "Q"],
+["cutsilla", "Q"],
+["bibushca", "Q"],
+["alli urna", "Q"],
+["alli pinsamintu", "Q"],
+["INTERIOR", "SP"],
+["ucu", "Q"],
+["INVIERNO", "SP"],
+["tamia tyimpu", "Q"],
+["tamil timpu", "Q"],
+["juirti tamia", "Q"],
+["yallijta tamia", "Q"],
+["tamiana quilla", "Q"],
+["INVITAR", "SP"],
+["cumbidana", "Q"],
+["cayana", "Q"],
+["shamui nina", "Q"],
+["pushamuna", "Q"],
+["inbitana", "Q"],
+["INTESTINOS", "SP"],
+["chunlluli", "Q"],
+["chunllulli", "Q"],
+["puzun", "Q"],
+["chunzhulli", "Q"],
+["puzunguna", "Q"],
+["INYECTAR", "SP"],
+["tujsina", "Q"],
+["indijsiunda churana", "Q"],
+["inyijsiun churana", "Q"],
+["cutana", "Q"],
+["indisiun satina", "Q"],
+["indisu churana", "Q"],
+["indisiunda cuna", "Q"],
+["indijsiunda satina", "Q"],
+["indinsiuta churana", "Q"],
+["punsana", "Q"],
+["IR", "SP"],
+["rina", "Q"],
+["IRAS", "SP"],
+["culirana", "Q"],
+["culíra", "Q"],
+["rabia", "Q"],
+["p'iñana", "Q"],
+["fiñai", "Q"],
+["fiñana", "Q"],
+["p'iña", "Q"],
+["p'iñai", "Q"],
+["piñarina", "Q"],
+["ahurri", "Q"],
+["IZQUIERDA", "SP"],
+["lluqui", "Q"],
+["isquirda", "Q"],
+["surdu", "Q"],
+["JALAR", "SP"],
+["aisana", "Q"],
+["chutana", "Q"],
+["JOROBADO", "SP"],
+["curcu", "Q"],
+["quipilumun", "Q"],
+["cumurishca", "Q"],
+["curculumu", "Q"],
+["jarra", "Q"],
+["JOVEN", "SP"],
+["sultira", "Q"],
+["huambra", "Q"],
+["musa", "Q"],
+["cuitsa", "Q"],
+["huarmi mara", "Q"],
+["huarmi huamhra", "Q"],
+["lunga", "Q"],
+["malta huarmi", "Q"],
+["JOVEN", "SP"],
+["muzu", "Q"],
+["huambra", "Q"],
+["lungu", "Q"],
+["chairij", "Q"],
+["sultiru", "Q"],
+["jari huambra", "Q"],
+["lungun", "Q"],
+["jubin", "Q"],
+["c'ari huambra", "Q"],
+["malta runa", "Q"],
+["mara", "Q"],
+["JUEGO", "SP"],
+["pugllai", "Q"],
+["pugllana", "Q"],
+["puglli", "Q"],
+["llancana", "Q"],
+["JUGAR", "SP"],
+["pugllana", "Q"],
+["llancana", "Q"],
+["JUNTAR", "SP"],
+["tandachina", "Q"],
+["tandana", "Q"],
+["pallana", "Q"],
+["juntana", "Q"],
+["JUNTOS", "SP"],
+["tandanacushca", "Q"],
+["pariju", "Q"],
+["tandachishca", "Q"],
+["tandanajushca", "Q"],
+["igual", "Q"],
+["illijcancha", "Q"],
+["igulda", "Q"],
+["tandanucushca", "Q"],
+["tanda", "Q"],
+["tandalla", "Q"],
+["tandarishca", "Q"],
+["tucuilla", "Q"],
+["JUSTO", "SP"],
+["cábal", "Q"],
+["alli", "Q"],
+["cábul", "Q"],
+["justu", "Q"],
+["ali", "Q"],
+["dirichu", "Q"],
+["lígal", "Q"],
+["pajta", "Q"],
+["LABIO", "SP"],
+["shimi", "Q"],
+["shimi cara", "Q"],
+["jita", "Q"],
+["shimi labiu", "Q"],
+["huirpa", "Q"],
+["LADO", "SP"],
+["ladu", "Q"],
+["cuchu", "Q"],
+["maya", "Q"],
+["AL LADO DE", "SP"],
+["ladu", "Q"],
+["uri", "Q"],
+["maya", "Q"],
+["bizinu", "Q"],
+["c'uchu", "Q"],
+["LADRAR", "SP"],
+["aullana", "Q"],
+["ladrana", "Q"],
+["huacana", "Q"],
+["ladranuna", "Q"],
+["aullina", "Q"],
+["agnina", "Q"],
+["canshi nina", "Q"],
+["canina", "Q"],
+["LADRON", "SP"],
+["shuhua", "Q"],
+["shuhuaj", "Q"],
+["jillu", "Q"],
+["LAGARTIJA", "SP"],
+["palu", "Q"],
+["cula", "Q"],
+["cucu palu", "Q"],
+["tsilinquitsi", "Q"],
+["huagza", "Q"],
+["LAGO", "SP"],
+["cucha", "Q"],
+["LAGRIMA", "SP"],
+["huiqui", "Q"],
+["viqui", "Q"],
+["iqui", "Q"],
+["LAMER", "SP"],
+["lambina", "Q"],
+["llahuana", "Q"],
+["supana", "Q"],
+["LANA", "SP"],
+["millma", "Q"],
+["huillma", "Q"],
+["LARGO", "SP"],
+["suni", "Q"],
+["largu", "Q"],
+["jatun", "Q"],
+["LATACUNGA", "SP"],
+["Latacuriga", "Q"],
+["Tacunga", "Q"],
+["Latahuangu", "Q"],
+["LASTIMAR", "SP"],
+["chugrichina", "Q"],
+["chugrina", "Q"],
+["tsugrina", "Q"],
+["jiridachina", "Q"],
+["abiriana", "Q"],
+["nanachina", "Q"],
+["LAVAR", "SP"],
+["maillana", "Q"],
+["jahuana", "Q"],
+["LAVAR ROPA", "SP"],
+["tajshana", "Q"],
+["tagshana", "Q"],
+["LAZO", "SP"],
+["lazu", "Q"],
+["tuglla", "Q"],
+["huasca", "Q"],
+["lazana", "Q"],
+["cara huasca", "Q"],
+["lanzana", "Q"],
+["angu", "Q"],
+["lazia", "Q"],
+["LEER", "SP"],
+["rizana", "Q"],
+["liyina", "Q"],
+["catina", "Q"],
+["liana", "Q"],
+["LEJOS", "SP"],
+["caru", "Q"],
+["LENGUA", "SP"],
+["c'allu", "Q"],
+["callu", "Q"],
+["jallu", "Q"],
+["LEÑA", "SP"],
+["yanta", "Q"],
+["yamda", "Q"],
+["yanda", "Q"],
+["LEVANTARSE", "SP"],
+["jatarina", "Q"],
+["LIBRAR", "SP"],
+["shayachina", "Q"],
+["jatarichina", "Q"],
+["jatachina", "Q"],
+["altsana", "Q"],
+["alzana", "Q"],
+["jahuayachina", "Q"],
+["LIBRAR", "SP"],
+["quishpichina", "Q"],
+["cacharina", "Q"],
+["librana", "Q"],
+["quishpina", "Q"],
+["librina", "Q"],
+["lushpichina", "Q"],
+["safachina", "Q"],
+["LIENDRE", "SP"],
+["tsiya", "Q"],
+["siya", "Q"],
+["ziya", "Q"],
+["tsiya lulun", "Q"],
+["lintras", "Q"],
+["piqui ruru", "Q"],
+["LIGERO", "SP"],
+["p'angalla", "Q"],
+["lijiru", "Q"],
+["cutsi", "Q"],
+["ujta", "Q"],
+["utca", "Q"],
+["c'angalla", "Q"],
+["ratu", "Q"],
+["apuru", "Q"],
+["ucha-ucha", "Q"],
+["utcalla", "Q"],
+["LIMPIAR", "SP"],
+["p'ichana", "Q"],
+["fichana", "Q"],
+["LISO", "SP"],
+["llambu", "Q"],
+["llushca", "Q"],
+["apilla", "Q"],
+["lluchca", "Q"],
+["puliyashca", "Q"],
+["ñutuhua", "Q"],
+["ñugñu", "Q"],
+["LIVIANO", "SP"],
+["p'angalla", "Q"],
+["c'angalla", "Q"],
+["fangalla", "Q"],
+["p'angala", "Q"],
+["pangalla", "Q"],
+["mana llashaj", "Q"],
+["jahualla", "Q"],
+["LOBO", "SP"],
+["atuj", "Q"],
+["lubu", "Q"],
+["caracha", "Q"],
+["huaicu ashcu", "Q"],
+["urcu ashcu", "Q"],
+["izi", "Q"],
+["atu", "Q"],
+["rapusu", "Q"],
+["LOCO", "SP"],
+["lucu", "Q"],
+["muspa", "Q"],
+["lucu tucushca", "Q"],
+["LODO", "SP"],
+["turu", "Q"],
+["ludu", "Q"],
+["lluchca", "Q"],
+["barru", "Q"],
+["LOMA", "SP"],
+["luma", "Q"],
+["urcu", "Q"],
+["jatun urcu", "Q"],
+["tula", "Q"],
+["altu", "Q"],
+["LOMBRIZ", "SP"],
+["cuica", "Q"],
+["jumbaj", "Q"],
+["LUCIERNAGA", "SP"],
+["nina c'uru", "Q"],
+["nina juru", "Q"],
+["itsa cataj", "Q"],
+["candillilla", "Q"],
+["nina micha", "Q"],
+["c'uru micha", "Q"],
+["achigyana", "Q"],
+["LUCHAR", "SP"],
+["macanacuna", "Q"],
+["macanajuna", "Q"],
+["macanucuna", "Q"],
+["llunchina", "Q"],
+["luchana", "Q"],
+["tacana", "Q"],
+["chimbapurana", "Q"],
+["piliana", "Q"],
+["LUEGO", "SP"],
+["astallahuan", "Q"],
+["ashahuan", "Q"],
+["ñapash", "Q"],
+["ña", "Q"],
+["ashaun", "Q"],
+["ashallaun", "Q"],
+["ratuhuallapi", "Q"],
+["ashahuanlla", "Q"],
+["ratu", "Q"],
+["astalahuan", "Q"],
+["ashallahuan", "Q"],
+["ashun", "Q"],
+["ñalla", "Q"],
+["LUGAR", "SP"],
+["pushtu", "Q"],
+["lúgar", "Q"],
+["puntu", "Q"],
+["campu", "Q"],
+["ladu", "Q"],
+["pacha", "Q"],
+["LUNA", "SP"],
+["quilla", "Q"],
+["luna", "Q"],
+["luna mama", "Q"],
+["LUZ", "SP"],
+["achij", "Q"],
+["micha", "Q"],
+["lus", "Q"],
+["punlla", "Q"],
+["bila", "Q"],
+["puncha", "Q"],
+["nina", "Q"],
+["nina lus", "Q"],
+["p'unllalla", "Q"],
+["achiga", "Q"],
+["LLAMA", "SP"],
+["nina cunyai", "Q"],
+["nina llama", "Q"],
+["nina llamarada", "Q"],
+["nina", "Q"],
+["pulunquirijun", "Q"],
+["nina llamara", "Q"],
+["llama", "Q"],
+["titaj", "Q"],
+["nina c'allu", "Q"],
+["nina llamas", "Q"],
+["LLAMAR", "SP"],
+["cayana", "Q"],
+["c'ayana", "Q"],
+["LLAMAR", "SP"],
+["shutichina", "Q"],
+["cayana", "Q"],
+["shutishina", "Q"],
+["shuti cuna", "Q"],
+["c'ayana", "Q"],
+["LLAMINGO", "SP"],
+["llama", "Q"],
+["llamingu", "Q"],
+["runa llama", "Q"],
+["chantu", "Q"],
+["llumingu", "Q"],
+["LLANURA", "SP"],
+["pamba", "Q"],
+["pambarucu", "Q"],
+["purun pamba", "Q"],
+["llanu", "Q"],
+["PONER LLAVE", "SP"],
+["llabina", "Q"],
+["llabi churana", "Q"],
+["candadu churana", "Q"],
+["llabita churana", "Q"],
+["LLEGAR", "SP"],
+["chayana", "Q"],
+["LLENAR", "SP"],
+["jundachina", "Q"],
+["jundana", "Q"],
+["LLENO", "SP"],
+["junda", "Q"],
+["jundashca", "Q"],
+["LLEVAR", "SP"],
+["apana", "Q"],
+["abana", "Q"],
+["LLEVAR EN BRAZOS", "SP"],
+["marcana", "Q"],
+["LLEVAR EN FALDA O EN PONCHO", "SP"],
+["migllana", "Q"],
+["nigllana", "Q"],
+["millcana", "Q"],
+["LLEVAR ENTRE VARIAS PERSONAS", "SP"],
+["huanduna", "Q"],
+["aisanacuna", "Q"],
+["apana", "Q"],
+["LLORAR", "SP"],
+["huacana", "Q"],
+["LLOVER", "SP"],
+["tamiana", "Q"],
+["LLOVIZNA", "SP"],
+["tsirapa", "Q"],
+["paramu", "Q"],
+["lancha", "Q"],
+["garua", "Q"],
+["garhua", "Q"],
+["chispa", "Q"],
+["tsirapai", "Q"],
+["ñutu tamia", "Q"],
+["ñutu izi", "Q"],
+["tamiarina", "Q"],
+["LLUVIA", "SP"],
+["tamia", "Q"],
+["LLUVIA CON SOL", "SP"],
+["lancha", "Q"],
+["tsirapa", "Q"],
+["tamia usia", "Q"],
+["tamiun inti", "Q"],
+["intin tamia", "Q"],
+["rupi tamia", "Q"],
+["rupai tamia", "Q"],
+["curu tamia", "Q"],
+["rupash tamia", "Q"],
+["MACHICA", "SP"],
+["machca", "Q"],
+["mashca", "Q"],
+["máchica", "Q"],
+["masca", "Q"],
+["jacu", "Q"],
+["MACHO", "SP"],
+["c'ari", "Q"],
+["cari", "Q"],
+["jari", "Q"],
+["MADERA", "SP"],
+["caspi", "Q"],
+["quiru", "Q"],
+["MADRASTRA", "SP"],
+["la marna", "Q"],
+["ila mama", "Q"],
+["madrarsha", "Q"],
+["madrastra", "Q"],
+["ili mama", "Q"],
+["curicu", "Q"],
+["MADRE", "SP"],
+["mama", "Q"],
+["MADRINA DE BAUTIZO", "SP"],
+["marcaj mama", "Q"],
+["achi mama", "Q"],
+["achila mama", "Q"],
+["marquij mama", "Q"],
+["cumari", "Q"],
+["MADRINA DE MATRIMONIO", "SP"],
+["madrina", "Q"],
+["achi mama", "Q"],
+["madrinama", "Q"],
+["purtira", "Q"],
+["cumari", "Q"],
+["MADRUGADA", "SP"],
+["pacari", "Q"],
+["tutamunda", "Q"],
+["tutamanta", "Q"],
+["alba", "Q"],
+["tutamanda", "Q"],
+["madrugadu", "Q"],
+["puzu-puzu", "Q"],
+["MADRUGAR", "SP"],
+["pacarina", "Q"],
+["madrugana", "Q"],
+["tutamanta rina", "Q"],
+["tutamunda rina", "Q"],
+["tutamunda jatarina", "Q"],
+["albana", "Q"],
+["MADURAR", "SP"],
+["p'ucuna", "Q"],
+["ujtuna", "Q"],
+["fucuna", "Q"],
+["MADURO", "SP"],
+["p'ucushca", "Q"],
+["fucuchca", "Q"],
+["MAIZ", "SP"],
+["sara", "Q"],
+["MALEZA", "SP"],
+["mana alli qu'ihua", "Q"],
+["mana valij jihua", "Q"],
+["malu jihua", "Q"],
+["purun qu'ihua", "Q"],
+["mana valij qu'ihua", "Q"],
+["puca qu'ihua", "Q"],
+["na cuzu qu'ihua", "Q"],
+["mapa qu'ihua", "Q"],
+["qu'iya", "Q"],
+["c'apiru", "Q"],
+["millai qu'ihua", "Q"],
+["man valij qu'ihua", "Q"],
+["MALO", "SP"],
+["millai", "Q"],
+["mana alli", "Q"],
+["malu", "Q"],
+["na ali", "Q"],
+["na valinllu", "Q"],
+["nalli", "Q"],
+["p'iña", "Q"],
+["p'irru", "Q"],
+["man valij", "Q"],
+["MAMAR", "SP"],
+["chuchuna", "Q"],
+["chucuna", "Q"],
+["ñuñuchina", "Q"],
+["MANCO", "SP"],
+["chulla maqui", "Q"],
+["chulla chaqui", "Q"],
+["c'ullu", "Q"],
+["suchu", "Q"],
+["utu maqui", "Q"],
+["utu chaqui", "Q"],
+["c'ullu maqui", "Q"],
+["huishtu", "Q"],
+["cuju", "Q"],
+["MANCHADO", "SP"],
+["mapachishca", "Q"],
+["mapayashca", "Q"],
+["pincashca", "Q"],
+["muru-muru", "Q"],
+["mapala", "Q"],
+["c'arcayashca", "Q"],
+["mugllashca", "Q"],
+["muruyashca", "Q"],
+["yanayashca", "Q"],
+["chapurishca", "Q"],
+["MANDAR", "SP"],
+["cachana", "Q"],
+["MANILLA", "SP"],
+["manilla", "Q"],
+["maqui manilla", "Q"],
+["maqui huatana", "Q"],
+["maqui huallca", "Q"],
+["aru", "Q"],
+["maqui aru", "Q"],
+["pulsira", "Q"],
+["MANO", "SP"],
+["maqui", "Q"],
+["MANOJO", "SP"],
+["huangu", "Q"],
+["maqui junda", "Q"],
+["puñadu", "Q"],
+["chuzun", "Q"],
+["manuju", "Q"],
+["maqui chuzu junda", "Q"],
+["pitallahua", "Q"],
+["maqui", "Q"],
+["lutsai", "Q"],
+["MANTECA", "SP"],
+["huira", "Q"],
+["vira", "Q"],
+["ira", "Q"],
+["mantica", "Q"],
+["MANZANA", "SP"],
+["tunguri", "Q"],
+["cutu", "Q"],
+["manzana", "Q"],
+["cunga mucu", "Q"],
+["cunga", "Q"],
+["MAÑANA", "SP"],
+["caya", "Q"],
+["jaya", "Q"],
+["MAÑANA", "SP"],
+["tutamanta", "Q"],
+["tutamanda", "Q"],
+["tutamunta", "Q"],
+["tutamunda", "Q"],
+["alba", "Q"],
+["MAR", "SP"],
+["mama cucha", "Q"],
+["mar", "Q"],
+["jatun yacu cucha", "Q"],
+["jatun cucha", "Q"],
+["yacu mar", "Q"],
+["achca yacu", "Q"],
+["manchani yacu", "Q"],
+["jatun yacu", "Q"],
+["lamar yacu", "Q"],
+["cucha", "Q"],
+["MARIDO", "SP"],
+["cusa", "Q"],
+["MAS", "SP"],
+["ashtahuan", "Q"],
+["ashtaun", "Q"],
+["yalli", "Q"],
+["astahuan", "Q"],
+["ashca", "Q"],
+["yali", "Q"],
+["ashtan", "Q"],
+["achca", "Q"],
+["MASCAR", "SP"],
+["cashtuna", "Q"],
+["mucuna", "Q"],
+["castuna", "Q"],
+["carrusquina", "Q"],
+["acuna", "Q"],
+["cachuna", "Q"],
+["gashtuna", "Q"],
+["MATAR", "SP"],
+["huañuchina", "Q"],
+["huanchina", "Q"],
+["MATRIMONIO", "SP"],
+["cazarana", "Q"],
+["cazarai", "Q"],
+["cazamintu", "Q"],
+["cazari", "Q"],
+["cazarina", "Q"],
+["cazarashca", "Q"],
+["buda", "Q"],
+["MAYOR", "SP"],
+["ñaupa", "Q"],
+["rucu", "Q"],
+["punta", "Q"],
+["yuyi", "Q"],
+["yuyaj", "Q"],
+["yuyaglla", "Q"],
+["punda", "Q"],
+["biju", "Q"],
+["ñauba", "Q"],
+["ñaupu", "Q"],
+["MAYORAL", "SP"],
+["quipu", "Q"],
+["mayurdumu", "Q"],
+["mairal", "Q"],
+["qu'ipa", "Q"],
+["mayural", "Q"],
+["amupuj mandaj", "Q"],
+["MAZAMORRA", "SP"],
+["api", "Q"],
+["mazamurra", "Q"],
+["MAZORCA", "SP"],
+["caspa", "Q"],
+["chugllu", "Q"],
+["MECER", "SP"],
+["cuyuchina", "Q"],
+["c'ahuina", "Q"],
+["cahuina", "Q"],
+["batina", "Q"],
+["cavina", "Q"],
+["chapunacuna", "Q"],
+["MEDIANOCHE", "SP"],
+["chaupi tuta", "Q"],
+["chagpi tuta", "Q"],
+["chaubi tuta", "Q"],
+["chugpi tuta", "Q"],
+["MEDICINA", "SP"],
+["jambi", "Q"],
+["rimidiu", "Q"],
+["MEDIDA", "SP"],
+["midida", "Q"],
+["tupu", "Q"],
+["tupuna", "Q"],
+["tupushca", "Q"],
+["midishca", "Q"],
+["MEDIANO", "SP"],
+["chaupi", "Q"],
+["pariju", "Q"],
+["parijhualla", "Q"],
+["chagpi", "Q"],
+["maltunlla", "Q"],
+["malta", "Q"],
+["maltahua", "Q"],
+["rigular", "Q"],
+["MEDIO", "SP"],
+["chaupi", "Q"],
+["chagpi", "Q"],
+["chaubi", "Q"],
+["chugpi", "Q"],
+["MEDIODIA", "SP"],
+["chaupi punlla", "Q"],
+["chaupi p'unlla", "Q"],
+["chaupi puncha", "Q"],
+["chagpi punlla", "Q"],
+["chaubi p'unlla", "Q"],
+["chugpi punzha", "Q"],
+["chaupi punzha", "Q"],
+["MEDIR", "SP"],
+["tupuna", "Q"],
+["midina", "Q"],
+["tupuda japina", "Q"],
+["MEJILLA", "SP"],
+["ñahui chichu", "Q"],
+["ñahui huijsa", "Q"],
+["ñahui uya", "Q"],
+["ñavi chichu", "Q"],
+["ñahui ichi", "Q"],
+["ñahui", "Q"],
+["uya", "Q"],
+["quijadus", "Q"],
+["MEJORAR", "SP"],
+["alliyana", "Q"],
+["allichina", "Q"],
+["alli tucuna", "Q"],
+["ali yana", "Q"],
+["ali tucuna", "Q"],
+["MENOR", "SP"],
+["qu'ipa", "Q"],
+["jipa", "Q"],
+["qu'ipahua", "Q"],
+["qu' ipa huiñai", "Q"],
+["cati", "Q"],
+["jubin", "Q"],
+["utillahua", "Q"],
+["ashtan huahualla", "Q"],
+["MENTIR", "SP"],
+["llullana", "Q"],
+["llagmana", "Q"],
+["MENTIRA", "SP"],
+["llulla", "Q"],
+["llullai", "Q"],
+["llagma", "Q"],
+["MERCADO", "SP"],
+["plasa", "Q"],
+["mircadu", "Q"],
+["p'iria", "Q"],
+["c'atuj plasa", "Q"],
+["c'atuna ucu", "Q"],
+["c'atuna plasa", "Q"],
+["c'atuna pamba", "Q"],
+["jatui", "Q"],
+["lasa", "Q"],
+["randichi plasa", "Q"],
+["MES", "SP"],
+["quilla", "Q"],
+["MESTIZO", "SP"],
+["chulu", "Q"],
+["mistizu", "Q"],
+["tsala", "Q"],
+["huiracucha", "Q"],
+["huirac'ucha", "Q"],
+["huirajuchu", "Q"],
+["virajucha", "Q"],
+["mishu", "Q"],
+["chulu mistizu", "Q"],
+["chapurishca", "Q"],
+["runaun blancaun chapurishca", "Q"],
+["chagrushca amu", "Q"],
+["shulu", "Q"],
+["pamha chulu", "Q"],
+["mulatu", "Q"],
+["runa chapushca", "Q"],
+["laichu", "Q"],
+["laicha", "Q"],
+["METAL", "SP"],
+["jirru", "Q"],
+["mítal", "Q"],
+["p'irru", "Q"],
+["titi", "Q"],
+["lata", "Q"],
+["qu'illu p'irru", "Q"],
+["quillai", "Q"],
+["METER", "SP"],
+["satina", "Q"],
+["churana", "Q"],
+["yaicuchina", "Q"],
+["huaicuchina", "Q"],
+["huaiguchina", "Q"],
+["MEZCLA", "SP"],
+["chagruna", "Q"],
+["chapu", "Q"],
+["chagru", "Q"],
+["miscla", "Q"],
+["chapurishca", "Q"],
+["chagrushca", "Q"],
+["chapushca", "Q"],
+["chapui", "Q"],
+["MEZCLAR", "SP"],
+["chapuna", "Q"],
+["chagruna", "Q"],
+["chapurina", "Q"],
+["MEZQUINAR", "SP"],
+["mitsana", "Q"],
+["misana", "Q"],
+["MIEDO", "SP"],
+["manchai", "Q"],
+["manlli", "Q"],
+["manllanai", "Q"],
+["manllai", "Q"],
+["manchi", "Q"],
+["MIL", "SP"],
+["huaranga", "Q"],
+["MILLON", "SP"],
+["huaranga-huaranga", "Q"],
+["míllun", "Q"],
+["míllun patsaj", "Q"],
+["chunga patsaj huaranga", "Q"],
+["huaranga", "Q"],
+["MINGA", "SP"],
+["minga", "Q"],
+["MIRAR", "SP"],
+["ricuna", "Q"],
+["MIRLO", "SP"],
+["tsujtsuj", "Q"],
+["huajtsuj", "Q"],
+["sujsuj", "Q"],
+["huaitsuj", "Q"],
+["huajtsaj", "Q"],
+["huajtsu", "Q"],
+["huacau", "Q"],
+["huajchu", "Q"],
+["siluj", "Q"],
+["MISERABLE", "SP"],
+["mitsa", "Q"],
+["misa", "Q"],
+["misaj", "Q"],
+["MITAD", "SP"],
+["chaupi", "Q"],
+["chagpi", "Q"],
+["chugpi", "Q"],
+["chaubi", "Q"],
+["MOCO", "SP"],
+["c'uña", "Q"],
+["juña", "Q"],
+["cuña", "Q"],
+["mucu", "Q"],
+["mucus", "Q"],
+["jiña", "Q"],
+["lula", "Q"],
+["lagla", "Q"],
+["bila", "Q"],
+["MOJADO", "SP"],
+["shutuj", "Q"],
+["shutu", "Q"],
+["jucushca", "Q"],
+["shutushca", "Q"],
+["muti", "Q"],
+["mutiyashca", "Q"],
+["latsaj", "Q"],
+["lapuj", "Q"],
+["p'ucushca", "Q"],
+["juachaj", "Q"],
+["MOJAR", "SP"],
+["jucuyana", "Q"],
+["jucuna", "Q"],
+["shutuna", "Q"],
+["shutuchina", "Q"],
+["shutugyana", "Q"],
+["mutuyana", "Q"],
+["mutiyana", "Q"],
+["jucuchina", "Q"],
+["apiyachina", "Q"],
+["lapugyachina", "Q"],
+["zutiyachina", "Q"],
+["juachagyana", "Q"],
+["MOLER", "SP"],
+["cutana", "Q"],
+["cutuna", "Q"],
+["tsancana", "Q"],
+["MOLESTAR", "SP"],
+["p'iñachina", "Q"],
+["mulistana", "Q"],
+["culirachina", "Q"],
+["rabiachina", "Q"],
+["aburrichina", "Q"],
+["MONTAÑA", "SP"],
+["sacha", "Q"],
+["sacha urcu", "Q"],
+["jatun urcu", "Q"],
+["MONTAR A CABALLO", "SP"],
+["tiyarina", "Q"],
+["sicana", "Q"],
+["muntuna", "Q"],
+["caballujuna", "Q"],
+["MONTE", "SP"],
+["sacha", "Q"],
+["urcu p'ilu", "Q"],
+["MONTON", "SP"],
+["muntun", "Q"],
+["mundun", "Q"],
+["parba", "Q"],
+["parga", "Q"],
+["achca", "Q"],
+["culma", "Q"],
+["bancu", "Q"],
+["buntun", "Q"],
+["MORDER", "SP"],
+["canina", "Q"],
+["MORIR", "SP"],
+["huañuna", "Q"],
+["tucurina", "Q"],
+["chingarina", "Q"],
+["MOSCA", "SP"],
+["chuspi", "Q"],
+["MOSTRAR", "SP"],
+["ricuchina", "Q"],
+["MOTE", "SP"],
+["muti", "Q"],
+["MOTEADO", "SP"],
+["muru", "Q"],
+["mutiashca", "Q"],
+["MOVERSE", "SP"],
+["cuyuna", "Q"],
+["cuyurina", "Q"],
+["MUCHACHA", "SP"],
+["huarmi huambra", "Q"],
+["sultira", "Q"],
+["china", "Q"],
+["lunga", "Q"],
+["dunsilla", "Q"],
+["cuitsa", "Q"],
+["MUCHACHO", "SP"],
+["huambra", "Q"],
+["c'ari huambra", "Q"],
+["jari huambra", "Q"],
+["lungu", "Q"],
+["sultiru", "Q"],
+["MUCHO", "SP"],
+["achca", "Q"],
+["ashca", "Q"],
+["ashtaca", "Q"],
+["achica", "Q"],
+["tauca", "Q"],
+["tauga", "Q"],
+["dubli", "Q"],
+["mijur", "Q"],
+["mirga", "Q"],
+["milga", "Q"],
+["MUDO", "SP"],
+["upa", "Q"],
+["tuntu", "Q"],
+["upa shimi", "Q"],
+["inusinti", "Q"],
+["mudu", "Q"],
+["tarta", "Q"],
+["huatia", "Q"],
+["muspitu", "Q"],
+["man parla", "Q"],
+["MUELA", "SP"],
+["jashlin", "Q"],
+["quiru", "Q"],
+["p'aca", "Q"],
+["paca quiru", "Q"],
+["c'uchu quiru", "Q"],
+["cuchu quiru", "Q"],
+["mama quiru", "Q"],
+["tatama quiru", "Q"],
+["jallalan", "Q"],
+["currimillun", "Q"],
+["MUERTE", "SP"],
+["huañui", "Q"],
+["huañuna", "Q"],
+["huañi", "Q"],
+["MUJER", "SP"],
+["huarmi", "Q"],
+["MUÑECA", "SP"],
+["maqui mucu", "Q"],
+["muñica", "Q"],
+["ríluj", "Q"],
+["muñiquira", "Q"],
+["maqui nudu", "Q"],
+["MUÑON", "SP"],
+["cullu", "Q"],
+["c'ullu", "Q"],
+["mutu", "Q"],
+["mutushca", "Q"],
+["t'uzu", "Q"],
+["muchishca", "Q"],
+["juru", "Q"],
+["cullushca", "Q"],
+["MURCIELAGO", "SP"],
+["shuhua shungu", "Q"],
+["mashu", "Q"],
+["chimbilacu", "Q"],
+["paya ucucha", "Q"],
+["tupan", "Q"],
+["tupáj", "Q"],
+["tsijtsi", "Q"],
+["tuta pishcu", "Q"],
+["shuhua ucucha", "Q"],
+["MURMURAR", "SP"],
+["riparana", "Q"],
+["murmurana", "Q"],
+["huasha rimana", "Q"],
+["rimana", "Q"],
+["mulmurana", "Q"],
+["camina", "Q"],
+["rimarina", "Q"],
+["ajaluna", "Q"],
+["MURO", "SP"],
+["pirca", "Q"],
+["pata", "Q"],
+["MUSCULO", "SP"],
+["racu changa", "Q"],
+["ñutu", "Q"],
+["juirsa", "Q"],
+["changa aicha", "Q"],
+["rigra aicha", "Q"],
+["pulsu", "Q"],
+["músculu", "Q"],
+["ñutu aicha", "Q"],
+["cuyugu", "Q"],
+["mucu", "Q"],
+["MUSGO", "SP"],
+["rumi millma", "Q"],
+["rumi barba", "Q"],
+["rumí barbus", "Q"],
+["rumi milma", "Q"],
+["rumi barbas", "Q"],
+["muzgu", "Q"],
+["sacha millma", "Q"],
+["mujusiyashca", "Q"],
+["MUSICA", "SP"],
+["tunu", "Q"],
+["musíca", "Q"],
+["matsu", "Q"],
+["MUSLO", "SP"],
+["changa", "Q"],
+["mama changa", "Q"],
+["racu changa", "Q"],
+["cunguri changa", "Q"],
+["changa aicha", "Q"],
+["huallpinchi", "Q"],
+["MUY", "SP"],
+["achca", "Q"],
+["yapa", "Q"],
+["ashtaca", "Q"],
+["mundi", "Q"],
+["ispantu", "Q"],
+["manchaní", "Q"],
+["ashca", "Q"],
+["rucu", "Q"],
+["jatun", "Q"],
+["juin", "Q"],
+["p'uin", "Q"],
+["tuntaminti", "Q"],
+["NABO", "SP"],
+["nabus", "Q"],
+["yuyu", "Q"],
+["urcu nabus", "Q"],
+["nabusyu", "Q"],
+["NACER", "SP"],
+["huachana", "Q"],
+["huiñana", "Q"],
+["nasina", "Q"],
+["viñana", "Q"],
+["nasirina", "Q"],
+["huiñarina", "Q"],
+["ricurina", "Q"],
+["NADA", "SP"],
+["ni ima", "Q"],
+["NADAR", "SP"],
+["huambuna", "Q"],
+["nadana", "Q"],
+["NADIE", "SP"],
+["mana pi", "Q"],
+["ni pi", "Q"],
+["na pi", "Q"],
+["na majin", "Q"],
+["NALGAS", "SP"],
+["siqui", "Q"],
+["siqui ñutu", "Q"],
+["siqui tullu", "Q"],
+["siqui pata", "Q"],
+["NARIZ", "SP"],
+["singa", "Q"],
+["NAUSEAS", "SP"],
+["millanachina", "Q"],
+["millanayana", "Q"],
+["millana", "Q"],
+["gumitana", "Q"],
+["millañachina", "Q"],
+["millanana", "Q"],
+["lansanayana", "Q"],
+["lanzanachina", "Q"],
+["shungu bultanayana", "Q"],
+["shungu bultanauna", "Q"],
+["shungu shitanayana", "Q"],
+["shungu shitana", "Q"],
+["shungu tigranayachina", "Q"],
+["NEBLINA", "SP"],
+["p'uyu", "Q"],
+["puyu", "Q"],
+["fuyu", "Q"],
+["NECESITAR", "SP"],
+["minishtina", "Q"],
+["ministina", "Q"],
+["minishtirina", "Q"],
+["NEGRO", "SP"],
+["yana", "Q"],
+["NEVAR", "SP"],
+["rasuna", "Q"],
+["rasucuna", "Q"],
+["runduna", "Q"],
+["nibadana", "Q"],
+["NIDO", "SP"],
+["tazin", "Q"],
+["quisha", "Q"],
+["cusha", "Q"],
+["paca", "Q"],
+["tazan", "Q"],
+["NIETA", "SP"],
+["ñita", "Q"],
+["nita", "Q"],
+["yapa huahua", "Q"],
+["yapa ushushi", "Q"],
+["NIETO", "SP"],
+["ñitu", "Q"],
+["nitu", "Q"],
+["yapa huahua", "Q"],
+["yapa churi", "Q"],
+["NIEVE", "SP"],
+["rasu", "Q"],
+["rundu", "Q"],
+["rundushca", "Q"],
+["NIÑA", "SP"],
+["huarmi huahua", "Q"],
+["huarmi mara", "Q"],
+["NIÑO", "SP"],
+["c'ari huahua", "Q"],
+["jari huahua", "Q"],
+["c'ari mara", "Q"],
+["NIÑO", "SP"],
+["huahua", "Q"],
+["mara", "Q"],
+["NIVELAR", "SP"],
+["pambachina", "Q"],
+["midina", "Q"],
+["pambayachina", "Q"],
+["igualana", "Q"],
+["dirichuna", "Q"],
+["NO", "SP"],
+["mana", "Q"],
+["na", "Q"],
+["ina", "Q"],
+["man", "Q"],
+["NO", "SP"],
+["ama", "Q"],
+["NO HAY", "SP"],
+["illan", "Q"],
+["illaun", "Q"],
+["illin", "Q"],
+["NOCHE", "SP"],
+["tuta", "Q"],
+["NOMBRAR", "SP"],
+["shutichina", "Q"],
+["numbrana", "Q"],
+["marcana", "Q"],
+["lumbrana", "Q"],
+["cayana", "Q"],
+["NOMBRE", "SP"],
+["shuti", "Q"],
+["NORTE", "SP"],
+["janaj ladu", "Q"],
+["nurti", "Q"],
+["urai", "Q"],
+["ura ladu", "Q"],
+["huichi ladu", "Q"],
+["uri ladu", "Q"],
+["Quitu llajta ladu", "Q"],
+["NOSOTROS", "SP"],
+["ñucanchij", "Q"],
+["ñucunchij", "Q"],
+["ñucanchi", "Q"],
+["ñucunchi", "Q"],
+["ñuncuchi", "Q"],
+["yucanchij", "Q"],
+["NUBE", "SP"],
+["p'uyu", "Q"],
+["fuyu", "Q"],
+["NUCA", "SP"],
+["cunga tullu", "Q"],
+["nuca", "Q"],
+["cunga mucu", "Q"],
+["nuca tullu", "Q"],
+["huasha tullu", "Q"],
+["huasha cunga", "Q"],
+["NUDO", "SP"],
+["huatashca", "Q"],
+["huatana", "Q"],
+["mucu", "Q"],
+["butun", "Q"],
+["pillushca", "Q"],
+["NUERA", "SP"],
+["c'achun", "Q"],
+["jachun", "Q"],
+["nuira", "Q"],
+["cachun", "Q"],
+["NUEVO", "SP"],
+["mushuj", "Q"],
+["mushu", "Q"],
+["NUEVE", "SP"],
+["iscun", "Q"],
+["NUEZ", "SP"],
+["tujti", "Q"],
+["núgal", "Q"],
+["núgul", "Q"],
+["NUNCA", "SP"],
+["ni ima ura", "Q"],
+["nunca", "Q"],
+["ni imamanda", "Q"],
+["napacha", "Q"],
+["ni jaica", "Q"],
+["OBEDECER", "SP"],
+["cazuna", "Q"],
+["uyana", "Q"],
+["cumplina", "Q"],
+["casuna", "Q"],
+["manchana", "Q"],
+["ubidisina", "Q"],
+["casu rurana", "Q"],
+["OBSCURO", "SP"],
+["amsa", "Q"],
+["cushni", "Q"],
+["ansa", "Q"],
+["yana", "Q"],
+["yana manga", "Q"],
+["tuta", "Q"],
+["p'agna", "Q"],
+["pura", "Q"],
+["OBSTRUIR", "SP"],
+["jarcana", "Q"],
+["huirzadu yaicuna", "Q"],
+["OCA", "SP"],
+["uca", "Q"],
+["OCIOSO", "SP"],
+["quilla", "Q"],
+["usiuzu", "Q"],
+["bagu", "Q"],
+["quiya", "Q"],
+["quillayashca", "Q"],
+["quillalún", "Q"],
+["quillan", "Q"],
+["quillapudin", "Q"],
+["OCHO", "SP"],
+["pusaj", "Q"],
+["pusuj", "Q"],
+["pusij", "Q"],
+["ODIAR", "SP"],
+["p'iñana", "Q"],
+["fiñana", "Q"],
+["cuntra gana", "Q"],
+["ashnana", "Q"],
+["na ricunayana", "Q"],
+["c'amina", "Q"],
+["rimarina", "Q"],
+["millana", "Q"],
+["OESTE", "SP"],
+["inti yaicuna ladu", "Q"],
+["indi yaicuna ladu", "Q"],
+["intida ricuna ladu", "Q"],
+["ucsidinti", "Q"],
+["chai ladu", "Q"],
+["quibidu ladu", "Q"],
+["jani llajta", "Q"],
+["chaini llajta", "Q"],
+["indi huaicuna ladu", "Q"],
+["inti huaishicui ladu", "Q"],
+["ura llagta", "Q"],
+["ínti chingana llajta", "Q"],
+["OFRECER", "SP"],
+["ufrisina", "Q"],
+["cuna", "Q"],
+["cumbidana", "Q"],
+["cusha nina", "Q"],
+["carana", "Q"],
+["ujsiricuna", "Q"],
+["chasquichina", "Q"],
+["OIR", "SP"],
+["uyana", "Q"],
+["OJO", "SP"],
+["ñahui", "Q"],
+["ñahui lulun", "Q"],
+["ñavi lulun", "Q"],
+["ñavi", "Q"],
+["ñahuilan", "Q"],
+["OLER", "SP"],
+["mutquina", "Q"],
+["mujtina", "Q"],
+["ashnachina", "Q"],
+["ashnana", "Q"],
+["mutiquina", "Q"],
+["mutijina", "Q"],
+["OLVIDAR", "SP"],
+["cungana", "Q"],
+["OLLA", "SP"],
+["manga", "Q"],
+["caldera", "Q"],
+["OMBLIGA", "SP"],
+["pupu", "Q"],
+["ORDEÑAR", "SP"],
+["capina", "Q"],
+["chahuana", "Q"],
+["surcuna", "Q"],
+["OREJA", "SP"],
+["rinri", "Q"],
+["rinrin", "Q"],
+["ringri", "Q"],
+["ORGULLOSO", "SP"],
+["jatun tucushca", "Q"],
+["c'ari tucushca", "Q"],
+["yachaj tucushca", "Q"],
+["chinchusu", "Q"],
+["jariyashca", "Q"],
+["tisu", "Q"],
+["ORIENTE", "SP"],
+["inti llujshina ladu", "Q"],
+["urinti", "Q"],
+["lurinti", "Q"],
+["indi llujshina", "Q"],
+["indi viñai", "Q"],
+["indi jatarimuna", "Q"],
+["cutin shuj ladu", "Q"],
+["ura llajta", "Q"],
+["javaria llagta", "Q"],
+["chimba llagta", "Q"],
+["samura ladu", "Q"],
+["ORILLA", "SP"],
+["manya", "Q"],
+["p'ilu", "Q"],
+["pata", "Q"],
+["urilla", "Q"],
+["yacu ladu", "Q"],
+["yacurilla", "Q"],
+["uris", "Q"],
+["ORINA", "SP"],
+["ishpa", "Q"],
+["yacushpa", "Q"],
+["yacu ishpa", "Q"],
+["miyadu", "Q"],
+["ishpa yacu", "Q"],
+["ishpai yacu", "Q"],
+["pishipi", "Q"],
+["pichi", "Q"],
+["disahua", "Q"],
+["ORINAR", "SP"],
+["ishpana", "Q"],
+["yacu ishpana", "Q"],
+["yacushpana", "Q"],
+["miyana", "Q"],
+["cushpana", "Q"],
+["pichina", "Q"],
+["disahuana", "Q"],
+["ORO", "SP"],
+["curi", "Q"],
+["uru", "Q"],
+["culqui", "Q"],
+["ORTIGA", "SP"],
+["chini", "Q"],
+["tsini", "Q"],
+["OTRA VEZ", "SP"],
+["cutin", "Q"],
+["cutin shuj viaji", "Q"],
+["cutij", "Q"],
+["bulta", "Q"],
+["OTRO", "SP"],
+["shujtaj", "Q"],
+["shuj", "Q"],
+["cutin shuj", "Q"],
+["cai shuj", "Q"],
+["cuti shuj", "Q"],
+["chican", "Q"],
+["cutish", "Q"],
+["ORILLA DE HILO", "SP"],
+["cururu", "Q"],
+["tutu", "Q"],
+["OVILLAR", "SP"],
+["cururuna", "Q"],
+["tutuna", "Q"],
+["OVEJA", "SP"],
+["ubija", "Q"],
+["llama", "Q"],
+["OZ", "SP"],
+["usis", "Q"],
+["usus", "Q"],
+["us", "Q"],
+["usi", "Q"],
+["sapapicu", "Q"],
+["PADRASTRO", "SP"],
+["la yaya", "Q"],
+["ila taita", "Q"],
+["ila yaya", "Q"],
+["la taita", "Q"],
+["parashu", "Q"],
+["parastru", "Q"],
+["laya yaya", "Q"],
+["ichi yaya", "Q"],
+["ichi taita", "Q"],
+["PADRE", "SP"],
+["yaya", "Q"],
+["taita", "Q"],
+["papacu", "Q"],
+["papashu", "Q"],
+["PADRINO DE BAUTIZO", "SP"],
+["marcaj yaya", "Q"],
+["marcai taita", "Q"],
+["achi taita", "Q"],
+["marcaj", "Q"],
+["padrinu", "Q"],
+["marquij taita", "Q"],
+["marquij yaya", "Q"],
+["PADRINO DE MATRIMONIO", "SP"],
+["padrinu", "Q"],
+["purtiru", "Q"],
+["achicu", "Q"],
+["achi taita", "Q"],
+["achila taita", "Q"],
+["PAGANO", "SP"],
+["auca", "Q"],
+["jibaru", "Q"],
+["aushiris", "Q"],
+["mudu jinti", "Q"],
+["muspa jinti", "Q"],
+["ignuranti jinti", "Q"],
+["mana shutichishca jinti", "Q"],
+["na shutichishcachu", "Q"],
+["Diusri mana criyij", "Q"],
+["jintll", "Q"],
+["PAGAR", "SP"],
+["pagana", "Q"],
+["PAIS", "SP"],
+["llajta", "Q"],
+["llagta", "Q"],
+["mundu", "Q"],
+["páis", "Q"],
+["lugar", "Q"],
+["PAJA", "SP"],
+["paja", "Q"],
+["tamu", "Q"],
+["t'amu", "Q"],
+["jupa", "Q"],
+["raspa", "Q"],
+["PAJA", "SP"],
+["ujsha", "Q"],
+["ugsha", "Q"],
+["PAJARO", "SP"],
+["pishcu", "Q"],
+["munchi", "Q"],
+["pajaritu", "Q"],
+["pishu", "Q"],
+["PALA", "SP"],
+["pala", "Q"],
+["lampa", "Q"],
+["PALABRA", "SP"],
+["shimi", "Q"],
+["rimana", "Q"],
+["rimai", "Q"],
+["palabra", "Q"],
+["rimi", "Q"],
+["parlu", "Q"],
+["PALADAR", "SP"],
+["palágar", "Q"],
+["paláguir", "Q"],
+["plagran", "Q"],
+["palagru", "Q"],
+["palagara", "Q"],
+["langadur", "Q"],
+["tacazu", "Q"],
+["t'acazu", "Q"],
+["PALANCA", "SP"],
+["huanca", "Q"],
+["huanga", "Q"],
+["huanguna caspi", "Q"],
+["PALIDO", "SP"],
+["yuragyashca", "Q"],
+["quillu", "Q"],
+["ungushca", "Q"],
+["caspi", "Q"],
+["qui'illu", "Q"],
+["quilluyishca", "Q"],
+["quilluyashca", "Q"],
+["quillu quillu ñahui", "Q"],
+["ñahui puca puca", "Q"],
+["ñahui pucashca", "Q"],
+["PALMA", "SP"],
+["maqui shungu", "Q"],
+["maqui pamba", "Q"],
+["maqui planta", "Q"],
+["maqui plantas", "Q"],
+["maqui plana", "Q"],
+["maqui tabla", "Q"],
+["PALO", "SP"],
+["caspi", "Q"],
+["quiru", "Q"],
+["PALO PARA CAVAR PAPAS", "SP"],
+["huallmu", "Q"],
+["tula", "Q"],
+["hualmu", "Q"],
+["aspidur", "Q"],
+["PALUDISMO", "SP"],
+["chujchu ungüi", "Q"],
+["chugchu ungüi", "Q"],
+["chujchi ungüi", "Q"],
+["chujchui ungüi", "Q"],
+["palutismu", "Q"],
+["paludismu", "Q"],
+["paludismu chujchu", "Q"],
+["cujchui", "Q"],
+["PAN", "SP"],
+["tanda", "Q"],
+["PANELA", "SP"],
+["rapadura", "Q"],
+["raspadura", "Q"],
+["mishqui", "Q"],
+["panila", "Q"],
+["PANTALON", "SP"],
+["cálzun", "Q"],
+["pantálun", "Q"],
+["PANZA", "SP"],
+["huijsa", "Q"],
+["puzun", "Q"],
+["huijsasapa", "Q"],
+["vijsa", "Q"],
+["ijsa", "Q"],
+["PAÑAL", "SP"],
+["maituna", "Q"],
+["yachapa", "Q"],
+["llachapa", "Q"],
+["p'acha", "Q"],
+["pañu", "Q"],
+["trapuhua", "Q"],
+["impañalis", "Q"],
+["PAPA", "SP"],
+["papa", "Q"],
+["PARA QUE", "SP"],
+["imapaj", "Q"],
+["imabuj", "Q"],
+["imauti", "Q"],
+["imapuj", "Q"],
+["imapa", "Q"],
+["imaguti", "Q"],
+["imaj", "Q"],
+["PARALIZADO", "SP"],
+["suchu", "Q"],
+["tisu", "Q"],
+["tsugrishca", "Q"],
+["paralisu japishca", "Q"],
+["cuirpu upa", "Q"],
+["yashca", "Q"],
+["PARARSE", "SP"],
+["shayarina", "Q"],
+["PARDO", "SP"],
+["uqui", "Q"],
+["puzu", "Q"],
+["sucu", "Q"],
+["pardu", "Q"],
+["plumu", "Q"],
+["p'agna puzu", "Q"],
+["PARECER", "SP"],
+["ricurina", "Q"],
+["rijchana", "Q"],
+["parisirina", "Q"],
+["PARED", "SP"],
+["pirca", "Q"],
+["pata", "Q"],
+["yata", "Q"],
+["tafia", "Q"],
+["tapial", "Q"],
+["pirca huichi", "Q"],
+["PARIR", "SP"],
+["huachana", "Q"],
+["parina", "Q"],
+["PARTERA", "SP"],
+["partira", "Q"],
+["unguchij huarmi", "Q"],
+["huachachij", "Q"],
+["huachidura", "Q"],
+["huachachidur", "Q"],
+["huachachilún", "Q"],
+["unguchij", "Q"],
+["jambij huarmi", "Q"],
+["pacarichij", "Q"],
+["cumadruna", "Q"],
+["PARTIR", "SP"],
+["chijtana", "Q"],
+["chaupina", "Q"],
+["partina", "Q"],
+["raquina", "Q"],
+["PASADO MANANA", "SP"],
+["cayapaj cayandij", "Q"],
+["cayandi", "Q"],
+["caya yalli", "Q"],
+["caya sarun pasashca", "Q"],
+["sarun p'unzha", "Q"],
+["jayapuj jayandi", "Q"],
+["chashuj caya", "Q"],
+["chaishuj caya", "Q"],
+["caya yallij", "Q"],
+["cayapaj caya", "Q"],
+["c'ayapuj caya", "Q"],
+["caya mincha", "Q"],
+["mincha punlla", "Q"],
+["minzha punzha", "Q"],
+["PASAR", "SP"],
+["pasana", "Q"],
+["rina", "Q"],
+["PASAR", "SP"],
+["cainana", "Q"],
+["punchami pasana", "Q"],
+["PASEAR", "SP"],
+["purina", "Q"],
+["pasiana", "Q"],
+["PASTAR", "SP"],
+["michina", "Q"],
+["PASTO", "SP"],
+["qu'ihua", "Q"],
+["michi", "Q"],
+["michina", "Q"],
+["jihua", "Q"],
+["michicui", "Q"],
+["milin", "Q"],
+["PASTOR", "SP"],
+["michij", "Q"],
+["michidur", "Q"],
+["michidura", "Q"],
+["michilún", "Q"],
+["PASTORA", "SP"],
+["michij", "Q"],
+["michidur", "Q"],
+["michidura", "Q"],
+["michilún", "Q"],
+["PATA", "SP"],
+["chaqui", "Q"],
+["PATEAR", "SP"],
+["jaitana", "Q"],
+["PATIO", "SP"],
+["huasi canlla", "Q"],
+["patiu", "Q"],
+["canlla pamba", "Q"],
+["ira", "Q"],
+["pungu pamba", "Q"],
+["canchamba", "Q"],
+["PECADO", "SP"],
+["jucha", "Q"],
+["PECHO", "SP"],
+["pichu", "Q"],
+["buchi", "Q"],
+["PEDAZO", "SP"],
+["p'iti", "Q"],
+["p'aquishca", "Q"],
+["p'aqui", "Q"],
+["mirga", "Q"],
+["milga", "Q"],
+["pidasu", "Q"],
+["fiti", "Q"],
+["paqui", "Q"],
+["paquishca", "Q"],
+["truzu", "Q"],
+["PEDIR", "SP"],
+["mañana", "Q"],
+["PEGAR", "SP"],
+["juchana", "Q"],
+["jucha tucuna", "Q"],
+["jucha rurana", "Q"],
+["juchada urana", "Q"],
+["jucha gana", "Q"],
+["juchayana", "Q"],
+["picana", "Q"],
+["PEGAR CON GOLPES", "SP"],
+["macana", "Q"],
+["PEGAR CON GOMA", "SP"],
+["llutana", "Q"],
+["pigana", "Q"],
+["culana", "Q"],
+["satina", "Q"],
+["apigana", "Q"],
+["PEINAR", "SP"],
+["ñaj chana", "Q"],
+["ñagchana", "Q"],
+["PEINE", "SP"],
+["ñajcha", "Q"],
+["ñagcha", "Q"],
+["PELAR", "SP"],
+["llushtina", "Q"],
+["lluchuna", "Q"],
+["pilana", "Q"],
+["PELEAR", "SP"],
+["macanacuna", "Q"],
+["macanucuna", "Q"],
+["macanajuna", "Q"],
+["tacanacuna", "Q"],
+["tacanucuna", "Q"],
+["piliana", "Q"],
+["PELEAR", "SP"],
+["lluchuna", "Q"],
+["llushtina", "Q"],
+["pilana", "Q"],
+["carada llujshichina", "Q"],
+["PELO", "SP"],
+["millma", "Q"],
+["millhua", "Q"],
+["milma", "Q"],
+["PELO", "SP"],
+["ajcha", "Q"],
+["jajcha", "Q"],
+["juajcha", "Q"],
+["agcha", "Q"],
+["PELLIZCAR", "SP"],
+["tispina", "Q"],
+["tsitsiquina", "Q"],
+["PENA", "SP"],
+["llaqui", "Q"],
+["sustu", "Q"],
+["PENE", "SP"],
+["pishcu", "Q"],
+["ullu", "Q"],
+["bishu", "Q"],
+["PENSAMIENTO", "SP"],
+["yuyai", "Q"],
+["yuyi", "Q"],
+["pinsarina", "Q"],
+["pinsamintu", "Q"],
+["PENSAR", "SP"],
+["yayana", "Q"],
+["pinsana", "Q"],
+["mimuriana", "Q"],
+["limuriana", "Q"],
+["yuya japina", "Q"],
+["PEPA", "SP"],
+["muyu", "Q"],
+["muru", "Q"],
+["PEÑA", "SP"],
+["c'aca", "Q"],
+["jaca", "Q"],
+["c'ata", "Q"],
+["matsi", "Q"],
+["machi", "Q"],
+["rumi hiuchi", "Q"],
+["PEQUEÑO", "SP"],
+["uchilla", "Q"],
+["utilla", "Q"],
+["utila", "Q"],
+["uchila", "Q"],
+["utinlla", "Q"],
+["uchinlla", "Q"],
+["uchuilla", "Q"],
+["ichiquila", "Q"],
+["chuzu", "Q"],
+["iñu", "Q"],
+["PERDER", "SP"],
+["chingana", "Q"],
+["jichuna", "Q"],
+["quichuna", "Q"],
+["juchuna", "Q"],
+["pirdina", "Q"],
+["PERDIZ", "SP"],
+["yutu", "Q"],
+["pirdis", "Q"],
+["lutu", "Q"],
+["chaujpa", "Q"],
+["yuta", "Q"],
+["PERFORAR", "SP"],
+["utcuna", "Q"],
+["perdiz", "Q"],
+["ujtuna", "Q"],
+["jutcuna", "Q"],
+["utujuna", "Q"],
+["allana", "Q"],
+["aillana", "Q"],
+["PERICOTE", "SP"],
+["piricuti", "Q"],
+["piricu", "Q"],
+["ucucha", "Q"],
+["rata", "Q"],
+["PERMANECER", "SP"],
+["saquirina", "Q"],
+["quidana", "Q"],
+["tiyana", "Q"],
+["causana", "Q"],
+["pacarina", "Q"],
+["cainana", "Q"],
+["shuyana", "Q"],
+["PERRO", "SP"],
+["allcu", "Q"],
+["ashcu", "Q"],
+["alcu", "Q"],
+["achcu", "Q"],
+["allzhcu", "Q"],
+["PERSEGUIR", "SP"],
+["caticachina", "Q"],
+["catina", "Q"],
+["catirana", "Q"],
+["catijachina", "Q"],
+["catijichina", "Q"],
+["PERSONA", "SP"],
+["jinti", "Q"],
+["runa", "Q"],
+["jindi", "Q"],
+["PESADO", "SP"],
+["llashaj", "Q"],
+["llashij", "Q"],
+["llasha", "Q"],
+["lashij", "Q"],
+["PESAR", "SP"],
+["pizana", "Q"],
+["llashana", "Q"],
+["llashagyana", "Q"],
+["lashij cana", "Q"],
+["PESCADO", "SP"],
+["piscadu", "Q"],
+["piji", "Q"],
+["challihua", "Q"],
+["chaluhua", "Q"],
+["chaula", "Q"],
+["chalhua", "Q"],
+["challua", "Q"],
+["PESCUEZO", "SP"],
+["cunga", "Q"],
+["guguti", "Q"],
+["PESTAÑA", "SP"],
+["ñahui mi llma", "Q"],
+["ñahui pistafia", "Q"],
+["ñavi milma", "Q"],
+["ñahuilun milma", "Q"],
+["ñahui ujuti", "Q"],
+["ñahui huillma", "Q"],
+["ñahui uja", "Q"],
+["ñahui p'arp'ara", "Q"],
+["ñahui sijas", "Q"],
+["PICAFLOR", "SP"],
+["quindi", "Q"],
+["sisapica", "Q"],
+["PICANTE", "SP"],
+["yayaj", "Q"],
+["jayij", "Q"],
+["PICAR", "SP"],
+["tujsina", "Q"],
+["iquina", "Q"],
+["PICAR", "SP"],
+["canina", "Q"],
+["tispina", "Q"],
+["picana", "Q"],
+["PIE", "SP"],
+["chaqui", "Q"],
+["PIEDRA", "SP"],
+["rumi", "Q"],
+["PIEL", "SP"],
+["cara", "Q"],
+["PIERNA", "SP"],
+["changa", "Q"],
+["PILCHE", "SP"],
+["pilchi", "Q"],
+["mati", "Q"],
+["basu", "Q"],
+["PINCHAR", "SP"],
+["tujsina", "Q"],
+["tispina", "Q"],
+["chusiyana", "Q"],
+["punsana", "Q"],
+["PIOJO DE LA CABEZA", "SP"],
+["usa", "Q"],
+["PIOJO DEL CUERPO", "SP"],
+["pilis", "Q"],
+["usa", "Q"],
+["PISAR", "SP"],
+["saruna", "Q"],
+["PISO", "SP"],
+["pamha", "Q"],
+["ucu pamba", "Q"],
+["alpa", "Q"],
+["ucu tablana", "Q"],
+["altu", "Q"],
+["allpa", "Q"],
+["sarushca", "Q"],
+["pazan", "Q"],
+["PLACENTA", "SP"],
+["madri", "Q"],
+["huahua mama", "Q"],
+["huahua uma", "Q"],
+["babia", "Q"],
+["madri uma", "Q"],
+["mama madri", "Q"],
+["PLANO", "SP"],
+["pamba", "Q"],
+["pamballa", "Q"],
+["planu", "Q"],
+["llambu", "Q"],
+["planu pamba", "Q"],
+["planitu", "Q"],
+["pugru pamba", "Q"],
+["PLANTA", "SP"],
+["yura", "Q"],
+["lanta", "Q"],
+["yuyu", "Q"],
+["planta", "Q"],
+["utilla yura", "Q"],
+["PLANTA DEL PIE", "SP"],
+["chaqui plantas", "Q"],
+["chaqui pamba", "Q"],
+["chaqui shungu", "Q"],
+["chaqui pataj", "Q"],
+["chaqui plancha", "Q"],
+["PLANTAR", "SP"],
+["tarpuna", "Q"],
+["tarbuna", "Q"],
+["lantana", "Q"],
+["mallquina", "Q"],
+["PLATA", "SP"],
+["cullqui", "Q"],
+["cushqui", "Q"],
+["culqui", "Q"],
+["cuchqui", "Q"],
+["cuzhqui", "Q"],
+["PLATO", "SP"],
+["latu", "Q"],
+["platu", "Q"],
+["barru platu", "Q"],
+["turu platu", "Q"],
+["PLAYA", "SP"],
+["yacu pata", "Q"],
+["yacu playa", "Q"],
+["yacu manya", "Q"],
+["playa", "Q"],
+["yunga", "Q"],
+["yacu ucu playa", "Q"],
+["yacu pamba", "Q"],
+["yacu ladu", "Q"],
+["playas", "Q"],
+["ura pamba", "Q"],
+["PLUMA", "SP"],
+["pluma", "Q"],
+["pulma", "Q"],
+["p'luma", "Q"],
+["POBRE", "SP"],
+["huajcha", "Q"],
+["lluchu", "Q"],
+["pubri", "Q"],
+["mana charij", "Q"],
+["juyaipaj", "Q"],
+["pugri", "Q"],
+["chushaglla", "Q"],
+["huagcha", "Q"],
+["haugcha llusti", "Q"],
+["POCO", "SP"],
+["ashala", "Q"],
+["ashalla", "Q"],
+["p'itilla", "Q"],
+["asha", "Q"],
+["pishi", "Q"],
+["p'iti", "Q"],
+["ashata", "Q"],
+["p'iticulla", "Q"],
+["pichila", "Q"],
+["p'ityilla", "Q"],
+["ashilla", "Q"],
+["p'intilla", "Q"],
+["ashallitu", "Q"],
+["PODER", "SP"],
+["pudina", "Q"],
+["ushana", "Q"],
+["tucuna", "Q"],
+["balina", "Q"],
+["PODRIDO", "SP"],
+["ismushca", "Q"],
+["ismu", "Q"],
+["POLVO", "SP"],
+["ñutu allpa", "Q"],
+["pulbu", "Q"],
+["ñutu alpa", "Q"],
+["allpa pulbu", "Q"],
+["alpa fuyu", "Q"],
+["alpa cushni", "Q"],
+["ushpa", "Q"],
+["achpa pulbu", "Q"],
+["uchupa laya", "Q"],
+["bulbu", "Q"],
+["POLLITO", "SP"],
+["pullitu", "Q"],
+["chuchi", "Q"],
+["pullu", "Q"],
+["huahua pullu", "Q"],
+["utila atula", "Q"],
+["huahua pullitu", "Q"],
+["huahua atillpa", "Q"],
+["PONCHO", "SP"],
+["punchu", "Q"],
+["hualutu", "Q"],
+["ruhuana", "Q"],
+["jirga", "Q"],
+["PONER", "SP"],
+["churana", "Q"],
+["PONER HUEVOS", "SP"],
+["huachana", "Q"],
+["lunta hauchana", "Q"],
+["lulunta huachana", "Q"],
+["lulunda huachana", "Q"],
+["lulunta churana", "Q"],
+["ruruta huachana", "Q"],
+["ruruta churana", "Q"],
+["POR QUE", "SP"],
+["imamanta", "Q"],
+["imamunda", "Q"],
+["ima nisha", "Q"],
+["ima nishpa", "Q"],
+["imamunta", "Q"],
+["imashpa", "Q"],
+["imasha", "Q"],
+["imarsha", "Q"],
+["POROSO", "SP"],
+["traguyuj", "Q"],
+["ujturishca", "Q"],
+["jutcurishca", "Q"],
+["utujusapa", "Q"],
+["aujarinrishina", "Q"],
+["zácal", "Q"],
+["záquil", "Q"],
+["ajichu", "Q"],
+["arriniru", "Q"],
+["PORTERO", "SP"],
+["purtiru", "Q"],
+["pungu cuidaj", "Q"],
+["pungucama", "Q"],
+["huasi cuidaj", "Q"],
+["purtiru taita", "Q"],
+["pungu chapa", "Q"],
+["huasicama", "Q"],
+["pungu pishayaj", "Q"],
+["PORTRERO", "SP"],
+["putrirru", "Q"],
+["putriru", "Q"],
+["jihua pamba", "Q"],
+["qu'ihua pamba", "Q"],
+["putru", "Q"],
+["putiru", "Q"],
+["muya", "Q"],
+["michi pamba", "Q"],
+["POSADA", "SP"],
+["puzada", "Q"],
+["tamhu", "Q"],
+["mingachina huasi", "Q"],
+["puñuna huasi", "Q"],
+["mingana huasi", "Q"],
+["puzana", "Q"],
+["PREGUNTAR", "SP"],
+["tapuna", "Q"],
+["PRENDEDOR", "SP"],
+["tupu", "Q"],
+["tupullina", "Q"],
+["tupulina", "Q"],
+["tupulli", "Q"],
+["prindidur", "Q"],
+["PRENDER CANDELA", "SP"],
+["japichina", "Q"],
+["japina", "Q"],
+["catichina", "Q"],
+["p'ucuna", "Q"],
+["PRENDER", "SP"],
+["prizuna", "Q"],
+["prizu japina", "Q"],
+["japina", "Q"],
+["carsilman apana", "Q"],
+["prizuchina", "Q"],
+["huatana", "Q"],
+["PRESTAR", "SP"],
+["mañachina", "Q"],
+["p'iana", "Q"],
+["p'iachina", "Q"],
+["PRIMA", "SP"],
+["prima", "Q"],
+["prima pani", "Q"],
+["prima ñaña", "Q"],
+["subrina pani", "Q"],
+["subrina ñaña", "Q"],
+["pani", "Q"],
+["PRIMERO", "SP"],
+["ñaupa", "Q"],
+["punta", "Q"],
+["primiru", "Q"],
+["ñagpa", "Q"],
+["ñugpa", "Q"],
+["ñumpa", "Q"],
+["ñaupuj", "Q"],
+["jipa", "Q"],
+["japayana", "Q"],
+["punda", "Q"],
+["PRIMO", "SP"],
+["primu", "Q"],
+["primu huauqui", "Q"],
+["primu turi", "Q"],
+["subrinu huauqui", "Q"],
+["subrinu turi", "Q"],
+["turi", "Q"],
+["PRIMOGENITO", "SP"],
+["punta huahua", "Q"],
+["punda huahua", "Q"],
+["lijitimu huahua", "Q"],
+["ñagpa huahua", "Q"],
+["ñahui hauhua", "Q"],
+["PROBAR", "SP"],
+["mallina", "Q"],
+["prubana", "Q"],
+["imalayashca ricuna", "Q"],
+["malina", "Q"],
+["llamina", "Q"],
+["PROFESOR", "SP"],
+["yachachij", "Q"],
+["maistru", "Q"],
+["dilituriu", "Q"],
+["dirijtur", "Q"],
+["yachachilun", "Q"],
+["PROFUNDO", "SP"],
+["jundu", "Q"],
+["ucu", "Q"],
+["undu", "Q"],
+["huaicu", "Q"],
+["PRONTO", "SP"],
+["utca", "Q"],
+["ujta", "Q"],
+["cai ratu", "Q"],
+["cutsi", "Q"],
+["utiya", "Q"],
+["ujtushca", "Q"],
+["PROPIO", "SP"],
+["quiquin", "Q"],
+["prupiu", "Q"],
+["duiñu", "Q"],
+["diñu", "Q"],
+["PUDRIRSE", "SP"],
+["ismuna", "Q"],
+["PUEBLO", "SP"],
+["llajta", "Q"],
+["puiblu", "Q"],
+["PUENTE", "SP"],
+["chaca", "Q"],
+["PUERCO", "SP"],
+["c'uchi", "Q"],
+["cuchi", "Q"],
+["juchi", "Q"],
+["PUERTA", "SP"],
+["pungu", "Q"],
+["PUESTO", "SP"],
+["puistu", "Q"],
+["puente", "Q"],
+["pushtu", "Q"],
+["PULGA", "SP"],
+["piqui", "Q"],
+["PULIR", "SP"],
+["llambuyachina", "Q"],
+["llambuna", "Q"],
+["llambuchina", "Q"],
+["llambuyana", "Q"],
+["lahrana", "Q"],
+["pulillana", "Q"],
+["llushcayachina", "Q"],
+["lluchayachina", "Q"],
+["PULGAR", "SP"],
+["mama didu", "Q"],
+["PULMONES", "SP"],
+["yuraj shungu", "Q"],
+["yuruj shungu", "Q"],
+["pulmun", "Q"],
+["pulmunis", "Q"],
+["púrmun", "Q"],
+["putu shungu", "Q"],
+["PUNTA", "SP"],
+["punta", "Q"],
+["punda", "Q"],
+["PUÑADO", "SP"],
+["maqui junda", "Q"],
+["lutsun", "Q"],
+["maqui lutsun", "Q"],
+["lutsun", "Q"],
+["chuzun", "Q"],
+["chuzunquina", "Q"],
+["lutsai", "Q"],
+["zugzug", "Q"],
+["maquilla", "Q"],
+["PUÑO", "SP"],
+["muquiti", "Q"],
+["puñitis", "Q"],
+["puñiti", "Q"],
+["ulun maqui", "Q"],
+["maquita curpashca", "Q"],
+["muquita", "Q"],
+["maquiti", "Q"],
+["maqui pigtuna", "Q"],
+["PUPILA", "SP"],
+["ñahui anjil", "Q"],
+["ñavi anjil", "Q"],
+["ñahuilun anjil", "Q"],
+["ñahui muru", "Q"],
+["ñavi Santa Lusiya", "Q"],
+["PUS", "SP"],
+["quiya", "Q"],
+["incunu", "Q"],
+["chupu", "Q"],
+["chugrishca", "Q"],
+["tsugrishca", "Q"],
+["QUE", "SP"],
+["ima", "Q"],
+["QUE CALOR", "SP"],
+["ararái", "Q"],
+["araráu", "Q"],
+["astaráu", "Q"],
+["QUE CLASE", "SP"],
+["ima laya", "Q"],
+["ima yala", "Q"],
+["ima shina", "Q"],
+["QUE DOLOR", "SP"],
+["ayayái", "Q"],
+["QUE FRIO", "SP"],
+["achachái", "Q"],
+["atsatsái", "Q"],
+["QUEBRADA", "SP"],
+["huaicu", "Q"],
+["c'aca", "Q"],
+["jaca", "Q"],
+["pugru", "Q"],
+["QUEBRAR", "SP"],
+["p'aquina", "Q"],
+["faquina", "Q"],
+["paquina", "Q"],
+["QUEDARSE", "SP"],
+["saquirina", "Q"],
+["QUEMAR", "SP"],
+["rupachina", "Q"],
+["rupana", "Q"],
+["QUERER", "SP"],
+["munana", "Q"],
+["nina", "Q"],
+["c'uyana", "Q"],
+["cuyana", "Q"],
+["ricunachina", "Q"],
+["QUICHUA", "SP"],
+["runa shimi", "Q"],
+["inga shima", "Q"],
+["inga", "Q"],
+["inga parlu", "Q"],
+["inguiru", "Q"],
+["inguichu", "Q"],
+["quichua", "Q"],
+["yanga shimi", "Q"],
+["inga parlana", "Q"],
+["QUIEN", "SP"],
+["pi", "Q"],
+["maijin", "Q"],
+["majin", "Q"],
+["maijun", "Q"],
+["maijan", "Q"],
+["maican", "Q"],
+["QUIENQUIERA", "SP"],
+["pipish", "Q"],
+["pipash", "Q"],
+["maijimbish", "Q"],
+["pibish", "Q"],
+["maijin gashash", "Q"],
+["pipurabish", "Q"],
+["pipurish", "Q"],
+["majin gashash", "Q"],
+["majish", "Q"],
+["maijanchari", "Q"],
+["pichari", "Q"],
+["pish", "Q"],
+["pi gashash", "Q"],
+["maicampish", "Q"],
+["QUIETO", "SP"],
+["casila", "Q"],
+["casilla", "Q"],
+["chulun", "Q"],
+["umildi", "Q"],
+["quitu", "Q"],
+["upalla", "Q"],
+["allimanda", "Q"],
+["tiyilla", "Q"],
+["tiyailla", "Q"],
+["tiyaglla", "Q"],
+["chunla", "Q"],
+["upala", "Q"],
+["QUIJADA", "SP"],
+["quijadus", "Q"],
+["quijada", "Q"],
+["jita", "Q"],
+["cashtunas", "Q"],
+["shirni jita", "Q"],
+["quijaru", "Q"],
+["jazhlin", "Q"],
+["uya", "Q"],
+["jasha", "Q"],
+["quijadas", "Q"],
+["RABO", "SP"],
+["chuna", "Q"],
+["RACIMO", "SP"],
+["rasimu", "Q"],
+["huangu", "Q"],
+["malqui", "Q"],
+["luntsa", "Q"],
+["cabiza", "Q"],
+["urna", "Q"],
+["rama", "Q"],
+["marcai", "Q"],
+["gaju", "Q"],
+["RAIZ", "SP"],
+["sapi", "Q"],
+["angu", "Q"],
+["RAJAR", "SP"],
+["chijtana", "Q"],
+["chilpina", "Q"],
+["rajana", "Q"],
+["jachana", "Q"],
+["chaupina", "Q"],
+["RALLAR", "SP"],
+["aspina", "Q"],
+["rasnana", "Q"],
+["rallana", "Q"],
+["llagllana", "Q"],
+["trahajana", "Q"],
+["e'acuna", "Q"],
+["RAMA", "SP"],
+["rama", "Q"],
+["caspi", "Q"],
+["malqui", "Q"],
+["RAPIDO", "SP"],
+["utca", "Q"],
+["ujta", "Q"],
+["ratu", "Q"],
+["ligiru", "Q"],
+["utiya", "Q"],
+["ujtallahua", "Q"],
+["huli", "Q"],
+["utcai", "Q"],
+["apurai", "Q"],
+["utsiya", "Q"],
+["RASCAR", "SP"],
+["aspina", "Q"],
+["RASPAR", "SP"],
+["aspina", "Q"],
+["RATON", "SP"],
+["ucucha", "Q"],
+["ucuchu", "Q"],
+["RAYO", "SP"],
+["rayu", "Q"],
+["rilampagu", "Q"],
+["ficha", "Q"],
+["alumbra", "Q"],
+["inti chaqui", "Q"],
+["rilamna", "Q"],
+["rilampaj", "Q"],
+["REBAJAR", "SP"],
+["ribajana", "Q"],
+["bajana", "Q"],
+["uriyachina", "Q"],
+["bajuyachina", "Q"],
+["urijuchina", "Q"],
+["REBOZO", "SP"],
+["p'achallina", "Q"],
+["baita", "Q"],
+["manta", "Q"],
+["ribuzu", "Q"],
+["lliglla", "Q"],
+["fachalina", "Q"],
+["chalina", "Q"],
+["jalina", "Q"],
+["p'achalli", "Q"],
+["ullira", "Q"],
+["pachalli", "Q"],
+["pullu", "Q"],
+["huallcarina", "Q"],
+["REBUSCAR", "SP"],
+["mashcana", "Q"],
+["ch'alana", "Q"],
+["chalana", "Q"],
+["chaillana", "Q"],
+["chujchina", "Q"],
+["pallajuna", "Q"],
+["chalina", "Q"],
+["challina", "Q"],
+["RECIBIR", "SP"],
+["chasquina", "Q"],
+["japina", "Q"],
+["RECLINARSE", "SP"],
+["siririna", "Q"],
+["sirijuna", "Q"],
+["quinrillami gana", "Q"],
+["andarina", "Q"],
+["samana", "Q"],
+["quimirina", "Q"],
+["RECODO", "SP"],
+["quingu", "Q"],
+["curva", "Q"],
+["cudu", "Q"],
+["tingu", "Q"],
+["arcu larca", "Q"],
+["muyui", "Q"],
+["quinri", "Q"],
+["RECOGER", "SP"],
+["tandachina", "Q"],
+["tandana", "Q"],
+["pallana", "Q"],
+["japina", "Q"],
+["RECORDAR", "SP"],
+["yuyarina", "Q"],
+["yuyana", "Q"],
+["SECTO", "SP"],
+["dirichu", "Q"],
+["rijtu", "Q"],
+["largu ñan", "Q"],
+["largu", "Q"],
+["RED", "SP"],
+["linlli", "Q"],
+["rid", "Q"],
+["shigra", "Q"],
+["llica", "Q"],
+["sigra", "Q"],
+["llinlli", "Q"],
+["facha", "Q"],
+["p'acha", "Q"],
+["REDONDO", "SP"],
+["muyundij", "Q"],
+["bumha tucushca", "Q"],
+["muyu", "Q"],
+["muyushca", "Q"],
+["muyundi", "Q"],
+["ruida", "Q"],
+["ridundu", "Q"],
+["bulungu", "Q"],
+["REGALAR", "SP"],
+["cumbidana", "Q"],
+["rigalana", "Q"],
+["cunbidana", "Q"],
+["carana", "Q"],
+["REGAR AGUA", "SP"],
+["jichana", "Q"],
+["tarpugrina", "Q"],
+["parcuna", "Q"],
+["rigana", "Q"],
+["tallina", "Q"],
+["talina", "Q"],
+["yayuna", "Q"],
+["REGAR COSAS", "SP"],
+["jichana", "Q"],
+["tindina", "Q"],
+["chajcuna", "Q"],
+["yayuna", "Q"],
+["rigana", "Q"],
+["sitana", "Q"],
+["REGAR PAJA", "SP"],
+["jichana", "Q"],
+["shighuana", "Q"],
+["sighuana", "Q"],
+["shiquina", "Q"],
+["tindina", "Q"],
+["rigana", "Q"],
+["REGRESAR", "SP"],
+["tigrana", "Q"],
+["bultana", "Q"],
+["builtana", "Q"],
+["cutina", "Q"],
+["REIR", "SP"],
+["asina", "Q"],
+["RELAMPAGO", "SP"],
+["achij nina", "Q"],
+["rilampagu", "Q"],
+["rilampa", "Q"],
+["rayu", "Q"],
+["flichana", "Q"],
+["rilampaj", "Q"],
+["REMEDAR", "SP"],
+["yachapayana", "Q"],
+["rimidana", "Q"],
+["yachabayana", "Q"],
+["REMEDIO", "SP"],
+["jamhi", "Q"],
+["REMENDAR", "SP"],
+["rimindana", "Q"],
+["sirana", "Q"],
+["p'utiuna", "Q"],
+["REMOJAR", "SP"],
+["jucuchina", "Q"],
+["nuyuchina", "Q"],
+["ñuñuchina", "Q"],
+["apiyachina", "Q"],
+["shutuchina", "Q"],
+["lapugyachina", "Q"],
+["REMOLINO", "SP"],
+["acapana", "Q"],
+["rimulinu", "Q"],
+["REPARAR", "SP"],
+["allichina", "Q"],
+["parijachina", "Q"],
+["alichina", "Q"],
+["REPENTE", "SP"],
+["di ripinti", "Q"],
+["huaquimbi", "Q"],
+["huaquin", "Q"],
+["cungashcaipi", "Q"],
+["hauquimpi", "Q"],
+["shuj ratu", "Q"],
+["huaquinllabi", "Q"],
+["cungai", "Q"],
+["maijan ratu", "Q"],
+["cungalla", "Q"],
+["REPETIR", "SP"],
+["cutin rurana", "Q"],
+["cutina", "Q"],
+["cutichina", "Q"],
+["yapana", "Q"],
+["yapachina", "Q"],
+["cutimbish urana", "Q"],
+["ripitina", "Q"],
+["yapa rurana", "Q"],
+["cutin shuj builta rurana", "Q"],
+["ran rurana", "Q"],
+["RESALADIZO", "SP"],
+["lluchca", "Q"],
+["llushca", "Q"],
+["lluchica", "Q"],
+["llushpi", "Q"],
+["llamba", "Q"],
+["llamhu", "Q"],
+["RESBALARSE", "SP"],
+["lluchcana", "Q"],
+["llushcana", "Q"],
+["lluchicana", "Q"],
+["llushpirina", "Q"],
+["RESIDUO", "SP"],
+["subra", "Q"],
+["nuchu", "Q"],
+["jantsi", "Q"],
+["shushuna", "Q"],
+["jamzi", "Q"],
+["suhrita", "Q"],
+["RESINA", "SP"],
+["huiqui", "Q"],
+["viqui", "Q"],
+["guma", "Q"],
+["miguiyashca", "Q"],
+["llausa", "Q"],
+["RESPIRAR", "SP"],
+["samaita aisana", "Q"],
+["sami cachana", "Q"],
+["samana", "Q"],
+["rispirana", "Q"],
+["sami llujshina", "Q"],
+["p'ucuna", "Q"],
+["RESPONDER", "SP"],
+["cutichina", "Q"],
+["cuntistana", "Q"],
+["tigrachina", "Q"],
+["bultachina", "Q"],
+["builtachina", "Q"],
+["rispundina", "Q"],
+["RESTITUIR", "SP"],
+["tigrachina", "Q"],
+["aliichina", "Q"],
+["bultachina", "Q"],
+["cutichina", "Q"],
+["ristituina", "Q"],
+["RETENER", "SP"],
+["jarcana", "Q"],
+["charina", "Q"],
+["charirina", "Q"],
+["huaquichina", "Q"],
+["huacaichina", "Q"],
+["chutana", "Q"],
+["jinchijuna", "Q"],
+["aisana", "Q"],
+["shuyachina", "Q"],
+["RETIRAR", "SP"],
+["anchuchina", "Q"],
+["anlluna", "Q"],
+["chutana", "Q"],
+["aisana", "Q"],
+["quichuna", "Q"],
+["caruyachina", "Q"],
+["RETOÑAR", "SP"],
+["huiñana", "Q"],
+["uticu huiñana", "Q"],
+["viñarina", "Q"],
+["utila rituñajuna", "Q"],
+["tsiga huiñana", "Q"],
+["bultarina", "Q"],
+["cutin iñarina", "Q"],
+["huiñarina", "Q"],
+["butyana", "Q"],
+["brutana", "Q"],
+["shuruna", "Q"],
+["RETOÑO", "SP"],
+["huiñashca", "Q"],
+["malqui", "Q"],
+["huiñajui", "Q"],
+["huiñana", "Q"],
+["utilahua huiñamujui", "Q"],
+["tsigashca", "Q"],
+["rituñu", "Q"],
+["huiñagui", "Q"],
+["shurushca", "Q"],
+["RETORCER", "SP"],
+["cauchuna", "Q"],
+["caupuna", "Q"],
+["tursina", "Q"],
+["REUNION", "SP"],
+["tandanacuna", "Q"],
+["tandanacui", "Q"],
+["tandanachi", "Q"],
+["tandanajui", "Q"],
+["tandachina", "Q"],
+["tandanuqui", "Q"],
+["tandarina", "Q"],
+["REUNIRSE", "SP"],
+["tandanacuna", "Q"],
+["tandarina", "Q"],
+["tandanajuna", "Q"],
+["mundunana", "Q"],
+["muntunana", "Q"],
+["REVENTAR", "SP"],
+["tugyana", "Q"],
+["tugyachina", "Q"],
+["REVES", "SP"],
+["huasha laduman", "Q"],
+["al ríbis", "Q"],
+["lluqui", "Q"],
+["panda", "Q"],
+["lluquimun", "Q"],
+["ladumun", "Q"],
+["panta", "Q"],
+["siqui laclu", "Q"],
+["ucu ladu", "Q"],
+["bultachisha", "Q"],
+["uma churushca", "Q"],
+["tigraman", "Q"],
+["shuj laduman", "Q"],
+["REVOLCAR", "SP"],
+["singuna", "Q"],
+["urmachina", "Q"],
+["bultachina", "Q"],
+["ribulcana", "Q"],
+["simbuna", "Q"],
+["zinguna", "Q"],
+["REVOLVERSE", "SP"],
+["cuyurina", "Q"],
+["tigrarina", "Q"],
+["muyurina", "Q"],
+["muyuna", "Q"],
+["bultachina", "Q"],
+["RICO", "SP"],
+["charij", "Q"],
+["ricu", "Q"],
+["charij tucushca", "Q"],
+["chayuj", "Q"],
+["culquiyuj", "Q"],
+["RIGIDO", "SP"],
+["sinchi", "Q"],
+["caspiyashca", "Q"],
+["shinlli", "Q"],
+["jinchi", "Q"],
+["aruyashca", "Q"],
+["jinchiyashca", "Q"],
+["tisuyashca", "Q"],
+["caspi", "Q"],
+["tisu", "Q"],
+["rataj", "Q"],
+["ratuj", "Q"],
+["RTNCON", "SP"],
+["cuchu", "Q"],
+["juchu", "Q"],
+["isquina", "Q"],
+["pata isquina", "Q"],
+["cunchu", "Q"],
+["RIO", "SP"],
+["jatun yacu", "Q"],
+["yacu", "Q"],
+["larca", "Q"],
+["jati yacu", "Q"],
+["RIOBAMBA", "SP"],
+["Rimba", "Q"],
+["Riubamba", "Q"],
+["Rubamba", "Q"],
+["Ribamba", "Q"],
+["Billa", "Q"],
+["ROBAR", "SP"],
+["shuhuana", "Q"],
+["shuhuarina", "Q"],
+["jilluna", "Q"],
+["ROCIO", "SP"],
+["shulla", "Q"],
+["sirinu", "Q"],
+["rasu", "Q"],
+["angulla", "Q"],
+["rusiu", "Q"],
+["p'utzutzu", "Q"],
+["sulla", "Q"],
+["chulla", "Q"],
+["p'uga", "Q"],
+["sarpa", "Q"],
+["RODAR", "SP"],
+["singuna", "Q"],
+["muyuna", "Q"],
+["pilutarina", "Q"],
+["urmana", "Q"],
+["RODEAR", "SP"],
+["muyuna", "Q"],
+["builtacuna", "Q"],
+["RODELA", "SP"],
+["sijsij", "Q"],
+["piruru", "Q"],
+["puchcana huangu", "Q"],
+["sijsi", "Q"],
+["sigsi", "Q"],
+["uzu", "Q"],
+["RODILLA", "SP"],
+["cunguri", "Q"],
+["pingullu", "Q"],
+["cungurina", "Q"],
+["mucu", "Q"],
+["ROER", "SP"],
+["cashtuna", "Q"],
+["cachuna", "Q"],
+["mutusquina", "Q"],
+["ROGAR", "SP"],
+["mañana", "Q"],
+["rugana", "Q"],
+["ROJO", "SP"],
+["puca", "Q"],
+["ROMPER", "SP"],
+["p'aquina", "Q"],
+["lliquina", "Q"],
+["p'itina", "Q"],
+["faquina", "Q"],
+["RONDADOR", "SP"],
+["runduna", "Q"],
+["rundadur", "Q"],
+["BONRONNEAR", "SP"],
+["pushcana", "Q"],
+["runcana", "Q"],
+["caupuna", "Q"],
+["puchcana", "Q"],
+["murnicuna", "Q"],
+["marau marau nina", "Q"],
+["puchana", "Q"],
+["rum nina", "Q"],
+["ROPA", "SP"],
+["churana", "Q"],
+["trasti", "Q"],
+["churacuna", "Q"],
+["churajuna", "Q"],
+["RUBIO", "SP"],
+["puca uma", "Q"],
+["sucu", "Q"],
+["hirmiju", "Q"],
+["puca ajcha", "Q"],
+["yuruj uma", "Q"],
+["sarcus", "Q"],
+["RUIDO", "SP"],
+["bulla", "Q"],
+["huacai", "Q"],
+["ruido", "Q"],
+["caparigu", "Q"],
+["RUINA", "SP"],
+["shitashca huasi", "Q"],
+["dañarishca huasi", "Q"],
+["sitashca huasi", "Q"],
+["shitarishca huasi", "Q"],
+["paya huasi", "Q"],
+["urmacuj huasi", "Q"],
+["huasi yata", "Q"],
+["biju huasi", "Q"],
+["RUMIAR", "SP"],
+["mucuna", "Q"],
+["rimulina", "Q"],
+["mulina", "Q"],
+["acuna", "Q"],
+["cutana", "Q"],
+["cashturina", "Q"],
+["cascana", "Q"],
+["tigrachishpa cashtuna", "Q"],
+["micuna", "Q"],
+["SABER", "SP"],
+["yachana", "Q"],
+["SABIO", "SP"],
+["yachaj", "Q"],
+["yachij", "Q"],
+["intindij", "Q"],
+["ashca pinsamintu charij", "Q"],
+["SABROSO", "SP"],
+["mishqui", "Q"],
+["sabruzu", "Q"],
+["alli", "Q"],
+["sumaj", "Q"],
+["SACAR", "SP"],
+["llujshichina", "Q"],
+["surcuna", "Q"],
+["llujchina", "Q"],
+["llugchina", "Q"],
+["SACERDOTE", "SP"],
+["taita cura", "Q"],
+["cura", "Q"],
+["yaya cura", "Q"],
+["SACUDIR", "SP"],
+["chaspina", "Q"],
+["chafsina", "Q"],
+["sacudina", "Q"],
+["SAL", "SP"],
+["cachi", "Q"],
+["SALCEDO", "SP"],
+["Salsidu", "Q"],
+["San Miguel", "Q"],
+["Llajta", "Q"],
+["SALIR", "SP"],
+["llujshina", "Q"],
+["llugshina", "Q"],
+["SALIVA", "SP"],
+["ty'uca", "Q"],
+["t'uca", "Q"],
+["tuca", "Q"],
+["chuca", "Q"],
+["llausa", "Q"],
+["lausa", "Q"],
+["SALTAR", "SP"],
+["saltana", "Q"],
+["brincana", "Q"],
+["fahuana", "Q"],
+["tincana", "Q"],
+["jahuana", "Q"],
+["SALVAJE", "SP"],
+["auca", "Q"],
+["sacha runa", "Q"],
+["jibaru", "Q"],
+["aushiris", "Q"],
+["alama", "Q"],
+["iriji", "Q"],
+["salbaji", "Q"],
+["SANAR", "SP"],
+["alliyana", "Q"],
+["jamibina", "Q"],
+["alli tucuna", "Q"],
+["ali tucuna", "Q"],
+["aliyachina", "Q"],
+["sanuyana", "Q"],
+["SANDALIA", "SP"],
+["pargati", "Q"],
+["ushuta", "Q"],
+["changlita", "Q"],
+["pargatis", "Q"],
+["alfargata", "Q"],
+["alparagati", "Q"],
+["sitibidas", "Q"],
+["SANGRE", "SP"],
+["yahuarr", "Q"],
+["yaür", "Q"],
+["ñahuar", "Q"],
+["SAPO", "SP"],
+["sapu", "Q"],
+["jambatu", "Q"],
+["jambatyu", "Q"],
+["jamhatyuj", "Q"],
+["amhatyu", "Q"],
+["hualaj", "Q"],
+["huartaj", "Q"],
+["ty'ungil", "Q"],
+["SARNA", "SP"],
+["caracha", "Q"],
+["sisu", "Q"],
+["shijsi", "Q"],
+["izi", "Q"],
+["igzi", "Q"],
+["llaga", "Q"],
+["SECARSE", "SP"],
+["chaquina", "Q"],
+["chaquirina", "Q"],
+["SECO", "SP"],
+["chaquishca", "Q"],
+["chaquichishca", "Q"],
+["chaqui", "Q"],
+["SECRETAMENTE", "SP"],
+["pacalla", "Q"],
+["upalla", "Q"],
+["pacalla", "Q"],
+["upala", "Q"],
+["SED", "SP"],
+["yacunayai", "Q"],
+["yacunai", "Q"],
+["yacuni", "Q"],
+["chaqui", "Q"],
+["SEGAR", "SP"],
+["sigana", "Q"],
+["pallana", "Q"],
+["cuchuna", "Q"],
+["cuzichana", "Q"],
+["p'itina", "Q"],
+["tandachina", "Q"],
+["chujchina", "Q"],
+["huajtana", "Q"],
+["SEGUIR", "SP"],
+["catina", "Q"],
+["c'atina", "Q"],
+["catish rina", "Q"],
+["SEIS", "SP"],
+["sujta", "Q"],
+["SELVA", "SP"],
+["sacha", "Q"],
+["sacha urcu", "Q"],
+["jatun sacha", "Q"],
+["urcu", "Q"],
+["lumas", "Q"],
+["SEMBRAR", "SP"],
+["tarpuna", "Q"],
+["shitana", "Q"],
+["jichana", "Q"],
+["SEMENTERA", "SP"],
+["chagra", "Q"],
+["tsagra", "Q"],
+["pampa", "Q"],
+["simintira", "Q"],
+["pushtu", "Q"],
+["allpa", "Q"],
+["tarpuna allpa", "Q"],
+["SEMILLA", "SP"],
+["muyu", "Q"],
+["SENDERO", "SP"],
+["chaqui ñan", "Q"],
+["grada", "Q"],
+["pasamanu", "Q"],
+["SENO", "SP"],
+["chuchu", "Q"],
+["ñuñu", "Q"],
+["chucu", "Q"],
+["quinllulli", "Q"],
+["quinlluli", "Q"],
+["quinllu", "Q"],
+["SENTARSE", "SP"],
+["tiyarina", "Q"],
+["SEPARAR", "SP"],
+["chicanyachina", "Q"],
+["chicanyana", "Q"],
+["siparana", "Q"],
+["partina", "Q"],
+["anchuchina", "Q"],
+["raquina", "Q"],
+["shicanyachina", "Q"],
+["SEPARADO", "SP"],
+["chican", "Q"],
+["siparadu", "Q"],
+["chiquinyashca", "Q"],
+["chicanyashca", "Q"],
+["shican", "Q"],
+["raquishca", "Q"],
+["SER", "SP"],
+["cana", "Q"],
+["gana", "Q"],
+["SESGO", "SP"],
+["huishtu", "Q"],
+["ishtu", "Q"],
+["gachu", "Q"],
+["quingu", "Q"],
+["SESO", "SP"],
+["ñutcu", "Q"],
+["ñujtu", "Q"],
+["ñutuju", "Q"],
+["urna ñujtu", "Q"],
+["mundungu ñutcu", "Q"],
+["SI", "SP"],
+["ari", "Q"],
+["SIEMPRE", "SP"],
+["simpri", "Q"],
+["tucui ratu", "Q"],
+["tucui timpu", "Q"],
+["tuqui timpu", "Q"],
+["tuqui bida", "Q"],
+["tucui uras", "Q"],
+["chaisir", "Q"],
+["caillapitaj", "Q"],
+["SIERRA", "SP"],
+["jahua llajta", "Q"],
+["sirra", "Q"],
+["urcu", "Q"],
+["SIETE", "SP"],
+["canchis", "Q"],
+["SIGUIENTE", "SP"],
+["cati", "Q"],
+["catij", "Q"],
+["qu'ipa", "Q"],
+["jipa", "Q"],
+["c'atinacui", "Q"],
+["SILENCIO", "SP"],
+["upalla", "Q"],
+["upala", "Q"],
+["chulunlla", "Q"],
+["chulunla", "Q"],
+["illaj", "Q"],
+["illij", "Q"],
+["SIN PAREJA", "SP"],
+["chulla", "Q"],
+["SIN PUNTA", "SP"],
+["punta illaj", "Q"],
+["tugmu", "Q"],
+["punta illij", "Q"],
+["chumu", "Q"],
+["tullmu", "Q"],
+["bruncu", "Q"],
+["putu", "Q"],
+["muchu", "Q"],
+["mutuluyashca", "Q"],
+["mutu", "Q"],
+["SIN SAL", "SP"],
+["chamuj", "Q"],
+["gamu", "Q"],
+["chamu", "Q"],
+["chanlla", "Q"],
+["chamaj", "Q"],
+["cachi illan", "Q"],
+["cachi illij", "Q"],
+["aminda", "Q"],
+["chama", "Q"],
+["chijsa", "Q"],
+["man allichishca", "Q"],
+["SOBACO", "SP"],
+["rigra ucu", "Q"],
+["subacu", "Q"],
+["cashu", "Q"],
+["rigra juchu", "Q"],
+["arca", "Q"],
+["suhacu ucu", "Q"],
+["SOBAR", "SP"],
+["c'acuna", "Q"],
+["jacuna", "Q"],
+["masana", "Q"],
+["huajtana", "Q"],
+["subana", "Q"],
+["dalina", "Q"],
+["batana", "Q"],
+["SOBRAR", "SP"],
+["puchuna", "Q"],
+["suhrana", "Q"],
+["SOBRINA", "SP"],
+["subrina", "Q"],
+["SOBRINO", "SP"],
+["subrinu", "Q"],
+["SOFOCAR", "SP"],
+["augana", "Q"],
+["ajugana", "Q"],
+["aguarina", "Q"],
+["augarina", "Q"],
+["jumbichina", "Q"],
+["mana sami cachana", "Q"],
+["aturana", "Q"],
+["chucarina", "Q"],
+["sami jarcarina", "Q"],
+["samaita jarcana", "Q"],
+["mana p'ucuna", "Q"],
+["samaita mana cachai pudina", "Q"],
+["samai jarcarina", "Q"],
+["shaicuna", "Q"],
+["jarcarina", "Q"],
+["ujurina", "Q"],
+["SOGA", "SP"],
+["huasca", "Q"],
+["SOL", "SP"],
+["inti", "Q"],
+["indi", "Q"],
+["rupi", "Q"],
+["rupai", "Q"],
+["SOLO", "SP"],
+["sapalla", "Q"],
+["shuglla", "Q"],
+["pailla", "Q"],
+["shugla", "Q"],
+["sapala", "Q"],
+["sulu", "Q"],
+["sululla", "Q"],
+["sulitu", "Q"],
+["SOLTAR", "SP"],
+["cacharina", "Q"],
+["pascarina", "Q"],
+["jichuna", "Q"],
+["SOLTERA", "SP"],
+["sultira", "Q"],
+["lunga", "Q"],
+["muza", "Q"],
+["huambra", "Q"],
+["SOLTERO", "SP"],
+["sultiru", "Q"],
+["muzu", "Q"],
+["lungu", "Q"],
+["SOMBRA", "SP"],
+["llandu", "Q"],
+["sumbra", "Q"],
+["alma", "Q"],
+["lantu", "Q"],
+["aya", "Q"],
+["SOMBRERO", "SP"],
+["sumirru", "Q"],
+["sumiru", "Q"],
+["sumbiru", "Q"],
+["sumbrirru", "Q"],
+["surnbriru", "Q"],
+["sumbirru", "Q"],
+["suriru", "Q"],
+["jambatu sumbiru", "Q"],
+["muchiju", "Q"],
+["utu", "Q"],
+["panza de burru", "Q"],
+["SONREIR", "SP"],
+["asirina", "Q"],
+["asina", "Q"],
+["cushiyana", "Q"],
+["asisha nina", "Q"],
+["aligri tucuna", "Q"],
+["SOÑAR", "SP"],
+["muscuna", "Q"],
+["muspana", "Q"],
+["suñuna", "Q"],
+["suiñuna", "Q"],
+["SOPA", "SP"],
+["micuna", "Q"],
+["lugru", "Q"],
+["supa", "Q"],
+["api", "Q"],
+["mazamura", "Q"],
+["caldu", "Q"],
+["cachi yanushca", "Q"],
+["p'idiu", "Q"],
+["micui", "Q"],
+["yangalla micuna", "Q"],
+["api micuna", "Q"],
+["SOPLAR", "SP"],
+["p'ucuna", "Q"],
+["fucuna", "Q"],
+["samaita churana", "Q"],
+["SORDO", "SP"],
+["mana uyaj", "Q"],
+["surdu", "Q"],
+["upa rinri", "Q"],
+["na intindi", "Q"],
+["tuntu", "Q"],
+["pillca", "Q"],
+["rinri mana uya", "Q"],
+["rinrita ungushca", "Q"],
+["surdu man uya", "Q"],
+["SOSTENER", "SP"],
+["charina", "Q"],
+["charirina", "Q"],
+["quimichina", "Q"],
+["mantinina", "Q"],
+["jinchichina", "Q"],
+["jinchi tucuna", "Q"],
+["huancana", "Q"],
+["sujitana", "Q"],
+["cuntinina", "Q"],
+["SUAVE", "SP"],
+["jahuala", "Q"],
+["jahualla", "Q"],
+["blandu", "Q"],
+["ñutulln", "Q"],
+["api", "Q"],
+["apilla", "Q"],
+["amuglla", "Q"],
+["amugla", "Q"],
+["shamba", "Q"],
+["samba", "Q"],
+["c'angalla", "Q"],
+["juhualla", "Q"],
+["ñutuhua", "Q"],
+["ñutitu", "Q"],
+["juiñutitu", "Q"],
+["panguila", "Q"],
+["cahia", "Q"],
+["SUAVIZAR", "SP"],
+["blanduyachina", "Q"],
+["apiyachina", "Q"],
+["amugyachina", "Q"],
+["landuchina", "Q"],
+["cacuna", "Q"],
+["suabida rurana", "Q"],
+["jahuallayachina", "Q"],
+["c'acuna", "Q"],
+["jahualayachina", "Q"],
+["llamhayachina", "Q"],
+["sambayachina", "Q"],
+["ñutuchina", "Q"],
+["SUBIDA", "SP"],
+["huichi", "Q"],
+["huichai", "Q"],
+["llujshina", "Q"],
+["vichai", "Q"],
+["ichi", "Q"],
+["patai", "Q"],
+["sicana", "Q"],
+["SUBIR", "SP"],
+["jahuayana", "Q"],
+["sicana", "Q"],
+["huichiyana", "Q"],
+["llujshina", "Q"],
+["vitsana", "Q"],
+["huichi sicana", "Q"],
+["ichimu rina", "Q"],
+["pataiyana", "Q"],
+["hiuchícuna", "Q"],
+["SUCEDER", "SP"],
+["tucuna", "Q"],
+["pasana", "Q"],
+["susidina", "Q"],
+["SUCESIVAMENTE", "SP"],
+["cati catilla", "Q"],
+["cati catila", "Q"],
+["cati cati", "Q"],
+["SUCIEDAD", "SP"],
+["mapa", "Q"],
+["c'arca", "Q"],
+["carca", "Q"],
+["muglla", "Q"],
+["majada", "Q"],
+["SUCIO", "SP"],
+["mapa", "Q"],
+["shuyu", "Q"],
+["c'arca", "Q"],
+["carca", "Q"],
+["muglla", "Q"],
+["c'ahui", "Q"],
+["javi", "Q"],
+["hualuj", "Q"],
+["chushij", "Q"],
+["SUDAR", "SP"],
+["jumbina", "Q"],
+["sudana", "Q"],
+["SUDOR", "SP"],
+["jumbi", "Q"],
+["jumbina", "Q"],
+["jumbishca", "Q"],
+["suda", "Q"],
+["súdur", "Q"],
+["sudashca", "Q"],
+["SHEGRA", "SP"],
+["suidra", "Q"],
+["suigra", "Q"],
+["ipa", "Q"],
+["SUEGRO", "SP"],
+["suidru", "Q"],
+["suigru", "Q"],
+["yaya uma", "Q"],
+["yaya suidru", "Q"],
+["SUELO", "SP"],
+["pamba", "Q"],
+["allpa", "Q"],
+["alpa", "Q"],
+["achpa", "Q"],
+["SUEÑO", "SP"],
+["muscui", "Q"],
+["muscuna", "Q"],
+["suiñu", "Q"],
+["puñuna", "Q"],
+["puñui", "Q"],
+["puñi", "Q"],
+["suñui", "Q"],
+["suiñuna", "Q"],
+["durmina", "Q"],
+["SUFICIENTE", "SP"],
+["cabal", "Q"],
+["chailla", "Q"],
+["achca", "Q"],
+["p'ajtana", "Q"],
+["sufisinti", "Q"],
+["cábul", "Q"],
+["illaj", "Q"],
+["ashca", "Q"],
+["ña tucui alli", "Q"],
+["ña ali", "Q"],
+["chila", "Q"],
+["ña p'ajta", "Q"],
+["ña bashta", "Q"],
+["pagta", "Q"],
+["achcalla", "Q"],
+["allisitu", "Q"],
+["SUFRIR", "SP"],
+["sufrina", "Q"],
+["llaquina", "Q"],
+["padisina", "Q"],
+["padidina", "Q"],
+["llaquirina", "Q"],
+["chaicuna", "Q"],
+["piñana", "Q"],
+["llaquilla causana", "Q"],
+["SUR", "SP"],
+["ura", "Q"],
+["sur", "Q"],
+["uri ladu", "Q"],
+["huasha", "Q"],
+["huichi ladu", "Q"],
+["jahua ladu", "Q"],
+["huasha ladu", "Q"],
+["indi llujshi ladu", "Q"],
+["Riubamha llajta ladu", "Q"],
+["huasha llajta", "Q"],
+["chimba llagta", "Q"],
+["jahua llagta", "Q"],
+["vichai", "Q"],
+["SURCO DE ARADO", "SP"],
+["rahua", "Q"],
+["huachu", "Q"],
+["huachushca", "Q"],
+["yapushca", "Q"],
+["milga", "Q"],
+["SUSPENDER", "SP"],
+["huarcuna", "Q"],
+["huaiyuna", "Q"],
+["SUSTO", "SP"],
+["manchai", "Q"],
+["mancharina", "Q"],
+["manchari", "Q"],
+["manchi", "Q"],
+["mancharishca", "Q"],
+["manchana", "Q"],
+["manllai", "Q"],
+["sushtu", "Q"],
+["sustu", "Q"],
+["TABANO", "SP"],
+["jatun chuspi", "Q"],
+["chuspi", "Q"],
+["birdi chuspi", "Q"],
+["tabanu", "Q"],
+["TACAÑO", "SP"],
+["mitsa", "Q"],
+["misaj", "Q"],
+["misa", "Q"],
+["TAL VEZ", "SP"],
+["dinu", "Q"],
+["tálhis", "Q"],
+["qilisasllachari", "Q"],
+["taubischari", "Q"],
+["quisuschari", "Q"],
+["quisás", "Q"],
+["áqui", "Q"],
+["uhin", "Q"],
+["icha", "Q"],
+["TALON", "SP"],
+["chaqui talun", "Q"],
+["talun", "Q"],
+["TALLAR", "SP"],
+["labrana", "Q"],
+["llagllana", "Q"],
+["cuchuna", "Q"],
+["caspida burdana", "Q"],
+["rurana", "Q"],
+["sipillana", "Q"],
+["aspina", "Q"],
+["quillcana", "Q"],
+["p'itina", "Q"],
+["p'aquina", "Q"],
+["TAMAÑO", "SP"],
+["purti", "Q"],
+["tupu", "Q"],
+["bali", "Q"],
+["balij", "Q"],
+["p'ajta", "Q"],
+["laya", "Q"],
+["TAMBOR", "SP"],
+["támbur", "Q"],
+["caja", "Q"],
+["bumhu", "Q"],
+["tamhura", "Q"],
+["dansa támbur", "Q"],
+["TAPAR", "SP"],
+["quilpana", "Q"],
+["tapana", "Q"],
+["c'atana", "Q"],
+["tapachina", "Q"],
+["quishpana", "Q"],
+["quillpana", "Q"],
+["quipina", "Q"],
+["quishpachina", "Q"],
+["quirpana", "Q"],
+["jatana", "Q"],
+["jatachina", "Q"],
+["c'atachina", "Q"],
+["c'atallina", "Q"],
+["ty'unguchina", "Q"],
+["cumbana", "Q"],
+["churana", "Q"],
+["TAPIA", "SP"],
+["tapial", "Q"],
+["tapia", "Q"],
+["pata", "Q"],
+["pirca", "Q"],
+["adubidu", "Q"],
+["TARDAR", "SP"],
+["uniyana", "Q"],
+["tardana", "Q"],
+["tardiyana", "Q"],
+["qu'ipayana", "Q"],
+["quipayana", "Q"],
+["unayana", "Q"],
+["chingana", "Q"],
+["parana", "Q"],
+["TARDE", "SP"],
+["chishi", "Q"],
+["tardi", "Q"],
+["ansa", "Q"],
+["amsaya", "Q"],
+["indi tardi", "Q"],
+["TARDECER", "SP"],
+["chishiyana", "Q"],
+["tardiyana", "Q"],
+["tutayana", "Q"],
+["amsayana", "Q"],
+["ansayana", "Q"],
+["tardiyamuna", "Q"],
+["chishiyamuna", "Q"],
+["TARTAMUDO", "SP"],
+["mana uyaj", "Q"],
+["upa", "Q"],
+["surdu tartsu upa", "Q"],
+["tsunshu", "Q"],
+["mudu", "Q"],
+["surdu mudu", "Q"],
+["shimillaj", "Q"],
+["shandu surdu", "Q"],
+["tarta tuntu", "Q"],
+["tuntu", "Q"],
+["huatiaj", "Q"],
+["jarca", "Q"],
+["tartusu tuntu", "Q"],
+["mana alli rimaj", "Q"],
+["muduyashca", "Q"],
+["inusinti", "Q"],
+["man uyan man parlan mudu", "Q"],
+["TAZON DE BARRO", "SP"],
+["latu", "Q"],
+["punchira", "Q"],
+["shila", "Q"],
+["huallu shila", "Q"],
+["platu", "Q"],
+["iscudilla", "Q"],
+["TECHO", "SP"],
+["c'ata", "Q"],
+["tichu", "Q"],
+["jata", "Q"],
+["huasi c'ata", "Q"],
+["huasi c'atashca", "Q"],
+["huasi p'ataj", "Q"],
+["huasi tapashca", "Q"],
+["huasi cumba", "Q"],
+["cubirta", "Q"],
+["c'atana", "Q"],
+["cumha", "Q"],
+["TEJER", "SP"],
+["ahuana", "Q"],
+["trahajana", "Q"],
+["tijina", "Q"],
+["TELA", "SP"],
+["tila", "Q"],
+["ahuashca", "Q"],
+["linsu", "Q"],
+["p'acha", "Q"],
+["jirga", "Q"],
+["tilashca", "Q"],
+["TELAR", "SP"],
+["ahuana caspi", "Q"],
+["ahuana", "Q"],
+["ahuana tílar", "Q"],
+["ahuana tílir", "Q"],
+["tilana", "Q"],
+["tílir", "Q"],
+["tflar", "Q"],
+["TEMBLAR", "SP"],
+["chujchuna", "Q"],
+["chujchurina", "Q"],
+["chujchina", "Q"],
+["zimbrarina", "Q"],
+["timblachina", "Q"],
+["tiritana", "Q"],
+["TEMER", "SP"],
+["manllana", "Q"],
+["manchana", "Q"],
+["TENDON", "SP"],
+["angu", "Q"],
+["tindun", "Q"],
+["bina", "Q"],
+["TENEDOR", "SP"],
+["trinchi", "Q"],
+["charina", "Q"],
+["chinchi", "Q"],
+["trinti", "Q"],
+["charidur", "Q"],
+["TENER", "SP"],
+["charina", "Q"],
+["TEÑIR", "SP"],
+["tiñina", "Q"],
+["culurta rurana", "Q"],
+["TERCO", "SP"],
+["millai", "Q"],
+["mana cazuj", "Q"],
+["ahurridu", "Q"],
+["mana intindij", "Q"],
+["n'yiru", "Q"],
+["chinchi", "Q"],
+["quillayashca", "Q"],
+["mal criadu", "Q"],
+["sunsu", "Q"],
+["tuntu", "Q"],
+["brutu", "Q"],
+["TERMINAR", "SP"],
+["tucuchina", "Q"],
+["puchucana", "Q"],
+["TERNERO", "SP"],
+["bizi", "Q"],
+["billi", "Q"],
+["bizhi", "Q"],
+["shicu", "Q"],
+["huahua huagra", "Q"],
+["TERREMOTO", "SP"],
+["allpa chujchui", "Q"],
+["timblur", "Q"],
+["allpa cuyui", "Q"],
+["alpa chujchuna", "Q"],
+["alpa cuyuna", "Q"],
+["mama alpa cuyui", "Q"],
+["alpa mama cuyuj", "Q"],
+["tímplur", "Q"],
+["t'unin", "Q"],
+["dirrumhu", "Q"],
+["achpa cuyi", "Q"],
+["allpa tuñiri", "Q"],
+["allpa t'imbushca", "Q"],
+["allpa cuyurishca", "Q"],
+["tunirishca", "Q"],
+["TERRENO", "SP"],
+["allpa", "Q"],
+["pamba", "Q"],
+["achpa", "Q"],
+["azhpa", "Q"],
+["alpa", "Q"],
+["TESTICULO", "SP"],
+["lulun", "Q"],
+["ruru", "Q"],
+["curuta", "Q"],
+["TETA", "SP"],
+["chuchu", "Q"],
+["ñuñu", "Q"],
+["chuchuna", "Q"],
+["chucu", "Q"],
+["TIA", "SP"],
+["tía", "Q"],
+["TIBIO", "SP"],
+["cunuglla", "Q"],
+["cunuj", "Q"],
+["TIEMPO", "SP"],
+["uras", "Q"],
+["timpu", "Q"],
+["tyimpu", "Q"],
+["urus", "Q"],
+["uñai", "Q"],
+["unilla", "Q"],
+["sarun", "Q"],
+["pacha", "Q"],
+["unai", "Q"],
+["TIERNO", "SP"],
+["llullu", "Q"],
+["TIERRA", "SP"],
+["allpa", "Q"],
+["alpa", "Q"],
+["achpa", "Q"],
+["azhpa", "Q"],
+["TIESO", "SP"],
+["sinlli", "Q"],
+["tisu", "Q"],
+["jinchi", "Q"],
+["caspiyashca", "Q"],
+["caspi", "Q"],
+["shinlli", "Q"],
+["ajushtadu", "Q"],
+["cullma", "Q"],
+["c'azilyishca", "Q"],
+["rijtu", "Q"],
+["TIESTO", "SP"],
+["callana", "Q"],
+["TINAJON PARA CARGAR AGUA", "SP"],
+["p'undu", "Q"],
+["funclu", "Q"],
+["baldi", "Q"],
+["TINAJON PARA GUARDAR AGUA", "SP"],
+["magma", "Q"],
+["maguma", "Q"],
+["TINTURAR", "SP"],
+["tiñina", "Q"],
+["tinturana", "Q"],
+["pintana", "Q"],
+["TIO", "SP"],
+["tíu", "Q"],
+["TIPO", "SP"],
+["laya", "Q"],
+["TIRAR", "SP"],
+["chutana", "Q"],
+["aisana", "Q"],
+["shitana", "Q"],
+["chutarina", "Q"],
+["chutachina", "Q"],
+["timplana", "Q"],
+["TOBILLO", "SP"],
+["chaqui mucu", "Q"],
+["tutu", "Q"],
+["chaqui tálun", "Q"],
+["chaqui surtija", "Q"],
+["mucu", "Q"],
+["chaqui tullu", "Q"],
+["TOGAR", "SP"],
+["tucana", "Q"],
+["japina", "Q"],
+["japirina", "Q"],
+["tupana", "Q"],
+["tuparina", "Q"],
+["llangana", "Q"],
+["tacarina", "Q"],
+["tantiana", "Q"],
+["TODAVIA NO", "SP"],
+["manaraj", "Q"],
+["manari", "Q"],
+["manarij", "Q"],
+["naraj", "Q"],
+["inaraj", "Q"],
+["naruj", "Q"],
+["mana ru", "Q"],
+["TODOS", "SP"],
+["tucui", "Q"],
+["tuqui", "Q"],
+["illij", "Q"],
+["ishta", "Q"],
+["TODO", "SP"],
+["tucui", "Q"],
+["tuqui", "Q"],
+["illij", "Q"],
+["ishta", "Q"],
+["TOMAR", "SP"],
+["ubiana", "Q"],
+["upiana", "Q"],
+["ufiana", "Q"],
+["ubina", "Q"],
+["TOMAR", "SP"],
+["japina", "Q"],
+["chasquina", "Q"],
+["prusisiunda japina", "Q"],
+["TOME", "SP"],
+["jaica", "Q"],
+["c'aiga", "Q"],
+["caica", "Q"],
+["japi", "Q"],
+["jaiga", "Q"],
+["c'aica", "Q"],
+["sirbi", "Q"],
+["TONTO", "SP"],
+["upa", "Q"],
+["muspa", "Q"],
+["tuntu", "Q"],
+["mudu", "Q"],
+["sunsu", "Q"],
+["shunllu", "Q"],
+["shunshu", "Q"],
+["muspaj", "Q"],
+["buru", "Q"],
+["urdimal", "Q"],
+["huantsu", "Q"],
+["TORCER", "SP"],
+["quihuina", "Q"],
+["tursina", "Q"],
+["huishtuyana", "Q"],
+["quivina", "Q"],
+["vishtuyana", "Q"],
+["huishuyana", "Q"],
+["caupina", "Q"],
+["TORTOLA", "SP"],
+["urpi", "Q"],
+["churutu", "Q"],
+["TOS", "SP"],
+["uju", "Q"],
+["ujuna", "Q"],
+["ujui", "Q"],
+["TOSCO", "SP"],
+["grusiru CS", "SP"],
+["tuscu", "Q"],
+["yapa millai", "Q"],
+["malquiriadu", "Q"],
+["raculla", "Q"],
+["piña", "Q"],
+["piñashca", "Q"],
+["jatun tacushca", "Q"],
+["shinlli", "Q"],
+["sinchi", "Q"],
+["brutu", "Q"],
+["TOSER", "SP"],
+["ujuna", "Q"],
+["ujurina", "Q"],
+["TOSTADO", "SP"],
+["camcha", "Q"],
+["cancha", "Q"],
+["canchashca", "Q"],
+["camchashca", "Q"],
+["camlla", "Q"],
+["camllana", "Q"],
+["TOSTAR", "SP"],
+["camchana", "Q"],
+["canchana", "Q"],
+["camllana", "Q"],
+["TOTALMENTE", "SP"],
+["tucuilla", "Q"],
+["illajta", "Q"],
+["illijta", "Q"],
+["tuquila", "Q"],
+["ishta", "Q"],
+["illaita", "Q"],
+["tuqui tuquita", "Q"],
+["tucuila", "Q"],
+["tucuita", "Q"],
+["tuntaminti", "Q"],
+["TRABAJAR", "SP"],
+["trahajana", "Q"],
+["rurana", "Q"],
+["urana", "Q"],
+["TRADUCIR", "SP"],
+["pasachina", "Q"],
+["mudana", "Q"],
+["yalichina", "Q"],
+["tigrachina", "Q"],
+["catichina", "Q"],
+["tradusina", "Q"],
+["cutin shujta rimana", "Q"],
+["alli rimana", "Q"],
+["pasana", "Q"],
+["trandusina", "Q"],
+["TRAER", "SP"],
+["apamuna", "Q"],
+["abamuna", "Q"],
+["TRAGAR", "SP"],
+["millpuna", "Q"],
+["milpuna", "Q"],
+["langana", "Q"],
+["limpuna", "Q"],
+["TRAMPA", "SP"],
+["trampa", "Q"],
+["tuglla", "Q"],
+["tugllai", "Q"],
+["japina", "Q"],
+["TRANQUILO", "SP"],
+["casilla", "Q"],
+["gushtulla", "Q"],
+["cungailla", "Q"],
+["casila", "Q"],
+["cushilla", "Q"],
+["jahualla", "Q"],
+["cungashcalla", "Q"],
+["cungüila", "Q"],
+["allimanda", "Q"],
+["cungarishca", "Q"],
+["upalla", "Q"],
+["casi", "Q"],
+["tranquilla", "Q"],
+["TRANSPARENTE", "SP"],
+["utcashpa ricunalla", "Q"],
+["ispiju cuinta", "Q"],
+["ricurina", "Q"],
+["yalishpa ricunalla", "Q"],
+["chuya", "Q"],
+["punllalla", "Q"],
+["igul", "Q"],
+["pariju", "Q"],
+["alairi", "Q"],
+["ispiju", "Q"],
+["zaquil", "Q"],
+["ricurishca", "Q"],
+["TRAPO", "SP"],
+["llachapa", "Q"],
+["trapu", "Q"],
+["findu", "Q"],
+["chapu", "Q"],
+["p'uchu", "Q"],
+["TRASERO", "SP"],
+["siqui", "Q"],
+["siqui tullu", "Q"],
+["TRASPLANTAR", "SP"],
+["plantata tarpuna", "Q"],
+["tarpuna", "Q"],
+["lujshisha tarpuna", "Q"],
+["cati tarpuan", "Q"],
+["huashan lantana", "Q"],
+["tarbuna", "Q"],
+["shujmi pasachina", "Q"],
+["tigra tarpuna", "Q"],
+["allichi plantana", "Q"],
+["shuj ladum tarpuna", "Q"],
+["TRASQUILAR", "SP"],
+["rutuna", "Q"],
+["TRES", "SP"],
+["quimsa", "Q"],
+["quinsa", "Q"],
+["TRENZA", "SP"],
+["chimba", "Q"],
+["shimba", "Q"],
+["jimba", "Q"],
+["huangu", "Q"],
+["trinza", "Q"],
+["TRENZAR", "SP"],
+["chimbana", "Q"],
+["shimbana", "Q"],
+["jimbana", "Q"],
+["TRILLAR A CABALLO", "SP"],
+["trillana", "Q"],
+["saruchina", "Q"],
+["sarubayana", "Q"],
+["bailachina", "Q"],
+["TRILLAR A MANO", "SP"],
+["huajtana", "Q"],
+["trillana", "Q"],
+["tacana", "Q"],
+["TRIPAS", "SP"],
+["chunllulli", "Q"],
+["chunlluli", "Q"],
+["puzun", "Q"],
+["chunzhulli", "Q"],
+["chunzhli", "Q"],
+["TRISTE", "SP"],
+["llaqui", "Q"],
+["llaquilla", "Q"],
+["llaquishquitu", "Q"],
+["TROJE", "SP"],
+["truji", "Q"],
+["truja", "Q"],
+["huaquichina", "Q"],
+["putsa", "Q"],
+["ira", "Q"],
+["budiga", "Q"],
+["taqui", "Q"],
+["granuta huacaichina huasi", "Q"],
+["surun", "Q"],
+["TRONAR", "SP"],
+["culun nina", "Q"],
+["gulun nina", "Q"],
+["trunana", "Q"],
+["tamia huacana", "Q"],
+["culunquirina", "Q"],
+["tulun nina", "Q"],
+["tujyana", "Q"],
+["truyinana", "Q"],
+["TRONCO", "SP"],
+["caspi truncu", "Q"],
+["truncu", "Q"],
+["sapi", "Q"],
+["tullu", "Q"],
+["putu", "Q"],
+["caspi", "Q"],
+["c'ullu", "Q"],
+["putuyashca", "Q"],
+["TROPEZAR", "SP"],
+["miticana", "Q"],
+["nitijana", "Q"],
+["mitcarina", "Q"],
+["nijtana", "Q"],
+["mijtina", "Q"],
+["tacarina", "Q"],
+["nitcana", "Q"],
+["mijtana", "Q"],
+["TRUENO", "SP"],
+["culun nina", "Q"],
+["culun nishca", "Q"],
+["gulun", "Q"],
+["truinu", "Q"],
+["rayu", "Q"],
+["culun nijui", "Q"],
+["trunidu", "Q"],
+["truyina", "Q"],
+["TU", "SP"],
+["can", "Q"],
+["jan", "Q"],
+["TUERTO", "SP"],
+["tuirtu", "Q"],
+["chulla ñahui", "Q"],
+["biscu", "Q"],
+["chulla ñavi", "Q"],
+["sigu", "Q"],
+["bizgu", "Q"],
+["sin ñahui", "Q"],
+["TUMBAR", "SP"],
+["urmachina", "Q"],
+["bultachina", "Q"],
+["singuchina", "Q"],
+["bultiyachina", "Q"],
+["bultiana", "Q"],
+["TUMOR", "SP"],
+["chupu", "Q"],
+["tugya", "Q"],
+["tuzulyashca", "Q"],
+["punguillishca", "Q"],
+["pungui", "Q"],
+["TURBIO", "SP"],
+["sangu", "Q"],
+["quillulla", "Q"],
+["turu", "Q"],
+["mapalla", "Q"],
+["mapa", "Q"],
+["quillula", "Q"],
+["mapayashca", "Q"],
+["mapa yacu", "Q"],
+["turuhuan", "Q"],
+["TUSA", "SP"],
+["curunda", "Q"],
+["curunta", "Q"],
+["tusa", "Q"],
+["ULTIMO", "SP"],
+["tucuri", "Q"],
+["ultimu", "Q"],
+["qu'ipa", "Q"],
+["puchucái", "Q"],
+["jipa", "Q"],
+["jichurishca", "Q"],
+["ULTIMO BEBE", "SP"],
+["qu'ipa huahua", "Q"],
+["puchucái huahua", "Q"],
+["pugllin huahua", "Q"],
+["pugzin huahua", "Q"],
+["puchuqui huahua", "Q"],
+["chali hoahua", "Q"],
+["ultimúhua", "Q"],
+["UNICO", "SP"],
+["shuglla", "Q"],
+["shugla", "Q"],
+["chuglla", "Q"],
+["UNIDO", "SP"],
+["tandanacushca", "Q"],
+["tandachishca", "Q"],
+["tandanajushca", "Q"],
+["tandalla", "Q"],
+["tandala", "Q"],
+["UNIR", "SP"],
+["tandanacuna", "Q"],
+["tandachina", "Q"],
+["tinguina", "Q"],
+["juntana", "Q"],
+["tandanajuna", "Q"],
+["quimina", "Q"],
+["UNO", "SP"],
+["shuj", "Q"],
+["chuj", "Q"],
+["UÑA", "SP"],
+["sillu", "Q"],
+["shillu", "Q"],
+["URDIR", "SP"],
+["aullina", "Q"],
+["urdina", "Q"],
+["pushcaina", "Q"],
+["aulina", "Q"],
+["USTED", "SP"],
+["can", "Q"],
+["quiquin", "Q"],
+["jan", "Q"],
+["USTEDES", "SP"],
+["cancuna", "Q"],
+["canguna", "Q"],
+["VACA", "SP"],
+["huagra", "Q"],
+["baca", "Q"],
+["cachudu", "Q"],
+["huarmi huagra", "Q"],
+["VACIAR", "SP"],
+["lugaryachina", "Q"],
+["tallina", "Q"],
+["chushagyachina", "Q"],
+["chushigyachina", "Q"],
+["chushugyachina", "Q"],
+["luguryachina", "Q"],
+["talina", "Q"],
+["tarina", "Q"],
+["jichana", "Q"],
+["VACIO", "SP"],
+["chushaj", "Q"],
+["chushuj", "Q"],
+["chushij", "Q"],
+["chusha", "Q"],
+["chushu", "Q"],
+["tushaj", "Q"],
+["VADEAR", "SP"],
+["chimbana", "Q"],
+["pasana", "Q"],
+["VALER", "SP"],
+["balina", "Q"],
+["VALIENTE", "SP"],
+["juirsayuy", "Q"],
+["jinchijui", "Q"],
+["shinlli", "Q"],
+["chinchi", "Q"],
+["jinchi", "Q"],
+["sinlli", "Q"],
+["jarishna", "Q"],
+["jariyashca", "Q"],
+["jari tucushca", "Q"],
+["c'ari c'ari", "Q"],
+["baliyinti", "Q"],
+["huapu", "Q"],
+["VALLE", "SP"],
+["huaicu", "Q"],
+["chaupi luma", "Q"],
+["ura ucu", "Q"],
+["halli", "Q"],
+["urcu pamha", "Q"],
+["pamha", "Q"],
+["c'aca", "Q"],
+["ura llajta", "Q"],
+["llaru pamba", "Q"],
+["jilucuna", "Q"],
+["VAMONOS", "SP"],
+["jacu", "Q"],
+["VAMONOS", "SP"],
+["jacuchij", "Q"],
+["jacuchi", "Q"],
+["jacuichi", "Q"],
+["jacu rishun", "Q"],
+["bamuchi", "Q"],
+["VAPOR", "SP"],
+["samai", "Q"],
+["sami", "Q"],
+["yacu sami", "Q"],
+["timbun sami", "Q"],
+["yacu cushni", "Q"],
+["VARA", "SP"],
+["bara", "Q"],
+["tauna", "Q"],
+["ñaña caspi", "Q"],
+["bástun", "Q"],
+["VARON", "SP"],
+["c'ari", "Q"],
+["jari", "Q"],
+["VASIJA GRANDE PARA CARGAR AGUA", "SP"],
+["p'undu", "Q"],
+["fundu", "Q"],
+["baldi", "Q"],
+["VASIJA GRANDE PARA GUARDAR AGUA", "SP"],
+["magma", "Q"],
+["maguma", "Q"],
+["VEJIGA", "SP"],
+["ishpa p'uru", "Q"],
+["surun", "Q"],
+["ishpa furu", "Q"],
+["ishpa juru", "Q"],
+["p'uru", "Q"],
+["p'urun", "Q"],
+["pucuna", "Q"],
+["VELA", "SP"],
+["ispilma", "Q"],
+["sira", "Q"],
+["bila", "Q"],
+["VELLO", "SP"],
+["millma", "Q"],
+["milma", "Q"],
+["huillma", "Q"],
+["VENA", "SP"],
+["angu", "Q"],
+["bina", "Q"],
+["VENADO", "SP"],
+["taruga", "Q"],
+["sacha huagra", "Q"],
+["VENCER", "SP"],
+["binsina", "Q"],
+["atina", "Q"],
+["mishana", "Q"],
+["mishanacuna", "Q"],
+["ganana", "Q"],
+["VENDEDOR", "SP"],
+["c'atadur", "Q"],
+["c'atuj", "Q"],
+["jatudur", "Q"],
+["jatu", "Q"],
+["c'aturush", "Q"],
+["randichilún", "Q"],
+["VENENO", "SP"],
+["bininu", "Q"],
+["huañuna jambi", "Q"],
+["jamhi", "Q"],
+["bininu jambi", "Q"],
+["huañuchij jambi", "Q"],
+["VENIR", "SP"],
+["shamuna", "Q"],
+["chayamuna", "Q"],
+["VER", "SP"],
+["ricuna", "Q"],
+["VERANO", "SP"],
+["usiya quilla", "Q"],
+["chaquishca timpu", "Q"],
+["usiya timpu", "Q"],
+["alli timpu", "Q"],
+["na tamia timpu", "Q"],
+["biranu", "Q"],
+["chaqui timpu", "Q"],
+["rupi timpu", "Q"],
+["pascarishca timpu", "Q"],
+["usiya", "Q"],
+["VERDE", "SP"],
+["birdi", "Q"],
+["chilca", "Q"],
+["VERGÜENZA", "SP"],
+["pingai", "Q"],
+["pinga", "Q"],
+["pingui", "Q"],
+["pinganayai", "Q"],
+["pinganayan", "Q"],
+["VERTER", "SP"],
+["tallina", "Q"],
+["talina", "Q"],
+["huishina", "Q"],
+["birtina", "Q"],
+["yacu llujshina", "Q"],
+["VESTIDO", "SP"],
+["churana", "Q"],
+["churashca", "Q"],
+["churajuna", "Q"],
+["churacuna t", "Q"],
+["VESTIRSE", "SP"],
+["churarina", "Q"],
+["churana", "Q"],
+["churajuna", "Q"],
+["churacuna", "Q"],
+["mudarina", "Q"],
+["bishtirina", "Q"],
+["VEZ", "SP"],
+["cutin", "Q"],
+["biaji", "Q"],
+["builta", "Q"],
+["shuj cutin", "Q"],
+["tauca biaji", "Q"],
+["bulta", "Q"],
+["VEZ DE", "SP"],
+["randi", "Q"],
+["cuinta", "Q"],
+["munda", "Q"],
+["cuintamunda", "Q"],
+["cambiadu", "Q"],
+["manta", "Q"],
+["VIA", "SP"],
+["ñan", "Q"],
+["VIAJAR", "SP"],
+["purina", "Q"],
+["biajana", "Q"],
+["rina", "Q"],
+["caruta rina", "Q"],
+["VIDA", "SP"],
+["causai", "Q"],
+["causana", "Q"],
+["causi", "Q"],
+["VIEJA", "SP"],
+["paya", "Q"],
+["yuyaj", "Q"],
+["bija", "Q"],
+["mauca", "Q"],
+["rucu huarmi", "Q"],
+["VIEJO", "SP"],
+["rucu", "Q"],
+["yuyay", "Q"],
+["yuyij", "Q"],
+["VIEJO", "SP"],
+["mauca", "Q"],
+["paya", "Q"],
+["mauga", "Q"],
+["VIENTRE", "SP"],
+["huijsa", "Q"],
+["vijsa", "Q"],
+["ijsa", "Q"],
+["hiugsa", "Q"],
+["VIENTO", "SP"],
+["huaira", "Q"],
+["airi", "Q"],
+["VIGA", "SP"],
+["biga", "Q"],
+["sulira", "Q"],
+["caspi", "Q"],
+["jatun caspi", "Q"],
+["sintal", "Q"],
+["VIOLIN", "SP"],
+["biúlin", "Q"],
+["VIRAR", "SP"],
+["tigrana", "Q"],
+["bultachina", "Q"],
+["bultana", "Q"],
+["builtana", "Q"],
+["muyuchina", "Q"],
+["VIRUELA", "SP"],
+["muru ungüi", "Q"],
+["muru ungui", "Q"],
+["virgüila", "Q"],
+["c'uchi biruila", "Q"],
+["VISITAR", "SP"],
+["bizitana", "Q"],
+["ricugrina", "Q"],
+["VIUDA", "SP"],
+["biuda", "Q"],
+["sapalla", "Q"],
+["huajcha huarmi", "Q"],
+["VIUDO", "SP"],
+["biudu", "Q"],
+["sapalla", "Q"],
+["huajchn runa", "Q"],
+["VIVIR", "SP"],
+["causana", "Q"],
+["VIVO", "SP"],
+["bihu", "Q"],
+["cutsi", "Q"],
+["VOZ", "SP"],
+["icu", "Q"],
+["shimi", "Q"],
+["rimashca", "Q"],
+["rimai", "Q"],
+["capai", "Q"],
+["parlu", "Q"],
+["VUELTA", "SP"],
+["muyui", "Q"],
+["builta", "Q"],
+["quingu", "Q"],
+["bulta", "Q"],
+["cutin", "Q"],
+["cutimui", "Q"],
+["muyi", "Q"],
+["muyuna", "Q"],
+["VOLAR", "SP"],
+["bulana", "Q"],
+["currina", "Q"],
+["calpana", "Q"],
+["callpana", "Q"],
+["fahuana", "Q"],
+["bulusha rina", "Q"],
+["VOLTEAR", "SP"],
+["tigrana", "Q"],
+["bultachina", "Q"],
+["builtachina", "Q"],
+["muyuchina", "Q"],
+["VOLUNTAD", "SP"],
+["munai", "Q"],
+["muni", "Q"],
+["amur", "Q"],
+["munana", "Q"],
+["VOLVER", "SP"],
+["tigramuna", "Q"],
+["bultarnuna", "Q"],
+["builtarnuna", "Q"],
+["cutina", "Q"],
+["VOLVERSE", "SP"],
+["tucuna", "Q"],
+["VOMITAR", "SP"],
+["lanzana", "Q"],
+["arcadana", "Q"],
+["shungu bultina", "Q"],
+["shungu shitana", "Q"],
+["shungu bultana", "Q"],
+["shungu bultachina", "Q"],
+["shungu jahuayana", "Q"],
+["shunguta tigrana", "Q"],
+["ugnina", "Q"],
+["arcazana", "Q"],
+["gumitana", "Q"],
+["YA", "SP"],
+["ña", "Q"],
+["ya", "Q"],
+["YACER", "SP"],
+["siriita", "Q"],
+["siririna", "Q"],
+["siriuna", "Q"],
+["YERNO", "SP"],
+["masha", "Q"],
+["yirnu", "Q"],
+["irnu", "Q"],
+["YO", "SP"],
+["ñuca", "Q"],
+["yuca", "Q"],
+["YUNTA", "SP"],
+["yunta", "Q"],
+["yunda", "Q"],
+["hunagra yunta", "Q"],
+["huagra yapnna", "Q"],
+["ZAFAR", "SP"],
+["cacharina", "Q"],
+["pascana", "Q"],
+["safana", "Q"],
+["saujana", "Q"],
+["ZANAHORIA", "SP"],
+["sanuria", "Q"],
+["zanura", "Q"],
+["zanahuria", "Q"],
+["sañura", "Q"],
+["ZANJA", "SP"],
+["sanja", "Q"],
+["larca", "Q"],
+["sanca", "Q"],
+["zanca", "Q"],
+["sanga", "Q"],
+["ZONZO", "SP"],
+["upa", "Q"],
+["sunsu", "Q"],
+["muspa", "Q"],
+["tuntu", "Q"],
+["mudu", "Q"],
+["shunllu", "Q"],
+["shunshu", "Q"],
+["zunzu", "Q"],
+["quilla", "Q"],
+["ZORRO", "SP"],
+["atuj", "Q"],
+["aña", "Q"],
+["añas", "Q"],
+["lubu", "Q"],
+["rapusu", "Q"],
+["atu", "Q"],
+["surru", "Q"],
+["caracha", "Q"],
+["ruzu", "Q"],
+["sini", "Q"],
+["ZURCIR", "SP"],
+["sirana", "Q"],
+["tachana", "Q"],
+["tijana", "Q"],
+["rimandana", "Q"],
+["ABA", "Q"],
+["haba", "SP"],
+["ABAMUNA", "Q"],
+["traer", "SP"],
+["ABANA", "Q"],
+["llevar", "SP"],
+["ABANICU", "Q"],
+["aventador", "SP"],
+["ABAS", "Q"],
+["haba", "SP"],
+["ABIANA", "Q"],
+["echar", "SP"],
+["ABIJA", "Q"],
+["abeja", "SP"],
+["ABINTADUR", "Q"],
+["aventador", "SP"],
+["ABINTANA", "Q"],
+["abanicar", "SP"],
+["aventar", "SP"],
+["aventador", "SP"],
+["ABINTU", "Q"],
+["aventador", "SP"],
+["ABIRIANA", "Q"],
+["lastimar", "SP"],
+["ABIRIGUANA", "Q"],
+["averiguar", "SP"],
+["ABIU", "Q"],
+["caballo", "SP"],
+["ABRIGANA", "Q"],
+["averiguar", "SP"],
+["ABUILA", "Q"],
+["abuela", "SP"],
+["ABUILU", "Q"],
+["abuelo", "SP"],
+["ABURRI", "Q"],
+["cólera", "SP"],
+["iras", "SP"],
+["ABURRICHINA", "Q"],
+["molestar", "SP"],
+["ABURRIDU", "Q"],
+["terco", "SP"],
+["ACAPANA", "Q"],
+["remolino", "SP"],
+["ACUJA", "Q"],
+["aguja", "SP"],
+["ACUNA", "Q"],
+["mascar", "SP"],
+["rumiar", "SP"],
+["ACHACANA", "Q"],
+["culpar", "SP"],
+["ACHCA", "Q"],
+["mucho", "SP"],
+["bastante", "SP"],
+["muy", "SP"],
+["hato", "SP"],
+["suficiente", "SP"],
+["montón", "SP"],
+["más", "SP"],
+["demasiado", "SP"],
+["ACHCA YACU", "Q"],
+["mar", "SP"],
+["ACHCACUNA", "Q"],
+["grupo", "SP"],
+["ACHCALAL", "Q"],
+["suficiente", "SP"],
+["ACHCON", "Q"],
+["goloso", "SP"],
+["ACHCU", "Q"],
+["perro", "SP"],
+["ACHI MAMA", "Q"],
+["madrina de bautizo", "SP"],
+["madrina de matrimonio", "SP"],
+["comadre", "SP"],
+["ACHI TAITA", "Q"],
+["padrino de bautizo", "SP"],
+["campadre", "SP"],
+["ACHICA", "Q"],
+["mucho", "SP"],
+["grupo", "SP"],
+["ACHIGA", "Q"],
+["luz", "SP"],
+["ACHIGANA", "Q"],
+["aclarar", "SP"],
+["ACHIGALLA", "Q"],
+["claro", "SP"],
+["ACHIGYANA", "Q"],
+["aclarar", "SP"],
+["amanecer", "SP"],
+["luciérnaga", "SP"],
+["ACHIJ", "Q"],
+["luz", "SP"],
+["ACHIJ NINA", "Q"],
+["brillar", "SP"],
+["relampago", "SP"],
+["ACHIJA", "Q"],
+["bastante", "SP"],
+["ACHILA MAMA", "Q"],
+["madrina de bautizo", "SP"],
+["ACHILLANA", "Q"],
+["brillar", "SP"],
+["ACHIYAMUNA", "Q"],
+["aclarar", "SP"],
+["ACHIYANA", "Q"],
+["amanecer", "SP"],
+["ACHPA", "Q"],
+["tierra", "SP"],
+["terreno", "SP"],
+["barro", "SP"],
+["pamba", "SP"],
+["ACHPA CUYI", "Q"],
+["terremoto", "SP"],
+["ACHPA PULBU", "Q"],
+["polvo", "SP"],
+["ACHU NINA", "Q"],
+["estornudar", "SP"],
+["ACHUJSIANA", "Q"],
+["estornudar", "SP"],
+["ACHUTI", "Q"],
+["achiote", "SP"],
+["ADIUS NINA", "Q"],
+["despedirse", "SP"],
+["ADIVINA", "Q"],
+["adivinar", "SP"],
+["ADIVINANA", "Q"],
+["adivinar", "SP"],
+["ADUBI", "Q"],
+["adobe", "SP"],
+["ADUBIDU", "Q"],
+["adobe", "SP"],
+["tapia", "SP"],
+["AFANANA", "Q"],
+["empeñar", "SP"],
+["AFILACHINA", "Q"],
+["afilar", "SP"],
+["AFILANA", "Q"],
+["afilar", "SP"],
+["AFRICHILLU", "Q"],
+["afrecho", "SP"],
+["AFRICHU", "Q"],
+["afrecho", "SP"],
+["AGCHA", "Q"],
+["pelo", "SP"],
+["cabello", "SP"],
+["AGLLANA", "Q"],
+["escojer", "SP"],
+["AGNINA", "Q"],
+["eructar", "SP"],
+["ladrar", "SP"],
+["AGRADISINA", "Q"],
+["agradecer", "SP"],
+["AGRIU", "Q"],
+["agrio", "SP"],
+["AGRU", "Q"],
+["agrio", "SP"],
+["AGRUCHINA", "Q"],
+["fermentar", "SP"],
+["AGRUYANA", "Q"],
+["fermentar", "SP"],
+["AGUARINA", "Q"],
+["sofocar", "SP"],
+["ahogarse", "SP"],
+["AGUARISHCA", "Q"],
+["aguado", "SP"],
+["AGÜILA", "Q"],
+["abuela", "SP"],
+["AGÜILU", "Q"],
+["abuelo", "SP"],
+["AGUJA", "Q"],
+["aguja", "SP"],
+["AGULANA", "Q"],
+["bostezar", "SP"],
+["AGYANA", "Q"],
+["eructar", "SP"],
+["AHUANA", "Q"],
+["tejer", "SP"],
+["telar", "SP"],
+["AHUANA CASPI", "Q"],
+["telar", "SP"],
+["AHUANA TILAR", "Q"],
+["telar", "SP"],
+["AHUANA TILAR", "Q"],
+["telar", "SP"],
+["AHUANTANA", "Q"],
+["aguantar", "SP"],
+["AHUARINA", "Q"],
+["ahogarse", "SP"],
+["AHUASHCA", "Q"],
+["tela", "SP"],
+["AHUILA", "Q"],
+["abuela", "SP"],
+["AHUILU", "Q"],
+["abuelo", "SP"],
+["AICHA", "Q"],
+["carne", "SP"],
+["AICHA C'ATUJ", "Q"],
+["carnicero", "SP"],
+["AICHA JATU", "Q"],
+["carnicero", "SP"],
+["AICHA JATUDUR", "Q"],
+["carnicero", "SP"],
+["AICHA JATUJ", "Q"],
+["carnicero", "SP"],
+["AICHALLA", "Q"],
+["desnudo", "SP"],
+["AICHIRU", "Q"],
+["carnicero", "SP"],
+["AILA", "Q"],
+["abuela", "SP"],
+["AILU", "Q"],
+["abuelo", "SP"],
+["AILLANA", "Q"],
+["perforar", "SP"],
+["AILLU", "Q"],
+["familia", "SP"],
+["AILLU SHUTI", "Q"],
+["apellido", "SP"],
+["AIRI", "Q"],
+["viento", "SP"],
+["AISANA", "Q"],
+["jalar", "SP"],
+["tirar", "SP"],
+["estirar", "SP"],
+["extender", "SP"],
+["retirar", "SP"],
+["AISANACUNA", "Q"],
+["llevar entre varias personas", "SP"],
+["AJAJA", "Q"],
+["diablo", "SP"],
+["AJALUNA", "Q"],
+["murmurar", "SP"],
+["AJANA", "Q"],
+["insultar", "SP"],
+["enojar", "SP"],
+["AJCHA", "Q"],
+["pelo", "SP"],
+["cabello", "SP"],
+["AJCHA CACHURISHCA", "Q"],
+["desgreñado", "SP"],
+["AJCHA JATARISHCA", "Q"],
+["desgreñado", "SP"],
+["AJICHANA", "Q"],
+["cribar", "SP"],
+["AJICHU", "Q"],
+["poroso", "SP"],
+["AJINU", "Q"],
+["extraño", "SP"],
+["AJITANA", "Q"],
+["eructar", "SP"],
+["AJTYU NINA", "Q"],
+["estornudar", "SP"],
+["AJUGANA", "Q"],
+["sofocar", "SP"],
+["AJUGARINA", "Q"],
+["ahogarse", "SP"],
+["AJUS", "Q"],
+["ajo", "SP"],
+["AJUSTANA", "Q"],
+["ajustar", "SP"],
+["completar", "SP"],
+["AJUSHTANA", "Q"],
+["ajustar", "SP"],
+["apretar", "SP"],
+["completar", "SP"],
+["AJUSHTADU", "Q"],
+["tieso", "SP"],
+["AL RIBIS", "Q"],
+["al revés", "SP"],
+["ALAIRT", "Q"],
+["transparente", "SP"],
+["ALAJA", "Q"],
+["bonito", "SP"],
+["ALAJAHUA", "Q"],
+["elegante", "SP"],
+["ALAMA", "Q"],
+["salvaje", "SP"],
+["ALAMBRI", "Q"],
+["cuerda", "SP"],
+["ALAS", "Q"],
+["ala", "SP"],
+["ALBA", "Q"],
+["madrugada", "SP"],
+["mañana", "SP"],
+["ALBANA", "Q"],
+["madrugar", "SP"],
+["ALBARDA", "Q"],
+["aparejo", "SP"],
+["ALBIJA", "Q"],
+["alverja", "SP"],
+["ALBIJAS", "Q"],
+["alverja", "SP"],
+["ALBIJIS", "Q"],
+["alverja", "SP"],
+["ALBIRJA", "Q"],
+["alverja", "SP"],
+["ALBIRJIS", "Q"],
+["alverja", "SP"],
+["ALBIS", "Q"],
+["alverja", "SP"],
+["ALBRIJIS", "Q"],
+["alverja", "SP"],
+["ALCU", "Q"],
+["perro", "SP"],
+["ALFA", "Q"],
+["alfalfa", "SP"],
+["ALFARGATA", "Q"],
+["sandalia", "SP"],
+["ALI", "Q"],
+["bueno", "SP"],
+["bien", "SP"],
+["justo", "SP"],
+["ALI LADU", "Q"],
+["derecha", "SP"],
+["ALI PACHA", "Q"],
+["completamente", "SP"],
+["ALI TUCUNA", "Q"],
+["mejorar", "SP"],
+["sanar", "SP"],
+["ALI YACHAJ", "Q"],
+["inteligente", "SP"],
+["ALICHINA", "Q"],
+["reparar", "SP"],
+["arreglar", "SP"],
+["enderezar", "SP"],
+["guardar", "SP"],
+["ALIGRI TUCUNA", "Q"],
+["sonreir", "SP"],
+["sonreirse", "SP"],
+["ALILLA", "Q"],
+["despacio", "SP"],
+["ALIMANDA", "Q"],
+["despacio", "SP"],
+["ALIRI", "Q"],
+["contento", "SP"],
+["ALIS", "Q"],
+["ala", "SP"],
+["ALIYACHINA", "Q"],
+["sanar", "SP"],
+["ALIYANA", "Q"],
+["mejorar", "SP"],
+["ALJUA", "Q"],
+["alfalfa", "SP"],
+["ALMA", "Q"],
+["alma", "SP"],
+["sombra", "SP"],
+["cadáver", "SP"],
+["difunto", "SP"],
+["ALMA HUAÑUSHCA", "Q"],
+["alma", "SP"],
+["ALPA", "Q"],
+["terreno", "SP"],
+["tierra", "SP"],
+["piso", "SP"],
+["arena", "SP"],
+["pamba", "SP"],
+["ALPA CUSHNI", "Q"],
+["polvo", "SP"],
+["ALPA CUYUNA", "Q"],
+["terremoto", "SP"],
+["ALPA CHUJCHUNA", "Q"],
+["terremoto", "SP"],
+["ALPA FUYU", "Q"],
+["polvo", "SP"],
+["ALPA MAMA CUYUJ", "Q"],
+["terremoto", "SP"],
+["ALPALA", "Q"],
+["bajo", "SP"],
+["ALPALLA", "Q"],
+["bajo", "SP"],
+["ALPARGATI", "Q"],
+["sandalia", "SP"],
+["ALP'A", "Q"],
+["alfalfa", "SP"],
+["ALP'A JIHUA", "Q"],
+["alfalfa", "SP"],
+["ALP'A QU'IHUA", "Q"],
+["alfalfa", "SP"],
+["ALP'ALP'A JIHUA", "Q"],
+["alfalfa", "SP"],
+["ALP'ALP'A QU'IHUA", "Q"],
+["alfalfa", "SP"],
+["ALSANA", "Q"],
+["alzar", "SP"],
+["ALTU", "Q"],
+["alto", "SP"],
+["loma", "SP"],
+["piso", "SP"],
+["ALTSANA", "Q"],
+["levantar", "SP"],
+["alzar", "SP"],
+["ALUS", "Q"],
+["ala", "SP"],
+["alverja", "SP"],
+["ALUMBRA", "Q"],
+["rayo", "SP"],
+["ALZANA", "Q"],
+["levantar", "SP"],
+["ALLAGMA", "Q"],
+["boca arriba", "SP"],
+["ALLAGMAN", "Q"],
+["boca arriba", "SP"],
+["ALLANA", "Q"],
+["cavar", "SP"],
+["perforar", "SP"],
+["desmontar", "SP"],
+["ALLCU", "Q"],
+["perro", "SP"],
+["ALLI", "Q"],
+["bueno", "SP"],
+["bien", "SP"],
+["amable", "SP"],
+["justo", "SP"],
+["sabroso", "SP"],
+["bonito", "SP"],
+["contento", "SP"],
+["elegante", "SP"],
+["generoso", "SP"],
+["ALLI ALLI", "Q"],
+["generoso", "SP"],
+["ALLI CUJ", "Q"],
+["generoso", "SP"],
+["ALLI LADU", "Q"],
+["derecha", "SP"],
+["ALLI MUDASHCA", "Q"],
+["elegante", "SP"],
+["ALLI PINSAMINTU", "Q"],
+["inteligente", "SP"],
+["ALLI RIMANA", "Q"],
+["traducir", "SP"],
+["ALLI SHUNGU", "Q"],
+["generoso", "SP"],
+["humilde", "SP"],
+["amable", "SP"],
+["ALLI SHUNGUYUJ", "Q"],
+["amable", "SP"],
+["ALLI TIMPU", "Q"],
+["verano", "SP"],
+["ALLI TUCUNA", "Q"],
+["mejorar", "SP"],
+["sanar", "SP"],
+["ALLI UMA", "Q"],
+["inteligente", "SP"],
+["ALLI UYANA", "Q"],
+["entender", "SP"],
+["ALLI YACHAJ", "Q"],
+["inteligente", "SP"],
+["ALLICHINA", "Q"],
+["arreglar", "SP"],
+["reparar", "SP"],
+["componer", "SP"],
+["restituir", "SP"],
+["mejorar", "SP"],
+["enderezar", "SP"],
+["guardar", "SP"],
+["ajustar", "SP"],
+["ALLICHI PLANTANA", "Q"],
+["trasplantar", "SP"],
+["ALLILA", "Q"],
+["despacio", "SP"],
+["ALLILLA", "Q"],
+["despacio", "SP"],
+["feliz", "SP"],
+["ALLIMANDA", "Q"],
+["despacio", "SP"],
+["tranquilo", "SP"],
+["quieto", "SP"],
+["ALLIMANTA", "Q"],
+["despacio", "SP"],
+["ALLIMUNTA", "Q"],
+["despacio", "SP"],
+["ALLISITU", "Q"],
+["suficiente", "SP"],
+["ALLIYANA", "Q"],
+["majorar", "SP"],
+["sanar", "SP"],
+["ALLMANA", "Q"],
+["desherbar", "SP"],
+["ALLPA", "Q"],
+["terreno", "SP"],
+["tierra", "SP"],
+["suelo", "SP"],
+["piso", "SP"],
+["arena", "SP"],
+["sementera", "SP"],
+["ALLPA CHUJCHUI", "Q"],
+["terremoto", "SP"],
+["ALLPA CUYUI", "Q"],
+["terremoto", "SP"],
+["ALLPA CUYURISIJCA", "Q"],
+["terremoto", "SP"],
+["ALLPA PULBU", "Q"],
+["polvo", "SP"],
+["ALLPA T'IMBUSHCA", "Q"],
+["terremoto", "SP"],
+["ALLPA TUÑIRI", "Q"],
+["terremoto", "SP"],
+["ALLZHCU", "Q"],
+["perro", "SP"],
+["AMA", "Q"],
+["no", "SP"],
+["AMA NINA", "Q"],
+["impedir", "SP"],
+["detener", "SP"],
+["defender", "SP"],
+["AMAÑARINA", "Q"],
+["enseñarse", "SP"],
+["AMBATU", "Q"],
+["Ambato", "SP"],
+["AMBATYU", "Q"],
+["sapo", "SP"],
+["AMIGU", "Q"],
+["amigo", "SP"],
+["AMTNDA", "Q"],
+["desabrido", "SP"],
+["sin sal", "SP"],
+["AMPANA", "Q"],
+["bostezar", "SP"],
+["AMPARU", "Q"],
+["ceja", "SP"],
+["AMPLIU", "Q"],
+["amplio", "SP"],
+["AMSA", "Q"],
+["abscuro", "SP"],
+["AMSA SHUNGU", "Q"],
+["hígado", "SP"],
+["AMSAYA", "Q"],
+["tarde", "SP"],
+["AMSAYACHINA", "Q"],
+["cegar", "SP"],
+["AMSAYANA", "Q"],
+["tardecer", "SP"],
+["anochecer", "SP"],
+["AMUGCHINA", "Q"],
+["suavizar", "SP"],
+["AMUGLA", "Q"],
+["suave", "SP"],
+["AMUGLLA", "Q"],
+["suave", "SP"],
+["flojo", "SP"],
+["AMULLI", "Q"],
+["bocado", "SP"],
+["AMULLIHUA", "Q"],
+["bocado", "SP"],
+["AMULLILLAHUA", "Q"],
+["bocado", "SP"],
+["AMUPUJ MANDAJ", "Q"],
+["mayoral", "SP"],
+["AMUR", "Q"],
+["voluntad", "SP"],
+["deseo", "SP"],
+["feliz", "SP"],
+["AMURUSU", "Q"],
+["amable", "SP"],
+["ANACU", "Q"],
+["falda", "SP"],
+["bayeta", "SP"],
+["ANACUNA", "Q"],
+["ceñir", "SP"],
+["fajarse", "SP"],
+["ANAGU", "Q"],
+["falda", "SP"],
+["ANCHU", "Q"],
+["ancho", "SP"],
+["amplio", "SP"],
+["ANCHUCHINA", "Q"],
+["retirar", "SP"],
+["quitar", "SP"],
+["separar", "SP"],
+["desunir", "SP"],
+["ANCHURINA", "Q"],
+["alejarse", "SP"],
+["ANDARINA", "Q"],
+["reclinarse", "SP"],
+["ANGA", "Q"],
+["gavilán", "SP"],
+["ANGARA", "Q"],
+["calabaza", "SP"],
+["ANGU", "Q"],
+["vena", "SP"],
+["tendón", "SP"],
+["raiz", "SP"],
+["cuerda", "SP"],
+["ANGU HUASCA", "Q"],
+["cuerda", "SP"],
+["ANGULLA", "Q"],
+["rocio", "SP"],
+["ANGUSTU", "Q"],
+["angosto", "SP"],
+["ANGUYASHCA", "Q"],
+["húmedo", "SP"],
+["ANIMANA", "Q"],
+["animarse", "SP"],
+["ANIMARINA", "Q"],
+["animarse", "SP"],
+["ANIMAS", "Q"],
+["cadáver", "SP"],
+["ANINA", "Q"],
+["bostezar", "SP"],
+["ANLLU", "Q"],
+["anchu", "SP"],
+["ANLLUCHINA", "Q"],
+["quitar", "SP"],
+["ANLLUNA", "Q"],
+["huir", "SP"],
+["retirar", "SP"],
+["ANLLURINA", "Q"],
+["alejarse", "SP"],
+["ANSA", "Q"],
+["obscuro", "SP"],
+["tarde", "SP"],
+["ANSAYACHINA", "Q"],
+["cegar", "SP"],
+["ANSAYANA", "Q"],
+["anochecer", "SP"],
+["tardecer", "SP"],
+["ANSIUZU", "Q"],
+["goloso", "SP"],
+["ANSIYA", "Q"],
+["goloso", "SP"],
+["ANTUJU", "Q"],
+["deseo", "SP"],
+["ANTSALA", "Q"],
+["diminuto", "SP"],
+["AÑA", "Q"],
+["zorro", "SP"],
+["AÑADINA", "Q"],
+["añadir", "SP"],
+["AÑANGU", "Q"],
+["hormiga", "SP"],
+["AÑAS", "Q"],
+["zorro", "SP"],
+["AÑI", "Q"],
+["herida", "SP"],
+["AÑICHINA", "Q"],
+["herir", "SP"],
+["ASINGU", "Q"],
+["hormiga", "SP"],
+["AÑINGUHUA", "Q"],
+["diminuto", "SP"],
+["AÑUNGU", "Q"],
+["hormiga", "SP"],
+["APAMUNA", "Q"],
+["traer", "SP"],
+["APANA", "Q"],
+["llevar", "SP"],
+["llevar entre varias personas", "SP"],
+["APARINA", "Q"],
+["cargar", "SP"],
+["aparejo", "SP"],
+["hombro", "SP"],
+["API", "Q"],
+["colada", "SP"],
+["mazamorra", "SP"],
+["sopa", "SP"],
+["suave", "SP"],
+["API MICUNA", "Q"],
+["sopa", "SP"],
+["APIGANA", "Q"],
+["pegar con goma", "SP"],
+["APILATIVU", "Q"],
+["apellido", "SP"],
+["APILLA", "Q"],
+["suave", "SP"],
+["liso", "SP"],
+["APILLIDU", "Q"],
+["apellido", "SP"],
+["APILLIDU SHUTI", "Q"],
+["apellido", "SP"],
+["APITANA", "Q"],
+["apretar", "SP"],
+["APIYACHINA", "Q"],
+["suavizar", "SP"],
+["mojar", "SP"],
+["remojar", "SP"],
+["APIYANA", "Q"],
+["ablandarse", "SP"],
+["APUNDANA", "Q"],
+["escribir", "SP"],
+["APUNTANA", "Q"],
+["disparar", "SP"],
+["APURAI", "Q"],
+["rápido", "SP"],
+["APURTANA", "Q"],
+["apretar", "SP"],
+["ajustar", "SP"],
+["APURU", "Q"],
+["ligero", "SP"],
+["AQUI", "Q"],
+["tal vez", "SP"],
+["ARADU", "Q"],
+["arado", "SP"],
+["ARAÑA", "Q"],
+["araña", "SP"],
+["ARARAI", "Q"],
+["que calor", "SP"],
+["ARARAU", "Q"],
+["que calor", "SP"],
+["ARCA", "Q"],
+["sobaco", "SP"],
+["ARCADANA", "Q"],
+["vomitar", "SP"],
+["ARCAZANA", "Q"],
+["vomitar", "SP"],
+["ARCU LARCA", "Q"],
+["recodo", "SP"],
+["ARI", "Q"],
+["sí", "SP"],
+["ARI CHIRI", "Q"],
+["arco iris", "SP"],
+["ARI NINA", "Q"],
+["aceptar", "SP"],
+["ARIANA", "Q"],
+["araña", "SP"],
+["ARISCU", "Q"],
+["arisco", "SP"],
+["ARITIS", "Q"],
+["arete", "SP"],
+["ARIYANA", "Q"],
+["añadir", "SP"],
+["ARMA", "Q"],
+["arado", "SP"],
+["ARMANA", "Q"],
+["bañarse", "SP"],
+["ARMARINA", "Q"],
+["bañarse", "SP"],
+["ARUGU", "Q"],
+["agrio", "SP"],
+["ARUYASHCA", "Q"],
+["rígido", "SP"],
+["ARRIMANA", "Q"],
+["arrimar", "SP"],
+["ARRINIRU", "Q"],
+["poroso", "SP"],
+["AS-HUA", "Q"],
+["chicha", "SP"],
+["ASICHINA", "Q"],
+["chiste", "SP"],
+["ASINA", "Q"],
+["reir", "SP"],
+["sonreír", "SP"],
+["ASINDA", "Q"],
+["hacienda", "SP"],
+["ASIPTANA", "Q"],
+["aceptar", "SP"],
+["ASIRINA", "Q"],
+["sonreír", "SP"],
+["ASIRTANA", "Q"],
+["adivinar", "SP"],
+["ASISHA NINA", "Q"],
+["sonreír", "SP"],
+["ASPIDUR", "Q"],
+["palo para cavar papas", "SP"],
+["horqueta", "SP"],
+["ASPINA", "Q"],
+["rasgar", "SP"],
+["raspar", "SP"],
+["rallar", "SP"],
+["cardar", "SP"],
+["tallar", "SP"],
+["ASTAHUAN", "Q"],
+["más", "SP"],
+["ASTALAHUAN", "Q"],
+["luego", "SP"],
+["ASTALLAHUAN", "Q"],
+["luego", "SP"],
+["ASTARAU", "Q"],
+["que calor", "SP"],
+["ASTINA", "Q"],
+["azotar", "SP"],
+["castigar", "SP"],
+["ASUA", "Q"],
+["chicha", "SP"],
+["ASUA BASURA", "Q"],
+["heces", "SP"],
+["ASUA C'ATUNA", "Q"],
+["chichería", "SP"],
+["ASUA HUASI", "Q"],
+["chichería", "SP"],
+["ASUARIA", "Q"],
+["chichería", "SP"],
+["ASUHUA", "Q"],
+["chicha", "SP"],
+["ASUHUA C'ATU", "Q"],
+["chichería", "SP"],
+["ASUHUA C'ATUJ", "Q"],
+["chichería", "SP"],
+["ASUHUA C'ATUJ HUASI", "Q"],
+["chichería", "SP"],
+["ASUHUA HUASI", "Q"],
+["chichería", "SP"],
+["ASUHUA JATUJ HUASI", "Q"],
+["chichería", "SP"],
+["ASUHUA UCU", "Q"],
+["chichería", "SP"],
+["ASYINDA", "Q"],
+["hacienda", "SP"],
+["ASHA", "Q"],
+["poco", "SP"],
+["ASHAHUAN", "Q"],
+["luego", "SP"],
+["ASHAHUANLLA", "Q"],
+["luego", "SP"],
+["ASHALA", "Q"],
+["poco", "SP"],
+["ASHALLA", "Q"],
+["poco", "SP"],
+["escaso", "SP"],
+["ASHALLA SAQUIRISHCA", "Q"],
+["escaso", "SP"],
+["ASHALLAHUAN", "Q"],
+["luego", "SP"],
+["ASHALLAUN", "Q"],
+["luego", "SP"],
+["después", "SP"],
+["ASHALLITU", "Q"],
+["poco", "SP"],
+["ASHAMUNTA", "Q"],
+["casi", "SP"],
+["ASHANGA", "Q"],
+["canasta", "SP"],
+["ASHATA", "Q"],
+["poco", "SP"],
+["ASHAUN", "Q"],
+["luego", "SP"],
+["ASHCA", "Q"],
+["bastante", "SP"],
+["mucho", "SP"],
+["más", "SP"],
+["demasiado", "SP"],
+["suficiente", "SP"],
+["muy", "SP"],
+["hato", "SP"],
+["ASHCA PASANA", "Q"],
+["exceder", "SP"],
+["ASHCA PINSAMINTU CHÁRIJ", "Q"],
+["sabio", "SP"],
+["ASHCU", "Q"],
+["perro", "SP"],
+["ASHILLA", "Q"],
+["poco", "SP"],
+["ASHNA", "Q"],
+["fétido", "SP"],
+["ASHNACUJ", "Q"],
+["fétido", "SP"],
+["ASHNACHINA", "Q"],
+["oler", "SP"],
+["ASHNAI", "Q"],
+["fétido", "SP"],
+["ASHNAJ", "Q"],
+["fétido", "SP"],
+["ASHNAJTA CHUJCANA", "Q"],
+["heder", "SP"],
+["ASHNAJUNA", "Q"],
+["heder", "SP"],
+["ASHNANA", "Q"],
+["heder", "SP"],
+["odiar", "SP"],
+["oler", "SP"],
+["ASHNARIJ", "Q"],
+["fétido", "SP"],
+["ASHNARINA", "Q"],
+["heder", "SP"],
+["ASHNUZU", "Q"],
+["fétido", "SP"],
+["ASHPA TURU", "Q"],
+["barro", "SP"],
+["ASHTACA", "Q"],
+["muy", "SP"],
+["mucho", "SP"],
+["bastante", "SP"],
+["ASHTAHUAN", "Q"],
+["más", "SP"],
+["ASHTAN", "Q"],
+["más", "SP"],
+["demasiado", "SP"],
+["ASHTAN HUAHUALLA", "Q"],
+["menor", "SP"],
+["ASHTANA", "Q"],
+["acarrear", "SP"],
+["ASHTAUN", "Q"],
+["más", "SP"],
+["ASHUN", "Q"],
+["luego", "SP"],
+["ATAJU", "Q"],
+["grupo", "SP"],
+["hato", "SP"],
+["ATALPA", "Q"],
+["gallina", "SP"],
+["ATALLPA", "Q"],
+["gallina", "SP"],
+["ATAQUI CUNA", "Q"],
+["desmayarse", "SP"],
+["ATAQUI TUCUNA", "Q"],
+["desmayarse", "SP"],
+["ATIL", "Q"],
+["gallina", "SP"],
+["ATILA", "Q"],
+["gallina", "SP"],
+["ATILPA", "Q"],
+["gallina", "SP"],
+["ATILLA", "Q"],
+["gallina", "SP"],
+["ATILLPA", "Q"],
+["gallina", "SP"],
+["ATINA", "Q"],
+["ganar", "SP"],
+["convencer", "SP"],
+["exceder", "SP"],
+["ATRAZANA", "Q"],
+["atrasarse", "SP"],
+["ATU", "Q"],
+["lobo", "SP"],
+["zorro", "SP"],
+["ATUJ", "Q"],
+["lobo", "SP"],
+["zorro", "SP"],
+["ATULBA", "Q"],
+["gallina", "SP"],
+["ATURINA", "Q"],
+["sofocar", "SP"],
+["ATSATSAI", "Q"],
+["que frío", "SP"],
+["ATSIANA", "Q"],
+["estornudar", "SP"],
+["AUCA", "Q"],
+["salvaje", "SP"],
+["pagano", "SP"],
+["AUGANA", "Q"],
+["sofocar", "SP"],
+["AUGARINA", "Q"],
+["ahogarse", "SP"],
+["sofocar", "SP"],
+["AUJA", "Q"],
+["aguja", "SP"],
+["AUJARAMUN", "Q"],
+["hongo", "SP"],
+["AUJARINRISHINA", "Q"],
+["poroso", "SP"],
+["AULAJINA", "Q"],
+["bostezar", "SP"],
+["AULINA", "Q"],
+["urdir", "SP"],
+["AULLANA", "Q"],
+["ladrar", "SP"],
+["chillar", "SP"],
+["AULLINA", "Q"],
+["urdir", "SP"],
+["ladrar", "SP"],
+["AURURU", "Q"],
+["azul", "SP"],
+["AUSHIRIS", "Q"],
+["salvaje", "SP"],
+["pagano", "SP"],
+["AYA", "Q"],
+["alma", "SP"],
+["cadáver", "SP"],
+["difunto", "SP"],
+["demonio", "SP"],
+["diablo", "SP"],
+["sombra", "SP"],
+["AYAYAI", "Q"],
+["que dolor", "SP"],
+["AYUDANA", "Q"],
+["ayudar", "SP"],
+["AYUNANA", "Q"],
+["desayuno", "SP"],
+["AZADU", "Q"],
+["azadón", "SP"],
+["AZADU CABU", "Q"],
+["azadón", "SP"],
+["AZADUN", "Q"],
+["azadón", "SP"],
+["AZIL", "Q"],
+["azote", "SP"],
+["AZUL", "Q"],
+["azul", "SP"],
+["AZUTI", "Q"],
+["azote", "SP"],
+["AZUTINA", "Q"],
+["azotar", "SP"],
+["castigar", "SP"],
+["azote", "SP"],
+["AZHPA", "Q"],
+["tierra", "SP"],
+["terreno", "SP"],
+["BABAS", "Q"],
+["haba", "SP"],
+["BABIA", "Q"],
+["placenta", "SP"],
+["BABUS", "Q"],
+["baba", "SP"],
+["BACA", "Q"],
+["vaca", "SP"],
+["BACHA", "Q"],
+["batea de madera", "SP"],
+["BADANA", "Q"],
+["cinturón", "SP"],
+["BAGU", "Q"],
+["ocioso", "SP"],
+["BAHUAL", "Q"],
+["baul", "SP"],
+["BAHUIL", "Q"],
+["baul", "SP"],
+["BATLACHINA", "Q"],
+["trillar a caballo", "SP"],
+["BAILANA", "Q"],
+["bailar", "SP"],
+["danzar", "SP"],
+["BAITA", "Q"],
+["bayeta", "SP"],
+["rebozo", "SP"],
+["BAJANA", "Q"],
+["rebajar", "SP"],
+["BAJU", "Q"],
+["bajo", "SP"],
+["RAJUYACHINA", "Q"],
+["rebajar", "SP"],
+["BALDI", "Q"],
+["tinajón o vasija grande para", "SP"],
+["cargar agua", "SP"],
+["BALI", "Q"],
+["caro", "SP"],
+["tamaño", "SP"],
+["generoso", "SP"],
+["BALIJ", "Q"],
+["caro", "SP"],
+["tamaño", "SP"],
+["BALINA", "Q"],
+["valer", "SP"],
+["poder", "SP"],
+["equivaler", "SP"],
+["BALIRINA", "Q"],
+["equivaler", "SP"],
+["BALISHCA", "Q"],
+["caro", "SP"],
+["BALIYINTI", "Q"],
+["valiente", "SP"],
+["BALUR", "Q"],
+["caro", "SP"],
+["BALLI", "Q"],
+["valle", "SP"],
+["BAMUCHI", "Q"],
+["vámanos", "SP"],
+["BANCU", "Q"],
+["montón", "SP"],
+["BANCUNA", "Q"],
+["amontonar", "SP"],
+["BANQUILLANA", "Q"],
+["amontonar", "SP"],
+["RANQUILLUNA", "Q"],
+["amontonar", "SP"],
+["BARA", "Q"],
+["vara", "SP"],
+["BARBAS", "Q"],
+["barba", "SP"],
+["BARBUS", "Q"],
+["barba", "SP"],
+["BARRU", "Q"],
+["lodo", "SP"],
+["BARRU PLATU", "Q"],
+["plato", "SP"],
+["BASTUN", "Q"],
+["vara", "SP"],
+["BASU", "Q"],
+["pilche", "SP"],
+["BASURA", "Q"],
+["basura", "SP"],
+["BATA", "Q"],
+["falda", "SP"],
+["BATANA", "Q"],
+["sobar", "SP"],
+["BATIA", "Q"],
+["hatea de madera", "SP"],
+["BATINA", "Q"],
+["batir", "SP"],
+["mecer", "SP"],
+["BATIU", "Q"],
+["cordero", "SP"],
+["BATIUJ", "Q"],
+["cordero", "SP"],
+["BAUL", "Q"],
+["baul", "SP"],
+["BAULU", "Q"],
+["baul", "SP"],
+["BAUTISANA", "Q"],
+["bautizar", "SP"],
+["BAUTIZANA", "Q"],
+["bautizar", "SP"],
+["bautizo", "SP"],
+["BAUTIZMU", "Q"],
+["bautizo", "SP"],
+["BAUTIZU", "Q"],
+["bautizo", "SP"],
+["BAYITA", "Q"],
+["bayeta", "SP"],
+["BIAJANA", "Q"],
+["viajar", "SP"],
+["BIAJI", "Q"],
+["vez", "SP"],
+["BIBU", "Q"],
+["vivo", "SP"],
+["inteligente", "SP"],
+["BIBUSHCA", "Q"],
+["inteligente", "SP"],
+["BIBUYASHCA", "Q"],
+["inteligente", "SP"],
+["BIGA", "Q"],
+["viga", "SP"],
+["BIJA", "Q"],
+["vieja", "SP"],
+["BIJU", "Q"],
+["mayor", "SP"],
+["BIJU HUASI", "Q"],
+["ruina", "SP"],
+["BILA", "Q"],
+["vela", "SP"],
+["cera", "SP"],
+["luz", "SP"],
+["moco", "SP"],
+["BILLA", "Q"],
+["Ibarra", "SP"],
+["Riobamba", "SP"],
+["BILLI", "Q"],
+["becerro", "SP"],
+["ternero", "SP"],
+["BIN", "Q"],
+["bien", "SP"],
+["BINA", "Q"],
+["vena", "SP"],
+["tendón", "SP"],
+["BININU", "Q"],
+["veneno", "SP"],
+["BININU JAMBI", "Q"],
+["veneno", "SP"],
+["BINSI TUCUNA", "Q"],
+["escapar", "SP"],
+["BINSINA", "Q"],
+["vencer", "SP"],
+["ganar", "SP"],
+["exceder", "SP"],
+["convencer", "SP"],
+["BIRANU", "Q"],
+["verano", "SP"],
+["BIRDI", "Q"],
+["verde", "SP"],
+["BIRDI CHUSPI", "Q"],
+["tábano", "SP"],
+["BIRDIYASHCA", "Q"],
+["coágulo", "SP"],
+["BIRGÜILA", "Q"],
+["viruela", "SP"],
+["BIRMIJU", "Q"],
+["rubio", "SP"],
+["BIRSIANA", "Q"],
+["cantar", "SP"],
+["BTRTINA", "Q"],
+["verter", "SP"],
+["BISCU", "Q"],
+["bizco", "SP"],
+["tuerto", "SP"],
+["BISTISHCA", "Q"],
+["disfrazado", "SP"],
+["BISHTIRINA", "Q"],
+["vestirse", "SP"],
+["BISHU", "Q"],
+["ave", "SP"],
+["pájaro", "SP"],
+["pene", "SP"],
+["BIUDA", "Q"],
+["viuda", "SP"],
+["BIUDU", "Q"],
+["viudo", "SP"],
+["BIULIN", "Q"],
+["violín", "SP"],
+["BIZGU", "Q"],
+["bizco", "SP"],
+["tuerto", "SP"],
+["BIZHI", "Q"],
+["ternero", "SP"],
+["BIZI", "Q"],
+["becerro", "SP"],
+["ternero", "SP"],
+["BIZINU", "Q"],
+["al lado de", "SP"],
+["BIZITANA", "Q"],
+["visitar", "SP"],
+["BLANDA", "Q"],
+["humilde", "SP"],
+["BLANDU", "Q"],
+["suave", "SP"],
+["BLANDUYACHINA", "Q"],
+["suavizar", "SP"],
+["BLANDUYANA", "Q"],
+["ablandarse", "SP"],
+["BLUZA", "Q"],
+["blusa", "SP"],
+["BRILLANA", "Q"],
+["brillar", "SP"],
+["BRINCANA", "Q"],
+["saltar", "SP"],
+["brincar", "SP"],
+["BRUJANA", "Q"],
+["brujear", "SP"],
+["BRUJIYANA", "Q"],
+["brujear", "SP"],
+["BRUJU", "Q"],
+["brujo", "SP"],
+["BRUJUCHINA", "Q"],
+["brujear", "SP"],
+["BRUJUNA", "Q"],
+["brujear", "SP"],
+["BRUJUYANA", "Q"],
+["brujear", "SP"],
+["BRUJYANA", "Q"],
+["brujear", "SP"],
+["BRUMA", "Q"],
+["chiste", "SP"],
+["BRUMANA", "Q"],
+["broma", "SP"],
+["BRUNCU", "Q"],
+["embotado", "SP"],
+["sin punta", "SP"],
+["BRUTANA", "Q"],
+["brotar", "SP"],
+["retoñar", "SP"],
+["BRUTU", "Q"],
+["terco", "SP"],
+["tosco", "SP"],
+["BUCADU", "Q"],
+["bocado", "SP"],
+["BUCHI", "Q"],
+["pecho", "SP"],
+["BUDA", "Q"],
+["fiesta", "SP"],
+["matrimonio", "SP"],
+["BUDIGA", "Q"],
+["troje", "SP"],
+["BUGLLINA", "Q"],
+["eructar", "SP"],
+["BUGYANA", "Q"],
+["eructar", "SP"],
+["BUILTA", "Q"],
+["vuelta", "SP"],
+["curva", "SP"],
+["vez", "SP"],
+["BUILTACUNA", "Q"],
+["rodear", "SP"],
+["BUILTACHINA", "Q"],
+["voltear", "SP"],
+["devolver", "SP"],
+["responder", "SP"],
+["envolver", "SP"],
+["BUILTAMUNA", "Q"],
+["volver", "SP"],
+["BUILTANA", "Q"],
+["regresar", "SP"],
+["BUILTARINA", "Q"],
+["convertirse", "SP"],
+["BULANA", "Q"],
+["volar", "SP"],
+["correr", "SP"],
+["BULBU", "Q"],
+["polvo", "SP"],
+["BULI", "Q"],
+["rápido", "SP"],
+["BULSA", "Q"],
+["blusa", "SP"],
+["BULSA SHIGRA", "Q"],
+["bolsa tejida", "SP"],
+["BULTA", "Q"],
+["vuelta", "SP"],
+["vez", "SP"],
+["otra vez", "SP"],
+["BULTACHINA", "Q"],
+["voltear", "SP"],
+["tumbar", "SP"],
+["restituir", "SP"],
+["devolver", "SP"],
+["revolcar", "SP"],
+["responder", "SP"],
+["revolverse", "SP"],
+["desmontar", "SP"],
+["BULTACHISHA", "Q"],
+["al revés", "SP"],
+["BULTAMUNA", "Q"],
+["volver", "SP"],
+["BULTANA", "Q"],
+["regresar", "SP"],
+["BULTANGABU RINA", "Q"],
+["despedirse", "SP"],
+["RULTARINA", "Q"],
+["retoñar", "SP"],
+["BULTIACHINA", "Q"],
+["devolver", "SP"],
+["BULTIANA", "Q"],
+["tumbar", "SP"],
+["BULTIYACHINA", "Q"],
+["tumbar", "SP"],
+["BULUNGU", "Q"],
+["redondo", "SP"],
+["BULUSHA RINA", "Q"],
+["volar", "SP"],
+["BULLA", "Q"],
+["ruido", "SP"],
+["BULLAYANA", "Q"],
+["chillar", "SP"],
+["BULLIRU", "Q"],
+["azote", "SP"],
+["BUNQUI", "Q"],
+["círculo", "SP"],
+["BUMBA TUCUSHCA", "Q"],
+["redondo", "SP"],
+["BUMBU", "Q"],
+["tambor", "SP"],
+["BUNGA", "Q"],
+["abeja", "SP"],
+["BUNQUI", "Q"],
+["batea de madera", "SP"],
+["BUNTUN", "Q"],
+["grupo", "SP"],
+["montón", "SP"],
+["hato", "SP"],
+["BUNTUNANA", "Q"],
+["amontonar", "SP"],
+["BURA", "Q"],
+["fiesta", "SP"],
+["BURLA", "Q"],
+["broma", "SP"],
+["chiste", "SP"],
+["BURLANA", "Q"],
+["chiste", "SP"],
+["BUSTIZANA", "Q"],
+["bostezar", "SP"],
+["BUTARISHCA", "Q"],
+["embotado", "SP"],
+["BUTU", "Q"],
+["botón de planta", "SP"],
+["BUTUN", "Q"],
+["botón de planta", "SP"],
+["nudo", "SP"],
+["BUTUYANA", "Q"],
+["brotar", "SP"],
+["BUTYANA", "Q"],
+["retoñar", "SP"],
+["BUYI", "Q"],
+["abeja", "SP"],
+["CABAL", "Q"],
+["justo", "SP"],
+["suficiente", "SP"],
+["entero", "SP"],
+["enteramente", "SP"],
+["CABALTA", "Q"],
+["completamente", "SP"],
+["CABALLIJUNA", "Q"],
+["montar a caballo", "SP"],
+["CABALLU", "Q"],
+["caballo", "SP"],
+["CABIA", "Q"],
+["suave", "SP"],
+["CABISIRA", "Q"],
+["almohada", "SP"],
+["CABIZA", "Q"],
+["racimo", "SP"],
+["CABRU", "Q"],
+["chivo", "SP"],
+["CABUL", "Q"],
+["justo", "SP"],
+["suficiente", "SP"],
+["entero", "SP"],
+["CABUYA", "Q"],
+["cabuya blanca", "SP"],
+["CACA", "Q"],
+["caca", "SP"],
+["excremento", "SP"],
+["CACANA", "Q"],
+["defecar", "SP"],
+["CACUNA", "Q"],
+["suavizar", "SP"],
+["CACHANA", "Q"],
+["enviar", "SP"],
+["mandar", "SP"],
+["CACHARICHINA", "Q"],
+["alargar", "SP"],
+["CACHARINA", "Q"],
+["zafar", "SP"],
+["aflojar", "SP"],
+["librar", "SP"],
+["desatar", "SP"],
+["alargar", "SP"],
+["soltar", "SP"],
+["CACHI", "Q"],
+["sal", "SP"],
+["CACHI ILLAN", "Q"],
+["sin sal", "SP"],
+["CACHI ILLIJ", "Q"],
+["sin sal", "SP"],
+["CACHI YANUSHCA", "Q"],
+["sopa", "SP"],
+["CACHU", "Q"],
+["cuerno", "SP"],
+["CACHUDU", "Q"],
+["vaca", "SP"],
+["CACHUN", "Q"],
+["cuñada", "SP"],
+["nuera", "SP"],
+["CACHUNA", "Q"],
+["mascar", "SP"],
+["roer", "SP"],
+["CADA", "Q"],
+["cada", "SP"],
+["CAHUINA", "Q"],
+["mecer", "SP"],
+["CAHUITU", "Q"],
+["cama", "SP"],
+["CAI", "Q"],
+["esta", "SP"],
+["este", "SP"],
+["esto", "SP"],
+["CAI RATU", "Q"],
+["pronto", "SP"],
+["CAI SHUJ", "Q"],
+["otro", "SP"],
+["CAICA", "Q"],
+["toma", "SP"],
+["CAILLA", "Q"],
+["cerca", "SP"],
+["CAILLAPITAJ", "Q"],
+["siempre", "SP"],
+["CAINA", "Q"],
+["ayer", "SP"],
+["CAINA SARUN", "Q"],
+["anteayer", "SP"],
+["CAINA MINCHA", "Q"],
+["anteayer", "SP"],
+["CAINA YALLIJ", "Q"],
+["anteayer", "SP"],
+["CAINACHINA", "Q"],
+["detener", "SP"],
+["demorar", "SP"],
+["CAINANA", "Q"],
+["pasar", "SP"],
+["demorar", "SP"],
+["permanecer", "SP"],
+["CAINAPAJ CAINA", "Q"],
+["anteayer", "SP"],
+["CAINIJ SHAMUNA", "Q"],
+["acercarse", "SP"],
+["CAIPI", "Q"],
+["aquí", "SP"],
+["CAISHUJCUNA", "Q"],
+["los demás", "SP"],
+["CAJA", "Q"],
+["tambor", "SP"],
+["CAJAYANA", "Q"],
+["hinchar", "SP"],
+["CAJUN", "Q"],
+["baul", "SP"],
+["CALABAZA", "Q"],
+["calabaza", "SP"],
+["CALAGYANA", "Q"],
+["desmayarse", "SP"],
+["CALAMBI", "Q"],
+["calambre", "SP"],
+["SALAMBRI", "Q"],
+["calambre", "SP"],
+["CALAMBRIS", "Q"],
+["calambre", "SP"],
+["CALDERA", "Q"],
+["olla", "SP"],
+["CALDU", "Q"],
+["sopa", "SP"],
+["CALINTURA", "Q"],
+["fiebre", "SP"],
+["CALPANA", "Q"],
+["correr", "SP"],
+["volar", "SP"],
+["CALUR", "Q"],
+["fiebre", "SP"],
+["fuego", "SP"],
+["CALUR TIYANA", "Q"],
+["hacer calor", "SP"],
+["CALUR UNGÜI", "Q"],
+["fiebre", "SP"],
+["CALUR YACHINA", "Q"],
+["hacer calor", "SP"],
+["CALUSH", "Q"],
+["fuego", "SP"],
+["CALZUN", "Q"],
+["pantalón", "SP"],
+["CALLAMBA", "Q"],
+["hongo", "SP"],
+["CALLANA", "Q"],
+["tiesto", "SP"],
+["CALLARINA", "Q"],
+["comenzar", "SP"],
+["empezar", "SP"],
+["continuar", "SP"],
+["construir", "SP"],
+["CALLPANA", "Q"],
+["correr", "SP"],
+["volar", "SP"],
+["CALLU", "Q"],
+["lengua", "SP"],
+["CALLUMBA", "Q"],
+["hongo", "SP"],
+["CAMA", "Q"],
+["cama", "SP"],
+["CAMARIS", "Q"],
+["diarrea", "SP"],
+["CAMATIS", "Q"],
+["diablo", "SP"],
+["CAMBIADU", "Q"],
+["en vez de", "SP"],
+["CAMBIYANA", "Q"],
+["convertirse", "SP"],
+["CAMCHA", "Q"],
+["tostado", "SP"],
+["CAMCHANA", "Q"],
+["tostar", "SP"],
+["CAMCHASHCA", "Q"],
+["tostado", "SP"],
+["CAMINA", "Q"],
+["insultar", "SP"],
+["murmurar", "SP"],
+["CAMIZA", "Q"],
+["blusa", "SP"],
+["CAMLLA", "Q"],
+["tostado", "SP"],
+["CAMLLANA", "Q"],
+["tostar", "SP"],
+["tostado", "SP"],
+["CAMPU", "Q"],
+["amplio", "SP"],
+["lugar", "SP"],
+["CAN", "Q"],
+["tu", "SP"],
+["usted", "SP"],
+["CANA", "Q"],
+["ser", "SP"],
+["estar", "SP"],
+["existir", "SP"],
+["CANASTA", "Q"],
+["canasta", "SP"],
+["CANASTU", "Q"],
+["canasta", "SP"],
+["CANASHTA", "Q"],
+["canasta", "SP"],
+["CANATSI", "Q"],
+["fibra de cabuya", "SP"],
+["CANCUNA", "Q"],
+["ustedes", "SP"],
+["CANCHA", "Q"],
+["tostado", "SP"],
+["afuera", "SP"],
+["fuera de", "SP"],
+["grupo", "SP"],
+["CANCHAMBA", "Q"],
+["patio", "SP"],
+["CANCHANA", "Q"],
+["tostar", "SP"],
+["CANCHASHCA", "Q"],
+["tostado", "SP"],
+["CANCHIS", "Q"],
+["siete", "SP"],
+["CANDADU CHURANA", "Q"],
+["poner llave", "SP"],
+["CANDANA", "Q"],
+["cantar", "SP"],
+["canción", "SP"],
+["CANDILLILLA", "Q"],
+["luciérnaga", "SP"],
+["CANGUNA", "Q"],
+["ustedes", "SP"],
+["CANILLA", "Q"],
+["canilla", "SP"],
+["CANILLANA", "Q"],
+["devanar", "SP"],
+["CANINA", "Q"],
+["morder", "SP"],
+["picar", "SP"],
+["ladrar", "SP"],
+["CANISTA", "Q"],
+["canasta", "SP"],
+["CANISH NINA", "Q"],
+["ladrar", "SP"],
+["CANISHTA", "Q"],
+["canasta", "SP"],
+["CANLLA", "Q"],
+["fuera de", "SP"],
+["afuera", "SP"],
+["hato", "SP"],
+["CANLLA PAMBA", "Q"],
+["patio", "SP"],
+["CANLLA PUNGU", "Q"],
+["corredor", "SP"],
+["CANTANA", "Q"],
+["cantar", "SP"],
+["canción", "SP"],
+["CANTU", "Q"],
+["canción", "SP"],
+["CANZHA", "Q"],
+["afuera", "SP"],
+["CAPAI", "Q"],
+["voz", "SP"],
+["CAPANA", "Q"],
+["castrar", "SP"],
+["CAPARIGU", "Q"],
+["ruido", "SP"],
+["CAPARINA", "Q"],
+["gritar", "SP"],
+["gritar", "SP"],
+["chillar", "SP"],
+["CAPINA", "Q"],
+["exprimir", "SP"],
+["ordeñar", "SP"],
+["apretar", "SP"],
+["CAPU SITANA", "Q"],
+["castrar", "SP"],
+["CAPULI", "Q"],
+["capulí", "SP"],
+["CAPÚLIS", "Q"],
+["capuli", "SP"],
+["CAPUL", "Q"],
+["capulí", "SP"],
+["CAPUS", "Q"],
+["capulí", "SP"],
+["CARA", "Q"],
+["piel", "SP"],
+["cuero", "SP"],
+["cáscara", "SP"],
+["corteza", "SP"],
+["CARA CHUMBI", "Q"],
+["cinturón", "SP"],
+["CARA HUASCA", "Q"],
+["azote", "SP"],
+["CARACUL", "Q"],
+["caracol", "SP"],
+["CARACHA", "Q"],
+["sarna", "SP"],
+["lobo", "SP"],
+["zorro", "SP"],
+["CARACHISHCA", "Q"],
+["coágulo", "SP"],
+["CARADA LLUJSHICHINA", "Q"],
+["pelear", "SP"],
+["CARAJ", "Q"],
+["generoso", "SP"],
+["CARALUN", "Q"],
+["generoso", "SP"],
+["CARANA", "Q"],
+["dar de comer", "SP"],
+["brindar", "SP"],
+["regalar", "SP"],
+["ofrecer", "SP"],
+["CÁRBUN", "Q"],
+["carbón", "SP"],
+["CARBÚN", "Q"],
+["carbón", "SP"],
+["CARCA", "Q"],
+["sucio", "SP"],
+["suciedad", "SP"],
+["CARCUNA", "Q"],
+["echar", "SP"],
+["CARDANA", "Q"],
+["cardar", "SP"],
+["CARGLAN", "Q"],
+["bizco", "SP"],
+["CARGUNCHINA", "Q"],
+["culpar", "SP"],
+["CARI", "Q"],
+["macho", "SP"],
+["hombre", "SP"],
+["CARIÑUZU", "Q"],
+["generoso", "SP"],
+["amable", "SP"],
+["CARNISIRU", "Q"],
+["carnicero", "SP"],
+["CARPA", "Q"],
+["choza", "SP"],
+["CARSILMAN APANA", "Q"],
+["prender", "SP"],
+["CARTILIS QUINRI", "Q"],
+["costilla", "SP"],
+["CARU", "Q"],
+["lejos", "SP"],
+["distante", "SP"],
+["caro", "SP"],
+["CARUTA RINA", "Q"],
+["viajar", "SP"],
+["CARUYACHINA", "Q"],
+["retirar", "SP"],
+["CARUYANA", "Q"],
+["alejarse", "SP"],
+["CARUYASHCA", "Q"],
+["caro", "SP"],
+["CARRIZU", "Q"],
+["carrizo", "SP"],
+["CARRUSQUINA", "Q"],
+["mascar", "SP"],
+["CASA", "Q"],
+["helada", "SP"],
+["hielo", "SP"],
+["CASA PACARINA", "Q"],
+["helar", "SP"],
+["CASACUNA", "Q"],
+["helar", "SP"],
+["CASISHCA", "Q"],
+["helada", "SP"],
+["CASAI", "Q"],
+["helada", "SP"],
+["CASAICHINA", "Q"],
+["helar", "SP"],
+["CASANA", "Q"],
+["helar", "SP"],
+["CASASHCA", "Q"],
+["helada", "SP"],
+["CASCANA", "Q"],
+["rumiar", "SP"],
+["CASI", "Q"],
+["tranquilo", "SP"],
+["CASI ILLAN", "Q"],
+["escaso", "SP"],
+["CASILA", "Q"],
+["quieto", "SP"],
+["tranquilo", "SP"],
+["CASILLA", "Q"],
+["tranquilo", "SP"],
+["quieto", "SP"],
+["CASISHCA", "Q"],
+["helada", "SP"],
+["hielo", "SP"],
+["CASPA", "Q"],
+["mazorca", "SP"],
+["CASPANA", "Q"],
+["chamuscar", "SP"],
+["CASPI", "Q"],
+["palo", "SP"],
+["madera", "SP"],
+["bastón", "SP"],
+["viga", "SP"],
+["rama", "SP"],
+["tronco", "SP"],
+["tieso", "SP"],
+["rígido", "SP"],
+["delgado", "SP"],
+["pálido", "SP"],
+["CASPI CARA", "Q"],
+["corteza", "SP"],
+["CASPI HUIGRU", "Q"],
+["batea de madera", "SP"],
+["CASPI TRUNCU", "Q"],
+["tronco", "SP"],
+["CASPIDA BURDANA", "Q"],
+["tallar", "SP"],
+["CASPIYASHCA", "Q"],
+["rígido", "SP"],
+["tieso", "SP"],
+["CASTIGANA", "Q"],
+["castigar", "SP"],
+["CASTUNA", "Q"],
+["mascar", "SP"],
+["CASU RURANA", "Q"],
+["obedecer", "SP"],
+["CASUNA", "Q"],
+["obedecer", "SP"],
+["CASHA", "Q"],
+["espina", "SP"],
+["CASHA PURU", "Q"],
+["espinazo", "SP"],
+["CASHA TULLU", "Q"],
+["espinazo", "SP"],
+["CASHNA", "Q"],
+["así", "SP"],
+["CASHTIGANA", "Q"],
+["castigar", "SP"],
+["azotar", "SP"],
+["CASHTUNA", "Q"],
+["roer", "SP"],
+["mascar", "SP"],
+["CASHTUNAS", "Q"],
+["quijada", "SP"],
+["CASHTURINA", "Q"],
+["rumiar", "SP"],
+["CASHU", "Q"],
+["sobaco", "SP"],
+["CATAPUGLA", "Q"],
+["catapulta", "SP"],
+["CATAPULCA", "Q"],
+["catapulta", "SP"],
+["CATARRU", "Q"],
+["gripe", "SP"],
+["CATI", "Q"],
+["siguiente", "SP"],
+["después", "SP"],
+["menor", "SP"],
+["CATI CATI", "Q"],
+["sucesivamente", "SP"],
+["CATI CATILA", "Q"],
+["sucesivamente", "SP"],
+["CATI CATILLA", "Q"],
+["sucesivamente", "SP"],
+["CATI HUAUQUI", "Q"],
+["hermano menor", "SP"],
+["CATI TARPUNA", "Q"],
+["trasplantar", "SP"],
+["CATICACHINA", "Q"],
+["perseguir", "SP"],
+["CATICHINA", "Q"],
+["encender", "SP"],
+["prender candela", "SP"],
+["guiar", "SP"],
+["traducir", "SP"],
+["CATIJ", "Q"],
+["siguiente", "SP"],
+["CATIJ P'UNLLA", "Q"],
+["día siguiente", "SP"],
+["CATIJACHINA", "Q"],
+["perseguir", "SP"],
+["CATIJICHINA", "Q"],
+["perseguir", "SP"],
+["CATINA", "Q"],
+["seguir", "SP"],
+["continuar", "SP"],
+["perseguir", "SP"],
+["leer", "SP"],
+["CATIRANA", "Q"],
+["perseguir", "SP"],
+["CATIRISHCA P'UNLLA", "Q"],
+["día siguiente", "SP"],
+["CATISH RINA", "Q"],
+["seguir", "SP"],
+["CATSU", "Q"],
+["catzo", "SP"],
+["CAUCHU", "Q"],
+["cuerda", "SP"],
+["fibra de cabuya", "SP"],
+["CAUCHUNA", "Q"],
+["retorcer", "SP"],
+["CAUPANA", "Q"],
+["ronronear", "SP"],
+["CAUPINA", "Q"],
+["torcer", "SP"],
+["CAUPUNA", "Q"],
+["retorcer", "SP"],
+["CAUSA", "Q"],
+["culpa", "SP"],
+["CAUSAI", "Q"],
+["vida", "SP"],
+["CAUSANA", "Q"],
+["vivir", "SP"],
+["existir", "SP"],
+["permanecer", "SP"],
+["vida", "SP"],
+["CAUSI", "Q"],
+["vida", "SP"],
+["CAUZA", "Q"],
+["culpa", "SP"],
+["CAVINA", "Q"],
+["batir", "SP"],
+["mecer", "SP"],
+["CAYA", "Q"],
+["mañana", "SP"],
+["CAYA MINCHA", "Q"],
+["pasado mañana", "SP"],
+["CAYA PUNLLA", "Q"],
+["día siguiente", "SP"],
+["CAYA PUNZHA", "Q"],
+["día siguiente", "SP"],
+["CAYA SARUN PASASHCA", "Q"],
+["pasado mañana", "SP"],
+["CAYA YALLI", "Q"],
+["pasado mañana", "SP"],
+["CAYA YALLIJ", "Q"],
+["pasado mañana", "SP"],
+["CAYACAMA", "Q"],
+["hasta mañana", "SP"],
+["CAYACAMA NINA", "Q"],
+["despedirse", "SP"],
+["CAYACAMAN", "Q"],
+["hasta mañana", "SP"],
+["CAYACAMANA", "Q"],
+["despedirse", "SP"],
+["CAYAGAMA", "Q"],
+["hasta mañana", "SP"],
+["CAYAGAMA NINA", "Q"],
+["despedirse", "SP"],
+["CAYANA", "Q"],
+["llamar", "SP"],
+["invitar", "SP"],
+["llamar", "SP"],
+["nombrar", "SP"],
+["CAYANDI", "Q"],
+["día siguiente", "SP"],
+["pasado mañana", "SP"],
+["CAYANDIJ", "Q"],
+["día siguiente", "SP"],
+["CAYANDIJ P'UNLLA", "Q"],
+["día siguiente", "SP"],
+["CAYAPAJ CAYA", "Q"],
+["pasado mañana", "SP"],
+["CAYAPAJ CAYANDIJ", "Q"],
+["pasado mañana", "SP"],
+["CAYINDI", "Q"],
+["día siguiente", "SP"],
+["CAYUNDI", "Q"],
+["día siguiente", "SP"],
+["CAZAMINTU", "Q"],
+["matrimonio", "SP"],
+["CAZARAI", "Q"],
+["matrimonio", "SP"],
+["CAZARANA", "Q"],
+["casarse", "SP"],
+["matrimonio", "SP"],
+["CAZARASHCA", "Q"],
+["matrimonio", "SP"],
+["CAZARI", "Q"],
+["matrimonio", "SP"],
+["CAZARINA", "Q"],
+["casarse", "SP"],
+["matrimonio", "SP"],
+["CAZI", "Q"],
+["casi", "SP"],
+["CAZUNA", "Q"],
+["hacer caso de", "SP"],
+["obedecer", "SP"],
+["CLABANA", "Q"],
+["clavar", "SP"],
+["CLABUDA TACANA", "Q"],
+["clavar", "SP"],
+["CRIANA", "Q"],
+["criar", "SP"],
+["CRICHINA", "Q"],
+["convencer", "SP"],
+["engañar", "SP"],
+["CRINA", "Q"],
+["creer", "SP"],
+["CRISPU", "Q"],
+["crespo", "SP"],
+["CRISPUMA", "Q"],
+["crespo", "SP"],
+["CRIYINA", "Q"],
+["creer", "SP"],
+["CRUZANA", "Q"],
+["cruzar", "SP"],
+["CRUZARINA", "Q"],
+["cruzar", "SP"],
+["CUADRACHINA", "Q"],
+["cuadrar", "SP"],
+["CUADRADUDA RURANA", "Q"],
+["cuadrar", "SP"],
+["CUADRANA", "Q"],
+["cuadrar", "SP"],
+["CUADRARINA", "Q"],
+["cuadrar", "SP"],
+["CUAJARISHCA", "Q"],
+["coágulo", "SP"],
+["CUBIRTA", "Q"],
+["techo", "SP"],
+["CUCABI", "Q"],
+["fiambre", "SP"],
+["CUCAHUI", "Q"],
+["fiambre", "SP"],
+["CUCAVI", "Q"],
+["fiambre", "SP"],
+["CUCAYI", "Q"],
+["fiambre", "SP"],
+["CUCAYU", "Q"],
+["fiambre", "SP"],
+["CUCU", "Q"],
+["diablo", "SP"],
+["demonio", "SP"],
+["CUCU PALU", "Q"],
+["lagartija", "SP"],
+["CUCHA", "Q"],
+["lago", "SP"],
+["charco", "SP"],
+["mar", "SP"],
+["CUCHÁRUN", "Q"],
+["cucharón", "SP"],
+["CUCHARÚN", "Q"],
+["cucharón", "SP"],
+["CUCHAYASHCA", "Q"],
+["charco", "SP"],
+["CUCHI", "Q"],
+["chancho", "SP"],
+["puerco", "SP"],
+["CUCHQUI", "Q"],
+["plata", "SP"],
+["dinero", "SP"],
+["CUCHU", "Q"],
+["rincon", "SP"],
+["lado", "SP"],
+["cerca", "SP"],
+["CUCHU QUIRU", "Q"],
+["muela", "SP"],
+["CUCHUCHINA", "Q"],
+["arrimar", "SP"],
+["CUCHULLA", "Q"],
+["cerca", "SP"],
+["CUCHUNA", "Q"],
+["cortar", "SP"],
+["cosechar", "SP"],
+["segar", "SP"],
+["tallar", "SP"],
+["cortar", "SP"],
+["herir", "SP"],
+["arrancar", "SP"],
+["CUCHURISHCA", "Q"],
+["herida", "SP"],
+["CUCHUYACHINA", "Q"],
+["arrimar", "SP"],
+["CUCHUYANA", "Q"],
+["acercarse", "SP"],
+["CUDU", "Q"],
+["recodo", "SP"],
+["CUI", "Q"],
+["conejillo de indias", "SP"],
+["CUICA", "Q"],
+["lombriz", "SP"],
+["CUICHI", "Q"],
+["arco iris", "SP"],
+["CUIDADU", "Q"],
+["cuidado", "SP"],
+["CUIDAI", "Q"],
+["cuidado", "SP"],
+["CUIDANA", "Q"],
+["cuidar", "SP"],
+["guardar", "SP"],
+["CUINTA", "Q"],
+["en vez de", "SP"],
+["CUINTAMUNDA", "Q"],
+["en vez de", "SP"],
+["CUINTANA", "Q"],
+["contar", "SP"],
+["contar", "SP"],
+["CUIRDA", "Q"],
+["cuerda", "SP"],
+["CUIRPU UPA", "Q"],
+["paralizado", "SP"],
+["CUIRPU UPAYASHCA", "Q"],
+["paralizado", "SP"],
+["CUITSA", "Q"],
+["joven", "SP"],
+["muchacha", "SP"],
+["CUJCHUI", "Q"],
+["paludismo", "SP"],
+["CUJITU", "Q"],
+["cojo", "SP"],
+["CUJU", "Q"],
+["cojo", "SP"],
+["manco", "SP"],
+["CULA", "Q"],
+["cola", "SP"],
+["lagartija", "SP"],
+["CULANA", "Q"],
+["pegar con goma", "SP"],
+["CULIRA", "Q"],
+["cólera", "SP"],
+["iras", "SP"],
+["bravo", "SP"],
+["CULIRACHINA", "Q"],
+["enojar", "SP"],
+["molestar", "SP"],
+["CULIRANA", "Q"],
+["enojar", "SP"],
+["iras", "SP"],
+["CULIS", "Q"],
+["col", "SP"],
+["CULMA", "Q"],
+["montón", "SP"],
+["CULMANA", "Q"],
+["amontonar", "SP"],
+["CULPA", "Q"],
+["culpa", "SP"],
+["CULPANA", "Q"],
+["culpar", "SP"],
+["CULQUI", "Q"],
+["plata", "SP"],
+["dinero", "SP"],
+["oro", "SP"],
+["CULQUIYUJ", "Q"],
+["rico", "SP"],
+["CULTIVANA", "Q"],
+["desherbar", "SP"],
+["CULUN NIJUI", "Q"],
+["trueno", "SP"],
+["CULUN NINA", "Q"],
+["tronar", "SP"],
+["trueno", "SP"],
+["CULUN NISHCA", "Q"],
+["trueno", "SP"],
+["CULUNQUIRINA", "Q"],
+["tronar", "SP"],
+["CULUR", "Q"],
+["achiote", "SP"],
+["CULURTA RURANA", "Q"],
+["teñir", "SP"],
+["CULLMA", "Q"],
+["tieso", "SP"],
+["CULLQUI", "Q"],
+["dinero", "SP"],
+["plata", "SP"],
+["CULLU", "Q"],
+["muñon", "SP"],
+["CULLUSHCA", "Q"],
+["muñon", "SP"],
+["CUMADRI", "Q"],
+["comadre", "SP"],
+["CUMAÑANA", "Q"],
+["acompañar", "SP"],
+["CUMARI", "Q"],
+["comadre", "SP"],
+["madrina de bautizo o matrimonio", "SP"],
+["CUMBA", "Q"],
+["amigo", "SP"],
+["techo", "SP"],
+["CUMBANA", "Q"],
+["acompañar", "SP"],
+["tapar", "SP"],
+["CUMBARI", "Q"],
+["compadre", "SP"],
+["CUMBIDALUN", "Q"],
+["generoso", "SP"],
+["CUMBIDANA", "Q"],
+["regalar", "SP"],
+["brindar", "SP"],
+["ofrecer", "SP"],
+["invitar", "SP"],
+["CUMBIDASHCA", "Q"],
+["gratis", "SP"],
+["CUMBINSINA", "Q"],
+["convencer", "SP"],
+["CUMBUNINA", "Q"],
+["arreglar", "SP"],
+["CUMINUS", "Q"],
+["comezon", "SP"],
+["CUMPADRI", "Q"],
+["compadre", "SP"],
+["CUMPAÑANA", "Q"],
+["acompañar", "SP"],
+["CUMPAÑASHA PURINA", "Q"],
+["acompañar", "SP"],
+["CUMPAÑASHA RINA", "Q"],
+["acompañar", "SP"],
+["CUMPAÑIRITU", "Q"],
+["amigo", "SP"],
+["CUMPARI", "Q"],
+["compadre", "SP"],
+["CUMPLINA", "Q"],
+["cumplir", "SP"],
+["obedecer", "SP"],
+["CUMPUNINA", "Q"],
+["arreglar", "SP"],
+["CUMU", "Q"],
+["curva", "SP"],
+["CUMURINA", "Q"],
+["agacharse", "SP"],
+["CUMURISHCA", "Q"],
+["jorobado", "SP"],
+["CUNA", "Q"],
+["dar", "SP"],
+["brindar", "SP"],
+["entregar", "SP"],
+["ofrecer", "SP"],
+["dar de comer", "SP"],
+["CUNA CANA", "Q"],
+["deber", "SP"],
+["CUNAGYANA", "Q"],
+["abrigarse", "SP"],
+["CUNAN", "Q"],
+["ahora", "SP"],
+["hoy", "SP"],
+["CUNAN PUNLLA", "Q"],
+["hoy", "SP"],
+["CUNAN PUNZHA", "Q"],
+["hoy", "SP"],
+["CUNBIDANA", "Q"],
+["regalar", "SP"],
+["CUNCHU", "Q"],
+["rincon", "SP"],
+["CUNDUR", "Q"],
+["cóndor", "SP"],
+["CUNGA", "Q"],
+["cuello", "SP"],
+["pescuezo", "SP"],
+["garganta", "SP"],
+["manzana", "SP"],
+["CUNGA HUASHCA", "Q"],
+["collar", "SP"],
+["CUNGA HUASHCA SARTADA RURANA", "Q"],
+["ensartar", "SP"],
+["CUNGA MUCU", "Q"],
+["manzana", "SP"],
+["nuca", "SP"],
+["CUNGA TULLU", "Q"],
+["nuca", "SP"],
+["CUNGAI", "Q"],
+["de repente", "SP"],
+["CUNGAILLA", "Q"],
+["tranquilo", "SP"],
+["CUNGALLA", "Q"],
+["de repente", "SP"],
+["CUNGANA", "Q"],
+["olvidar", "SP"],
+["descuidar", "SP"],
+["equivocarse", "SP"],
+["CUNGARINA", "Q"],
+["descuidar", "SP"],
+["equivocarse", "SP"],
+["CUNGARISHCA", "Q"],
+["tranquilo", "SP"],
+["CUNGASHCAIPI", "Q"],
+["de repente", "SP"],
+["CUNGASHCALLA", "Q"],
+["tranquilo", "SP"],
+["CUNGÜILA", "Q"],
+["tranquilo", "SP"],
+["CUNGURI", "Q"],
+["rodilla", "SP"],
+["falda", "SP"],
+["CUNGURI CHANGA", "Q"],
+["muslo", "SP"],
+["CUNGURINA", "Q"],
+["arrodillarse", "SP"],
+["rodilla", "SP"],
+["CUNIJU", "Q"],
+["conejo", "SP"],
+["CUNLLU", "Q"],
+["heces", "SP"],
+["CUNSIJANA", "Q"],
+["educar", "SP"],
+["CUNTININA", "Q"],
+["sostener", "SP"],
+["CUNTINTU", "Q"],
+["contento", "SP"],
+["alegre", "SP"],
+["feliz", "SP"],
+["CUNTISTANA", "Q"],
+["responder", "SP"],
+["CUNTRA", "Q"],
+["enemigo", "SP"],
+["CUNTRA GANA", "Q"],
+["odiar", "SP"],
+["CUNTRARIU", "Q"],
+["enemigo", "SP"],
+["CUNU", "Q"],
+["conejo", "SP"],
+["CUNUCHINA", "Q"],
+["calentarse", "SP"],
+["CUNUGLLA", "Q"],
+["tibio", "SP"],
+["caliente", "SP"],
+["CUNUGLLA CANA", "Q"],
+["hacer calor", "SP"],
+["CUNUGYANA", "Q"],
+["calentarse", "SP"],
+["arder", "SP"],
+["abrigarse", "SP"],
+["CUNUJ", "Q"],
+["tibio", "SP"],
+["caliente", "SP"],
+["calor", "SP"],
+["CUNUJCHINA", "Q"],
+["calentarse", "SP"],
+["arder", "SP"],
+["CUNUN", "Q"],
+["ahora", "SP"],
+["hoy", "SP"],
+["CUNUN P'UNLLA", "Q"],
+["hoy", "SP"],
+["CUNUNA", "Q"],
+["abrigarse", "SP"],
+["calentarse", "SP"],
+["CUNURINA", "Q"],
+["abrigarse", "SP"],
+["calentarse", "SP"],
+["CUNYANA", "Q"],
+["arder", "SP"],
+["CUÑA", "Q"],
+["moco", "SP"],
+["CUÑADA", "Q"],
+["cuñada", "SP"],
+["CUPA UMA", "Q"],
+["desgreñado", "SP"],
+["CURA", "Q"],
+["sacerdote", "SP"],
+["CURASUN", "Q"],
+["corazón", "SP"],
+["CURBA", "Q"],
+["curva", "SP"],
+["CURBIÑU", "Q"],
+["conejillo de indias", "SP"],
+["CURCU", "Q"],
+["jorobado", "SP"],
+["CURCULUMU", "Q"],
+["jorodado", "SP"],
+["CURDUR", "Q"],
+["corredor", "SP"],
+["CURI", "Q"],
+["oro", "SP"],
+["CURICU", "Q"],
+["madrastra", "SP"],
+["CURPA", "Q"],
+["coágulo", "SP"],
+["CURPARINA", "Q"],
+["encogerse", "SP"],
+["CURPAYANA", "Q"],
+["encogerse", "SP"],
+["CURPAYARINA", "Q"],
+["encogerse", "SP"],
+["CURPUYASHCA", "Q"],
+["coágulo", "SP"],
+["CURSIA", "Q"],
+["diarrea", "SP"],
+["CURTA", "Q"],
+["coágulo", "SP"],
+["CURTILIS", "Q"],
+["costilla", "SP"],
+["CURU", "Q"],
+["gusano", "SP"],
+["CURU TAMIA", "Q"],
+["lluvia con sol", "SP"],
+["CURUNDA", "Q"],
+["tusa", "SP"],
+["CURUNTA", "Q"],
+["tusa", "SP"],
+["CURURU", "Q"],
+["ovilla de hilo", "SP"],
+["CURURUNA", "Q"],
+["ovillar", "SP"],
+["devanar", "SP"],
+["enrollar", "SP"],
+["CURURUTA RANA", "Q"],
+["devanar", "SP"],
+["CURUTA", "Q"],
+["testículo", "SP"],
+["CURVA", "Q"],
+["recodo", "SP"],
+["CURRAL", "Q"],
+["corral", "SP"],
+["cerco", "SP"],
+["CURRIA", "Q"],
+["cinturón", "SP"],
+["CURRIDUR", "Q"],
+["corredor", "SP"],
+["CURRIDUR PUNGU", "Q"],
+["corredor", "SP"],
+["CURRIMILLUN", "Q"],
+["muela", "SP"],
+["CURRINA", "Q"],
+["correr", "SP"],
+["alargar", "SP"],
+["CURRIYANA", "Q"],
+["correr", "SP"],
+["CURRUL", "Q"],
+["corral", "SP"],
+["CUSA", "Q"],
+["esposo", "SP"],
+["marido", "SP"],
+["CUSANA", "Q"],
+["asar", "SP"],
+["ensartar", "SP"],
+["CUSCUNGU", "Q"],
+["buho", "SP"],
+["CUSTIJIS", "Q"],
+["costilla", "SP"],
+["CUSTILLA", "Q"],
+["costilla", "SP"],
+["CUSTIS", "Q"],
+["costilla", "SP"],
+["CUSTUMBRI", "Q"],
+["costumbre", "SP"],
+["CUSHA", "Q"],
+["nido", "SP"],
+["CUSHA NINA", "Q"],
+["ofrecer", "SP"],
+["CUSHI", "Q"],
+["contento", "SP"],
+["feliz", "SP"],
+["CUSHICUI", "Q"],
+["feliz", "SP"],
+["CUSHILA", "Q"],
+["alegre", "SP"],
+["CUSHILLA", "Q"],
+["alegre", "SP"],
+["contento", "SP"],
+["tranquilo", "SP"],
+["CUSHIYACHINA", "Q"],
+["domesticar", "SP"],
+["CUSHIYANA", "Q"],
+["sonreírse", "SP"],
+["sonreír", "SP"],
+["CUSHNI", "Q"],
+["humo", "SP"],
+["obscuro", "SP"],
+["gris", "SP"],
+["CUSHNICHINA", "Q"],
+["ahumar", "SP"],
+["humear", "SP"],
+["CUSHNIDA CHURANA", "Q"],
+["ahumar", "SP"],
+["CUSHINA", "Q"],
+["humear", "SP"],
+["ahumar", "SP"],
+["CUSHNIYACHINA", "Q"],
+["ahumar", "SP"],
+["CUSHNIYANA", "Q"],
+["ahumar", "SP"],
+["CUSHPANA", "Q"],
+["orinar", "SP"],
+["CUSHQUI", "Q"],
+["plata", "SP"],
+["dinero", "SP"],
+["CUSHTILIS", "Q"],
+["costilla", "SP"],
+["CUSHTILLA", "Q"],
+["costilla", "SP"],
+["CUSHTILLAS", "Q"],
+["costilla", "SP"],
+["CUSHTIRIS TULLU", "Q"],
+["costilla", "SP"],
+["CUSHTIS", "Q"],
+["costilla", "SP"],
+["CUSHTUMBRI", "Q"],
+["costumbre", "SP"],
+["CUTA", "Q"],
+["harina", "SP"],
+["CUTANA", "Q"],
+["moler", "SP"],
+["inyectar", "SP"],
+["CUTI SHUJ", "Q"],
+["otro", "SP"],
+["CUTICHINA", "Q"],
+["responder", "SP"],
+["devolver", "SP"],
+["repetir", "SP"],
+["restituir", "SP"],
+["entregar", "SP"],
+["CUTIJ", "Q"],
+["otra vez", "SP"],
+["CUTIMBISH URANA", "Q"],
+["repetir", "SP"],
+["CUTIMUI", "Q"],
+["vuelta", "SP"],
+["CUTIN", "Q"],
+["otra vez", "SP"],
+["vez", "SP"],
+["vuelta", "SP"],
+["CUTIN IÑARINA", "Q"],
+["retoñar", "SP"],
+["CUTIN RURANA", "Q"],
+["repetir", "SP"],
+["CUTIN SHUJ", "Q"],
+["otro", "SP"],
+["CUTIN SHUJ BUILTA RURANA", "Q"],
+["repetir", "SP"],
+["CUTIN SHUJ LADU", "Q"],
+["oriente", "SP"],
+["CUTIN SHUJ LAYA", "Q"],
+["diferente", "SP"],
+["distinto", "SP"],
+["CUTIN SHUJ VIAJI", "Q"],
+["otra vez", "SP"],
+["CUTIN SHUJCUNA", "Q"],
+["los demás", "SP"],
+["CUTIN SHUJTA RIMANA", "Q"],
+["traducir", "SP"],
+["CUTINA", "Q"],
+["regresar", "SP"],
+["volver", "SP"],
+["repetir", "SP"],
+["CUTISH", "Q"],
+["otro", "SP"],
+["CUTU", "Q"],
+["manzana", "SP"],
+["corto", "SP"],
+["CUTUNA", "Q"],
+["moler", "SP"],
+["rumiar", "SP"],
+["blusa", "SP"],
+["CUTSI", "Q"],
+["vivo", "SP"],
+["ingenioso", "SP"],
+["pronto", "SP"],
+["ligero", "SP"],
+["CUTSILLA", "Q"],
+["inteligente", "SP"],
+["CUYANA", "Q"],
+["querer", "SP"],
+["CUYI", "Q"],
+["conejillo de indias", "SP"],
+["CUYUCHIJ", "Q"],
+["arco iris", "SP"],
+["CUYUCHINA", "Q"],
+["mecer", "SP"],
+["batir", "SP"],
+["girar", "SP"],
+["CUYUGU", "Q"],
+["músculo", "SP"],
+["CUYUNA", "Q"],
+["moverse", "SP"],
+["CUYURINA", "Q"],
+["revolverse", "SP"],
+["moverse", "SP"],
+["dislocar", "SP"],
+["CUZICHANA", "Q"],
+["cosechar", "SP"],
+["segar", "SP"],
+["CUZINA UCU", "Q"],
+["cocina", "SP"],
+["cuarto", "SP"],
+["CUZUCHANA", "Q"],
+["cosechar", "SP"],
+["CUZHQUI", "Q"],
+["plata", "SP"],
+["dinero", "SP"],
+["C'ACA", "Q"],
+["peñia", "SP"],
+["quebrada", "SP"],
+["valle", "SP"],
+["C'AC'A UTCU", "Q"],
+["cueva", "SP"],
+["C'ACUNA", "Q"],
+["fregar", "SP"],
+["sobar", "SP"],
+["suavizar", "SP"],
+["rallar", "SP"],
+["enjuagar", "SP"],
+["explotar", "SP"],
+["C'ACHU", "Q"],
+["cuerno", "SP"],
+["C'ACHUJ", "Q"],
+["catzo", "SP"],
+["C'ACHUN", "Q"],
+["nuera", "SP"],
+["cuñada", "SP"],
+["C'AHUI", "Q"],
+["sucio", "SP"],
+["C'AHUINA", "Q"],
+["batir", "SP"],
+["mecer", "SP"],
+["C'AHUITU", "Q"],
+["cama", "SP"],
+["C'AICA", "Q"],
+["toma", "SP"],
+["C'AIGA", "Q"],
+["toma", "SP"],
+["C'ALMA", "Q"],
+["apajejo", "SP"],
+["C'ALUN", "Q"],
+["crudo", "SP"],
+["C'ALLU", "Q"],
+["lengua", "SP"],
+["idioma", "SP"],
+["C'AMINA", "Q"],
+["insultar", "SP"],
+["odiar", "SP"],
+["C'ANGALLA", "Q"],
+["liviano", "SP"],
+["ligero", "SP"],
+["suave", "SP"],
+["C'APIRU", "Q"],
+["maleza", "SP"],
+["C'ARCA", "Q"],
+["sucio", "SP"],
+["suciedad", "SP"],
+["basura", "SP"],
+["C'ARCAYASHCA", "Q"],
+["manchado", "SP"],
+["C'ARI", "Q"],
+["varón", "SP"],
+["hombre", "SP"],
+["macho", "SP"],
+["C'ARI HUAHUA", "Q"],
+["niño", "SP"],
+["hijo", "SP"],
+["C'ARI C'ARI", "Q"],
+["valiente", "SP"],
+["C'ARI HUAMBRA", "Q"],
+["muchacho", "SP"],
+["joven", "SP"],
+["C'ARI MARA", "Q"],
+["niño", "SP"],
+["C'ARI TUCUSHCA", "Q"],
+["orgulloso", "SP"],
+["C'ARIYANA", "Q"],
+["animarse", "SP"],
+["C'ASPANA", "Q"],
+["chamuscar", "SP"],
+["C'ATA", "Q"],
+["cobija", "SP"],
+["techo", "SP"],
+["peña", "SP"],
+["C'ATACHINA", "Q"],
+["tapar", "SP"],
+["C'ATADUR", "Q"],
+["vendedor", "SP"],
+["C'ATALLINA", "Q"],
+["cobijar", "SP"],
+["tapar", "SP"],
+["abrigarse", "SP"],
+["C'ATANA", "Q"],
+["cobijar", "SP"],
+["tapar", "SP"],
+["cobija", "SP"],
+["techo", "SP"],
+["C'ATARINA", "Q"],
+["cobijar", "SP"],
+["C'ATINA", "Q"],
+["seguir", "SP"],
+["continuar", "SP"],
+["C'ATINACUI", "Q"],
+["siguiente", "SP"],
+["C'ATSU", "Q"],
+["catzo", "SP"],
+["C'ATUJ", "Q"],
+["vendedor", "SP"],
+["C'ATUJ PLASA", "Q"],
+["mercado", "SP"],
+["C'ATUNA PAMBA", "Q"],
+["mercado", "SP"],
+["C'ATUNA PLASA", "Q"],
+["mercado", "SP"],
+["C'ATUNA UCU", "Q"],
+["mercado", "SP"],
+["C'ATURUSH", "Q"],
+["vendedor", "SP"],
+["C'AYANA", "Q"],
+["llamar", "SP"],
+["C'AYAPUJ CAYA", "Q"],
+["pasado mañana", "SP"],
+["C'AZILYISHCA", "Q"],
+["tieso", "SP"],
+["C'UCHI", "Q"],
+["puerco", "SP"],
+["chancho", "SP"],
+["C'UCHI BIRUILA", "Q"],
+["viruela", "SP"],
+["C'UCHU", "Q"],
+["al lado de", "SP"],
+["C'UCHU QUIRU", "Q"],
+["muela", "SP"],
+["C'UIDI", "Q"],
+["bonito", "SP"],
+["C'UILLA", "Q"],
+["bonito", "SP"],
+["elegante", "SP"],
+["C'ULLU", "Q"],
+["muñon", "SP"],
+["manco", "SP"],
+["tronco", "SP"],
+["C'ULLU MAQUI", "Q"],
+["manco", "SP"],
+["C'UÑA", "Q"],
+["moco", "SP"],
+["C'URU", "Q"],
+["gusano", "SP"],
+["hormiga", "SP"],
+["C'URU MICHA", "Q"],
+["luciérnaga", "SP"],
+["C'UTU", "Q"],
+["corto", "SP"],
+["diminuto", "SP"],
+["enano", "SP"],
+["C'UTUYANA", "Q"],
+["encogerse", "SP"],
+["C'UYA", "Q"],
+["amable", "SP"],
+["C'UYAI", "Q"],
+["amor", "SP"],
+["amable", "SP"],
+["C'UYAILLA", "Q"],
+["bonito", "SP"],
+["C'UYANA", "Q"],
+["amar", "SP"],
+["acariciar", "SP"],
+["querer", "SP"],
+["amor", "SP"],
+["bonito", "SP"],
+["CHACA", "Q"],
+["puente", "SP"],
+["CHACANA", "Q"],
+["escalera", "SP"],
+["CHACATANA", "Q"],
+["crucificar", "SP"],
+["CHAFSINA", "Q"],
+["sacudir", "SP"],
+["CHAGARINA", "Q"],
+["acercarse", "SP"],
+["CHAGLLA", "Q"],
+["carrizo", "SP"],
+["CHAGLLANA", "Q"],
+["amarrar", "SP"],
+["cosechar", "SP"],
+["CHAGPI", "Q"],
+["medio", "SP"],
+["mediano", "SP"],
+["mitad", "SP"],
+["CHAGPI PUNLLA", "Q"],
+["mediodía", "SP"],
+["CHAGPI TUTA", "Q"],
+["medianoche", "SP"],
+["CHAGPINA", "Q"],
+["dividir", "SP"],
+["CHAGRA", "Q"],
+["sementera", "SP"],
+["CHAGRANA", "Q"],
+["cosechar", "SP"],
+["CHAGRU", "Q"],
+["mezcla", "SP"],
+["CHAGRUNA", "Q"],
+["mezclar", "SP"],
+["mezcla", "SP"],
+["CHAGRUSHCA", "Q"],
+["mezcla", "SP"],
+["CHAGRUSHCA AMU", "Q"],
+["mestizo", "SP"],
+["CHAHUA", "Q"],
+["crudo", "SP"],
+["CHAHUANA", "Q"],
+["ordeñar", "SP"],
+["CHAHUAPINA", "Q"],
+["dividir", "SP"],
+["CHAHUAR", "Q"],
+["cabuya blanca", "SP"],
+["cabuya negra", "SP"],
+["CHAHUAR CAUCHU", "Q"],
+["fibra de cabuya", "SP"],
+["CHAHUAR HUANGU", "Q"],
+["fibra de cabuya", "SP"],
+["CHAHUAR JILU", "Q"],
+["fibra de cabuya", "SP"],
+["CHAI", "Q"],
+["esa", "SP"],
+["ese", "SP"],
+["eso", "SP"],
+["aquel", "SP"],
+["allí", "SP"],
+["CHAI LADU", "Q"],
+["oeste", "SP"],
+["CHAICUNA", "Q"],
+["cansarse", "SP"],
+["sufrir", "SP"],
+["los demás", "SP"],
+["CHAICUSHCA", "Q"],
+["cansado", "SP"],
+["CHAIJIPA", "Q"],
+["después", "SP"],
+["CHAILLA", "Q"],
+["suficiente", "SP"],
+["allí", "SP"],
+["CHAILLANA", "Q"],
+["rebuscar", "SP"],
+["CHAIMANDA", "Q"],
+["entonces", "SP"],
+["CHAIMANTA", "Q"],
+["entonces", "SP"],
+["CHAINANITA", "Q"],
+["allí", "SP"],
+["CHAINI LLAJTA", "Q"],
+["oeste", "SP"],
+["CHAIPI", "Q"],
+["entonces", "SP"],
+["CHAIRIJ", "Q"],
+["joven", "SP"],
+["CHAISIR", "Q"],
+["siempre", "SP"],
+["CHAISHUJ CAINA", "Q"],
+["anteayer", "SP"],
+["CHAISHUJ CAYA", "Q"],
+["pasado mañana", "SP"],
+["CHAISHUJCUNA", "Q"],
+["los demás", "SP"],
+["CHAJCUNA", "Q"],
+["regar cosas", "SP"],
+["CHAJPI", "Q"],
+["centro", "SP"],
+["CHALANA", "Q"],
+["rebuscar", "SP"],
+["espigar", "SP"],
+["CHALHUA", "Q"],
+["pescado", "SP"],
+["CHALI HUAHUA", "Q"],
+["último bebe", "SP"],
+["CHALINA", "Q"],
+["rebuscar", "SP"],
+["rebozo", "SP"],
+["CHALUHUA", "Q"],
+["pescado", "SP"],
+["CHALLANA", "Q"],
+["espigar", "SP"],
+["CHALLIHUA", "Q"],
+["pescado", "SP"],
+["CHALLINA", "Q"],
+["espigar", "SP"],
+["rebuscar", "SP"],
+["CHALLUA", "Q"],
+["pescado", "SP"],
+["CHAMA", "Q"],
+["desabrido", "SP"],
+["sin sal", "SP"],
+["CHAMAJ", "Q"],
+["desabrido", "SP"],
+["sin sal", "SP"],
+["CHAMBA", "Q"],
+["carbón", "SP"],
+["CHAMIL", "Q"],
+["olla", "SP"],
+["CHAMIZA", "Q"],
+["hoja", "SP"],
+["CHAMU", "Q"],
+["sin sal", "SP"],
+["CHAMUJ", "Q"],
+["desabrido", "SP"],
+["sin sal", "SP"],
+["CHAMUSCANA", "Q"],
+["chamuscar", "SP"],
+["CHANGA", "Q"],
+["pierna", "SP"],
+["muslo", "SP"],
+["falda", "SP"],
+["CHANGA AICHA", "Q"],
+["músculo", "SP"],
+["muslo", "SP"],
+["CHANGA JAHUAPI", "Q"],
+["falda", "SP"],
+["CHANGLITA", "Q"],
+["sandalia", "SP"],
+["CHANGU", "Q"],
+["enano", "SP"],
+["CHANLLA", "Q"],
+["desabrido", "SP"],
+["sin sal", "SP"],
+["CHANTU", "Q"],
+["llamingo", "SP"],
+["CHANZA", "Q"],
+["broma", "SP"],
+["chiste", "SP"],
+["CHAPANA", "Q"],
+["espiar", "SP"],
+["cuidar", "SP"],
+["CHAPARANA", "Q"],
+["espiar", "SP"],
+["CHAPU", "Q"],
+["mezcla", "SP"],
+["trapo", "SP"],
+["andrajoso", "SP"],
+["CHAPUI", "Q"],
+["mezcla", "SP"],
+["CHAPUNA", "Q"],
+["mezclar", "SP"],
+["CHAPUNACUNA", "Q"],
+["mecer", "SP"],
+["CHAPURIN", "Q"],
+["mezclar", "SP"],
+["deslizar", "SP"],
+["CHAPURISHCA", "Q"],
+["mezcla", "SP"],
+["mestizo", "SP"],
+["manchado", "SP"],
+["CHAPUSHCA", "Q"],
+["mezcla", "SP"],
+["CHAQUI", "Q"],
+["pie", "SP"],
+["pata", "SP"],
+["huella", "SP"],
+["sed", "SP"],
+["seco", "SP"],
+["CHAQUI ARCUYASHCA", "Q"],
+["arco", "SP"],
+["CHAQUI CURVAS", "Q"],
+["arco", "SP"],
+["CHAQUI HUAÑUI", "Q"],
+["calambre", "SP"],
+["CHAQUI HUAÑUSHCA", "Q"],
+["calambre", "SP"],
+["CHAQUI MUCU", "Q"],
+["tobillo", "SP"],
+["CHAQUI ÑAN", "Q"],
+["sendero", "SP"],
+["CHAQUI PAMBA", "Q"],
+["planta del pie", "SP"],
+["arco", "SP"],
+["CHAQUI PATAJ", "Q"],
+["panta del pie", "SP"],
+["CHAQUI PINGULLU", "Q"],
+["canilla", "SP"],
+["CHAQUI PLANCHA", "Q"],
+["planta del pie", "SP"],
+["CHAQUI PLANTA", "Q"],
+["arco", "SP"],
+["CHAQUI PLANTAS", "Q"],
+["planta del pie", "SP"],
+["CHAQUI SAQUIRISHCA", "Q"],
+["huella", "SP"],
+["CHAQUI SARUI", "Q"],
+["huella", "SP"],
+["CHAQUI SARUSHCA", "Q"],
+["huella", "SP"],
+["CHAQUI SHUNGU", "Q"],
+["arco", "SP"],
+["planta del pie", "SP"],
+["CHAQUI SURTIJA", "Q"],
+["tobillo", "SP"],
+["CHAQUI TALUN", "Q"],
+["talón", "SP"],
+["tobillo", "SP"],
+["CHAQUI TIMPU", "Q"],
+["verano", "SP"],
+["CHAQUI TULLU", "Q"],
+["tobillo", "SP"],
+["CHAQUI UCU", "Q"],
+["arco", "SP"],
+["CHAQUI UPAYASHCA", "Q"],
+["calambre", "SP"],
+["CHAQUICHISHCA", "Q"],
+["seco", "SP"],
+["CHAQUILLA", "Q"],
+["descalzo", "SP"],
+["CHAQUINA", "Q"],
+["secarse", "SP"],
+["CHAQUIRINA", "Q"],
+["secarse", "SP"],
+["CHAQUISHCA", "Q"],
+["seco", "SP"],
+["CHAQUISHCA AICHA", "Q"],
+["charqui", "SP"],
+["CHAQUISHCA TIMPU", "Q"],
+["verano", "SP"],
+["CHARCU", "Q"],
+["charco", "SP"],
+["CHARICHINA", "Q"],
+["agarrar", "SP"],
+["CHARIDUR", "Q"],
+["tenedor", "SP"],
+["CHARIJ", "Q"],
+["rico", "SP"],
+["CHARIJ TUCUSHCA", "Q"],
+["rico", "SP"],
+["CHARIJUNA", "Q"],
+["detener", "SP"],
+["CHARINA", "Q"],
+["tener", "SP"],
+["sostener", "SP"],
+["detener", "SP"],
+["agarrar", "SP"],
+["tenedor", "SP"],
+["arado", "SP"],
+["CHARIRANA", "Q"],
+["agarrar", "SP"],
+["CHARIRINA", "Q"],
+["sostener", "SP"],
+["detener", "SP"],
+["agarrar", "SP"],
+["CHARQUI", "Q"],
+["charqui", "SP"],
+["flaco", "SP"],
+["CHASCU", "Q"],
+["broma", "SP"],
+["CHASNA", "Q"],
+["así", "SP"],
+["CHASPANA", "Q"],
+["chamuscar", "SP"],
+["CHASPARINA", "Q"],
+["chamuscar", "SP"],
+["CHASPINA", "Q"],
+["sacudir", "SP"],
+["CHASQUICHINA", "Q"],
+["entregar", "SP"],
+["ofrecer", "SP"],
+["CHASQUINA", "Q"],
+["aceptar", "SP"],
+["recibir", "SP"],
+["tomar", "SP"],
+["CHASHNA", "Q"],
+["así", "SP"],
+["igual", "SP"],
+["CHASHNA PUNZHA", "Q"],
+["día siguiente", "SP"],
+["CHASHUJ CAINA", "Q"],
+["anteayer", "SP"],
+["CHASHUJ CAYA", "Q"],
+["pasado mañana", "SP"],
+["CHASHUJCUNA", "Q"],
+["los demás", "SP"],
+["CHAUBI", "Q"],
+["mitad", "SP"],
+["medio", "SP"],
+["centro", "SP"],
+["CHAURI P'UNLLA", "Q"],
+["mediodía", "SP"],
+["CHAUBI TUTA", "Q"],
+["medianoche", "SP"],
+["CHAUJPA", "Q"],
+["perdiz", "SP"],
+["CHAULA", "Q"],
+["pescado", "SP"],
+["CHAUPI", "Q"],
+["mitad", "SP"],
+["medio", "SP"],
+["centro", "SP"],
+["mediano", "SP"],
+["CHAUPI CHAQUI", "Q"],
+["arco", "SP"],
+["CHAUPI LUMA", "Q"],
+["valle", "SP"],
+["CHAUPI LUMU TULLU", "Q"],
+["espinazo", "SP"],
+["CHAUPI PUNCHA", "Q"],
+["mediodía", "SP"],
+["CHAUPI PUNLLA", "Q"],
+["mediodía", "SP"],
+["CHAUPI PUNZHA", "Q"],
+["mediodía", "SP"],
+["CHAUPI P'UNLLA", "Q"],
+["mediodía", "SP"],
+["CHAUPI TUTA", "Q"],
+["medianoche", "SP"],
+["CHAUPINA", "Q"],
+["dividir", "SP"],
+["partir", "SP"],
+["rajar", "SP"],
+["desunir", "SP"],
+["CHAUPIRINA", "Q"],
+["hender", "SP"],
+["CHAÜR", "Q"],
+["cabuya blanca", "SP"],
+["cabuya negra", "SP"],
+["CHAYACHINA", "Q"],
+["arrimar", "SP"],
+["CHAYAJUNA", "Q"],
+["acercarse", "SP"],
+["CHAYAMUNA", "Q"],
+["venir", "SP"],
+["CHAYANA", "Q"],
+["llegar", "SP"],
+["CHAYARINA", "Q"],
+["acercarse", "SP"],
+["CHAYUJ", "Q"],
+["rico", "SP"],
+["CHI", "Q"],
+["esa", "SP"],
+["ese", "SP"],
+["eso", "SP"],
+["aquel", "SP"],
+["allí", "SP"],
+["CHIBU", "Q"],
+["chivo", "SP"],
+["CHICAN", "Q"],
+["aparte", "SP"],
+["separado", "SP"],
+["distinto", "SP"],
+["otro", "SP"],
+["CHICAN CHICAN", "Q"],
+["diferente", "SP"],
+["CHICAN LAYA", "Q"],
+["distinto", "SP"],
+["CHICANYACHINA", "Q"],
+["separar", "SP"],
+["sesunir", "SP"],
+["CHICANYANA", "Q"],
+["separar", "SP"],
+["CHICANYASHCA", "Q"],
+["separado", "SP"],
+["CHICUTI", "Q"],
+["azote", "SP"],
+["CHICHU", "Q"],
+["embarazada", "SP"],
+["CHICHUCHINA", "Q"],
+["empreñar", "SP"],
+["CHICHUNA", "Q"],
+["empreñar", "SP"],
+["CHICHUYACHINA", "Q"],
+["empreñar", "SP"],
+["CHIJSA", "Q"],
+["sin sal", "SP"],
+["CHIJTANA", "Q"],
+["partir", "SP"],
+["rajar", "SP"],
+["hender", "SP"],
+["CHILA", "Q"],
+["suficiente", "SP"],
+["CHILCA", "Q"],
+["verde", "SP"],
+["CHILPANA", "Q"],
+["rajar", "SP"],
+["CHILPINA", "Q"],
+["hender", "SP"],
+["CHILLA", "Q"],
+["corto", "SP"],
+["CHIMBA", "Q"],
+["trenza", "SP"],
+["CHIMBA LLAGTA", "Q"],
+["oriente", "SP"],
+["sur", "SP"],
+["CHIMBALLA", "Q"],
+["frente a", "SP"],
+["CHIMBANA", "Q"],
+["vadear", "SP"],
+["cruzar", "SP"],
+["trenzar", "SP"],
+["CHIMBAPURA", "Q"],
+["frente a", "SP"],
+["CHIMBAPURANA", "Q"],
+["luchar", "SP"],
+["CHIMBILACU", "Q"],
+["merciélago", "SP"],
+["CHIMUNDA", "Q"],
+["entonces", "SP"],
+["CHIMUNDAGA", "Q"],
+["entonces", "SP"],
+["CHINA", "Q"],
+["así", "SP"],
+["muchacha", "SP"],
+["CHINCHI", "Q"],
+["tenedor", "SP"],
+["desayuno", "SP"],
+["duro", "SP"],
+["difícil", "SP"],
+["fuerte", "SP"],
+["fuerza", "SP"],
+["terco", "SP"],
+["valiente", "SP"],
+["CHINCHUSU", "Q"],
+["orgulloso", "SP"],
+["CHINGACHINA", "Q"],
+["desaparecer", "SP"],
+["CHINGANA", "Q"],
+["perder", "SP"],
+["desaparecer", "SP"],
+["tardar", "SP"],
+["CHINGARINA", "Q"],
+["morir", "SP"],
+["CHINI", "Q"],
+["ortiga", "SP"],
+["CHININA", "Q"],
+["amortiguar", "SP"],
+["CHINLLI", "Q"],
+["desayuno", "SP"],
+["CHIQUI", "Q"],
+["bravo", "SP"],
+["CHIQUINYASHCA", "Q"],
+["separado", "SP"],
+["CHIQUIYANA", "Q"],
+["brujear", "SP"],
+["CHIRCHI", "Q"],
+["andrajoso", "SP"],
+["CHIRI", "Q"],
+["frío", "SP"],
+["hielo", "SP"],
+["CHIRI TUCUNA", "Q"],
+["hacer frío", "SP"],
+["CHIRICHINA", "Q"],
+["hacer frío", "SP"],
+["CHIRILU", "Q"],
+["crespo", "SP"],
+["CHIRINA", "Q"],
+["hacer frío", "SP"],
+["CHIRIUNA", "Q"],
+["hacer frío", "SP"],
+["CHIRIYACHINA", "Q"],
+["hacer frío", "SP"],
+["CHIRIYANA", "Q"],
+["hacer frío", "SP"],
+["CHIRLILLA", "Q"],
+["claro", "SP"],
+["CHISPA", "Q"],
+["llovizna", "SP"],
+["CHISTI", "Q"],
+["broma", "SP"],
+["chiste", "SP"],
+["CHISHI", "Q"],
+["tarde", "SP"],
+["CHISHIYAMUNA", "Q"],
+["tardecer", "SP"],
+["CHISHIYANA", "Q"],
+["tardecer", "SP"],
+["CHITA", "Q"],
+["chivo", "SP"],
+["CHIVILU", "Q"],
+["crespo", "SP"],
+["CHUCA", "Q"],
+["saliva", "SP"],
+["CHUCANA", "Q"],
+["escupir", "SP"],
+["CHUCARINA", "Q"],
+["sofocar", "SP"],
+["CHUCU", "Q"],
+["seno", "SP"],
+["teta", "SP"],
+["CHUCUNA", "Q"],
+["mamar", "SP"],
+["CHUCHI", "Q"],
+["pollito", "SP"],
+["CHUCHU", "Q"],
+["teta", "SP"],
+["seno", "SP"],
+["chocho", "SP"],
+["CHUCHULQUINA", "Q"],
+["chamuscar", "SP"],
+["CHUCHUNA", "Q"],
+["mamar", "SP"],
+["teta", "SP"],
+["CHUGCHU UNGÜI", "Q"],
+["paludismo", "SP"],
+["CHUGLLA", "Q"],
+["choza", "SP"],
+["único", "SP"],
+["CHUGLLA HUASI", "Q"],
+["choza", "SP"],
+["CHUGLLU", "Q"],
+["choclo", "SP"],
+["mazorca", "SP"],
+["CHUGLLU SISA", "Q"],
+["brote floral de maiz", "SP"],
+["CHUGLLU TANDA", "Q"],
+["humitas", "SP"],
+["CHUGPI", "Q"],
+["mitad", "SP"],
+["medio", "SP"],
+["CHUGPI PUNZHA", "Q"],
+["mediodía", "SP"],
+["CHUGPI TUTA", "Q"],
+["medianoche", "SP"],
+["CHUGPINA", "Q"],
+["dividir", "SP"],
+["CHUGRI", "Q"],
+["herida", "SP"],
+["absceso", "SP"],
+["CHUGRICHINA", "Q"],
+["lastimar", "SP"],
+["herir", "SP"],
+["CHUGRINA", "Q"],
+["herir", "SP"],
+["lastimar", "SP"],
+["dislocar", "SP"],
+["CHUGRISHCA", "Q"],
+["herida", "SP"],
+["pus", "SP"],
+["CHUJ", "Q"],
+["uno", "SP"],
+["CHUJCHI UNGÜI", "Q"],
+["paludismo", "SP"],
+["CHUJCHINA", "Q"],
+["rebuscar", "SP"],
+["espigar", "SP"],
+["segar", "SP"],
+["temblar", "SP"],
+["CHUJCHU UNGÜI", "Q"],
+["paludismo", "SP"],
+["CHUJCHUI UNGÜI", "Q"],
+["paludismo", "SP"],
+["CHUJCHUNA", "Q"],
+["temblar", "SP"],
+["CHUJCHURINA", "Q"],
+["temblar", "SP"],
+["CHULU", "Q"],
+["mestizo", "SP"],
+["CHULU MISTIZU", "Q"],
+["mestizo", "SP"],
+["CHULUN", "Q"],
+["quieto", "SP"],
+["desierto", "SP"],
+["CHULUNLA", "Q"],
+["silencio", "SP"],
+["CHULUNLLA", "Q"],
+["silencio", "SP"],
+["desierto", "SP"],
+["CHULLA", "Q"],
+["sin pareja", "SP"],
+["desigual", "SP"],
+["rocio", "SP"],
+["CHULLA CHANGA PURINA", "Q"],
+["cojear", "SP"],
+["CHULLA CHAQUI", "Q"],
+["manco", "SP"],
+["CHULLA CHULLA", "Q"],
+["desigual", "SP"],
+["CHULLA MAQUI", "Q"],
+["manco", "SP"],
+["CHULLA ÑAHUI", "Q"],
+["tuerto", "SP"],
+["CHULLA ÑAVI", "Q"],
+["tuerto", "SP"],
+["CHULLARISHCA", "Q"],
+["desigual", "SP"],
+["CHULLAYANACUSHCA", "Q"],
+["desigual", "SP"],
+["CHULLAYASHCA", "Q"],
+["desigual", "SP"],
+["CHULLPI", "Q"],
+["centro", "SP"],
+["CHULLUNA", "Q"],
+["abortar", "SP"],
+["CHUMAL", "Q"],
+["humitas", "SP"],
+["CHUMBI", "Q"],
+["faja", "SP"],
+["cinturón", "SP"],
+["CHUMBILINA", "Q"],
+["fajarse", "SP"],
+["ceñir", "SP"],
+["CHUMBILLINA", "Q"],
+["fajarse", "SP"],
+["ceñir", "SP"],
+["CHUMIN", "Q"],
+["estufa", "SP"],
+["CHUMU", "Q"],
+["embotado", "SP"],
+["sin punta", "SP"],
+["CHUNA", "Q"],
+["catzo", "SP"],
+["CHUNGA", "Q"],
+["diez", "SP"],
+["CHUNGA PATSAJ HUARANGA", "Q"],
+["millón", "SP"],
+["CHUNLA", "Q"],
+["quieto", "SP"],
+["CHUNLLA", "Q"],
+["desierto", "SP"],
+["CHUNLLULI", "Q"],
+["tripas", "SP"],
+["intestinos", "SP"],
+["CHUNLLULLI", "Q"],
+["tripas", "SP"],
+["intestinos", "SP"],
+["CHUNZHLI", "Q"],
+["tripas", "SP"],
+["CHUNZHULLI", "Q"],
+["tripas", "SP"],
+["intestinos", "SP"],
+["CHUPA", "Q"],
+["rabo", "SP"],
+["cola", "SP"],
+["CHUPANA", "Q"],
+["fumar", "SP"],
+["chuoar", "SP"],
+["absorber", "SP"],
+["CHUPU", "Q"],
+["absceso", "SP"],
+["tumor", "SP"],
+["pus", "SP"],
+["CHURACUNA", "Q"],
+["ropa", "SP"],
+["vestirse", "SP"],
+["vestido", "SP"],
+["CHURAJUNA", "Q"],
+["vestirse", "SP"],
+["ropa", "SP"],
+["vestido", "SP"],
+["CHURANA", "Q"],
+["poner", "SP"],
+["meter", "SP"],
+["vestirse", "SP"],
+["vestido", "SP"],
+["ropa", "SP"],
+["tapar", "SP"],
+["CHURARINA", "Q"],
+["vestirse", "SP"],
+["CHURARISHCA", "Q"],
+["disfrazado", "SP"],
+["CHURASH APANA", "Q"],
+["cargar", "SP"],
+["CHURASHCA", "Q"],
+["vestido", "SP"],
+["CHURGU", "Q"],
+["ciego", "SP"],
+["CHURI", "Q"],
+["hijo", "SP"],
+["CHURU", "Q"],
+["caracol", "SP"],
+["CHURU UMA", "Q"],
+["crespo", "SP"],
+["CHURUCU", "Q"],
+["caracol", "SP"],
+["CHURUTU", "Q"],
+["tórtola", "SP"],
+["CHURRIAMUNA", "Q"],
+["cascada", "SP"],
+["CHURRIRA", "Q"],
+["cascada", "SP"],
+["CHUSAGYANA", "Q"],
+["aflojar", "SP"],
+["CHUSCU", "Q"],
+["cuatro", "SP"],
+["CHUSCU ISQUINATA RANA", "Q"],
+["cuadrar", "SP"],
+["CHUSCU ÑAHUI", "Q"],
+["buho", "SP"],
+["CHUSIYANA", "Q"],
+["pinchar", "SP"],
+["CHUSPI", "Q"],
+["mosca", "SP"],
+["tábano", "SP"],
+["abeja", "SP"],
+["hormiga", "SP"],
+["CHUSPI BRUNCANA", "Q"],
+["abeja", "SP"],
+["CHUSHA", "Q"],
+["vacio", "SP"],
+["CHUSHA CHAQUI", "Q"],
+["descalzo", "SP"],
+["CHUSHAGLLA", "Q"],
+["pobre", "SP"],
+["CHUSHAGYACHINA", "Q"],
+["vaciar", "SP"],
+["CHUSHAJ", "Q"],
+["vacio", "SP"],
+["buho", "SP"],
+["CHUSHIGYACHINA", "Q"],
+["vaciar", "SP"],
+["CHUSHIJ", "Q"],
+["vacio", "SP"],
+["sucio", "SP"],
+["buho", "SP"],
+["CHUSHU", "Q"],
+["vacio", "SP"],
+["CHUSHUGYACHINA", "Q"],
+["vaciar", "SP"],
+["CHUSHUJ", "Q"],
+["vacio", "SP"],
+["buho", "SP"],
+["CHUTACHINA", "Q"],
+["tirar", "SP"],
+["estirar", "SP"],
+["CHUTANA", "Q"],
+["tirar", "SP"],
+["extender", "SP"],
+["estirar", "SP"],
+["jalar", "SP"],
+["retirar", "SP"],
+["CHUTARINA", "Q"],
+["tirar", "SP"],
+["estirar", "SP"],
+["CHUYA", "Q"],
+["aguado", "SP"],
+["claro", "SP"],
+["transparente", "SP"],
+["CHUZIJIRINA", "Q"],
+["abrigarse", "SP"],
+["CHUZU", "Q"],
+["pequeño", "SP"],
+["chico", "SP"],
+["diminuto", "SP"],
+["delgado", "SP"],
+["CHUZU RACU", "Q"],
+["desigual", "SP"],
+["CHUZUN", "Q"],
+["puñado", "SP"],
+["manojo", "SP"],
+["CHUZUNQUINA", "Q"],
+["puñado", "SP"],
+["CH'ALANA", "Q"],
+["rebuscar", "SP"],
+["CH'UCA", "Q"],
+["baba", "SP"],
+["CH'UZU", "Q"],
+["delgado", "SP"],
+["DALINA", "Q"],
+["azotar", "SP"],
+["castigar", "SP"],
+["sobar", "SP"],
+["DANSA TAMBUR", "Q"],
+["tambor", "SP"],
+["DANZANA", "Q"],
+["danzar", "SP"],
+["bailar", "SP"],
+["DAÑANA", "Q"],
+["dañar", "SP"],
+["destruir", "SP"],
+["DAÑARISHCA HUASI", "Q"],
+["ruina", "SP"],
+["DAÑUNA", "Q"],
+["dañar", "SP"],
+["DI RIPINTI", "Q"],
+["de repente", "SP"],
+["a veces", "SP"],
+["DIABLU", "Q"],
+["demonio", "SP"],
+["DIBI", "Q"],
+["deuda", "SP"],
+["DIBIL", "Q"],
+["falso", "SP"],
+["DIBINA", "Q"],
+["deber", "SP"],
+["DIBIYANA", "Q"],
+["deber", "SP"],
+["DIDU", "Q"],
+["dedo", "SP"],
+["DIFINDINA", "Q"],
+["defender", "SP"],
+["DIFINDIRINA", "Q"],
+["defender", "SP"],
+["DIGUSHTU", "Q"],
+["demasiado", "SP"],
+["DIL TUDU", "Q"],
+["completamente", "SP"],
+["entero", "SP"],
+["DILICADU", "Q"],
+["delicado", "SP"],
+["frágil", "SP"],
+["DILITURIU", "Q"],
+["profesor", "SP"],
+["DIMASIADU", "Q"],
+["demasiado", "SP"],
+["DIMBALDI", "Q"],
+["gratis", "SP"],
+["DIMUÑU", "Q"],
+["diablo", "SP"],
+["demonio", "SP"],
+["DIMURANA", "Q"],
+["demorar", "SP"],
+["DIMUS", "Q"],
+["demasiado", "SP"],
+["DINU", "Q"],
+["tal vez", "SP"],
+["DIPURSI BISTISHCA", "Q"],
+["elegante", "SP"],
+["DIP'ISIL", "Q"],
+["difícil", "SP"],
+["DIRICHANA", "Q"],
+["enderezar", "SP"],
+["DIRICHINA", "Q"],
+["enderezar", "SP"],
+["cruzar", "SP"],
+["DIRICHU", "Q"],
+["recto", "SP"],
+["derecho", "SP"],
+["justo", "SP"],
+["DIRICHUNA", "Q"],
+["enderezar", "SP"],
+["nivelar", "SP"],
+["DIRIJTUR", "Q"],
+["profesor", "SP"],
+["DIRRUMBU", "Q"],
+["terremoto", "SP"],
+["DISAHUA", "Q"],
+["orina", "SP"],
+["DISAHUANA", "Q"],
+["orina", "SP"],
+["DISASINA", "Q"],
+["desatar", "SP"],
+["DISAYUNU", "Q"],
+["desayuno", "SP"],
+["DISCANSANA", "Q"],
+["descansar", "SP"],
+["DISCUIDANA", "Q"],
+["descuidar", "SP"],
+["DISCHULLA", "Q"],
+["desigual", "SP"],
+["DISFRASADU", "Q"],
+["disfrazado", "SP"],
+["DISFRASARISHCA", "Q"],
+["disfrazado", "SP"],
+["DISIGUALARISHCA", "Q"],
+["desigual", "SP"],
+["DISMAYACHANINA", "Q"],
+["desmayarse", "SP"],
+["DISMAYANA", "Q"],
+["desmayarse", "SP"],
+["DISMAYU JAPINA", "Q"],
+["desmayarse", "SP"],
+["DISMUNTANA", "Q"],
+["desmontar", "SP"],
+["DISPIDINA", "Q"],
+["despedirse", "SP"],
+["DISPIDISHA RINA", "Q"],
+["despedirse", "SP"],
+["DISTINTU", "Q"],
+["distinto", "SP"],
+["DIUS SILU PAGUI", "Q"],
+["gracias", "SP"],
+["DIUS SILU PAGUI NINA", "Q"],
+["agradecer", "SP"],
+["DIUS SULU PAGUI", "Q"],
+["gracias", "SP"],
+["DIUS SULU PAGUI NINA", "Q"],
+["agradecer", "SP"],
+["DIUS SULU PAI", "Q"],
+["gracias", "SP"],
+["DIUSPI MANA CRIYIJ", "Q"],
+["pagano", "SP"],
+["DIUSUSLUPAI NINA", "Q"],
+["agradecer", "SP"],
+["DIYA", "Q"],
+["diablo", "SP"],
+["DUBLANA", "Q"],
+["doblarse", "SP"],
+["envolver", "SP"],
+["DUBLARINA", "Q"],
+["doblarse", "SP"],
+["DUBLI", "Q"],
+["mucho", "SP"],
+["DUIÑU", "Q"],
+["dueño", "SP"],
+["DUNSILLA", "Q"],
+["muchacha", "SP"],
+["DUÑU", "Q"],
+["dueño", "SP"],
+["DURMINA", "Q"],
+["dormir", "SP"],
+["sueño", "SP"],
+["DURMUI SIQUI", "Q"],
+["dormilón", "SP"],
+["DURU", "Q"],
+["fuerte", "SP"],
+["FACIL", "Q"],
+["fácil", "SP"],
+["FACHA", "Q"],
+["red", "SP"],
+["FACHILINA", "Q"],
+["rebozo", "SP"],
+["FAHUANA", "Q"],
+["saltar", "SP"],
+["brincar", "SP"],
+["danzar", "SP"],
+["volar", "SP"],
+["FAINA", "Q"],
+["faena", "SP"],
+["FAJCHA", "Q"],
+["cascada", "SP"],
+["FALTANA", "Q"],
+["faltar", "SP"],
+["FANGA", "Q"],
+["hoja", "SP"],
+["FANGALLA", "Q"],
+["liviano", "SP"],
+["FAQUINA", "Q"],
+["romper", "SP"],
+["quebrar", "SP"],
+["FAQUIRINA", "Q"],
+["frágil", "SP"],
+["FAQUIRINALLA", "Q"],
+["frágil", "SP"],
+["FICHA", "Q"],
+["rayo", "SP"],
+["FICHANA", "Q"],
+["limpiar", "SP"],
+["barrer", "SP"],
+["escoba", "SP"],
+["FILU", "Q"],
+["agudo", "SP"],
+["FINDU", "Q"],
+["trapo", "SP"],
+["FIÑA", "Q"],
+["bravo", "SP"],
+["FIÑACHINA", "Q"],
+["enojar", "SP"],
+["FIÑAI", "Q"],
+["iras", "SP"],
+["cólera", "SP"],
+["FIÑANA", "Q"],
+["enojar", "SP"],
+["odiar", "SP"],
+["iras", "SP"],
+["fichana", "SP"],
+["FISHTA", "Q"],
+["fiesta", "SP"],
+["FITI", "Q"],
+["pedazo", "SP"],
+["FITINA", "Q"],
+["cortar", "SP"],
+["arrancar", "SP"],
+["FLICHANA", "Q"],
+["relampago", "SP"],
+["FLUJU", "Q"],
+["flojo", "SP"],
+["FRINTI", "Q"],
+["frente", "SP"],
+["frente a", "SP"],
+["FUCUSHCA", "Q"],
+["maduro", "SP"],
+["FUCUNA", "Q"],
+["madurar", "SP"],
+["soplar", "SP"],
+["FUMANA", "Q"],
+["fumar", "SP"],
+["FUNDU", "Q"],
+["tinajon o vasija grande para cargar agua", "SP"],
+["FUYU", "Q"],
+["nube", "SP"],
+["neblina", "SP"],
+["GABILAN", "Q"],
+["gavilán", "SP"],
+["GACHU", "Q"],
+["cuerno", "SP"],
+["sesgo", "SP"],
+["GAITA", "Q"],
+["flauta", "SP"],
+["GAJU", "Q"],
+["racimo", "SP"],
+["GAMU", "Q"],
+["sin sal", "SP"],
+["sin sabor", "SP"],
+["desabrido", "SP"],
+["GANA", "Q"],
+["ser", "SP"],
+["estar", "SP"],
+["existir", "SP"],
+["gana", "SP"],
+["GANANA", "Q"],
+["ganar", "SP"],
+["vencer", "SP"],
+["GANU", "Q"],
+["desabrido", "SP"],
+["GARHUA", "Q"],
+["llovinzna", "SP"],
+["GARUA", "Q"],
+["llovizna", "SP"],
+["GARRA", "Q"],
+["garra", "SP"],
+["GASTANA", "Q"],
+["gastar", "SP"],
+["GASHTANA", "Q"],
+["gastar", "SP"],
+["GASHTUNA", "Q"],
+["mascar", "SP"],
+["GILUYASHCA", "Q"],
+["embotado", "SP"],
+["GRADA", "Q"],
+["sendero", "SP"],
+["GRANUTA HUACAICHINA HUASI", "Q"],
+["troje", "SP"],
+["GRANU", "Q"],
+["grano", "SP"],
+["GRUSIRU", "Q"],
+["tosco", "SP"],
+["GÜAMAJ", "Q"],
+["carrizu", "SP"],
+["GUAJANA", "Q"],
+["enjuagar", "SP"],
+["GUGUTI", "Q"],
+["garganta", "SP"],
+["pescuezo", "SP"],
+["GULUN", "Q"],
+["trueno", "SP"],
+["GULUN NINA", "Q"],
+["tronar", "SP"],
+["GUMA", "Q"],
+["resina", "SP"],
+["GUMITANA", "Q"],
+["tener náuseas", "SP"],
+["vomitar", "SP"],
+["GURDU", "Q"],
+["gordo", "SP"],
+["GUSANA", "Q"],
+["acariciar", "SP"],
+["GUSHTANA", "Q"],
+["gustar", "SP"],
+["GUSHTULLA", "Q"],
+["tranquilo", "SP"],
+["despacio", "SP"],
+["GUSTULLA", "Q"],
+["despacio", "SP"],
+["GUTITA YACU", "Q"],
+["gota", "SP"],
+["GUZU", "Q"],
+["barro", "SP"],
+["HUACAI", "Q"],
+["ruido", "SP"],
+["HUACAICHINA", "Q"],
+["guardar", "SP"],
+["HUACANA", "Q"],
+["llorar", "SP"],
+["gritar", "SP"],
+["ladrar", "SP"],
+["chillar", "SP"],
+["HUACASH UNGUNA", "Q"],
+["dar a luz", "SP"],
+["HUACAU", "Q"],
+["mirlo", "SP"],
+["HUACU", "Q"],
+["cogollo", "SP"],
+["HUACHANA", "Q"],
+["parir", "SP"],
+["dar a luz", "SP"],
+["poner huevos", "SP"],
+["nacer", "SP"],
+["HUACHCA", "Q"],
+["collar", "SP"],
+["HUACHU", "Q"],
+["surco de arado", "SP"],
+["HUACHUSHCA", "Q"],
+["surco de arado", "SP"],
+["HUAGCHA", "Q"],
+["pobre", "SP"],
+["HUAGCHA LLUSTI", "Q"],
+["pobre", "SP"],
+["HUAGLI", "Q"],
+["falso", "SP"],
+["HUAGLICHINA", "Q"],
+["destruir", "SP"],
+["HUAGLINA", "Q"],
+["dañar", "SP"],
+["HUAGLINALLA", "Q"],
+["delicado", "SP"],
+["HUAGLLI SHUNGU", "Q"],
+["delicado", "SP"],
+["HUAGLLICHINA", "Q"],
+["destruir", "SP"],
+["dañar", "SP"],
+["HUAGLLINA", "Q"],
+["dañar", "SP"],
+["HUAGGLINALLA", "Q"],
+["delicado", "SP"],
+["HUAGLLIRINA", "Q"],
+["dañar", "SP"],
+["HUAGNINA", "Q"],
+["gritar", "SP"],
+["HUAGRA", "Q"],
+["ganado", "SP"],
+["vaca", "SP"],
+["HUAGRA YAPUNA", "Q"],
+["yunta", "SP"],
+["HUAGRA YUNTA", "Q"],
+["yunta", "SP"],
+["HUAGZA", "Q"],
+["lagartija", "SP"],
+["HUAHUA", "Q"],
+["bebe", "SP"],
+["niño", "SP"],
+["criatura", "SP"],
+["HUAHUA ATILLPA", "Q"],
+["pollito", "SP"],
+["HUAHUA HUAGRA", "Q"],
+["ternero", "SP"],
+["HUAHUA LLAMA", "Q"],
+["cordero", "SP"],
+["HUAHUA MAMA", "Q"],
+["placenta", "SP"],
+["HUAHUA PULLITU", "Q"],
+["pollito", "SP"],
+["HIJAIIUA PULLU", "Q"],
+["pollito", "SP"],
+["HUAHUA UBIJITA", "Q"],
+["cordero", "SP"],
+["HUAHUA UMA", "Q"],
+["placenta", "SP"],
+["HUAI NINA", "Q"],
+["bostezar", "SP"],
+["HUAICU", "Q"],
+["quebrada", "SP"],
+["valle", "SP"],
+["bajo", "SP"],
+["profundo", "SP"],
+["HUAICU ASHCU", "Q"],
+["lobo", "SP"],
+["HUAICU CHUCHU", "Q"],
+["cueva", "SP"],
+["HUAICU UJTU", "Q"],
+["cueva", "SP"],
+["HUAICUCHINA", "Q"],
+["meter", "SP"],
+["HUAICUNA", "Q"],
+["entrar", "SP"],
+["HUAICUYANA", "Q"],
+["descender", "SP"],
+["HUAIGUCHINA", "Q"],
+["meter", "SP"],
+["HUAIGUNA", "Q"],
+["entrar", "SP"],
+["HUAIQUIYACHINA", "Q"],
+["descargar", "SP"],
+["HUAIQUIYANA", "Q"],
+["bajarse", "SP"],
+["descender", "SP"],
+["desmontar", "SP"],
+["HUAIRA", "Q"],
+["viento", "SP"],
+["aire", "SP"],
+["HUAIRA UMA", "Q"],
+["calavera", "SP"],
+["HUAIRACHIDUR", "Q"],
+["aventador", "SP"],
+["HUAIRACHINA", "Q"],
+["aventar", "SP"],
+["abanicar", "SP"],
+["aventador", "SP"],
+["HUAITSUJ", "Q"],
+["mirlo", "SP"],
+["HUAIYUNA", "Q"],
+["suspender", "SP"],
+["HUAJALITU", "Q"],
+["eucalipto", "SP"],
+["HUAJCHA", "Q"],
+["huérfano", "SP"],
+["pobre", "SP"],
+["HUAJCHA HUARMI", "Q"],
+["viuda", "SP"],
+["HUAJCHA RUNA", "Q"],
+["viudo", "SP"],
+["HUAJCHAMI TUCUNA", "Q"],
+["empobrecer", "SP"],
+["HUAJCHARINA", "Q"],
+["empobrecer", "SP"],
+["HUAJCHAYANA", "Q"],
+["empobrecer", "SP"],
+["HUAJCHINA", "Q"],
+["guardar", "SP"],
+["HUAJCHU", "Q"],
+["mirlo", "SP"],
+["HUAJTA", "Q"],
+["atrás", "SP"],
+["HUAJTACHINA", "Q"],
+["engañar", "SP"],
+["HUAJTAI", "Q"],
+["golpe", "SP"],
+["HUAJTALA", "Q"],
+["detrás de", "SP"],
+["HUAJTANA", "Q"],
+["golpear", "SP"],
+["azotar", "SP"],
+["sobar", "SP"],
+["trillar a mano", "SP"],
+["segar", "SP"],
+["HUAJTSAJ", "Q"],
+["mirlo", "SP"],
+["HUAJTSU", "Q"],
+["mirlo", "SP"],
+["HUAJTSUJ", "Q"],
+["mirlo", "SP"],
+["HUALAJ", "Q"],
+["sapo", "SP"],
+["HUALAMBARI", "Q"],
+["arco iris", "SP"],
+["HUALCA", "Q"],
+["collar", "SP"],
+["HUALMU", "Q"],
+["palo para cavar papas", "SP"],
+["HUALPA", "Q"],
+["gallina", "SP"],
+["HUALUJ", "Q"],
+["sucio", "SP"],
+["HUALUTU", "Q"],
+["poncho", "SP"],
+["HUALLCA", "Q"],
+["collar", "SP"],
+["HUALLCARINA", "Q"],
+["rebozo", "SP"],
+["HUALLMU", "Q"],
+["palo para cavar papas", "SP"],
+["HUALLPA", "Q"],
+["gallina", "SP"],
+["HUALLPINCHI", "Q"],
+["muslo", "SP"],
+["HUALLU", "Q"],
+["cántaro", "SP"],
+["HUALLU SHIRA", "Q"],
+["tazón de barro", "SP"],
+["HUAMAN", "Q"],
+["gavilán", "SP"],
+["HUAMBRA", "Q"],
+["muchacho", "SP"],
+["joven", "SP"],
+["joven", "SP"],
+["soltera", "SP"],
+["HUAMBRA UCHUJ", "Q"],
+["humilde", "SP"],
+["HUAMBUNA", "Q"],
+["flotar", "SP"],
+["nadar", "SP"],
+["HUANCA", "Q"],
+["palanca", "SP"],
+["HUANCANA", "Q"],
+["sostener", "SP"],
+["HUANCHINA", "Q"],
+["matar", "SP"],
+["HUANDUNA", "Q"],
+["llevar entre varias personas", "SP"],
+["cargar", "SP"],
+["HUANGA", "Q"],
+["palanca", "SP"],
+["HUANGU", "Q"],
+["copo", "SP"],
+["manojo", "SP"],
+["racimo", "SP"],
+["trenza", "SP"],
+["HUANGUNA CASPI", "Q"],
+["palanca", "SP"],
+["HUANLLA", "Q"],
+["comida para llevar a la casa", "SP"],
+["HUANLLANA", "Q"],
+["guardar comida para llevar a la casa", "SP"],
+["comida para llevar a la casa", "SP"],
+["HUANLLINA", "Q"],
+["comida para llevar a la casa", "SP"],
+["HUANTUJ", "Q"],
+["floripondio", "SP"],
+["HUANTUJ SISA", "Q"],
+["floripondio", "SP"],
+["HUANU", "Q"],
+["abono", "SP"],
+["excremento", "SP"],
+["HUAÑI", "Q"],
+["muerte", "SP"],
+["HUAÑU LANGUI", "Q"],
+["delgado", "SP"],
+["HUAÑUCHIJ JAMBI", "Q"],
+["veneno", "SP"],
+["HUAÑUCHINA", "Q"],
+["matar", "SP"],
+["amortiguar", "SP"],
+["HUAÑUI", "Q"],
+["muerte", "SP"],
+["HUAÑUJ", "Q"],
+["difunto", "SP"],
+["cadáver", "SP"],
+["HUAÑUJ ALMA", "Q"],
+["difunto", "SP"],
+["HUAÑUNA", "Q"],
+["morir", "SP"],
+["muerte", "SP"],
+["HUAÑUNA JAMBI", "Q"],
+["veneno", "SP"],
+["HUAÑURINA", "Q"],
+["amortiguar", "SP"],
+["encogerse", "SP"],
+["HUAÑUSHCA", "Q"],
+["difunto", "SP"],
+["cadáver", "SP"],
+["alma", "SP"],
+["HUAÑUSHCA ALMA", "Q"],
+["cadáver", "SP"],
+["HUAÑUSHCA CUIRPU", "Q"],
+["calavera", "SP"],
+["HUAPU", "Q"],
+["elegante", "SP"],
+["valiente", "SP"],
+["fuerte", "SP"],
+["HUAPULA", "Q"],
+["elegante", "SP"],
+["HUAQUICHINA", "Q"],
+["guardar", "SP"],
+["troje", "SP"],
+["HUAQUIMBI", "Q"],
+["a veces", "SP"],
+["de repente", "SP"],
+["HUAQUIMPI", "Q"],
+["de repente", "SP"],
+["HUAQUIN", "Q"],
+["alguien", "SP"],
+["de repente", "SP"],
+["HUAQUIN RATU", "Q"],
+["a veces", "SP"],
+["HUAQUINLLABI", "Q"],
+["a veces", "SP"],
+["de repente", "SP"],
+["HUAQUINLLAMI", "Q"],
+["a veces", "SP"],
+["HUARANGA", "Q"],
+["mil", "SP"],
+["millón", "SP"],
+["HUARANGA-HUARANGA", "Q"],
+["millón", "SP"],
+["HUARCANA", "Q"],
+["echar", "SP"],
+["HUARCUNA", "Q"],
+["suspender", "SP"],
+["colgar", "SP"],
+["HUARCURINA", "Q"],
+["colgar", "SP"],
+["agarrar", "SP"],
+["HUARMI", "Q"],
+["hembra", "SP"],
+["mujer", "SP"],
+["esposa", "SP"],
+["HUARMI HUAGRA", "Q"],
+["vaca", "SP"],
+["HUARMI HUAHUA", "Q"],
+["niña", "SP"],
+["hija", "SP"],
+["HUARMI HUAMBRA", "Q"],
+["muchacha", "SP"],
+["joven", "SP"],
+["HUARMI MARA", "Q"],
+["niña", "SP"],
+["joven", "SP"],
+["HUARMI TUCUSHCA", "Q"],
+["disfrazado", "SP"],
+["HUARTAJ", "Q"],
+["sapo", "SP"],
+["HUARRU", "Q"],
+["gavilán", "SP"],
+["HUASCA", "Q"],
+["soga", "SP"],
+["cuerda", "SP"],
+["HUASI", "Q"],
+["casa", "SP"],
+["HUASI CANLLA", "Q"],
+["patio", "SP"],
+["HUASI CUIDAJ", "Q"],
+["portero", "SP"],
+["HUASI CUMBA", "Q"],
+["techo", "SP"],
+["HUASI C'ATA", "Q"],
+["techo", "SP"],
+["HUASI C'ATASHCA", "Q"],
+["techo", "SP"],
+["HUASI ÑAUPAJ", "Q"],
+["corredor", "SP"],
+["HUASI P'ATAJ", "Q"],
+["techo", "SP"],
+["HUASI TAPASHCA", "Q"],
+["techo", "SP"],
+["HUASI YATA", "Q"],
+["ruina", "SP"],
+["HUASICAMA", "Q"],
+["portero", "SP"],
+["HUASICHINA", "Q"],
+["construir", "SP"],
+["HUASHA", "Q"],
+["atrás", "SP"],
+["detrás de", "SP"],
+["fuera de", "SP"],
+["alrededor de", "SP"],
+["sur", "SP"],
+["espalda", "SP"],
+["espaldilla", "SP"],
+["HUASHA CUDU", "Q"],
+["espaldilla", "SP"],
+["HUASHA CUNGA", "Q"],
+["nuca", "SP"],
+["HUASHA CUNGA TULLU", "Q"],
+["espalda", "SP"],
+["HUASHA LADU", "Q"],
+["sur", "SP"],
+["HUASHA LADUMAN", "Q"],
+["al revés", "SP"],
+["HUASHA PILIS TULLU", "Q"],
+["espinazo", "SP"],
+["HUASHA RIGRA", "Q"],
+["espaldilla", "SP"],
+["HUASHA RIMANA", "Q"],
+["murmurar", "SP"],
+["HUASHA TULLU", "Q"],
+["espaldilla", "SP"],
+["espalda", "SP"],
+["espinazo", "SP"],
+["nuca", "SP"],
+["HUASHADA SHAMUNA", "Q"],
+["atrasarse", "SP"],
+["HUASHAI", "Q"],
+["detrás de", "SP"],
+["HUASHAMUNA", "Q"],
+["atrasarse", "SP"],
+["HUASHAN LANTANA", "Q"],
+["trasplantar", "SP"],
+["HUASHAYANA", "Q"],
+["atrasarse", "SP"],
+["HUATA", "Q"],
+["año", "SP"],
+["HUATALLINA", "Q"],
+["ceñir", "SP"],
+["HUATANA", "Q"],
+["atar", "SP"],
+["amarrar", "SP"],
+["nudo", "SP"],
+["ceñir", "SP"],
+["fajarse", "SP"],
+["cinturón", "SP"],
+["prender", "SP"],
+["HUATASHCA", "Q"],
+["nudo", "SP"],
+["HUATIA", "Q"],
+["mudo", "SP"],
+["HUATIAJ", "Q"],
+["tartamudo", "SP"],
+["HUAUQUI", "Q"],
+["hermano", "SP"],
+["HUICHAI", "Q"],
+["cuesta", "SP"],
+["subida", "SP"],
+["HUICHAI SINGA", "Q"],
+["boca arriba", "SP"],
+["HUICHCANA", "Q"],
+["cerrar", "SP"],
+["corrál", "SP"],
+["HUICHI", "Q"],
+["cuesta", "SP"],
+["subida", "SP"],
+["arriba", "SP"],
+["cazuela", "SP"],
+["HUICHI LADU", "Q"],
+["norte", "SP"],
+["sur", "SP"],
+["HUICHI LLAJTA JINTI", "Q"],
+["extraño", "SP"],
+["HUICHI SICANA", "Q"],
+["subir", "SP"],
+["HUICHI SINGA", "Q"],
+["boca arriba", "SP"],
+["HUICHICANA", "Q"],
+["cerrar", "SP"],
+["HUICHICUNA", "Q"],
+["subir", "SP"],
+["HUICHIYACHINA", "Q"],
+["alzar", "SP"],
+["HUICHIYANA", "Q"],
+["subir", "SP"],
+["HUIGSA", "Q"],
+["barriga", "SP"],
+["vientre", "SP"],
+["HUIJSA", "Q"],
+["barriga", "SP"],
+["vientre", "SP"],
+["estómago", "SP"],
+["panza", "SP"],
+["HUIJSA JUNDA", "Q"],
+["embarazada", "SP"],
+["HUIJSA JUNDAJTA MICUNA", "Q"],
+["hartarse", "SP"],
+["HUIJSA PAJTANA", "Q"],
+["hartarse", "SP"],
+["HUIJSA P'AJTANA", "Q"],
+["hartarse", "SP"],
+["HUIJSASAPA", "Q"],
+["panza", "SP"],
+["HUIJSAUN JUNDA", "Q"],
+["embarazada", "SP"],
+["HUIJSAYIJ", "Q"],
+["embarazada", "SP"],
+["HUIJSAYUJ", "Q"],
+["embarazada", "SP"],
+["HUILU", "Q"],
+["borde", "SP"],
+["HUILLANA", "Q"],
+["avisar", "SP"],
+["HUILLIJANA", "Q"],
+["chillar", "SP"],
+["HUILLMA", "Q"],
+["lana", "SP"],
+["vello", "SP"],
+["HUIÑACHINA", "Q"],
+["criar", "SP"],
+["educar", "SP"],
+["alargar", "SP"],
+["estirar", "SP"],
+["HUIÑAGUI", "Q"],
+["retoño", "SP"],
+["HUIÑAJUI", "Q"],
+["retoño", "SP"],
+["HUIÑAMUNA", "Q"],
+["brotar", "SP"],
+["HUIÑANA", "Q"],
+["crecer", "SP"],
+["retoñar", "SP"],
+["brotar", "SP"],
+["retoño", "SP"],
+["nacer", "SP"],
+["HUIÑARIJUNA", "Q"],
+["eructar", "SP"],
+["HUIÑARINA", "Q"],
+["retoñar", "SP"],
+["nacer", "SP"],
+["HUIÑASHCA", "Q"],
+["retoño", "SP"],
+["HUIQUI", "Q"],
+["lágrima", "SP"],
+["resina", "SP"],
+["HUIRA", "Q"],
+["manteca", "SP"],
+["gordo", "SP"],
+["HUIRACUCHA", "Q"],
+["mestizo", "SP"],
+["HUIRAC'UCHA", "Q"],
+["mestizo", "SP"],
+["HUIRAC'UCHA TUCUSHCA", "Q"],
+["elegante", "SP"],
+["HUIRAJUCHA", "Q"],
+["mestizo", "SP"],
+["HUIRFANU", "Q"],
+["huérfano", "SP"],
+["HUIRPA", "Q"],
+["labio", "SP"],
+["HUIRU", "Q"],
+["caña dulce", "SP"],
+["HUIRZADU YAICUNA", "Q"],
+["obstruir", "SP"],
+["HUISTU ÑAHUI", "Q"],
+["bizco", "SP"],
+["HUISHCANA", "Q"],
+["cerrar", "SP"],
+["HUISHCUNA", "Q"],
+["desgranar", "SP"],
+["HUISHINA", "Q"],
+["verter", "SP"],
+["HUISHLA", "Q"],
+["cucharón", "SP"],
+["HUISHUYANA", "Q"],
+["torcer", "SP"],
+["HUISHTU", "Q"],
+["sesgo", "SP"],
+["manco", "SP"],
+["HUISHTUYANA", "Q"],
+["torcer", "SP"],
+["HUIZAJ NINA", "Q"],
+["chillar", "SP"],
+["IBARRA", "Q"],
+["Ibarra", "SP"],
+["ICU", "Q"],
+["voz", "SP"],
+["ICHA", "Q"],
+["tal vez", "SP"],
+["ICHCANA", "Q"],
+["cerrar", "SP"],
+["ICHI", "Q"],
+["cuesta", "SP"],
+["subida", "SP"],
+["arriba", "SP"],
+["cazuela", "SP"],
+["ICHI SINGA", "Q"],
+["boca arriba", "SP"],
+["ICHI TAITA", "Q"],
+["padrastro", "SP"],
+["ICHI YAYA", "Q"],
+["padrastro", "SP"],
+["ICHIMU RINA", "Q"],
+["subir", "SP"],
+["ICHIQUILA", "Q"],
+["pequeño", "SP"],
+["ICHISANA", "Q"],
+["brujear", "SP"],
+["ICHIZIRU", "Q"],
+["brujo", "SP"],
+["IDUCANA", "Q"],
+["educar", "SP"],
+["IGADU", "Q"],
+["hígado", "SP"],
+["IGNURANTI JINTI", "Q"],
+["pagano", "SP"],
+["IGRA", "Q"],
+["bolsa tejida", "SP"],
+["IGUAL", "Q"],
+["igual", "SP"],
+["juntos", "SP"],
+["IGUALANA", "Q"],
+["equivaler", "SP"],
+["nivelar", "SP"],
+["IGUALTANA", "Q"],
+["equivaler", "SP"],
+["IGUALLADI BALINA", "Q"],
+["equivaler", "SP"],
+["IGUALLATA BALINA", "Q"],
+["equivaler", "SP"],
+["IGUL", "Q"],
+["igual", "SP"],
+["transparente", "SP"],
+["IGULANA", "Q"],
+["equivaler", "SP"],
+["IGULDA", "Q"],
+["juntos", "SP"],
+["IGULMI BALINA", "Q"],
+["equivaler", "SP"],
+["IGULTA BALINA", "Q"],
+["equivaler", "SP"],
+["IGULLADI BALINA", "Q"],
+["equivaler", "SP"],
+["IGZI", "Q"],
+["sarna", "SP"],
+["IJSA", "Q"],
+["barriga", "SP"],
+["estémago", "SP"],
+["vientre", "SP"],
+["panza", "SP"],
+["ILA CHURI", "Q"],
+["entenado", "SP"],
+["ILA HUAHUA", "Q"],
+["entenado", "SP"],
+["ILA MAMA", "Q"],
+["madrastra", "SP"],
+["ILA TAITA", "Q"],
+["padrastro", "SP"],
+["ILA USHI", "Q"],
+["entenada", "SP"],
+["ILA USHUSHI", "Q"],
+["entenada", "SP"],
+["ILA YAYA", "Q"],
+["padrastro", "SP"],
+["ILACHA", "Q"],
+["fibra de cabuya", "SP"],
+["ILAUSHUSHI", "Q"],
+["entenada", "SP"],
+["ILI MAMA", "Q"],
+["madrastra", "SP"],
+["ILU", "Q"],
+["hielo", "SP"],
+["ILLAITA", "Q"],
+["completamente", "SP"],
+["totalmente", "SP"],
+["ILLAJ", "Q"],
+["sin", "SP"],
+["suficiente", "SP"],
+["ILLAJ TUCUNA", "Q"],
+["empobrecer", "SP"],
+["ILLAJLLA", "Q"],
+["escaso", "SP"],
+["ILLAJTA", "Q"],
+["totalmente", "SP"],
+["completamente", "SP"],
+["enteramente", "SP"],
+["ILLAN", "Q"],
+["no hay", "SP"],
+["ILLANA", "Q"],
+["faltar", "SP"],
+["avisar", "SP"],
+["ILLAUN", "Q"],
+["no hay", "SP"],
+["ILLIJ", "Q"],
+["sin", "SP"],
+["todo", "SP"],
+["ILLIJCANCHA", "Q"],
+["juntos", "SP"],
+["ILLIJTA", "Q"],
+["completamente", "SP"],
+["totalmente", "SP"],
+["enteramente", "SP"],
+["ILLIN", "Q"],
+["no hay", "SP"],
+["ILLITA", "Q"],
+["completamente", "SP"],
+["enteramente", "SP"],
+["IMA", "Q"],
+["qué", "SP"],
+["IMA CAIGA", "Q"],
+["cuándo", "SP"],
+["IMA LAYA", "Q"],
+["qué clase", "SP"],
+["cómo", "SP"],
+["IMA NISHA", "Q"],
+["por qué", "SP"],
+["IMA RATU", "Q"],
+["cuando", "SP"],
+["IMA SHINA", "Q"],
+["como", "SP"],
+["qué clase", "SP"],
+["IMA URA", "Q"],
+["cuándo", "SP"],
+["IMA URABISH", "Q"],
+["a veces", "SP"],
+["IMA URAPISH", "Q"],
+["a veces", "SP"],
+["IMA URAS", "Q"],
+["cuándo", "SP"],
+["IMA URUSTA", "Q"],
+["cuándo", "SP"],
+["IMA YALA", "Q"],
+["qué clase", "SP"],
+["IMABUJ", "Q"],
+["para qué", "SP"],
+["IMAGUTI", "Q"],
+["para qué", "SP"],
+["IMAJ", "Q"],
+["para qué", "SP"],
+["IMALAYASHCA RICUNA", "Q"],
+["probar", "SP"],
+["IMALYA", "Q"],
+["cómo", "SP"],
+["IMAMANTA", "Q"],
+["por qué", "SP"],
+["IMAMUNDA", "Q"],
+["por qué", "SP"],
+["IMAMUNTA", "Q"],
+["por qué", "SP"],
+["IMANA", "Q"],
+["cómo", "SP"],
+["IMAPA", "Q"],
+["para qué", "SP"],
+["IMAPAJ", "Q"],
+["para qué", "SP"],
+["IMAPUJ", "Q"],
+["para qué", "SP"],
+["IMARSHA", "Q"],
+["por qué", "SP"],
+["IMASHA", "Q"],
+["por qué", "SP"],
+["IMASHNA", "Q"],
+["cómo", "SP"],
+["IMASHPA", "Q"],
+["por qué", "SP"],
+["IMAURA", "Q"],
+["cuándo", "SP"],
+["IMAURAS", "Q"],
+["cuándo", "SP"],
+["IMAUTI", "Q"],
+["para qué", "SP"],
+["IMBUDIRA", "Q"],
+["embudo", "SP"],
+["IMBUDU", "Q"],
+["embudo", "SP"],
+["IMPAÑALIS", "Q"],
+["pañal", "SP"],
+["IMPAÑANA", "Q"],
+["empeñar", "SP"],
+["IMURA", "Q"],
+["cuándo", "SP"],
+["IMURAS", "Q"],
+["cuándo", "SP"],
+["INA", "Q"],
+["no", "SP"],
+["INARAJ", "Q"],
+["todavía no", "SP"],
+["INBITANA", "Q"],
+["invitar", "SP"],
+["INCUNU", "Q"],
+["pus", "SP"],
+["absceso", "SP"],
+["INDI", "Q"],
+["sol", "SP"],
+["INDI HUAICUNA LADU", "Q"],
+["oeste", "SP"],
+["INDI JATARIMUNA", "Q"],
+["oriente", "SP"],
+["INDI LLUJSHI LADU", "Q"],
+["sur", "SP"],
+["INDI LLUJSHINA", "Q"],
+["oriente", "SP"],
+["INDI TARDI", "Q"],
+["tarde", "SP"],
+["INDI VIÑAI", "Q"],
+["oriente", "SP"],
+["INDI YAICUNA LADU", "Q"],
+["oeste", "SP"],
+["INDIJSIUNDA CHURANA", "Q"],
+["inyectar", "SP"],
+["INDIJSIUNDA SATINA", "Q"],
+["inyectar", "SP"],
+["INDINSIUTA CHURANA", "Q"],
+["inyectar", "SP"],
+["INDISIUN SATINA", "Q"],
+["inyectar", "SP"],
+["INDISIUNDA CUNA", "Q"],
+["inyectar", "SP"],
+["INDISU CHURANA", "Q"],
+["inyectar", "SP"],
+["INFIRNU", "Q"],
+["infierno", "SP"],
+["INFLANA", "Q"],
+["inflar", "SP"],
+["INGA", "Q"],
+["inca", "SP"],
+["idioma quichua", "SP"],
+["INGA PARLANA", "Q"],
+["idioma quichua", "SP"],
+["INGA PARLU", "Q"],
+["idioma quichua", "SP"],
+["INGA SHIMI", "Q"],
+["idioma quichua", "SP"],
+["INGAÑANA", "Q"],
+["engañar", "SP"],
+["INGUICHU", "Q"],
+["idioma quichua", "SP"],
+["INGUIRU", "Q"],
+["idioma quichua", "SP"],
+["INIMIGU", "Q"],
+["enemigo", "SP"],
+["INQUITANA", "Q"],
+["engañar", "SP"],
+["INSIAS", "Q"],
+["encías", "SP"],
+["INSARTANA", "Q"],
+["ensartar", "SP"],
+["INSULTANA", "Q"],
+["insultar", "SP"],
+["INTI", "Q"],
+["sol", "SP"],
+["INTI CHAQUI", "Q"],
+["rayo", "SP"],
+["INTI CHINGANA LLAJTA", "Q"],
+["oeste", "SP"],
+["INTI HUAISHICUI LADU", "Q"],
+["oeste", "SP"],
+["INTI LLUJSHINA LADU", "Q"],
+["oriente", "SP"],
+["INTI YAICUNA LADU", "Q"],
+["oeste", "SP"],
+["INTIDA RICUNA LADU", "Q"],
+["oeste", "SP"],
+["INTIN TAMIA", "Q"],
+["lluvia con sol", "SP"],
+["INTINADA", "Q"],
+["entenada", "SP"],
+["INTINADU", "Q"],
+["entenado", "SP"],
+["INTINDIJ", "Q"],
+["sabio", "SP"],
+["INTINDINA", "Q"],
+["entender", "SP"],
+["INTIRANA", "Q"],
+["enterrar", "SP"],
+["INTIRU", "Q"],
+["entero", "SP"],
+["INTRIGANA", "Q"],
+["entregar", "SP"],
+["devolver", "SP"],
+["INTRIGUNA", "Q"],
+["entregar", "SP"],
+["INTUNSIS", "Q"],
+["entonces", "SP"],
+["INUSINTI", "Q"],
+["mudo", "SP"],
+["tartamudo", "SP"],
+["INYIJSIUN CHURANA", "Q"],
+["inyectar", "SP"],
+["IÑACHINA", "Q"],
+["criar", "SP"],
+["alargar", "SP"],
+["extender", "SP"],
+["estirar", "SP"],
+["IÑANA", "Q"],
+["crecer", "SP"],
+["IÑU", "Q"],
+["pequeño", "SP"],
+["IPA", "Q"],
+["suegra", "SP"],
+["IPIJ", "Q"],
+["dormilón", "SP"],
+["IQUI", "Q"],
+["lagrima", "SP"],
+["IQUINA", "Q"],
+["picar", "SP"],
+["IRA", "Q"],
+["patio", "SP"],
+["troje", "SP"],
+["manteca", "SP"],
+["IRIDA", "Q"],
+["herir", "SP"],
+["IRIJI", "Q"],
+["salvaje", "SP"],
+["IRMANA", "Q"],
+["hermana", "SP"],
+["IRMANU", "Q"],
+["hermano", "SP"],
+["IRNU", "Q"],
+["yerno", "SP"],
+["IRQUI", "Q"],
+["débil", "SP"],
+["delicado", "SP"],
+["flaco", "SP"],
+["charqui", "SP"],
+["IRU", "Q"],
+["caña dulce", "SP"],
+["IRUCTANA", "Q"],
+["eructar", "SP"],
+["ISCAI", "Q"],
+["dos", "SP"],
+["ISCALIRA", "Q"],
+["escalera", "SP"],
+["ISCALUFRIU", "Q"],
+["fiebre", "SP"],
+["ISCAPANA", "Q"],
+["escapar", "SP"],
+["ISCASU", "Q"],
+["escaso", "SP"],
+["ISCRIBINA", "Q"],
+["escribir", "SP"],
+["ISCUDILLA", "Q"],
+["tazón de barro", "SP"],
+["ISCUN", "Q"],
+["nueve", "SP"],
+["ISMA", "Q"],
+["excremento", "SP"],
+["caca", "SP"],
+["ISMANA", "Q"],
+["defecar", "SP"],
+["ISMASCANA", "Q"],
+["defecar", "SP"],
+["ISMASHCANA", "Q"],
+["defecar", "SP"],
+["ISMU", "Q"],
+["podrido", "SP"],
+["ISMUNA", "Q"],
+["pudrirse", "SP"],
+["ISMUSHCA", "Q"],
+["podrido", "SP"],
+["ISPADA", "Q"],
+["espaldilla", "SP"],
+["ISPANTU", "Q"],
+["muy", "SP"],
+["ISPIGA TUCUMUNA", "Q"],
+["espigar", "SP"],
+["ISPIGANA", "Q"],
+["espigar", "SP"],
+["ISPIJANA", "Q"],
+["espigar", "SP"],
+["ISPIJU", "Q"],
+["transparente", "SP"],
+["ISPIJU CUINTA", "Q"],
+["transparente", "SP"],
+["ISPILMA", "Q"],
+["cera", "SP"],
+["vela", "SP"],
+["ISPINAZU TULLU", "Q"],
+["espinazo", "SP"],
+["ISPUMA", "Q"],
+["espuma", "SP"],
+["burbuja", "SP"],
+["ISQUINA", "Q"],
+["rincon", "SP"],
+["ISQUIRBINA", "Q"],
+["escribir", "SP"],
+["ISQUIRDA", "Q"],
+["izquierda", "SP"],
+["ISTANCU", "Q"],
+["chichería", "SP"],
+["ISTRILLA", "Q"],
+["estrella", "SP"],
+["ISHCAI", "Q"],
+["dos", "SP"],
+["ISHCANDI", "Q"],
+["ambos", "SP"],
+["ISHCANDIJ", "Q"],
+["ambos", "SP"],
+["ISHCUNA", "Q"],
+["desgranar", "SP"],
+["ISHPA", "Q"],
+["orina", "SP"],
+["ISHPA FURU", "Q"],
+["vejiga", "SP"],
+["ISHPA JURU", "Q"],
+["vejiga", "SP"],
+["ISHPA P'URU", "Q"],
+["vejiga", "SP"],
+["ISHPA YACU", "Q"],
+["orina", "SP"],
+["ISHPAI YACU", "Q"],
+["orina", "SP"],
+["ISHPANA", "Q"],
+["orinar", "SP"],
+["ISHQUI", "Q"],
+["dos", "SP"],
+["ISHQUINDI", "Q"],
+["ambos", "SP"],
+["ISHQUINDIJ", "Q"],
+["ambos", "SP"],
+["ISHQUINDIN", "Q"],
+["ambos", "SP"],
+["ISHTA", "Q"],
+["completament", "SP"],
+["enteramente", "SP"],
+["totalmente", "SP"],
+["todos", "SP"],
+["todo", "SP"],
+["ISHTACANA", "Q"],
+["clavar", "SP"],
+["ISHTANCU", "Q"],
+["chichería", "SP"],
+["ISHTINCU", "Q"],
+["chichería", "SP"],
+["ISHTU", "Q"],
+["sesgo", "SP"],
+["ISHTUDA RICUJ", "Q"],
+["bizco", "SP"],
+["ITSA CATAJ", "Q"],
+["luciérnaga", "SP"],
+["IZI", "Q"],
+["sarna", "SP"],
+["lobo", "SP"],
+["IZISHCA", "Q"],
+["herida", "SP"],
+["IZUPU", "Q"],
+["crespo", "SP"],
+["JA NINA", "Q"],
+["bostezar", "SP"],
+["JABAS", "Q"],
+["haba", "SP"],
+["JABUS", "Q"],
+["haba", "SP"],
+["JACA", "Q"],
+["peña", "SP"],
+["quebrada", "SP"],
+["JACU", "Q"],
+["vámonos", "SP"],
+["harina", "SP"],
+["máchica", "SP"],
+["JACU RISHUN", "Q"],
+["vámonos", "SP"],
+["JACUCHI", "Q"],
+["vámonos", "SP"],
+["JACUCHIJ", "Q"],
+["vámonos", "SP"],
+["JACUICHI", "Q"],
+["vámonos", "SP"],
+["JACUNA", "Q"],
+["fregar", "SP"],
+["sobar", "SP"],
+["explotar", "SP"],
+["flotar", "SP"],
+["JACHA", "Q"],
+["hacha", "SP"],
+["JACHAJ NINA", "Q"],
+["estornudar", "SP"],
+["JACHANA", "Q"],
+["rajar", "SP"],
+["JACHU NINA", "Q"],
+["estornudar", "SP"],
+["JACHUN", "Q"],
+["cuñada", "SP"],
+["nuera", "SP"],
+["JAHUA", "Q"],
+["arriba", "SP"],
+["encima de", "SP"],
+["JAHUA CANLLA", "Q"],
+["afuera", "SP"],
+["JAHUA LADU", "Q"],
+["sur", "SP"],
+["JAHUA LUMA", "Q"],
+["cumbre", "SP"],
+["JAHUA LLAJTA", "Q"],
+["sierra", "SP"],
+["sur", "SP"],
+["JAHUA PACHA", "Q"],
+["cielo", "SP"],
+["JAHUA PUNGU", "Q"],
+["afuera", "SP"],
+["JAHUA PUNTA", "Q"],
+["cumbre", "SP"],
+["JAHUA SILU", "Q"],
+["cielo", "SP"],
+["JAHUACHINA", "Q"],
+["alzar", "SP"],
+["JAHUADA ANCHUCHINA", "Q"],
+["desherbar", "SP"],
+["JAHUALA", "Q"],
+["suave", "SP"],
+["JAHUALAYACHINA", "Q"],
+["suavizar", "SP"],
+["ablandarse", "SP"],
+["JAHUALLA", "Q"],
+["facil", "SP"],
+["suave", "SP"],
+["frágil", "SP"],
+["delicado", "SP"],
+["liviano", "SP"],
+["tranquilo", "SP"],
+["despacio", "SP"],
+["falso", "SP"],
+["JAHUALLA P'AQUINALLA", "Q"],
+["frágil", "SP"],
+["JAHUALLA TUCUNA", "Q"],
+["ablandarse", "SP"],
+["JAHUALLAYACHINA", "Q"],
+["suavizar", "SP"],
+["JAHUANA", "Q"],
+["enjuagar", "SP"],
+["lavar", "SP"],
+["saltar", "SP"],
+["JAHUAYANA", "Q"],
+["subir", "SP"],
+["JAHUAYACHINA", "Q"],
+["alzar", "SP"],
+["levantar", "SP"],
+["JAHUINA", "Q"],
+["batir", "SP"],
+["JAICA", "Q"],
+["toma", "SP"],
+["cuándo", "SP"],
+["JAICUNA", "Q"],
+["cansarse", "SP"],
+["JAICUSHCA", "Q"],
+["cansado", "SP"],
+["JAIGA", "Q"],
+["toma", "SP"],
+["JAINAPU JAINANDI", "Q"],
+["anteayer", "SP"],
+["JAIRICHINA", "Q"],
+["eructar", "SP"],
+["bostezar", "SP"],
+["JAITANA", "Q"],
+["patear", "SP"],
+["JAJCHA", "Q"],
+["pelo", "SP"],
+["cabello", "SP"],
+["JAJTUCU", "Q"],
+["abuela", "SP"],
+["abuelo", "SP"],
+["JALADURA", "Q"],
+["canasta", "SP"],
+["JALINA", "Q"],
+["rebozo", "SP"],
+["JALMA", "Q"],
+["aparejo", "SP"],
+["JALMANA", "Q"],
+["desherbar", "SP"],
+["JALSANA", "Q"],
+["amontonar", "SP"],
+["JALSU", "Q"],
+["falso", "SP"],
+["JALUN", "Q"],
+["crudo", "SP"],
+["JALLA NINA", "Q"],
+["bostezar", "SP"],
+["JALLALAN", "Q"],
+["muela", "SP"],
+["JALLMANA", "Q"],
+["desherbar", "SP"],
+["JALLU", "Q"],
+["lengua", "SP"],
+["JAMBATU", "Q"],
+["Ambato", "SP"],
+["sapo", "SP"],
+["JAMBATU SUMBIRU", "Q"],
+["sombrero", "SP"],
+["JAMBATYU", "Q"],
+["sapo", "SP"],
+["JAMBATYUJ", "Q"],
+["sapo", "SP"],
+["JAMBI", "Q"],
+["remedio", "SP"],
+["medicina", "SP"],
+["veneno", "SP"],
+["JAMBI JIHUA", "Q"],
+["hierba medicinal", "SP"],
+["JAMBI YURA", "Q"],
+["hierba medicinal", "SP"],
+["JAMBICHINA", "Q"],
+["curar", "SP"],
+["JAMBIDUR", "Q"],
+["curandero", "SP"],
+["JAMBIJ", "Q"],
+["curandero", "SP"],
+["JAMBIJ YUMBU", "Q"],
+["curandero", "SP"],
+["JAMBINA", "Q"],
+["curar", "SP"],
+["sanar", "SP"],
+["JAMCHI", "Q"],
+["afrecho", "SP"],
+["heces", "SP"],
+["JAMLLA", "Q"],
+["desabrido", "SP"],
+["JAMPIJ", "Q"],
+["curandero", "SP"],
+["JAMTSI", "Q"],
+["afrecho", "SP"],
+["JAMZI", "Q"],
+["afrecho", "SP"],
+["residuo", "SP"],
+["heces", "SP"],
+["delgado", "SP"],
+["delicado", "SP"],
+["JAN", "Q"],
+["tu", "SP"],
+["usted", "SP"],
+["JANA", "Q"],
+["arriba", "SP"],
+["alto", "SP"],
+["JANAJ", "Q"],
+["arriba", "SP"],
+["JANAJ LADU", "Q"],
+["norte", "SP"],
+["JANAJ PACHA", "Q"],
+["cielo", "SP"],
+["JANCA", "Q"],
+["cojo", "SP"],
+["JANCANA", "Q"],
+["cojear", "SP"],
+["JANGA", "Q"],
+["cojo", "SP"],
+["JANGA PATUJ", "Q"],
+["cojo", "SP"],
+["JANGA PURINA", "Q"],
+["cojear", "SP"],
+["JANGANA", "Q"],
+["cojear", "SP"],
+["JANI LLAJTA", "Q"],
+["oeste", "SP"],
+["JANTSI", "Q"],
+["residuo", "SP"],
+["heces", "SP"],
+["afrecho", "SP"],
+["JAPI", "Q"],
+["toma", "SP"],
+["JAPICHINA", "Q"],
+["encender", "SP"],
+["prender candela", "SP"],
+["JAPINA", "Q"],
+["cojer", "SP"],
+["tomar", "SP"],
+["agarrar", "SP"],
+["recoger", "SP"],
+["escojer", "SP"],
+["recibir", "SP"],
+["aceptar", "SP"],
+["tocar", "SP"],
+["hallar", "SP"],
+["encontrar", "SP"],
+["prender candela", "SP"],
+["prender", "SP"],
+["trampa", "SP"],
+["JAPIRINA", "Q"],
+["agarrar", "SP"],
+["tocar", "SP"],
+["JAPU", "Q"],
+["espeso", "SP"],
+["JAQUIMA", "Q"],
+["aparejo", "SP"],
+["JARCA", "Q"],
+["tartamudo", "SP"],
+["JARCANA", "Q"],
+["atajar", "SP"],
+["obstruir", "SP"],
+["impedir", "SP"],
+["atrancar", "SP"],
+["detener", "SP"],
+["defender", "SP"],
+["JARCARINA", "Q"],
+["sofocar", "SP"],
+["JARI", "Q"],
+["hombre", "SP"],
+["varón", "SP"],
+["macho", "SP"],
+["JARI HUAHUA", "Q"],
+["niño", "SP"],
+["JARI HUAMBRA", "Q"],
+["muchacho", "SP"],
+["joven", "SP"],
+["JARI-JARI", "Q"],
+["elegante", "SP"],
+["JARI TUCUSHCA", "Q"],
+["valiente", "SP"],
+["JARINA", "Q"],
+["harina", "SP"],
+["arena", "SP"],
+["JARISHNA", "Q"],
+["valiente", "SP"],
+["JARIYASHCA", "Q"],
+["orgulloso", "SP"],
+["valiente", "SP"],
+["elegante", "SP"],
+["JARSIA", "Q"],
+["fibra de cabuya", "SP"],
+["JARRA", "Q"],
+["jorobado", "SP"],
+["JASYINDA", "Q"],
+["hacienda", "SP"],
+["JASHLIN", "Q"],
+["quijada", "SP"],
+["muela", "SP"],
+["JATA", "Q"],
+["techo", "SP"],
+["JATACHINA", "Q"],
+["tapar", "SP"],
+["cobijar", "SP"],
+["levantar", "SP"],
+["JATANA", "Q"],
+["abrigarse", "SP"],
+["tapar", "SP"],
+["cobijar", "SP"],
+["cobija", "SP"],
+["JATARICHINA", "Q"],
+["levantar", "SP"],
+["alzar", "SP"],
+["JATARINA", "Q"],
+["levantarse", "SP"],
+["cobijar", "SP"],
+["JATI YACU", "Q"],
+["rio", "SP"],
+["JATSAI NINA", "Q"],
+["estornudar", "SP"],
+["JATSI NINA", "Q"],
+["estornudar", "SP"],
+["JATSIANA", "Q"],
+["estornudar", "SP"],
+["JATU", "Q"],
+["vendedor", "SP"],
+["JATUDUR", "Q"],
+["vendedor", "SP"],
+["JATUI", "Q"],
+["mercado", "SP"],
+["JATUN", "Q"],
+["grande", "SP"],
+["alto", "SP"],
+["largo", "SP"],
+["amplio", "SP"],
+["muy", "SP"],
+["JATUN ALLI", "Q"],
+["generoso", "SP"],
+["JATUN AMU", "Q"],
+["dueño", "SP"],
+["JATUN CASPI", "Q"],
+["viga", "SP"],
+["JATUN CUCHA", "Q"],
+["mar", "SP"],
+["JATUN CHUSPI", "Q"],
+["tábano", "SP"],
+["JATUN HUAUQUI", "Q"],
+["hermano mayor", "SP"],
+["JATUN MAMA", "Q"],
+["abuela", "SP"],
+["JATUN SACHA", "Q"],
+["selva", "SP"],
+["JATUN TACUSHCA", "Q"],
+["tosco", "SP"],
+["JATUN TAITA", "Q"],
+["abuelo", "SP"],
+["JATUN TUCUSHCA", "Q"],
+["orgulloso", "SP"],
+["JATUN UNGÜI", "Q"],
+["fiebre", "SP"],
+["JATUN URCU", "Q"],
+["loma", "SP"],
+["JATUN YACU", "Q"],
+["rio", "SP"],
+["mar", "SP"],
+["JATUN YACU CUCHA", "Q"],
+["mar", "SP"],
+["JATUN YAYA", "Q"],
+["abuelo", "SP"],
+["JATUN YUPANA", "Q"],
+["exceder", "SP"],
+["JATUNA", "Q"],
+["cobija", "SP"],
+["JATUNLLA", "Q"],
+["ancho", "SP"],
+["JATUNYACHINA", "Q"],
+["alargar", "SP"],
+["JATUNYANA", "Q"],
+["crecer", "SP"],
+["JATSU", "Q"],
+["catzo", "SP"],
+["JAVI", "Q"],
+["sucio", "SP"],
+["JAYA", "Q"],
+["mañana", "SP"],
+["JAYA CAMA", "Q"],
+["hasta mañana", "SP"],
+["JAYAJ", "Q"],
+["agrio", "SP"],
+["amargo", "SP"],
+["picante", "SP"],
+["JAYAJCHINA", "Q"],
+["bostezar", "SP"],
+["JAYANDI P'UNLLA", "Q"],
+["día siguiente", "SP"],
+["JAYAPUJ JAYANDI", "Q"],
+["pasado mañana", "SP"],
+["JAYIJ", "Q"],
+["picante", "SP"],
+["amargo", "SP"],
+["agrio", "SP"],
+["JAZINDA", "Q"],
+["hacienda", "SP"],
+["JAZHA", "Q"],
+["quijada", "SP"],
+["JIBARU", "Q"],
+["salvaje", "SP"],
+["pagano", "SP"],
+["JIBI", "Q"],
+["catapulta", "SP"],
+["JIBRI", "Q"],
+["fiebre", "SP"],
+["JIBRI UNGÜI", "Q"],
+["gripe", "SP"],
+["JICUPANA", "Q"],
+["echar", "SP"],
+["botar", "SP"],
+["JICUSHCA", "Q"],
+["desierto", "SP"],
+["JICHANA", "Q"],
+["derramar", "SP"],
+["regar agua", "SP"],
+["regar cosas", "SP"],
+["regar paja", "SP"],
+["sembrar", "SP"],
+["vaciar", "SP"],
+["JICHUNA", "Q"],
+["abandonar", "SP"],
+["perder", "SP"],
+["botar", "SP"],
+["saltar", "SP"],
+["JICHURINA", "Q"],
+["atrasarse", "SP"],
+["JICHURISHCA", "Q"],
+["último", "SP"],
+["JICHUSHCA", "Q"],
+["desierto", "SP"],
+["JIGRA", "Q"],
+["bolsa tejida", "SP"],
+["JIHUA", "Q"],
+["hierba", "SP"],
+["pasto", "SP"],
+["JIHUA PAMBA", "Q"],
+["potrero", "SP"],
+["JIHUADA CUCHUNA", "Q"],
+["cortar hierba", "SP"],
+["JIHUANA", "Q"],
+["cortar hierba", "SP"],
+["desherbar", "SP"],
+["JIHUATA CUCHUNA", "Q"],
+["cortar hierba", "SP"],
+["JIHUATA LLUJSHICHINA", "Q"],
+["desherbar", "SP"],
+["JILBANA", "Q"],
+["ensartar", "SP"],
+["JILPUNA", "Q"],
+["ensartar", "SP"],
+["embudo", "SP"],
+["JILU", "Q"],
+["agudo", "SP"],
+["hielo", "SP"],
+["JILUCUNA", "Q"],
+["valle", "SP"],
+["JILLU", "Q"],
+["goloso", "SP"],
+["amarillo", "SP"],
+["JILLUNA", "Q"],
+["explotar", "SP"],
+["robar", "SP"],
+["ladrón", "SP"],
+["JIMBA", "Q"],
+["trenza", "SP"],
+["JIMBANA", "Q"],
+["trenzar", "SP"],
+["JINCHI", "Q"],
+["duro", "SP"],
+["fuerte", "SP"],
+["difícil", "SP"],
+["fuerza", "SP"],
+["rígido", "SP"],
+["tieso", "SP"],
+["valiente", "SP"],
+["JINCHI TUCUNA", "Q"],
+["sostener", "SP"],
+["JIPAYACHINA", "Q"],
+["detener", "SP"],
+["sostener", "SP"],
+["JINCHIJUJ", "Q"],
+["valiente", "SP"],
+["JINCHIJUNA", "Q"],
+["detener", "SP"],
+["JINCHIYASHCA", "Q"],
+["rígido", "SP"],
+["coágulo", "SP"],
+["JINDI", "Q"],
+["gente", "SP"],
+["persona", "SP"],
+["JINTI", "Q"],
+["gente", "SP"],
+["persona", "SP"],
+["JINTIL", "Q"],
+["pagano", "SP"],
+["JIÑA", "Q"],
+["moco", "SP"],
+["JIPA", "Q"],
+["después", "SP"],
+["menor", "SP"],
+["siguiente", "SP"],
+["detrás de", "SP"],
+["último", "SP"],
+["JIPA HUAUQUI", "Q"],
+["hermano menor", "SP"],
+["JIPAYACHINA", "Q"],
+["detener", "SP"],
+["JIPAYANA", "Q"],
+["atrasarse", "SP"],
+["demorar", "SP"],
+["JIRANA", "Q"],
+["girar", "SP"],
+["JIRGA", "Q"],
+["poncho", "SP"],
+["tela", "SP"],
+["JIRIDACHINA", "Q"],
+["lastimar", "SP"],
+["JIRIQUITA", "Q"],
+["falda", "SP"],
+["JIRU", "Q"],
+["hierro", "SP"],
+["feo", "SP"],
+["JIRRU", "Q"],
+["metal", "SP"],
+["hierro", "SP"],
+["JITA", "Q"],
+["arisco", "SP"],
+["labio", "SP"],
+["quijada", "SP"],
+["JITUN", "Q"],
+["arisco", "SP"],
+["JUACHAGYANA", "Q"],
+["mojar", "SP"],
+["JUACHAJ", "Q"],
+["húmedo", "SP"],
+["mojado", "SP"],
+["JUAJCHA", "Q"],
+["cabello", "SP"],
+["pelo", "SP"],
+["JUASIL", "Q"],
+["facil", "SP"],
+["JUBIN", "Q"],
+["joven", "SP"],
+["menor", "SP"],
+["JUCU", "Q"],
+["húmedo", "SP"],
+["JUCUCHINA", "Q"],
+["remojar", "SP"],
+["mojar", "SP"],
+["absorber", "SP"],
+["JUCUNA", "Q"],
+["mojar", "SP"],
+["JUCUS", "Q"],
+["carrizo", "SP"],
+["JUCHACHI", "Q"],
+["culpa", "SP"],
+["JUCHACHINA", "Q"],
+["culpar", "SP"],
+["JUCHADA URANA", "Q"],
+["pegar", "SP"],
+["JUCUSHCA", "Q"],
+["húmedo", "SP"],
+["mojado", "SP"],
+["JUCUYANA", "Q"],
+["mojar", "SP"],
+["JUCHA", "Q"],
+["pecado", "SP"],
+["culpa", "SP"],
+["JUCHA GANA", "Q"],
+["pegar", "SP"],
+["JUCHA RURANA", "Q"],
+["pegar", "SP"],
+["JUCHA TUCUNA", "Q"],
+["pegar", "SP"],
+["JUCHANA", "Q"],
+["pegar", "SP"],
+["JUCHAYANA", "Q"],
+["pegar", "SP"],
+["JUCHI", "Q"],
+["chancho", "SP"],
+["puerco", "SP"],
+["JUCHU", "Q"],
+["rincon", "SP"],
+["cerca", "SP"],
+["JUCHULLA", "Q"],
+["cerca", "SP"],
+["JUCHUNA", "Q"],
+["perder", "SP"],
+["JUDAS", "Q"],
+["diablo", "SP"],
+["demonio", "SP"],
+["JUHUALLA", "Q"],
+["suave", "SP"],
+["JUHUILA", "Q"],
+["elegante", "SP"],
+["JUILA", "Q"],
+["bonito", "SP"],
+["JUIN", "Q"],
+["muy", "SP"],
+["JUIN ALAJA", "Q"],
+["elegante", "SP"],
+["JUIN ALLI", "Q"],
+["completamente", "SP"],
+["JUIN ÑUTU", "Q"],
+["diminuto", "SP"],
+["JUIN RUPAI TIYANA", "Q"],
+["hacer calor", "SP"],
+["JUIÑUTITU", "Q"],
+["suave", "SP"],
+["JUIRA", "Q"],
+["fuera de", "SP"],
+["afuera", "SP"],
+["extraño", "SP"],
+["JUIRSA", "Q"],
+["músculo", "SP"],
+["fuerte", "SP"],
+["JUIRSAYUJ", "Q"],
+["valiente", "SP"],
+["JUIRSTI JUIRSTI", "Q"],
+["burbuja", "SP"],
+["JUIRTI TAMIA", "Q"],
+["invierno", "SP"],
+["JUIRZA", "Q"],
+["fuerza", "SP"],
+["JUISHTA", "Q"],
+["fiesta", "SP"],
+["JUJTU", "Q"],
+["cueva", "SP"],
+["JULLUQUIRISHA HUAÑUNA", "Q"],
+["ahogarse", "SP"],
+["JUMBAJ", "Q"],
+["lombriz", "SP"],
+["JUMBI", "Q"],
+["sudor", "SP"],
+["JUMBICHINA", "Q"],
+["sofocar", "SP"],
+["JUMBINA", "Q"],
+["sudar", "SP"],
+["sudor", "SP"],
+["JUMBISHCA", "Q"],
+["sudor", "SP"],
+["JUMBRIS", "Q"],
+["hombro", "SP"],
+["JUMILDI", "Q"],
+["humilde", "SP"],
+["JUNDA", "Q"],
+["lleno", "SP"],
+["entero", "SP"],
+["fondo", "SP"],
+["JUNDACHINA", "Q"],
+["llenar", "SP"],
+["inflar", "SP"],
+["JUNDANA", "Q"],
+["llenar", "SP"],
+["JUNDASHCA", "Q"],
+["lleno", "SP"],
+["JUNDU", "Q"],
+["profundo", "SP"],
+["hondo", "SP"],
+["JUNDU UCU", "Q"],
+["hueco", "SP"],
+["JUNDU YACU", "Q"],
+["fuente", "SP"],
+["JUNTANA", "Q"],
+["unir", "SP"],
+["juntar", "SP"],
+["JUNTASHCA", "Q"],
+["coyuntura", "SP"],
+["JUNTU", "Q"],
+["grupo", "SP"],
+["JUÑA", "Q"],
+["moco", "SP"],
+["JUPA", "Q"],
+["basura", "SP"],
+["paja", "SP"],
+["abono", "SP"],
+["JURCA", "Q"],
+["horqueta", "SP"],
+["JURCUN", "Q"],
+["horqueta", "SP"],
+["JURMIGA", "Q"],
+["hormiga", "SP"],
+["JURQUITA", "Q"],
+["horqueta", "SP"],
+["JURU", "Q"],
+["gusano", "SP"],
+["muñon", "SP"],
+["JURULA", "Q"],
+["corto", "SP"],
+["JURZA", "Q"],
+["fuerza", "SP"],
+["JUSTU", "Q"],
+["justo", "SP"],
+["JUSHCA", "Q"],
+["contento", "SP"],
+["JUTCU", "Q"],
+["hueco", "SP"],
+["cueva", "SP"],
+["JUTCUNA", "Q"],
+["perforar", "SP"],
+["JUTCURISHCA", "Q"],
+["poroso", "SP"],
+["JUTYUQUIRINA", "Q"],
+["ablandarse", "SP"],
+["JUYACHINA", "Q"],
+["acariciar", "SP"],
+["JUYAI", "Q"],
+["amor", "SP"],
+["JUYAILLA", "Q"],
+["bonito", "SP"],
+["elegante", "SP"],
+["JUYAIPAJ", "Q"],
+["pobre", "SP"],
+["JUYANA", "Q"],
+["amar", "SP"],
+["amor", "SP"],
+["acariciar", "SP"],
+["JUYANAYAI", "Q"],
+["amable", "SP"],
+["JUYASHCA", "Q"],
+["amable", "SP"],
+["LA CHURI", "Q"],
+["entenado", "SP"],
+["LA HUAHUA", "Q"],
+["entenado", "SP"],
+["LA MAMA", "Q"],
+["madrastra", "SP"],
+["LA TAITA", "Q"],
+["padrastro", "SP"],
+["LA USHUSHI", "Q"],
+["entenada", "SP"],
+["LA YAYA", "Q"],
+["padrastro", "SP"],
+["LABRANA", "Q"],
+["tallar", "SP"],
+["pulir", "SP"],
+["cuadrar", "SP"],
+["LABUDO SATINA", "Q"],
+["clavar", "SP"],
+["LADIRA", "Q"],
+["cuesta", "SP"],
+["LADRANA", "Q"],
+["ladrar", "SP"],
+["LADRANUNA", "Q"],
+["ladrar", "SP"],
+["LADU", "Q"],
+["lado", "SP"],
+["borde", "SP"],
+["cerca", "SP"],
+["lugar", "SP"],
+["LADUCHINA", "Q"],
+["arrimar", "SP"],
+["LADULA", "Q"],
+["cerca", "SP"],
+["LADULLA", "Q"],
+["cerca", "SP"],
+["LADUMUN", "Q"],
+["al revés", "SP"],
+["LADUYACHINA", "Q"],
+["desunir", "SP"],
+["LADUYANA", "Q"],
+["acercarse", "SP"],
+["LADUYASH RINA", "Q"],
+["alargar", "SP"],
+["LAGLA", "Q"],
+["moco", "SP"],
+["LAICHA", "Q"],
+["mestizo", "SP"],
+["LAICHU", "Q"],
+["mestizo", "SP"],
+["LALI", "Q"],
+["flaco", "SP"],
+["flojo", "SP"],
+["LALIYACHINA", "Q"],
+["aflojar", "SP"],
+["LAMAR YACU", "Q"],
+["mar", "SP"],
+["LAMBINA", "Q"],
+["lamer", "SP"],
+["LAMPA", "Q"],
+["pala", "SP"],
+["LANCHA", "Q"],
+["lluvia con sol", "SP"],
+["llovizna", "SP"],
+["LANDUCHINA", "Q"],
+["suavizar", "SP"],
+["LANDUYARINA", "Q"],
+["ablandarse", "SP"],
+["LANGADUR", "Q"],
+["paladar", "SP"],
+["LANGANA", "Q"],
+["trago", "SP"],
+["LANSANAYANA", "Q"],
+["tener náuseas", "SP"],
+["LANTA", "Q"],
+["planta", "SP"],
+["LANTANA", "Q"],
+["plantar", "SP"],
+["LANTU", "Q"],
+["sombra", "SP"],
+["LANTUSQUIRINA", "Q"],
+["dislocar", "SP"],
+["LANZACHINA", "Q"],
+["eructar", "SP"],
+["LANZANA", "Q"],
+["vomitar", "SP"],
+["LANZANACHINA", "Q"],
+["tener náuseas", "SP"],
+["LAPUGYACHINA", "Q"],
+["mojar", "SP"],
+["remojar", "SP"],
+["LAPUJ", "Q"],
+["mojado", "SP"],
+["LARCA", "Q"],
+["acequia", "SP"],
+["zanja", "SP"],
+["rio", "SP"],
+["LARGANA", "Q"],
+["alargar", "SP"],
+["LARGU", "Q"],
+["largo", "SP"],
+["recto", "SP"],
+["LARGU CAUCHU", "Q"],
+["cuerda", "SP"],
+["LARGU ÑAN", "Q"],
+["recto", "SP"],
+["LARGUYACHINA", "Q"],
+["alargar", "SP"],
+["LARNITA", "Q"],
+["flauta", "SP"],
+["LARU", "Q"],
+["claro", "SP"],
+["azul", "SP"],
+["LASA", "Q"],
+["mercado", "SP"],
+["LASHIJ", "Q"],
+["pesado", "SP"],
+["LASHIJCANA", "Q"],
+["pesar", "SP"],
+["LATA", "Q"],
+["metal", "SP"],
+["LATACUNGA", "Q"],
+["Latacunga", "SP"],
+["LATAHUANGU", "Q"],
+["Latacunga", "SP"],
+["LATAJ CHAQUI", "Q"],
+["descalzo", "SP"],
+["LATSAJ", "Q"],
+["mojado", "SP"],
+["LATU", "Q"],
+["plato", "SP"],
+["tazón de barro", "SP"],
+["LAUSA", "Q"],
+["saliva", "SP"],
+["baba", "SP"],
+["LAUSHI", "Q"],
+["entenada", "SP"],
+["LAUTA", "Q"],
+["flauta", "SP"],
+["LAYA", "Q"],
+["tipo", "SP"],
+["clase", "SP"],
+["tamaño", "SP"],
+["LAYA YAYA", "Q"],
+["padrastro", "SP"],
+["LAYACHINA", "Q"],
+["aplanar", "SP"],
+["LIANA", "Q"],
+["leer", "SP"],
+["LIBRANA", "Q"],
+["librar", "SP"],
+["LIBRI", "Q"],
+["completamente", "SP"],
+["enteramente", "SP"],
+["entero", "SP"],
+["aparte", "SP"],
+["LIBRINA", "Q"],
+["librar", "SP"],
+["LIGAL", "Q"],
+["justo", "SP"],
+["LIGIRU", "Q"],
+["rápido", "SP"],
+["LIJANA", "Q"],
+["alejarse", "SP"],
+["LIJIRU", "Q"],
+["ligero", "SP"],
+["LIJITIMU HUAHUA", "Q"],
+["primogénito", "SP"],
+["LIMANA", "Q"],
+["afilar", "SP"],
+["LIMPIU", "Q"],
+["completamente", "SP"],
+["enteramente", "SP"],
+["claro", "SP"],
+["LIMPUNA", "Q"],
+["tragar", "SP"],
+["LIMURIANA", "Q"],
+["pensar", "SP"],
+["LINLLI", "Q"],
+["red", "SP"],
+["LINSU", "Q"],
+["tela", "SP"],
+["LINSHU", "Q"],
+["completamente", "SP"],
+["enteramente", "SP"],
+["LINTRAS", "Q"],
+["liendre", "SP"],
+["LIQUINA", "Q"],
+["despedazar", "SP"],
+["arrancar", "SP"],
+["hender", "SP"],
+["LISANA", "Q"],
+["alisar", "SP"],
+["LITUNA", "Q"],
+["insultar", "SP"],
+["LIYINA", "Q"],
+["leer", "SP"],
+["LUBU", "Q"],
+["lobo", "SP"],
+["zorro", "SP"],
+["LUCU", "Q"],
+["loco", "SP"],
+["LUCU TUCUSHCA", "Q"],
+["loco", "SP"],
+["LUCHANA", "Q"],
+["luchar", "SP"],
+["LUDU", "Q"],
+["barro", "SP"],
+["lodo", "SP"],
+["LUGAR", "Q"],
+["amplio", "SP"],
+["lugar", "SP"],
+["país", "SP"],
+["LUGARYACHINA", "Q"],
+["vaciar", "SP"],
+["LUGRU", "Q"],
+["sopa", "SP"],
+["LUGURYACHINA", "Q"],
+["vaciar", "SP"],
+["LUJSHISHA TARPUNA", "Q"],
+["trasplantar", "SP"],
+["LUJSHISHCA", "Q"],
+["disfrazado", "SP"],
+["LULA", "Q"],
+["moco", "SP"],
+["LULUHUA", "Q"],
+["huevo", "SP"],
+["LULUN", "Q"],
+["huevo", "SP"],
+["testículo", "SP"],
+["LULUNDA HUACHANA", "Q"],
+["poner huevos", "SP"],
+["LULUNTA CHURANA", "Q"],
+["poner huevos", "SP"],
+["LULUNTA HUACHANA", "Q"],
+["poner huevos", "SP"],
+["LUMA", "Q"],
+["loma", "SP"],
+["cerro", "SP"],
+["cuesta", "SP"],
+["LUMA PUNDA", "Q"],
+["cumbre", "SP"],
+["LUMAS", "Q"],
+["selva", "SP"],
+["LUMBRANA", "Q"],
+["nombrar", "SP"],
+["LUMU", "Q"],
+["espalda", "SP"],
+["LUMU TULLU", "Q"],
+["espinazo", "SP"],
+["LUNA", "Q"],
+["luna", "SP"],
+["LUNA MAMA", "Q"],
+["luna", "SP"],
+["LUNGA", "Q"],
+["soltera", "SP"],
+["muchacho", "SP"],
+["joven", "SP"],
+["LUNGU", "Q"],
+["soltero", "SP"],
+["muchacho", "SP"],
+["joven", "SP"],
+["LUNGUN", "Q"],
+["joven", "SP"],
+["LUNTA HUACHANA", "Q"],
+["poner huevo", "SP"],
+["LUNTSA", "Q"],
+["racimo", "SP"],
+["LURINTI", "Q"],
+["oriente", "SP"],
+["LURIPUNDIU", "Q"],
+["floripondio", "SP"],
+["LURIP'UNDIU", "Q"],
+["floripondio", "SP"],
+["LUS", "Q"],
+["luz", "SP"],
+["LUSHPICHINA", "Q"],
+["librar", "SP"],
+["LUTSAI", "Q"],
+["manojo", "SP"],
+["puñado", "SP"],
+["LUTU", "Q"],
+["perdiz", "SP"],
+["LUZIRU", "Q"],
+["estrella", "SP"],
+["LUZIYANA", "Q"],
+["brillar", "SP"],
+["aclarar", "SP"],
+["LLABI CHURANA", "Q"],
+["poner llave", "SP"],
+["LLABINA", "Q"],
+["poner llave", "SP"],
+["LLABITA CHURANA", "Q"],
+["poner llave", "SP"],
+["LLACHAPA", "Q"],
+["trapo", "SP"],
+["andrajoso", "SP"],
+["haraposo", "SP"],
+["pañal", "SP"],
+["LLAGA", "Q"],
+["sarna", "SP"],
+["LLAGLLANA", "Q"],
+["tallar", "SP"],
+["acepillar", "SP"],
+["rallar", "SP"],
+["cuadrar", "SP"],
+["LLAGMA", "Q"],
+["mentira", "SP"],
+["LLAGMANA", "Q"],
+["mentir", "SP"],
+["LLAGTA", "Q"],
+["país", "SP"],
+["LLAGYANA", "Q"],
+["alisar", "SP"],
+["LLAHUANA", "Q"],
+["lamer", "SP"],
+["LLAJTA", "Q"],
+["pueblo", "SP"],
+["país", "SP"],
+["LLAMA", "Q"],
+["oveja", "SP"],
+["cordero", "SP"],
+["llamingo", "SP"],
+["llama", "SP"],
+["LLAMBA", "Q"],
+["resbaladizo", "SP"],
+["hongo", "SP"],
+["LLAMBAYACHINA", "Q"],
+["suavizar", "SP"],
+["LLAMBI", "Q"],
+["embotado", "SP"],
+["LLAMBU", "Q"],
+["liso", "SP"],
+["resbaladizo", "SP"],
+["plano", "SP"],
+["LLAMBUCHINA", "Q"],
+["pulir", "SP"],
+["alisar", "SP"],
+["aplanar", "SP"],
+["acariciar", "SP"],
+["LLAMBULLA", "Q"],
+["embotado", "SP"],
+["LLAMBUNA", "Q"],
+["pulir", "SP"],
+["alisar", "SP"],
+["aplanar", "SP"],
+["LLAMBUYACHINA", "Q"],
+["alisar", "SP"],
+["pulir", "SP"],
+["LLAMBUYANA", "Q"],
+["pulir", "SP"],
+["deslizar", "SP"],
+["LLAMINA", "Q"],
+["probar", "SP"],
+["LLAMINGU", "Q"],
+["llamingo", "SP"],
+["LLANCANA", "Q"],
+["jugar", "SP"],
+["juego", "SP"],
+["LLANDU", "Q"],
+["sombra", "SP"],
+["LLANGANA", "Q"],
+["tocar", "SP"],
+["LLANU", "Q"],
+["llanuru", "SP"],
+["LLANU PAMBA", "Q"],
+["valle", "SP"],
+["LLANUYACHINA", "Q"],
+["aplanar", "SP"],
+["LLAPA SINGA", "Q"],
+["chato", "SP"],
+["LLAPCHINA", "Q"],
+["aplarstar", "SP"],
+["LLAPI SINGA", "Q"],
+["chato", "SP"],
+["LLAPICHINA", "Q"],
+["aplastar", "SP"],
+["LLAPINA", "Q"],
+["aplastar", "SP"],
+["apretar", "SP"],
+["explotar", "SP"],
+["LLAPIRISHCA", "Q"],
+["chato", "SP"],
+["LLAQUI", "Q"],
+["pena", "SP"],
+["triste", "SP"],
+["LLAQUICHINA", "Q"],
+["castigar", "SP"],
+["LLAQUILLA", "Q"],
+["triste", "SP"],
+["LLAQUILLA CAUSANA", "Q"],
+["sufrir", "SP"],
+["LLAQUINA", "Q"],
+["sufrir", "SP"],
+["LLAQUIRINA", "Q"],
+["sufrir", "SP"],
+["LLAQUISHQUITU", "Q"],
+["triste", "SP"],
+["LLASHA", "Q"],
+["pesado", "SP"],
+["LLASHAGYANA", "Q"],
+["pesar", "SP"],
+["LLASHAJ", "Q"],
+["pesado", "SP"],
+["LLASHANA", "Q"],
+["pesar", "SP"],
+["LLASHIJ", "Q"],
+["pesado", "SP"],
+["LLATAN", "Q"],
+["desnudo", "SP"],
+["LLATAN CHAQUI", "Q"],
+["descalzo", "SP"],
+["LLATANLLA", "Q"],
+["descalzo", "SP"],
+["desnudo", "SP"],
+["LLAUGANA", "Q"],
+["humear", "SP"],
+["LLAUSA", "Q"],
+["baba", "SP"],
+["saliva", "SP"],
+["resina", "SP"],
+["LLIBACHINA", "Q"],
+["azotar", "SP"],
+["LLICA", "Q"],
+["red", "SP"],
+["LLIGLLA", "Q"],
+["rebozo", "SP"],
+["LLIJCHARINA", "Q"],
+["despertarse", "SP"],
+["LLINLLI", "Q"],
+["red", "SP"],
+["LLIPANA", "Q"],
+["brillar", "SP"],
+["LLIQUINA", "Q"],
+["romper", "SP"],
+["hender", "SP"],
+["LLIQUIRISHCA", "Q"],
+["haraposo", "SP"],
+["LLUCA LLUCA", "Q"],
+["despacio", "SP"],
+["LLUCANA", "Q"],
+["gatear", "SP"],
+["LLUCHAYACHINA", "Q"],
+["pulir", "SP"],
+["LLUCHCA", "Q"],
+["resbaladizo", "SP"],
+["liso", "SP"],
+["lodo", "SP"],
+["LLUCHA RURANA", "Q"],
+["alisar", "SP"],
+["LLUCHCANA", "Q"],
+["resbalarse", "SP"],
+["deslizar", "SP"],
+["LLUCHCARINA", "Q"],
+["deslizar", "SP"],
+["LLUCHCAYACHINA", "Q"],
+["alisar", "SP"],
+["LLUCHGARINA", "Q"],
+["deslizar", "SP"],
+["LLUCHICA", "Q"],
+["resbaladizo", "SP"],
+["LLUCHICANA", "Q"],
+["resbalarse", "SP"],
+["LLUCHU", "Q"],
+["desnudo", "SP"],
+["pobre", "SP"],
+["haraposo", "SP"],
+["LLUCHU CHAQUI", "Q"],
+["descalzo", "SP"],
+["LUCHULLA", "Q"],
+["desnudo", "SP"],
+["LLUCHUNA", "Q"],
+["pelear", "SP"],
+["desollar", "SP"],
+["pelar", "SP"],
+["desplumar", "SP"],
+["LLUGCHINA", "Q"],
+["sacar", "SP"],
+["LLUGSHINA", "Q"],
+["salir", "SP"],
+["LLUGU", "Q"],
+["arado", "SP"],
+["LLUGZI ALLPA", "Q"],
+["arena", "SP"],
+["LLUGZI ASHPA", "Q"],
+["arena", "SP"],
+["LLUJCHINA", "Q"],
+["sacar", "SP"],
+["LLUJSHICHINA", "Q"],
+["sacar", "SP"],
+["arrancar", "SP"],
+["desatar", "SP"],
+["LLUJSHICHISHCA", "Q"],
+["disfrazado", "SP"],
+["LLUJSHINA", "Q"],
+["salir", "SP"],
+["derramar", "SP"],
+["brotar", "SP"],
+["subir", "SP"],
+["subida", "SP"],
+["LLUJSHIRISHCA", "Q"],
+["disfrazado", "SP"],
+["LLUJSHISHCA", "Q"],
+["disfrazado", "SP"],
+["LLUJSHISHPA RINA", "Q"],
+["abandonar", "SP"],
+["LLULLA", "Q"],
+["mentira", "SP"],
+["falso", "SP"],
+["LLULLAI", "Q"],
+["mentira", "SP"],
+["LLULLANA", "Q"],
+["mentir", "SP"],
+["engañar", "SP"],
+["LLULLU", "Q"],
+["tierno", "SP"],
+["cogollo", "SP"],
+["LLULLU CHUSPI", "Q"],
+["hormiga", "SP"],
+["LULLU HUAHUA", "Q"],
+["criatura", "SP"],
+["LLULLU LLAMA", "Q"],
+["cordero", "SP"],
+["LLULLU MARA", "Q"],
+["criatura", "SP"],
+["LLULLU MUYU", "Q"],
+["botón de planta", "SP"],
+["LLULLU QU'IHUA", "Q"],
+["cogollo", "SP"],
+["LLULLUNA", "Q"],
+["azotar", "SP"],
+["LLUMINGU", "Q"],
+["llamingo", "SP"],
+["LLUMIYACHINA", "Q"],
+["amortiguar", "SP"],
+["LLUNCHINA", "Q"],
+["luchar", "SP"],
+["fregar", "SP"],
+["LLUQUI", "Q"],
+["izquierda", "SP"],
+["al revés", "SP"],
+["LLUQUIMUN", "Q"],
+["al revés", "SP"],
+["LLURU", "Q"],
+["crespo", "SP"],
+["LLURU LLURU", "Q"],
+["áspero", "SP"],
+["LLUSHCA", "Q"],
+["resbaladizo", "SP"],
+["liso", "SP"],
+["LLUSHCANA", "Q"],
+["resbalarse", "SP"],
+["deslizar", "SP"],
+["LLUSHCARINA", "Q"],
+["deslizar", "SP"],
+["LLUSHCAYACHINA", "Q"],
+["pulir", "SP"],
+["LLUSHPI", "Q"],
+["resbaladizo", "SP"],
+["LLUSHPINA", "Q"],
+["deslizar", "SP"],
+["LLUSHPIRINA", "Q"],
+["resbalarse", "SP"],
+["LLUSHTI", "Q"],
+["desnudo", "SP"],
+["LLUSHTINA", "Q"],
+["pelar", "SP"],
+["desollar", "SP"],
+["pelear", "SP"],
+["LLUTANA", "Q"],
+["pegar con goma", "SP"],
+["LLUTARINA", "Q"],
+["flotar", "SP"],
+["MACA MACAGUNA", "Q"],
+["encías", "SP"],
+["MACAI", "Q"],
+["golpe", "SP"],
+["MACANA", "Q"],
+["pegar con golpes", "SP"],
+["golpear", "SP"],
+["castigar", "SP"],
+["MACANACUNA", "Q"],
+["pelear", "SP"],
+["luchar", "SP"],
+["MACANAJUNA", "Q"],
+["pelear", "SP"],
+["luchar", "SP"],
+["MACANUCUNA", "Q"],
+["pelear", "SP"],
+["luchar", "SP"],
+["MACHA", "Q"],
+["borracho", "SP"],
+["chumado", "SP"],
+["MACHAI", "Q"],
+["cueva", "SP"],
+["MACHAJ", "Q"],
+["chumado", "SP"],
+["MACHANA", "Q"],
+["chumarse", "SP"],
+["emborracharse", "SP"],
+["MACHARINA", "Q"],
+["emborracharse", "SP"],
+["MACHARISHCA", "Q"],
+["borracho", "SP"],
+["MACHASHCA", "Q"],
+["borracho I", "Q"],
+["chumado", "SP"],
+["MACHCA", "Q"],
+["máchica", "SP"],
+["MACHI", "Q"],
+["peña", "SP"],
+["MACHICA", "Q"],
+["máchica", "SP"],
+["MACHISHCA", "Q"],
+["chumado", "SP"],
+["MADIJANA", "Q"],
+["devanar", "SP"],
+["MADRARSHA", "Q"],
+["madrastra", "SP"],
+["MADRASTA", "Q"],
+["madrastra", "SP"],
+["MADRI", "Q"],
+["placenta", "SP"],
+["MADRI UMA", "Q"],
+["placenta", "SP"],
+["MADRINA", "Q"],
+["madrina de matrimonio", "SP"],
+["MADRINAMA", "Q"],
+["madrina de matrimonio", "SP"],
+["MADRUGADU", "Q"],
+["madrugado", "SP"],
+["MADRUGANA", "Q"],
+["madrugar", "SP"],
+["MAGMA", "Q"],
+["tinajón o vasija grande para", "SP"],
+["guardar agua", "SP"],
+["MAGUMA", "Q"],
+["tinajón o vasija grande para", "SP"],
+["guardar agua", "SP"],
+["MAI", "Q"],
+["dónde", "SP"],
+["MAICAMPISH", "Q"],
+["quienquiera", "SP"],
+["MAICAN", "Q"],
+["cuál", "SP"],
+["quién", "SP"],
+["alguien", "SP"],
+["MAIJAN", "Q"],
+["cuál", "SP"],
+["alguien", "SP"],
+["quién", "SP"],
+["MAIJAN RATU", "Q"],
+["de repente", "SP"],
+["MAIJANCHARI", "Q"],
+["quienquiera", "SP"],
+["MAIJIMBISH", "Q"],
+["quienquiera", "SP"],
+["MAIJIN", "Q"],
+["cuál", "SP"],
+["alguien", "SP"],
+["quién", "SP"],
+["MAIJIN GASHASH", "Q"],
+["quienquiera", "SP"],
+["MAIJUN", "Q"],
+["cuál", "SP"],
+["alguien", "SP"],
+["quién", "SP"],
+["MAILLANA", "Q"],
+["lavar", "SP"],
+["enjuagar", "SP"],
+["cribar", "SP"],
+["MAIM", "Q"],
+["a dónde", "SP"],
+["MAIMA", "Q"],
+["a dónde", "SP"],
+["MAIMAN", "Q"],
+["a dónde", "SP"],
+["MAIMU", "Q"],
+["a dónde", "SP"],
+["MAIMUN", "Q"],
+["a dónde", "SP"],
+["MAIRAL", "Q"],
+["mayoral", "SP"],
+["MAISTRU", "Q"],
+["profesor", "SP"],
+["MAITUNA", "Q"],
+["envolver a un bebé", "SP"],
+["pañal", "SP"],
+["MAJADA", "Q"],
+["abono", "SP"],
+["excremento", "SP"],
+["suciedad", "SP"],
+["MAJIN", "Q"],
+["alguien", "SP"],
+["quién", "SP"],
+["MAJIN GASHASH", "Q"],
+["quienquiera", "SP"],
+["MAJISH", "Q"],
+["quienquiera", "SP"],
+["MAL CRIADU", "Q"],
+["terco", "SP"],
+["MALINA", "Q"],
+["probar", "SP"],
+["gustar", "SP"],
+["bocado", "SP"],
+["MALPARISIDU", "Q"],
+["feo", "SP"],
+["MALQUI", "Q"],
+["tama", "SP"],
+["retoño", "SP"],
+["racimo", "SP"],
+["MALQUINA", "Q"],
+["deshojar", "SP"],
+["MALQUIRIADU", "Q"],
+["tosco", "SP"],
+["MALRUSTA CHARINA", "Q"],
+["desmayarse", "SP"],
+["MALTA", "Q"],
+["mediano", "SP"],
+["MALTA HUARMI", "Q"],
+["joven", "SP"],
+["MALTA RUNA", "Q"],
+["joven", "SP"],
+["MALTAHUA", "Q"],
+["mediano", "SP"],
+["MALTUNLLA", "Q"],
+["mediano", "SP"],
+["MALU", "Q"],
+["malo", "SP"],
+["MALU JIHUA", "Q"],
+["maleza", "SP"],
+["MALUYANA", "Q"],
+["brujear", "SP"],
+["MALLINA", "Q"],
+["probar", "SP"],
+["MALLQUINA", "Q"],
+["plantar", "SP"],
+["MAMA", "Q"],
+["madre", "SP"],
+["MAMA ALPA CUYUI", "Q"],
+["terremoto", "SP"],
+["MAMA CUCHA", "Q"],
+["mar", "SP"],
+["MAMA CUCHARA", "Q"],
+["cucharón", "SP"],
+["MAMA CHANGA", "Q"],
+["muslo", "SP"],
+["MAMA DIDU", "Q"],
+["pulgar", "SP"],
+["MAMA GANDI", "Q"],
+["abuela", "SP"],
+["MAMA JUCHARA", "Q"],
+["cucharón", "SP"],
+["MAMA MADRI", "Q"],
+["placenta", "SP"],
+["MAMA PUZUN", "Q"],
+["estómago", "SP"],
+["MAMA QUIRU", "Q"],
+["muela", "SP"],
+["MAN", "Q"],
+["no", "SP"],
+["MAN ALLI CUIDANA", "Q"],
+["descuidar", "SP"],
+["MAN ALLICHISHCA", "Q"],
+["sin sal", "SP"],
+["MAN PARLA", "Q"],
+["mudo", "SP"],
+["MAN UYAN MAN PARLAN MUDU", "Q"],
+["tartamudo", "SP"],
+["MAN VALIJ", "Q"],
+["malo", "SP"],
+["MAN VALIJ QU'IHUA", "Q"],
+["maleza", "SP"],
+["MANA", "Q"],
+["no", "SP"],
+["MANA ALLI", "Q"],
+["malo", "SP"],
+["MANA ALLI QU'IHUA", "Q"],
+["maleza", "SP"],
+["MANA ALLI RIMAJ", "Q"],
+["tartamudo", "SP"],
+["MANA ALLICHISHCA", "Q"],
+["desabrido", "SP"],
+["MANA ALLILLU CUIDANA", "Q"],
+["descuidar", "SP"],
+["MANA BALI", "Q"],
+["flojo", "SP"],
+["MANA CACHARINA", "Q"],
+["detener", "SP"],
+["MANA CAZUJ", "Q"],
+["terco", "SP"],
+["MANA CUIDARANA", "Q"],
+["descuidar", "SP"],
+["MANA CHARIJ", "Q"],
+["pobre", "SP"],
+["MANA IGUAL", "Q"],
+["desigual", "SP"],
+["distinto", "SP"],
+["diferente", "SP"],
+["MANA INTINDIJ", "Q"],
+["terco", "SP"],
+["MANA JAHUALLA", "Q"],
+["difícil", "SP"],
+["MANA LLASHAJ", "Q"],
+["liviano", "SP"],
+["MANA PI", "Q"],
+["nadie", "SP"],
+["MANA PUDINACHU", "Q"],
+["difícil", "SP"],
+["MANA P'ASIL", "Q"],
+["difícil", "SP"],
+["MANA P'UCUNA", "Q"],
+["sofocar", "SP"],
+["MANA RICUJ", "Q"],
+["ciego", "SP"],
+["MANA RICURINA", "Q"],
+["desaparecer", "SP"],
+["MANA RIJSISHCA", "Q"],
+["extraño", "SP"],
+["MANA RIQUI PUDIJ", "Q"],
+["ciego", "SP"],
+["MANA SAMI CACHANA", "Q"],
+["sofocar", "SP"],
+["MANA SIRTU", "Q"],
+["falso", "SP"],
+["MANA SHUTICHISHCA JINTI", "Q"],
+["pagano", "SP"],
+["MANA USHAIPAJ", "Q"],
+["difícil", "SP"],
+["MANA USHANALLA", "Q"],
+["difícil", "SP"],
+["MANA UYAJ", "Q"],
+["sordo", "SP"],
+["tartamudo", "SP"],
+["MANA VALIJ JIHUA", "Q"],
+["maleza", "SP"],
+["MANA VALIJ QU'IHUA", "Q"],
+["maleza", "SP"],
+["MANADA", "Q"],
+["hato", "SP"],
+["MANARAJ", "Q"],
+["todavía no", "SP"],
+["MANARI", "Q"],
+["todavía no", "SP"],
+["MANARIJ", "Q"],
+["todavía no", "SP"],
+["MANARUJ", "Q"],
+["todavía no", "SP"],
+["MANCHACHINA", "Q"],
+["espantar", "SP"],
+["MANCHAI", "Q"],
+["miedo", "SP"],
+["susto", "SP"],
+["MANCHANA", "Q"],
+["temer", "SP"],
+["susto", "SP"],
+["obedecer", "SP"],
+["MANCHANI", "Q"],
+["fuerte", "SP"],
+["muy", "SP"],
+["MANCHANI YACU", "Q"],
+["mar", "SP"],
+["MANCHARI", "Q"],
+["susto", "SP"],
+["MANCHARINA", "Q"],
+["asustarse", "SP"],
+["susto", "SP"],
+["MANCHARISHCA", "Q"],
+["susto", "SP"],
+["MANCHI", "Q"],
+["susto", "SP"],
+["miedo", "SP"],
+["MANDA", "Q"],
+["cama", "SP"],
+["MANDANA", "Q"],
+["convencer", "SP"],
+["MANGA", "Q"],
+["olla", "SP"],
+["MANLLAI", "Q"],
+["susto", "SP"],
+["miedo", "SP"],
+["MANLLANA", "Q"],
+["temer", "SP"],
+["MANLLANAI", "Q"],
+["miedo", "SP"],
+["MANLLARINA", "Q"],
+["asustarse", "SP"],
+["espantar", "SP"],
+["MANLLI", "Q"],
+["miedo", "SP"],
+["MANSANA", "Q"],
+["domesticar", "SP"],
+["MANSAYACHINA", "Q"],
+["domesticar", "SP"],
+["MANSU TUCUNA", "Q"],
+["domesticar", "SP"],
+["MANSUNA", "Q"],
+["domesticar", "SP"],
+["MANSUYACHINA", "Q"],
+["domesticar", "SP"],
+["amortiguar", "SP"],
+["MANTA", "Q"],
+["rebozo", "SP"],
+["cama", "SP"],
+["MANTA", "Q"],
+["en vez de", "SP"],
+["MANTANA", "Q"],
+["envolver", "SP"],
+["cobija", "SP"],
+["MANTICA", "Q"],
+["manteca", "SP"],
+["MANTININA", "Q"],
+["sostener", "SP"],
+["MANUJU", "Q"],
+["manojo", "SP"],
+["MANYA", "Q"],
+["borde", "SP"],
+["orilla", "SP"],
+["MANYALLA", "Q"],
+["cerca", "SP"],
+["MANZANA", "Q"],
+["manzana", "SP"],
+["MAÑACHINA", "Q"],
+["prestar", "SP"],
+["MAÑANA", "Q"],
+["pedir", "SP"],
+["rogar", "SP"],
+["MAPA", "Q"],
+["sucio", "SP"],
+["suciedad", "SP"],
+["basura", "SP"],
+["turbio", "SP"],
+["MAPA QU'IHUA", "Q"],
+["maleza", "SP"],
+["MAPA YACU", "Q"],
+["turbio", "SP"],
+["MAPACHISHCA", "Q"],
+["manchado", "SP"],
+["MAPALA", "Q"],
+["manchado", "SP"],
+["MAPALLA", "Q"],
+["turbio", "SP"],
+["MAPALLA ASUA", "Q"],
+["heces", "SP"],
+["MAPAYASHCA", "Q"],
+["manchado", "SP"],
+["turbio", "SP"],
+["MAQUI", "Q"],
+["mano", "SP"],
+["manojo", "SP"],
+["MAQUI ARU", "Q"],
+["manilla", "SP"],
+["MAQUI CUDU", "Q"],
+["codo", "SP"],
+["MAQUI CHUZU JUNDA", "Q"],
+["manojo", "SP"],
+["MAQUI HUALLCA", "Q"],
+["manilla", "SP"],
+["MAQUI HUAÑUI", "Q"],
+["calambre", "SP"],
+["MAQUI HUAÑUSHCA", "Q"],
+["calambre", "SP"],
+["MAQUI HUATANA", "Q"],
+["manilla", "SP"],
+["MAQUI JUNDA", "Q"],
+["puñado", "SP"],
+["manojo", "SP"],
+["MAQUI LUTSUN", "Q"],
+["puñado", "SP"],
+["MAQUI MANILLA", "Q"],
+["manilla", "SP"],
+["MAQUI MUCU", "Q"],
+["muñeca", "SP"],
+["codo", "SP"],
+["MAQUI MUDU", "Q"],
+["codo", "SP"],
+["MAQUI NUDU", "Q"],
+["muñeca", "SP"],
+["MAQUI PAMBA", "Q"],
+["palma", "SP"],
+["MAQUI PIGTUNA", "Q"],
+["puño", "SP"],
+["MAQUI PLANA", "Q"],
+["palma", "SP"],
+["MAQUI PLANTA", "Q"],
+["palma", "SP"],
+["MAQUI PLANTAS", "Q"],
+["palma", "SP"],
+["MAQUI SHUNGU", "Q"],
+["palma", "SP"],
+["MAQUI TABLA", "Q"],
+["palma", "SP"],
+["MAQUI TALUN", "Q"],
+["codo", "SP"],
+["MAQUI UPAYASHCA", "Q"],
+["calambre", "SP"],
+["MAQUILLA", "Q"],
+["puñado", "SP"],
+["MAQUITA CURPASHCA", "Q"],
+["puño", "SP"],
+["MAQUITI", "Q"],
+["puño", "SP"],
+["MAR", "Q"],
+["mar", "SP"],
+["MARA", "Q"],
+["niño", "SP"],
+["joven", "SP"],
+["MARAU MARAU NINA", "Q"],
+["ronronear", "SP"],
+["MARCAI", "Q"],
+["racimo", "SP"],
+["MARCAJ", "Q"],
+["padrino de bautizo", "SP"],
+["MARCAJ MAMA", "Q"],
+["madrina de bautizo", "SP"],
+["MARCAJ TAITA", "Q"],
+["padrino de bautizo", "SP"],
+["MARCAJ YAYA", "Q"],
+["padrino de bautizo", "SP"],
+["MARCANA", "Q"],
+["llevar en brazos", "SP"],
+["alzar", "SP"],
+["nombrar", "SP"],
+["MARQUI UMA", "Q"],
+["desgreñado", "SP"],
+["MARQUIJ MAMA", "Q"],
+["madrina de bautizo", "SP"],
+["MARQUIJ TAITA", "Q"],
+["padrino de bautizo", "SP"],
+["MARQUIJ YAYA", "Q"],
+["padrino de bautizo", "SP"],
+["MASANA", "Q"],
+["sobar", "SP"],
+["MASCA", "Q"],
+["máchica", "SP"],
+["MASCANA", "Q"],
+["buscar", "SP"],
+["MASHA", "Q"],
+["cuñado", "SP"],
+["yerno", "SP"],
+["cuñada", "SP"],
+["MASHCA", "Q"],
+["máchica", "SP"],
+["chumado", "SP"],
+["borracho", "SP"],
+["MASHCANA", "Q"],
+["buscar", "SP"],
+["rebuscar", "SP"],
+["MASHNA", "Q"],
+["cuánto", "SP"],
+["MASHU", "Q"],
+["murciélago", "SP"],
+["MATASHCA", "Q"],
+["coágulo", "SP"],
+["MATI", "Q"],
+["pilche", "SP"],
+["calabaza", "SP"],
+["MATSAI", "Q"],
+["cueva", "SP"],
+["MATSI", "Q"],
+["peña", "SP"],
+["cueva", "SP"],
+["MATSU", "Q"],
+["música", "SP"],
+["MAUCA", "Q"],
+["viejo", "SP"],
+["vieja", "SP"],
+["MAUGA", "Q"],
+["viejo", "SP"],
+["MAYA", "Q"],
+["lado", "SP"],
+["al lado de", "SP"],
+["borde", "SP"],
+["MAYORAL", "Q"],
+["mayoral", "SP"],
+["MAYURDUMU", "Q"],
+["mayoral", "SP"],
+["MAZAMURA", "Q"],
+["sopa", "SP"],
+["MAZAMURRA", "Q"],
+["mazamorra", "SP"],
+["colada", "SP"],
+["MICUCHINA", "Q"],
+["dar de comer", "SP"],
+["MICUI", "Q"],
+["sopa", "SP"],
+["MICUNA", "Q"],
+["comer", "SP"],
+["comida", "SP"],
+["rumiar", "SP"],
+["sopa", "SP"],
+["MICHA", "Q"],
+["luz", "SP"],
+["MICHI", "Q"],
+["pasto", "SP"],
+["MICHI PAMBA", "Q"],
+["potrero", "SP"],
+["MICHICUI", "Q"],
+["pasto", "SP"],
+["MICHIDURA", "Q"],
+["pastora", "SP"],
+["MICHIJ", "Q"],
+["pastora", "SP"],
+["MICHILUN", "Q"],
+["pastora", "SP"],
+["MICHINA", "Q"],
+["pastar", "SP"],
+["pasto", "SP"],
+["MIDIDA", "Q"],
+["medida", "SP"],
+["MIDINA", "Q"],
+["medir", "SP"],
+["nivelar", "SP"],
+["MIDISHCA", "Q"],
+["medida", "SP"],
+["MIGLLA", "Q"],
+["falda", "SP"],
+["MIGLLANA", "Q"],
+["llevar en falda o en poncho", "SP"],
+["MIGUIYASHCA", "Q"],
+["resina", "SP"],
+["MIJICU", "Q"],
+["cabuya negra", "SP"],
+["MIJTANA", "Q"],
+["tropezar", "SP"],
+["MIJTINA", "Q"],
+["tropezar", "SP"],
+["MIJUR", "Q"],
+["mucho", "SP"],
+["MILGA", "Q"],
+["pedazo de tierra", "SP"],
+["surco de arado", "SP"],
+["mucho", "SP"],
+["bastante", "SP"],
+["MILIN", "Q"],
+["pasto", "SP"],
+["MILMA", "Q"],
+["pelo", "SP"],
+["vello", "SP"],
+["MILPADUR", "Q"],
+["goloso", "SP"],
+["MILPUNA", "Q"],
+["tragar", "SP"],
+["MILLAI", "Q"],
+["malo", "SP"],
+["feo", "SP"],
+["bravo", "SP"],
+["terco", "SP"],
+["MILLAI PACHA", "Q"],
+["infierno", "SP"],
+["MILLAI OU'IHUA", "Q"],
+["maleza", "SP"],
+["MILLANA", "Q"],
+["tener náuseas", "SP"],
+["odiar", "SP"],
+["MILLANACHINA", "Q"],
+["tener náuseas", "SP"],
+["MILLANAI", "Q"],
+["feo", "SP"],
+["MILLANANA", "Q"],
+["tener náuseas", "SP"],
+["MILLANAYAI", "Q"],
+["feo", "SP"],
+["MILLANAYANA", "Q"],
+["tener náuseas", "SP"],
+["MILLANI", "Q"],
+["feo", "SP"],
+["MILLAÑACHINA", "Q"],
+["tener náuseas", "SP"],
+["MILLCANA", "Q"],
+["llevar en falda o en poncho", "SP"],
+["MILLHUA", "Q"],
+["pelo", "SP"],
+["MILLI", "Q"],
+["demonio", "SP"],
+["diablo", "SP"],
+["feo", "SP"],
+["MILLINA", "Q"],
+["abortar", "SP"],
+["MILLMA", "Q"],
+["lana", "SP"],
+["pelo", "SP"],
+["vello", "SP"],
+["MILLMA HUANGU", "Q"],
+["copo", "SP"],
+["MILLPUNA", "Q"],
+["tragar", "SP"],
+["MILLUN", "Q"],
+["millón", "SP"],
+["MILLUN PATSAJ", "Q"],
+["millón", "SP"],
+["MIMURIANA", "Q"],
+["pensar", "SP"],
+["MINCHA PUNLLA", "Q"],
+["pasado mañana", "SP"],
+["día siguiente", "SP"],
+["MINGA", "Q"],
+["minga", "SP"],
+["MINGACHINA HUASI", "Q"],
+["posada", "SP"],
+["MINGAICHINA", "Q"],
+["encargar", "SP"],
+["MINGANA", "Q"],
+["encargar", "SP"],
+["MINGANA HUASI", "Q"],
+["posada", "SP"],
+["MINISTINA", "Q"],
+["necesitar", "SP"],
+["MINISHTINA", "Q"],
+["necesitar", "SP"],
+["MINISHTIRINA", "Q"],
+["necesitar", "SP"],
+["MINZHA PUNZHA", "Q"],
+["pasado mañana", "SP"],
+["MIRACHINA", "Q"],
+["aumentar", "SP"],
+["añadir", "SP"],
+["alargar", "SP"],
+["extender", "SP"],
+["estirar", "SP"],
+["crecer", "SP"],
+["MIRANA", "Q"],
+["aumentar", "SP"],
+["crecer", "SP"],
+["dar a luz", "SP"],
+["MIRCADU", "Q"],
+["mercado", "SP"],
+["MIRGA", "Q"],
+["pedazo de tierra", "SP"],
+["mucho", "SP"],
+["bastante", "SP"],
+["MIRINU", "Q"],
+["crespo", "SP"],
+["MISA", "Q"],
+["tacaño", "SP"],
+["miserable", "SP"],
+["MTSAJ", "Q"],
+["tacaño", "SP"],
+["miserable", "SP"],
+["MISANA", "Q"],
+["mezquinar", "SP"],
+["impedir", "SP"],
+["MISARINA", "Q"],
+["defender", "SP"],
+["MISCLA", "Q"],
+["mezcla", "SP"],
+["MISI", "Q"],
+["gato", "SP"],
+["MISTIZU", "Q"],
+["mestizo", "SP"],
+["MISHANA", "Q"],
+["convencer", "SP"],
+["vencer", "SP"],
+["ganar", "SP"],
+["MISHANACUNA", "Q"],
+["vencer", "SP"],
+["MISHI", "Q"],
+["gato", "SP"],
+["MISHQUI", "Q"],
+["dulce", "SP"],
+["sabroso", "SP"],
+["panela", "SP"],
+["MISHQUI BALUN", "Q"],
+["abeja", "SP"],
+["MISHQUI CHUSPI", "Q"],
+["abeja", "SP"],
+["MISHQUI HUIRU", "Q"],
+["caña dulce", "SP"],
+["MISHQUI TULLU", "Q"],
+["espaldilla", "SP"],
+["MISHQUICHIJUNA", "Q"],
+["gustar", "SP"],
+["MISHU", "Q"],
+["mestizo", "SP"],
+["MITAL", "Q"],
+["metal", "SP"],
+["MITCANA", "Q"],
+["tropezar", "SP"],
+["MITCARINA", "Q"],
+["tropezar", "SP"],
+["MITICUCHINA", "Q"],
+["esconder", "SP"],
+["desaparecer", "SP"],
+["MITICUJ", "Q"],
+["curandero", "SP"],
+["MITICUNA", "Q"],
+["huir", "SP"],
+["escapar", "SP"],
+["esconder", "SP"],
+["curar", "SP"],
+["MITICUSHPA BULANA", "Q"],
+["huir", "SP"],
+["MITIJUNA", "Q"],
+["huir", "SP"],
+["escapar", "SP"],
+["MITINA", "Q"],
+["huir", "SP"],
+["esconder", "SP"],
+["MITSA", "Q"],
+["tacaño", "SP"],
+["miserable", "SP"],
+["MITSANA", "Q"],
+["mezquinar", "SP"],
+["impedir", "SP"],
+["defender", "SP"],
+["MITSARINA", "Q"],
+["defender", "SP"],
+["MIYADU", "Q"],
+["orina", "SP"],
+["MIYANA", "Q"],
+["orinar", "SP"],
+["MUCU", "Q"],
+["coyuntura", "SP"],
+["nudo", "SP"],
+["tobilla", "SP"],
+["rodilla", "SP"],
+["músculo", "SP"],
+["moco", "SP"],
+["MUCU LLUJSHINA", "Q"],
+["dislocar", "SP"],
+["MUCU P'AQUIRINA", "Q"],
+["dislocar", "SP"],
+["MUCUNA", "Q"],
+["mascar", "SP"],
+["rumiar", "SP"],
+["MUCUS", "Q"],
+["moco", "SP"],
+["MUCUSIADU", "Q"],
+["fétido", "SP"],
+["MUCHA", "Q"],
+["beso", "SP"],
+["MUCHAI", "Q"],
+["beso", "SP"],
+["MUCHANA", "Q"],
+["besar", "SP"],
+["beso", "SP"],
+["MUCHIJU", "Q"],
+["sombrero", "SP"],
+["MUCHILU", "Q"],
+["bolsa tejida", "SP"],
+["MUCHISHCA", "Q"],
+["muñon", "SP"],
+["MUCHU", "Q"],
+["sin punta", "SP"],
+["MUCHUNA", "Q"],
+["cortar pelo", "SP"],
+["MUDANA", "Q"],
+["traducir", "SP"],
+["MUDARINA", "Q"],
+["vestirse", "SP"],
+["MUDARISHCA", "Q"],
+["disfrazado", "SP"],
+["MUDU", "Q"],
+["mudo", "SP"],
+["zonzo", "SP"],
+["tartamudo", "SP"],
+["MUDU JUNTI", "Q"],
+["pagano", "SP"],
+["MUDUSHCA", "Q"],
+["disfrazado", "SP"],
+["MUDUYASHCA", "Q"],
+["tartamudo", "SP"],
+["MULANA", "Q"],
+["sucio", "SP"],
+["suciedad", "SP"],
+["MUGLLASHCA", "Q"],
+["manchado", "SP"],
+["MUGMU", "Q"],
+["boton de planta", "SP"],
+["MUGUNA", "Q"],
+["fiesta", "SP"],
+["MUJTINA", "Q"],
+["oler", "SP"],
+["MUJUN", "Q"],
+["borde", "SP"],
+["MUJUSIYASHCA", "Q"],
+["musgo", "SP"],
+["MULANA", "Q"],
+["afilar", "SP"],
+["MULATU", "Q"],
+["mestizo", "SP"],
+["MULINA", "Q"],
+["rumiar", "SP"],
+["MULISTANA", "Q"],
+["molestar", "SP"],
+["MULMURANA", "Q"],
+["murmurana", "SP"],
+["MULLUNA", "Q"],
+["ensartar", "SP"],
+["MUNAI", "Q"],
+["deseo", "SP"],
+["voluntad", "SP"],
+["gana", "SP"],
+["MUNANA", "Q"],
+["querer", "SP"],
+["desear", "SP"],
+["gustar", "SP"],
+["deseo", "SP"],
+["voluntad", "SP"],
+["MUNANANA", "Q"],
+["gustar", "SP"],
+["MUNANAYAI", "Q"],
+["gana", "SP"],
+["MUNANAYANA", "Q"],
+["gustar", "SP"],
+["MUNCHI", "Q"],
+["ave", "SP"],
+["pájaro", "SP"],
+["MUNDA", "Q"],
+["en vez de", "SP"],
+["MUNDI", "Q"],
+["muy", "SP"],
+["MUNDU", "Q"],
+["país", "SP"],
+["MUNDUN", "Q"],
+["montón", "SP"],
+["MUNDUNANA", "Q"],
+["amontonar", "SP"],
+["reunirse", "SP"],
+["MUNDUNGU", "Q"],
+["cabeza", "SP"],
+["MUNDUNGU ÑUTCU", "Q"],
+["seso", "SP"],
+["cerebro", "SP"],
+["MUNI", "Q"],
+["deseo", "SP"],
+["voluntad", "SP"],
+["gana", "SP"],
+["MUNTUN", "Q"],
+["montón", "SP"],
+["hato", "SP"],
+["grupo", "SP"],
+["MUNTUNA", "Q"],
+["arrimar", "SP"],
+["montar a caballo", "SP"],
+["MUNTUNANA", "Q"],
+["amontonar", "SP"],
+["reunirse", "SP"],
+["MUÑICA", "Q"],
+["muñeca", "SP"],
+["MUÑQUIRA", "Q"],
+["muñeca", "SP"],
+["MUQUITA", "Q"],
+["puño", "SP"],
+["MUQUITI", "Q"],
+["puño", "SP"],
+["MURMURANA", "Q"],
+["murmurar", "SP"],
+["MURNICUNA", "Q"],
+["ronronear", "SP"],
+["MURU", "Q"],
+["moteado", "SP"],
+["grano", "SP"],
+["pepa", "SP"],
+["botan de planta", "SP"],
+["chocho", "SP"],
+["MURU-MURU", "Q"],
+["manchado", "SP"],
+["MURU UNGUI", "Q"],
+["viruela", "SP"],
+["MURU UNGÜI", "Q"],
+["viruela", "SP"],
+["MURUCHU", "Q"],
+["granizo", "SP"],
+["MURUYASHCA", "Q"],
+["manchado", "SP"],
+["MUSA", "Q"],
+["joven", "SP"],
+["MUSCUI", "Q"],
+["sueño", "SP"],
+["MUSCULU", "Q"],
+["músculo", "SP"],
+["MUSCUNA", "Q"],
+["soñar", "SP"],
+["sueño", "SP"],
+["MUSICA", "Q"],
+["música", "SP"],
+["MUSPA", "Q"],
+["zonzo", "SP"],
+["loco", "SP"],
+["MUSPA JINTI", "Q"],
+["pagano", "SP"],
+["MUSPALLA", "Q"],
+["humilde", "SP"],
+["MUSPITU", "Q"],
+["mudo", "SP"],
+["MUSPUNA", "Q"],
+["soñar", "SP"],
+["MUSHU", "Q"],
+["nuevo", "SP"],
+["MUSHUJ", "Q"],
+["nuevo", "SP"],
+["MUTI", "Q"],
+["mote", "SP"],
+["mojado", "SP"],
+["MUTIJINA", "Q"],
+["oler", "SP"],
+["MUTIQUINA", "Q"],
+["oler", "SP"],
+["MUTIYANA", "Q"],
+["mojar", "SP"],
+["MUTIYASHCA", "Q"],
+["mojado", "SP"],
+["húmedo", "SP"],
+["moteado", "SP"],
+["MUTQUINA", "Q"],
+["oler", "SP"],
+["MUTU", "Q"],
+["muñan", "SP"],
+["sin punta", "SP"],
+["MUTULAYASHCA", "Q"],
+["sin punta", "SP"],
+["MUTULU", "Q"],
+["embotado", "SP"],
+["MUTUSQUINA", "Q"],
+["roer", "SP"],
+["MUTUSHCA", "Q"],
+["muñan", "SP"],
+["MUTUYANA", "Q"],
+["mojar", "SP"],
+["MUYA", "Q"],
+["potrero", "SP"],
+["MUYI", "Q"],
+["vuelta", "SP"],
+["MUYU", "Q"],
+["semilla", "SP"],
+["pepa", "SP"],
+["botan de planta", "SP"],
+["grano", "SP"],
+["fruta", "SP"],
+["redondo", "SP"],
+["círculo", "SP"],
+["MUYUCHINA", "Q"],
+["enrollar", "SP"],
+["envolver", "SP"],
+["voltear", "SP"],
+["MUYUCHISHCA", "Q"],
+["círculo", "SP"],
+["MUYUI", "Q"],
+["vuelta", "SP"],
+["recodo", "SP"],
+["curva", "SP"],
+["círculo", "SP"],
+["MUYUNA", "Q"],
+["dar vueltas", "SP"],
+["girar", "SP"],
+["rodear", "SP"],
+["revolverse", "SP"],
+["rodar", "SP"],
+["curva", "SP"],
+["vuelta", "SP"],
+["MUYUNDI", "Q"],
+["alrededor de", "SP"],
+["círculo", "SP"],
+["redondo", "SP"],
+["MUYUNDIJ", "Q"],
+["alrededor de", "SP"],
+["círculo", "SP"],
+["redondo", "SP"],
+["MUYURINA", "Q"],
+["revolverse", "SP"],
+["MUYUSHCA", "Q"],
+["redondo", "SP"],
+["círculo", "SP"],
+["MUZA", "Q"],
+["soltera", "SP"],
+["MUZGU", "Q"],
+["musgo", "SP"],
+["MUZU", "Q"],
+["soltero", "SP"],
+["joven", "SP"],
+["NA", "Q"],
+["no", "SP"],
+["NA ALI", "Q"],
+["malo", "SP"],
+["NA CUZU QU'IHUA", "Q"],
+["maleza", "SP"],
+["NA IGUL", "Q"],
+["desigual", "SP"],
+["NA IGULCHU", "Q"],
+["diferente", "SP"],
+["NA INTINDI", "Q"],
+["sordo", "SP"],
+["NA MAJIN", "Q"],
+["nadie", "SP"],
+["NA MITSA", "Q"],
+["generoso", "SP"],
+["NA NISHA JARCANA", "Q"],
+["defender", "SP"],
+["NA PI", "Q"],
+["nadie", "SP"],
+["NA RICUNAYANA", "Q"],
+["odiar", "SP"],
+["NA SHUTICHISHCACHU", "Q"],
+["pagano", "SP"],
+["NA TAMIA TIMPU", "Q"],
+["verano", "SP"],
+["NA VALINLLU", "Q"],
+["malo", "SP"],
+["NABUS", "Q"],
+["nabo", "SP"],
+["NABUSYU", "Q"],
+["nabo", "SP"],
+["NADANA", "Q"],
+["nadar", "SP"],
+["flotar", "SP"],
+["NALLI", "Q"],
+["malo", "SP"],
+["MANACHINA", "Q"],
+["doler", "SP"],
+["lastimar", "SP"],
+["herir", "SP"],
+["NANAI", "Q"],
+["dolor", "SP"],
+["NANANA", "Q"],
+["doler", "SP"],
+["NANI", "Q"],
+["dolor", "SP"],
+["NAPACHA", "Q"],
+["nunca", "SP"],
+["NARAJ", "Q"],
+["todavía no", "SP"],
+["NARUJ", "Q"],
+["todavía no", "SP"],
+["NASINA", "Q"],
+["nacer", "SP"],
+["NASIRIJUJ", "Q"],
+["cogollo", "SP"],
+["NASIRINA", "Q"],
+["nacer", "SP"],
+["NI IMA", "Q"],
+["nada", "SP"],
+["NI IMA URA", "Q"],
+["nunca", "SP"],
+["NI IMAMANDA", "Q"],
+["nunca", "SP"],
+["NI JAICA", "Q"],
+["nunca", "SP"],
+["NI PI", "Q"],
+["nadie", "SP"],
+["NIBADANA", "Q"],
+["nevar", "SP"],
+["NIGLLANA", "Q"],
+["llevar en falda o en poncho", "SP"],
+["NIJTANA", "Q"],
+["tropezar", "SP"],
+["NINA", "Q"],
+["decir", "SP"],
+["candela", "SP"],
+["fuego", "SP"],
+["querer", "SP"],
+["llama", "SP"],
+["luz", "SP"],
+["NINA CUNYAI", "Q"],
+["llama", "SP"],
+["NINA C'ALLU", "Q"],
+["llama", "SP"],
+["NINA C'URU", "Q"],
+["luciérnaga", "SP"],
+["NINA JURU", "Q"],
+["luciérnaga", "SP"],
+["NINA JUTCU", "Q"],
+["fogón", "SP"],
+["NINA LUS", "Q"],
+["luz", "SP"],
+["NINA LLAMA", "Q"],
+["llama", "SP"],
+["NINA LLAMARA", "Q"],
+["llama", "SP"],
+["NINA LLAMARADA", "Q"],
+["llama", "SP"],
+["NINA LLAMAS", "Q"],
+["llama", "SP"],
+["NINA MICHA", "Q"],
+["luciérnaga", "SP"],
+["NINA MURU", "Q"],
+["carbón", "SP"],
+["NINA PACHA", "Q"],
+["infierno", "SP"],
+["NINA PATA", "Q"],
+["fogón", "SP"],
+["NINA UCU", "Q"],
+["cocina", "SP"],
+["NISHINA", "Q"],
+["batir", "SP"],
+["NITA", "Q"],
+["nieta", "SP"],
+["NITCANA", "Q"],
+["tropezar", "SP"],
+["NITIJANA", "Q"],
+["tropezar", "SP"],
+["NITINA", "Q"],
+["apretar", "SP"],
+["NITU", "Q"],
+["nieto", "SP"],
+["NITUNA", "Q"],
+["cortar pelo", "SP"],
+["NUCA", "Q"],
+["nuca", "SP"],
+["NUCA TULLU", "Q"],
+["nuca", "SP"],
+["NUCALTU", "Q"],
+["eucalipto", "SP"],
+["NUGAL", "Q"],
+["nuez", "SP"],
+["NUGUL", "Q"],
+["nuez", "SP"],
+["NUIRA", "Q"],
+["nuera", "SP"],
+["NUMBRANA", "Q"],
+["nombrar", "SP"],
+["NUNCA", "Q"],
+["nunca", "SP"],
+["NURTI", "Q"],
+["norte", "SP"],
+["NUYUCHINA", "Q"],
+["remojar", "SP"],
+["NUYUNA", "Q"],
+["disolverse", "SP"],
+["NUYURINA", "Q"],
+["disolverse", "SP"],
+["ÑA", "Q"],
+["ya", "SP"],
+["luego", "SP"],
+["entonces", "SP"],
+["ÑA ALI", "Q"],
+["sificiente", "SP"],
+["ÑA BASHTA", "Q"],
+["suficiente", "SP"],
+["ÑA P'AJTA", "Q"],
+["suficiente", "SP"],
+["ÑA TUCUI ALLI", "Q"],
+["suficiente", "SP"],
+["ÑAGCHA", "Q"],
+["peine", "SP"],
+["ÑAGCHANA", "Q"],
+["peinar", "SP"],
+["ÑAGPA", "Q"],
+["anterior", "SP"],
+["ÑAGPA HUAHUA", "Q"],
+["primogénito", "SP"],
+["ÑAGPAI", "Q"],
+["adelante", "SP"],
+["ÑAGPANA", "Q"],
+["guiar", "SP"],
+["ÑAHUAR", "Q"],
+["sangre", "SP"],
+["ÑAHUI", "Q"],
+["cara", "SP"],
+["ojo", "SP"],
+["mejilla", "SP"],
+["cogollo", "SP"],
+["boton de planta", "SP"],
+["ÑAHUI ANJIL", "Q"],
+["pupila", "SP"],
+["ÑAHUI ANSAYANA", "Q"],
+["desmayarse", "SP"],
+["ÑAHUI CHICHU", "Q"],
+["mejilla", "SP"],
+["ÑAHUI HUAHUA", "Q"],
+["primogénito", "SP"],
+["ÑAHUI HUIJSA", "Q"],
+["mejilla", "SP"],
+["ÑAHUI HUILLMA", "Q"],
+["pestaña", "SP"],
+["ceja", "SP"],
+["ÑAHUI ICHI", "Q"],
+["mejilla", "SP"],
+["ÑAHUI LULUN", "Q"],
+["ojo", "SP"],
+["ÑAHUI MILMA", "Q"],
+["ceja", "SP"],
+["ÑAHUI MILLMA", "Q"],
+["pestaña", "SP"],
+["ceja", "SP"],
+["ÑAHUI MURU", "Q"],
+["pupila", "SP"],
+["ÑAHUI PATA", "Q"],
+["ceja", "SP"],
+["frente", "SP"],
+["ÑAHUI PATA MILLMA", "Q"],
+["ceja", "SP"],
+["ÑAHUI PISTAÑA", "Q"],
+["pestaña", "SP"],
+["ÑAHUI PUCA PUCA", "Q"],
+["pálido", "SP"],
+["ÑAHUI PUCASHCA", "Q"],
+["pálido", "SP"],
+["NAHUI P'ARP'ARA", "Q"],
+["pestaña", "SP"],
+["ceja", "SP"],
+["ÑAHUI SIJAS", "Q"],
+["pestaña", "SP"],
+["ÑAHUI UJA", "Q"],
+["pestaña", "SP"],
+["ÑAHUI UJUTI", "Q"],
+["pestaña", "SP"],
+["ÑAHUI UYA", "Q"],
+["mejilla", "SP"],
+["ÑAHUICHCANA", "Q"],
+["cegar", "SP"],
+["ÑAHUILAN", "Q"],
+["ojo", "SP"],
+["ÑAHUILUN ANJIL", "Q"],
+["pupila", "SP"],
+["ÑAHUILUN MILMA", "Q"],
+["pestaña", "SP"],
+["ÑAJCHA", "Q"],
+["peine", "SP"],
+["ÑAJCHANA", "Q"],
+["peinar", "SP"],
+["ÑALLA", "Q"],
+["casi", "SP"],
+["luego", "SP"],
+["ÑAN", "Q"],
+["camino", "SP"],
+["vía", "SP"],
+["ÑAÑA", "Q"],
+["hermana", "SP"],
+["ÑAÑA CASPI", "Q"],
+["vara", "SP"],
+["ÑAÑA MASHA", "Q"],
+["cuñada", "SP"],
+["ÑAÑU", "Q"],
+["delgado", "SP"],
+["delicado", "SP"],
+["ÑAPASH", "Q"],
+["luego", "SP"],
+["ÑAPI SINGA", "Q"],
+["chato", "SP"],
+["ÑATU", "Q"],
+["chato", "SP"],
+["ÑATU SINGA", "Q"],
+["chato", "SP"],
+["ÑAUBA", "Q"],
+["anterior", "SP"],
+["mayor", "SP"],
+["ÑAUBANA", "Q"],
+["adelantarse", "SP"],
+["ÑAUBU", "Q"],
+["delante de", "SP"],
+["ÑAUBUQUI", "Q"],
+["adelante", "SP"],
+["ÑAUJPU", "Q"],
+["delante de", "SP"],
+["ÑAUPA", "Q"],
+["anterior", "SP"],
+["adelante", "SP"],
+["frente a", "SP"],
+["mayor", "SP"],
+["ÑAUPA HUAUQUI", "Q"],
+["hermano mayor", "SP"],
+["ÑAUPAJ", "Q"],
+["delante de", "SP"],
+["adelante", "SP"],
+["frente a", "SP"],
+["ÑAUPAJ UMA", "Q"],
+["frente", "SP"],
+["ÑAUPANA", "Q"],
+["adelantarse", "SP"],
+["guiar", "SP"],
+["ÑÁUPI", "Q"],
+["adelante", "SP"],
+["ÑAUPU", "Q"],
+["delante de", "SP"],
+["frente a", "SP"],
+["mayor", "SP"],
+["ÑAUPUJ", "Q"],
+["frente a", "SP"],
+["ÑAUSA", "Q"],
+["ciego", "SP"],
+["ÑAUSAYACHINA", "Q"],
+["cegar", "SP"],
+["ÑAVI", "Q"],
+["cara", "SP"],
+["ojo", "SP"],
+["ÑAVI ANJIL", "Q"],
+["pupila", "SP"],
+["ÑAVI CHICHU", "Q"],
+["mejilla", "SP"],
+["ÑAVI LULUN", "Q"],
+["ojo", "SP"],
+["ÑAVI MILMA", "Q"],
+["pestaña", "SP"],
+["ceja", "SP"],
+["ÑAVI PATA", "Q"],
+["ceja", "SP"],
+["ÑAVI SANTA LUSIYA", "Q"],
+["pupila", "SP"],
+["ÑAZITU", "Q"],
+["casi", "SP"],
+["ÑIHUI", "Q"],
+["cogollo", "SP"],
+["ÑITA", "Q"],
+["nieta", "SP"],
+["ÑITINA", "Q"],
+["aplastar", "SP"],
+["ÑITU", "Q"],
+["nieto", "SP"],
+["ÑUCA", "Q"],
+["yo", "SP"],
+["ÑUCANCHI", "Q"],
+["nosotros", "SP"],
+["ÑUCANCHIJ", "Q"],
+["nosotros", "SP"],
+["ÑUCUNCHI", "Q"],
+["nosotros", "SP"],
+["ÑUCUNCHIJ", "Q"],
+["nosotros", "SP"],
+["ÑUGÑU", "Q"],
+["liso", "SP"],
+["ÑUGPA", "Q"],
+["delante de", "SP"],
+["anterior", "SP"],
+["ÑUGPAI", "Q"],
+["adelante", "SP"],
+["ÑUGPANA", "Q"],
+["adelantarse", "SP"],
+["ÑUJTU", "Q"],
+["seso", "SP"],
+["cerebro", "SP"],
+["ÑUJTUHUA", "Q"],
+["cerebro", "SP"],
+["ÑUMPA", "Q"],
+["anterior", "SP"],
+["ÑUMPAI", "Q"],
+["adelante", "SP"],
+["delante de", "SP"],
+["ÑUMPANA", "Q"],
+["adelantarse", "SP"],
+["guiar", "SP"],
+["ÑUNCUCHI", "Q"],
+["nosotros", "SP"],
+["ÑUÑU", "Q"],
+["seno", "SP"],
+["teta", "SP"],
+["ÑUÑUCHINA", "Q"],
+["mamar", "SP"],
+["remojar", "SP"],
+["ÑUPANA", "Q"],
+["guiar", "SP"],
+["ÑUTCU", "Q"],
+["seso", "SP"],
+["cerebro", "SP"],
+["ÑUTITU", "Q"],
+["suave", "SP"],
+["ÑUTU", "Q"],
+["músculo", "SP"],
+["delgado", "SP"],
+["ÑUTU ALPA", "Q"],
+["polvo", "SP"],
+["ÑUTU ALLPA", "Q"],
+["polvo", "SP"],
+["ÑUTU IZI", "Q"],
+["llovizna", "SP"],
+["ÑUTU TAMIA", "Q"],
+["llovizna", "SP"],
+["ÑUTUCHINA", "Q"],
+["suavizar", "SP"],
+["alisar", "SP"],
+["ÑUTUHUA", "Q"],
+["suave", "SP"],
+["liso", "SP"],
+["ÑUTUJU", "Q"],
+["seso", "SP"],
+["cerebro", "SP"],
+["ÑUTULLA", "Q"],
+["suave", "SP"],
+["ÑUTURINA", "Q"],
+["ablandarse", "SP"],
+["ÑUTUYANA", "Q"],
+["ablandarse", "SP"],
+["PACA", "Q"],
+["nido", "SP"],
+["PACA QUIRU", "Q"],
+["muela", "SP"],
+["PACACUCHINA", "Q"],
+["esconder", "SP"],
+["PACACUNA", "Q"],
+["escapar", "SP"],
+["PACAJUNA", "Q"],
+["huir", "SP"],
+["escapar", "SP"],
+["PACALA", "Q"],
+["secretamente", "SP"],
+["PACALLA", "Q"],
+["secretamente", "SP"],
+["PACANA", "Q"],
+["esconder", "SP"],
+["huir", "SP"],
+["PACARI", "Q"],
+["madrugada", "SP"],
+["PACARIMUNA", "Q"],
+["amanecer", "SP"],
+["PACARINA", "Q"],
+["amanecer", "SP"],
+["madrugar", "SP"],
+["permanecer", "SP"],
+["dar a luz", "SP"],
+["PACAYACHINA", "Q"],
+["esconder", "SP"],
+["PACHA", "Q"],
+["tiempo", "SP"],
+["lugar", "SP"],
+["PACHALLI", "Q"],
+["rebozo", "SP"],
+["PADIDINA", "Q"],
+["sufrir", "SP"],
+["PADISINA", "Q"],
+["sufrir", "SP"],
+["PADRINU", "Q"],
+["padrino de bautizo", "SP"],
+["PAGANA", "Q"],
+["pagar", "SP"],
+["PAGTA", "Q"],
+["suficiente", "SP"],
+["igual", "SP"],
+["PAGTACHINA", "Q"],
+["cumplir", "SP"],
+["PAGTANA", "Q"],
+["alcanzar", "SP"],
+["PAGUI", "Q"],
+["gracias", "SP"],
+["PAGUI NINA", "Q"],
+["agradecer", "SP"],
+["PAGUIRACHU", "Q"],
+["gracias", "SP"],
+["PAGUIRACHU NINA", "Q"],
+["agradecer", "SP"],
+["PAI", "Q"],
+["él", "SP"],
+["ella", "SP"],
+["PAIGUI NINA", "Q"],
+["agradecer", "SP"],
+["PAIS", "Q"],
+["país", "SP"],
+["PAJA", "Q"],
+["paja", "SP"],
+["PAJARITU", "Q"],
+["pájaro", "SP"],
+["PAJPA", "Q"],
+["fibra de cabuya", "SP"],
+["PAJPA CUIRDA", "Q"],
+["cuerda", "SP"],
+["PAJTA", "Q"],
+["cuidado", "SP"],
+["completamente", "SP"],
+["justo", "SP"],
+["PAJTACHINA", "Q"],
+["cumplir", "SP"],
+["completar", "SP"],
+["ajustar", "SP"],
+["equivaler", "SP"],
+["PAJTANA", "Q"],
+["alcanzar", "SP"],
+["equivaler", "SP"],
+["PALA", "Q"],
+["pala", "SP"],
+["PALA TULLU", "Q"],
+["espaldilla", "SP"],
+["PALABRA", "Q"],
+["palabra", "SP"],
+["FALAGAR", "Q"],
+["paladar", "SP"],
+["PALAGARA", "Q"],
+["paladar", "SP"],
+["PALAGRU", "Q"],
+["paladar", "SP"],
+["PALAGUIR", "Q"],
+["paladar", "SP"],
+["PALITA", "Q"],
+["espaldilla", "SP"],
+["PALITILLA", "Q"],
+["espalda", "SP"],
+["PALTANACUNA", "Q"],
+["alllontonar", "SP"],
+["PALTI", "Q"],
+["cama", "SP"],
+["PALU", "Q"],
+["lagartija", "SP"],
+["PALUDISMU", "Q"],
+["paludismo", "SP"],
+["PALUDISMU CHUJCHU", "Q"],
+["paludismo", "SP"],
+["PALUTISMU", "Q"],
+["paludismo", "SP"],
+["PAULLAJUNA", "Q"],
+["espigar", "SP"],
+["rebuscar", "SP"],
+["PALLANA", "Q"],
+["recoger", "SP"],
+["segar", "SP"],
+["cosechar", "SP"],
+["juntar", "SP"],
+["ensartar", "SP"],
+["PALLCA", "Q"],
+["horqueta", "SP"],
+["catapulta", "SP"],
+["PAMBA", "Q"],
+["suelo", "SP"],
+["llanura", "SP"],
+["plano", "SP"],
+["piso", "SP"],
+["terreno", "SP"],
+["sementera", "SP"],
+["valle", "SP"],
+["amplio", "SP"],
+["PAMBA CHOLO", "Q"],
+["mestizo", "SP"],
+["PAMBACHINA", "Q"],
+["nivelar", "SP"],
+["aplanar", "SP"],
+["enterrar", "SP"],
+["PAMBADA RURANA", "Q"],
+["aplanar", "SP"],
+["PAMBALA", "Q"],
+["bajo", "SP"],
+["PAMBALLA", "Q"],
+["plano", "SP"],
+["bajo", "SP"],
+["PAMBANA", "Q"],
+["enterrar", "SP"],
+["cavar", "SP"],
+["PAMBARUCU", "Q"],
+["llanura", "SP"],
+["PAMBAYACHINA", "Q"],
+["aplanar", "SP"],
+["nivelar", "SP"],
+["alisar", "SP"],
+["PANDA", "Q"],
+["al revés", "SP"],
+["PANDANA", "Q"],
+["equivocarse", "SP"],
+["PANDARINA", "Q"],
+["equivocarse", "SP"],
+["PANGA", "Q"],
+["hoja", "SP"],
+["PANGALLA", "Q"],
+["liviano", "SP"],
+["PANGUILA", "Q"],
+["suave", "SP"],
+["PANI", "Q"],
+["hermana", "SP"],
+["hermana", "SP"],
+["prima", "SP"],
+["PANI MASHA", "Q"],
+["cuñada", "SP"],
+["PANILA", "Q"],
+["panela", "SP"],
+["PANTA", "Q"],
+["al revés", "SP"],
+["PANTALUN", "Q"],
+["pantalón", "SP"],
+["PANTANA", "Q"],
+["equivocarse", "SP"],
+["PANTARINA", "Q"],
+["equivocarse", "SP"],
+["PANZA DE BURRU", "Q"],
+["sombrero", "SP"],
+["PAÑU", "Q"],
+["pañal", "SP"],
+["PAPA", "Q"],
+["papa", "SP"],
+["PAPACU", "Q"],
+["padre", "SP"],
+["PAPASHU", "Q"],
+["padre", "SP"],
+["PAQUI", "Q"],
+["pedazo", "SP"],
+["PAQUINA", "Q"],
+["quebrar", "SP"],
+["PAQUIRINAILLA", "Q"],
+["frágil", "SP"],
+["PAQUISHCA", "Q"],
+["pedazo", "SP"],
+["PARALISU JAPISHCA", "Q"],
+["paralizado", "SP"],
+["PARAMU", "Q"],
+["llovizna", "SP"],
+["PARANA", "Q"],
+["demorar", "SP"],
+["tardar", "SP"],
+["PARASTRU", "Q"],
+["padrastro", "SP"],
+["PARASHU", "Q"],
+["padrastro", "SP"],
+["PARBA", "Q"],
+["montón", "SP"],
+["PARCA", "Q"],
+["horqueta", "SP"],
+["PARCU", "Q"],
+["acequia", "SP"],
+["PARCUNA", "Q"],
+["regar agua", "SP"],
+["acequia", "SP"],
+["PARDU", "Q"],
+["pardo", "SP"],
+["PARGA", "Q"],
+["montón", "SP"],
+["grupo", "SP"],
+["PARGATI", "Q"],
+["sandalia", "SP"],
+["PARGATIS", "Q"],
+["sandalia", "SP"],
+["PARIJACHINA", "Q"],
+["reparar", "SP"],
+["PARIJANA", "Q"],
+["arreglar", "SP"],
+["PARIJU", "Q"],
+["aparejo", "SP"],
+["juntos", "SP"],
+["igual", "SP"],
+["mediano", "SP"],
+["transparente", "SP"],
+["PARIJUHUALLA", "Q"],
+["mediano", "SP"],
+["PARINA", "Q"],
+["parir", "SP"],
+["PARISIRINA", "Q"],
+["parecer", "SP"],
+["PARLANA", "Q"],
+["contar", "SP"],
+["conversar", "SP"],
+["PARLANACUNA", "Q"],
+["conversar", "SP"],
+["PARLANAJUNA", "Q"],
+["conversar", "SP"],
+["PARLANUCUNA", "Q"],
+["conversar", "SP"],
+["PARLU", "Q"],
+["idioma", "SP"],
+["palabra", "SP"],
+["voz", "SP"],
+["PARTINA", "Q"],
+["dividir", "SP"],
+["partir", "SP"],
+["separar", "SP"],
+["desunir", "SP"],
+["PASACHINA", "Q"],
+["traducir", "SP"],
+["ensartar", "SP"],
+["dislocar", "SP"],
+["empreñar", "SP"],
+["PASAJ", "Q"],
+["cien", "SP"],
+["ciento", "SP"],
+["PASAMANU", "Q"],
+["sendero", "SP"],
+["PASANA", "Q"],
+["pasar", "SP"],
+["cruzar", "SP"],
+["vadear", "SP"],
+["traducir", "SP"],
+["suceder", "SP"],
+["exceder", "SP"],
+["PASCACUNA", "Q"],
+["escampar", "SP"],
+["PASCANA", "Q"],
+["abrir", "SP"],
+["desatar", "SP"],
+["zafar", "SP"],
+["desunir", "SP"],
+["descargar", "SP"],
+["destruir", "SP"],
+["PASCARINA", "Q"],
+["escampar", "SP"],
+["soltar", "SP"],
+["PASCARISHCA TIMPU", "Q"],
+["verano", "SP"],
+["PASIANA", "Q"],
+["pasear", "SP"],
+["PASUNA", "Q"],
+["cruzar", "SP"],
+["PASHI", "Q"],
+["gracias", "SP"],
+["PASHI NINA", "Q"],
+["agradecer", "SP"],
+["PATA", "Q"],
+["pared", "SP"],
+["muro", "SP"],
+["cerco", "SP"],
+["adobe", "SP"],
+["tapia", "SP"],
+["orilla", "SP"],
+["borde", "SP"],
+["PATA ISQUINA", "Q"],
+["rincón", "SP"],
+["PATA MUYUCHINA", "Q"],
+["cercar", "SP"],
+["PATA MUYUSHCA", "Q"],
+["cerca", "SP"],
+["PATA TACANA", "Q"],
+["cercar", "SP"],
+["PATAI", "Q"],
+["subida", "SP"],
+["PATAIYANA", "Q"],
+["subir", "SP"],
+["PATARINA", "Q"],
+["doblarse", "SP"],
+["envolver", "SP"],
+["enrollar", "SP"],
+["PATIU", "Q"],
+["patio", "SP"],
+["PATSAJ", "Q"],
+["cien", "SP"],
+["ciento", "SP"],
+["PATU", "Q"],
+["afrecho", "SP"],
+["PATUJIANA", "Q"],
+["cojear", "SP"],
+["PATUJU", "Q"],
+["cojo", "SP"],
+["PAYA", "Q"],
+["vieja", "SP"],
+["viejo", "SP"],
+["PAYA HUASI", "Q"],
+["ruina", "SP"],
+["PAYA UCUCHA", "Q"],
+["murciélago", "SP"],
+["PAYUZU", "Q"],
+["bravo", "SP"],
+["PAZA", "Q"],
+["áspero", "SP"],
+["PAZAN", "Q"],
+["piso", "SP"],
+["PI", "Q"],
+["quién", "SP"],
+["PI GASHASH", "Q"],
+["quienquiera", "SP"],
+["PIBISH", "Q"],
+["quienquiera", "SP"],
+["PICANA", "Q"],
+["picar", "SP"],
+["pegar", "SP"],
+["PICHA", "Q"],
+["cinco", "SP"],
+["PICHANA", "Q"],
+["barrer", "SP"],
+["PICHARI", "Q"],
+["alguien", "SP"],
+["quienquiera", "SP"],
+["PICHCA", "Q"],
+["cinco", "SP"],
+["PICHI", "Q"],
+["orina", "SP"],
+["PICHILA", "Q"],
+["poco", "SP"],
+["escaso", "SP"],
+["diminuto", "SP"],
+["PICHILLA", "Q"],
+["escaso", "SP"],
+["diminuto", "SP"],
+["PICHINA", "Q"],
+["orinar", "SP"],
+["PICHU", "Q"],
+["pecho", "SP"],
+["PIDASU", "Q"],
+["pedaso", "SP"],
+["PIDASUCHINA", "Q"],
+["despedazar", "SP"],
+["PIDASUNA", "Q"],
+["despedazar", "SP"],
+["PIGANA", "Q"],
+["pegar", "SP"],
+["golpear", "SP"],
+["azotar", "SP"],
+["castigar", "SP"],
+["PILANA", "Q"],
+["desplumar", "SP"],
+["desollar", "SP"],
+["pelear", "SP"],
+["pelar", "SP"],
+["PILARINA", "Q"],
+["desplumar", "SP"],
+["PILCHI", "Q"],
+["pilche", "SP"],
+["PILIANA", "Q"],
+["pelear", "SP"],
+["luchar", "SP"],
+["PILIS", "Q"],
+["piojo del cuerpo", "SP"],
+["PILUTARINA", "Q"],
+["rodar", "SP"],
+["PILLCA", "Q"],
+["tonto", "SP"],
+["PILLIJ", "Q"],
+["buho", "SP"],
+["PILLUCHINA", "Q"],
+["envolver", "SP"],
+["enrollar", "SP"],
+["devanar", "SP"],
+["PILLUNA", "Q"],
+["enrollar", "SP"],
+["envolver", "SP"],
+["PILLUSHCA", "Q"],
+["nudo", "SP"],
+["PINCA", "Q"],
+["cabuya negra", "SP"],
+["PINCU", "Q"],
+["cabuya blanca", "SP"],
+["cabuya negra", "SP"],
+["PINGA", "Q"],
+["vergüenza", "SP"],
+["PINGAI TUCUNA", "Q"],
+["avergonzarse", "SP"],
+["PINGANANA", "Q"],
+["avergonzarse", "SP"],
+["PINGANACHINA", "Q"],
+["avergonzarse", "SP"],
+["PINGANAYANA", "Q"],
+["avergonzarse", "SP"],
+["PINGANAYACHINA", "Q"],
+["avergonzarse", "SP"],
+["PINGANAYAI", "Q"],
+["vergüenza", "SP"],
+["PINGANAYAN", "Q"],
+["vergüenza", "SP"],
+["PINGANAYARINA", "Q"],
+["avergonzarse", "SP"],
+["PINGARINA", "Q"],
+["avergonzarse", "SP"],
+["PINGUI", "Q"],
+["vergüenza", "SP"],
+["PINGUI TUCUJ", "Q"],
+["humilde", "SP"],
+["PINGUI TUCUNA", "Q"],
+["avergonzarse", "SP"],
+["PINGULLU", "Q"],
+["flauta", "SP"],
+["canilla", "SP"],
+["rodilla", "SP"],
+["PINSAMINTU", "Q"],
+["pensamiento", "SP"],
+["PINSANA", "Q"],
+["pensar", "SP"],
+["PINSARINA", "Q"],
+["pensamiento", "SP"],
+["PINTANA", "Q"],
+["tinturar", "SP"],
+["PINGTASHCA", "Q"],
+["manchado", "SP"],
+["PINZHI", "Q"],
+["regalo", "SP"],
+["PIÑA", "Q"],
+["tosco", "SP"],
+["PIÑANA", "Q"],
+["enojar", "SP"],
+["sufrir", "SP"],
+["PIÑARINA", "Q"],
+["iras", "SP"],
+["PIÑASHCA", "Q"],
+["bravo", "SP"],
+["tosco", "SP"],
+["PIPASH", "Q"],
+["alguien", "SP"],
+["quienquiera", "SP"],
+["PIPISH", "Q"],
+["quienquiera", "SP"],
+["PIPUN", "Q"],
+["enano", "SP"],
+["PIPURABISH", "Q"],
+["quienquiera", "SP"],
+["PIPURISH", "Q"],
+["quienquiera", "SP"],
+["PIQUI", "Q"],
+["pulga", "SP"],
+["PIQUI RURU", "Q"],
+["liendre", "SP"],
+["PIRCA", "Q"],
+["pared", "SP"],
+["muro", "SP"],
+["cerco", "SP"],
+["adobe", "SP"],
+["tapia", "SP"],
+["PIRCA HUICHI", "Q"],
+["pared", "SP"],
+["PIRCANA", "Q"],
+["cercar", "SP"],
+["PIRCHANA", "Q"],
+["cardar", "SP"],
+["PIRDINA", "Q"],
+["perder", "SP"],
+["PIRDIS", "Q"],
+["perdiz", "SP"],
+["PIRDISH GASTANA", "Q"],
+["exceder", "SP"],
+["PIRICU", "Q"],
+["pericote", "SP"],
+["PIRICUTI", "Q"],
+["pericote", "SP"],
+["PIRURU", "Q"],
+["rodela", "SP"],
+["PISCADU", "Q"],
+["pescado", "SP"],
+["PISTI", "Q"],
+["gripe", "SP"],
+["PISH", "Q"],
+["alguien", "SP"],
+["quienquiera", "SP"],
+["PISHCA", "Q"],
+["cinco", "SP"],
+["PISHCU", "Q"],
+["pájaro", "SP"],
+["ave", "SP"],
+["pene", "SP"],
+["PISHI", "Q"],
+["poco", "SP"],
+["débil", "SP"],
+["alguien", "SP"],
+["PISHILLA", "Q"],
+["escaso", "SP"],
+["PISHIPI", "Q"],
+["orina", "SP"],
+["PISHQUITU", "Q"],
+["ave", "SP"],
+["PITACA", "Q"],
+["canasta", "SP"],
+["PITAJ", "Q"],
+["alguien", "SP"],
+["PITILLAHUA", "Q"],
+["manojo", "SP"],
+["PITU", "Q"],
+["boton de planta", "SP"],
+["PIYIRU", "Q"],
+["extraño", "SP"],
+["PIZANA", "Q"],
+["pesar", "SP"],
+["PIZI", "Q"],
+["pescado", "SP"],
+["FLAGRAN", "Q"],
+["paladar", "SP"],
+["PLANANA", "Q"],
+["aplanar", "SP"],
+["PLANITU", "Q"],
+["plano", "SP"],
+["PLANTA", "Q"],
+["planta", "SP"],
+["PLANTA BUTINYASHCA", "Q"],
+["cogollo", "SP"],
+["PLANTATA TARPUNA", "Q"],
+["trasplantar", "SP"],
+["PLANU", "Q"],
+["plano", "SP"],
+["PLANU PAMBA", "Q"],
+["plano", "SP"],
+["PLANU PAMBA RURANA", "Q"],
+["alisar", "SP"],
+["PLANUYACHINA", "Q"],
+["alisar", "SP"],
+["PLANYANA", "Q"],
+["aplanar", "SP"],
+["PLASA", "Q"],
+["mercado", "SP"],
+["PLATU", "Q"],
+["plato", "SP"],
+["tazón de barro", "SP"],
+["PLAYA", "Q"],
+["playa", "SP"],
+["PLAYAS", "Q"],
+["playa", "SP"],
+["PLICHA", "Q"],
+["catapulta", "SP"],
+["PLITUCHINA", "Q"],
+["insultar", "SP"],
+["PLUJANA", "Q"],
+["aflojar", "SP"],
+["PLUJU", "Q"],
+["flojo", "SP"],
+["PLUMA", "Q"],
+["pluma", "SP"],
+["PLUMA ANCHUCHINA", "Q"],
+["desplumar", "SP"],
+["PLUMU", "Q"],
+["pardo", "SP"],
+["gris", "SP"],
+["PRIMA", "Q"],
+["prima", "SP"],
+["PRIMA ÑAÑA", "Q"],
+["prima", "SP"],
+["PRIMA PANI", "Q"],
+["prima", "SP"],
+["PRIMU", "Q"],
+["primo", "SP"],
+["PRIMU HUAUQUI", "Q"],
+["primo", "SP"],
+["PRIMU TURI", "Q"],
+["primo", "SP"],
+["PRINDA CHURANA", "Q"],
+["empeñar", "SP"],
+["PRINDA SAQUINA", "Q"],
+["empeñar", "SP"],
+["PRINDA SAQUIRINA", "Q"],
+["empeñar", "SP"],
+["PRINDANA", "Q"],
+["empeñar", "SP"],
+["PRINDIDUR", "Q"],
+["prendedor", "SP"],
+["PRIZU JAPINA", "Q"],
+["prender", "SP"],
+["PRIZUCHINA", "Q"],
+["prender", "SP"],
+["PRIZUNA", "Q"],
+["prender", "SP"],
+["PRUBANA", "Q"],
+["mallina", "SP"],
+["PRUBRIYANA", "Q"],
+["empobrecer", "SP"],
+["PRUPIU", "Q"],
+["dueño", "SP"],
+["PRUSISIUNDA JAPINA", "Q"],
+["tomar", "SP"],
+["PUBRI", "Q"],
+["pobre", "SP"],
+["PUBRI PURU TUCUNA", "Q"],
+["empobrecer", "SP"],
+["PUBRIYANA", "Q"],
+["empobrecer", "SP"],
+["PUCA", "Q"],
+["rojo", "SP"],
+["colorado", "SP"],
+["PUCA AJCHA", "Q"],
+["rubio", "SP"],
+["PUCA QU'IHUA", "Q"],
+["maleza", "SP"],
+["PUCA UMA", "Q"],
+["rubio", "SP"],
+["PUCUCHINA", "Q"],
+["fermentar", "SP"],
+["PUCUNA", "Q"],
+["vejiga", "SP"],
+["PUCHA", "Q"],
+["hilo", "SP"],
+["PUCHANA", "Q"],
+["sobrar", "SP"],
+["hilar", "SP"],
+["ronronear", "SP"],
+["PUCHANA HUANGU", "Q"],
+["copo", "SP"],
+["PUCHANA MAITU", "Q"],
+["copo", "SP"],
+["PUCHCA", "Q"],
+["hilo", "SP"],
+["fibra de cabuya", "SP"],
+["PUCHCANA", "Q"],
+["hilar", "SP"],
+["ronronear", "SP"],
+["PUCHCANA HUANGU", "Q"],
+["rodela", "SP"],
+["PUCHCANA SIJSIJ", "Q"],
+["huso", "SP"],
+["PUCHICA", "Q"],
+["hilo", "SP"],
+["PUCHICANA", "Q"],
+["hilar", "SP"],
+["PUCHU", "Q"],
+["residuo", "SP"],
+["PUCHUCAI", "Q"],
+["ultimo", "SP"],
+["PUCHUCAI HUAHUA", "Q"],
+["último bebe", "SP"],
+["PUCHUCANA", "Q"],
+["concluir", "SP"],
+["terminar", "SP"],
+["PUCHUJ", "Q"],
+["heces", "SP"],
+["PUCHUQUI HUAHUA", "Q"],
+["último bebe", "SP"],
+["PUDACHINA", "Q"],
+["encargar", "SP"],
+["PUDASH SAQUINA", "Q"],
+["encargar", "SP"],
+["PUDINA", "Q"],
+["poder", "SP"],
+["PUGLLAI", "Q"],
+["juego", "SP"],
+["PUGLLANA", "Q"],
+["jugar", "SP"],
+["juego", "SP"],
+["broma", "SP"],
+["chiste", "SP"],
+["PUGLLI", "Q"],
+["juego", "SP"],
+["PUGLLIN HUAHUA", "Q"],
+["último bebe", "SP"],
+["PUGRA", "Q"],
+["corredor", "SP"],
+["PUGRI", "Q"],
+["pobre", "SP"],
+["PUGRIYANA", "Q"],
+["empobrecer", "SP"],
+["PUGRU", "Q"],
+["hondo", "SP"],
+["hueco", "SP"],
+["quebrada", "SP"],
+["PUGRU PAMBA", "Q"],
+["plano", "SP"],
+["PUGYU", "Q"],
+["fuente", "SP"],
+["PUGZIN HUAHUA", "Q"],
+["último bebe", "SP"],
+["PUIBLU", "Q"],
+["pueblo", "SP"],
+["PUISTU", "Q"],
+["puesto", "SP"],
+["PULRU", "Q"],
+["polvo", "SP"],
+["PULGA", "Q"],
+["blusa", "SP"],
+["PULILLANA", "Q"],
+["pulir", "SP"],
+["PULIYASHCA", "Q"],
+["liso", "SP"],
+["PULMA", "Q"],
+["pluma", "SP"],
+["PULMUN", "Q"],
+["pulmones", "SP"],
+["PULMUNIS", "Q"],
+["pulmones", "SP"],
+["PULSIRA", "Q"],
+["manilla", "SP"],
+["PULSU", "Q"],
+["músculo", "SP"],
+["PULUJ", "Q"],
+["boton de planta", "SP"],
+["PULUNQUIRIJUN", "Q"],
+["llama", "SP"],
+["PULUYASHCA", "Q"],
+["desgreñado", "SP"],
+["PULLIRA", "Q"],
+["falda", "SP"],
+["PULLITU", "Q"],
+["pollito", "SP"],
+["PULLU", "Q"],
+["pollito", "SP"],
+["rebozo", "SP"],
+["PUNCHA", "Q"],
+["día", "SP"],
+["luz", "SP"],
+["claro", "SP"],
+["PUNCHAMI PASANA", "Q"],
+["pasar", "SP"],
+["PUNCHAYACHINA", "Q"],
+["brillar", "SP"],
+["PUNCHAYANA", "Q"],
+["aclarar", "SP"],
+["amanecer", "SP"],
+["PUNCHIRA", "Q"],
+["tazón de barro", "SP"],
+["PUNCHU", "Q"],
+["poncho", "SP"],
+["PUNDA", "Q"],
+["primero", "SP"],
+["anterior", "SP"],
+["mayor", "SP"],
+["punta", "SP"],
+["PUNDA HUAHUA", "Q"],
+["primogénito", "SP"],
+["PUNGU", "Q"],
+["puerta", "SP"],
+["corredor", "SP"],
+["frente a", "SP"],
+["PUNGU CHAPA", "Q"],
+["portero", "SP"],
+["PUNGU CUIDAJ", "Q"],
+["portero", "SP"],
+["PUNGU PISHAYAJ", "Q"],
+["portero", "SP"],
+["PUNGUCAMA", "Q"],
+["portero", "SP"],
+["PUNGUI", "Q"],
+["tumor", "SP"],
+["PUNGUICHINA", "Q"],
+["hinchar", "SP"],
+["PUNGUILLINA", "Q"],
+["hinchar", "SP"],
+["PUNGUILLISHCA", "Q"],
+["tumor", "SP"],
+["PUNGUINA", "Q"],
+["hinchar", "SP"],
+["PUNLLA", "Q"],
+["día", "SP"],
+["luz", "SP"],
+["PUNLLALLA", "Q"],
+["claro", "SP"],
+["transparente", "SP"],
+["PUNLLAYACHINA", "Q"],
+["aclarar", "SP"],
+["brillar", "SP"],
+["PUNLLAYANA", "Q"],
+["aclarar", "SP"],
+["amanecer", "SP"],
+["PUNSANA", "Q"],
+["pinchar", "SP"],
+["inyectar", "SP"],
+["PUNTA", "Q"],
+["punta", "SP"],
+["anterior", "SP"],
+["mayor", "SP"],
+["PUNTA HUAHUA", "Q"],
+["primogénito", "SP"],
+["PUNTA HUAUQUI", "Q"],
+["hermano mayor", "SP"],
+["PUNTA ILLAJ", "Q"],
+["sin punta", "SP"],
+["PUNTA ILLIJ", "Q"],
+["sin punta", "SP"],
+["PUNTANA", "Q"],
+["añadir", "SP"],
+["PUNTU", "Q"],
+["lugar", "SP"],
+["PUNTSU HUASI", "Q"],
+["choza", "SP"],
+["PUNZHA", "Q"],
+["día", "SP"],
+["claro", "SP"],
+["PUNZHAYANA", "Q"],
+["aclarar", "SP"],
+["PUÑADU", "Q"],
+["manojo", "SP"],
+["PUÑI", "Q"],
+["sueño", "SP"],
+["PUÑI SIQUI", "Q"],
+["dormilón", "SP"],
+["PUÑITI", "Q"],
+["puño", "SP"],
+["PUÑITIS", "Q"],
+["puño", "SP"],
+["PUÑU", "Q"],
+["cántaro", "SP"],
+["PUÑUI", "Q"],
+["sueño", "SP"],
+["PUÑUI ABIRISHCA", "Q"],
+["dormilón", "SP"],
+["PUÑUI SIQUI", "Q"],
+["dormilón", "SP"],
+["PUÑUNA", "Q"],
+["dormir", "SP"],
+["sueño", "SP"],
+["cama", "SP"],
+["PUÑUNA HUASI", "Q"],
+["posada", "SP"],
+["PUÑUNACHINA", "Q"],
+["bostezar", "SP"],
+["PUPU", "Q"],
+["ombligo", "SP"],
+["PURA", "Q"],
+["obscuro", "SP"],
+["PURGATURIU", "Q"],
+["infierno", "SP"],
+["PURIJ UNGÜI", "Q"],
+["gripe", "SP"],
+["PURINA", "Q"],
+["andar", "SP"],
+["caminar", "SP"],
+["viajar", "SP"],
+["pasear", "SP"],
+["PURMUN", "Q"],
+["pulmones", "SP"],
+["PURTI", "Q"],
+["tamaño", "SP"],
+["PURTIRA", "Q"],
+["madrina de matrimonio", "SP"],
+["PURTIRU", "Q"],
+["portero", "SP"],
+["PURTIRU TAITA", "Q"],
+["portero", "SP"],
+["PURUN PAMBA", "Q"],
+["llanura", "SP"],
+["PURUN QU'IHUA", "Q"],
+["maleza", "SP"],
+["PURUTU", "Q"],
+["fréjol", "SP"],
+["PUSACHINA", "Q"],
+["encargar", "SP"],
+["PUSAJ", "Q"],
+["ocho", "SP"],
+["PUSCU", "Q"],
+["espuma", "SP"],
+["burbuja", "SP"],
+["PUSCUNA", "Q"],
+["fermentar", "SP"],
+["PUSCUSHCA", "Q"],
+["agrio", "SP"],
+["PUSIJ", "Q"],
+["ocho", "SP"],
+["PUSUJ", "Q"],
+["ocho", "SP"],
+["PUSHAMUNA", "Q"],
+["invitar", "SP"],
+["PUSHANA", "Q"],
+["guiar", "SP"],
+["PUSHCA", "Q"],
+["hilo", "SP"],
+["PUSHCAINA", "Q"],
+["urdir", "SP"],
+["PUSHCANA", "Q"],
+["hilar", "SP"],
+["ronronear", "SP"],
+["PUSHCANA SIJSIJ", "Q"],
+["huso", "SP"],
+["PUSHTU", "Q"],
+["puesto", "SP"],
+["lugar", "SP"],
+["sementera", "SP"],
+["PUTAN CHUSPI", "Q"],
+["abeja", "SP"],
+["PUTIRU", "Q"],
+["potrero", "SP"],
+["PUTRIRU", "Q"],
+["potrero", "SP"],
+["PUTRIRRU", "Q"],
+["potrero", "SP"],
+["PUTRU", "Q"],
+["potrero", "SP"],
+["PUTU", "Q"],
+["sin punta", "SP"],
+["embotado", "SP"],
+["tronco", "SP"],
+["corto", "SP"],
+["PUTU SHUNGU", "Q"],
+["pulmones", "SP"],
+["PUTUYASHCA", "Q"],
+["tronco", "SP"],
+["PUTSA", "Q"],
+["troje", "SP"],
+["PUTSUJU", "Q"],
+["espuma", "SP"],
+["PUTSUJUNA", "Q"],
+["fermentar", "SP"],
+["PUYU", "Q"],
+["neblina", "SP"],
+["PUZADA", "Q"],
+["posada", "SP"],
+["PUZANA", "Q"],
+["posada", "SP"],
+["PUZU", "Q"],
+["gris", "SP"],
+["pardo", "SP"],
+["PUZU BUNGA", "Q"],
+["abeja", "SP"],
+["PUZU-PUZU", "Q"],
+["madrugada", "SP"],
+["PUZUJINA", "Q"],
+["calambre", "SP"],
+["PUZUN", "Q"],
+["intestinos", "SP"],
+["tripas", "SP"],
+["panza", "SP"],
+["estomago", "SP"],
+["PUZUNGUNA", "Q"],
+["intestinos", "SP"],
+["PUZUQUICHINA", "Q"],
+["amortiguar", "SP"],
+["P'ACA", "Q"],
+["muela", "SP"],
+["P'ACHA", "Q"],
+["pañal", "SP"],
+["tela", "SP"],
+["red", "SP"],
+["P'ACHACHINA", "Q"],
+["cobijar", "SP"],
+["P'ACHAI URA", "Q"],
+["haraposo", "SP"],
+["P'ACHALINA", "Q"],
+["abrigarse", "SP"],
+["P'ACHALLI", "Q"],
+["bayeta", "SP"],
+["rebozo", "SP"],
+["P'ACHALLINA", "Q"],
+["rebozo", "SP"],
+["P'AGLINIJUNA", "Q"],
+["brillar", "SP"],
+["P'AGNA", "Q"],
+["obscuro", "SP"],
+["P'AGNA PUZU", "Q"],
+["pardo", "SP"],
+["P'AINA", "Q"],
+["faena", "SP"],
+["P'AJCHA", "Q"],
+["cascada", "SP"],
+["P'AJNA P'AJNA", "Q"],
+["estrella", "SP"],
+["P'AJTA", "Q"],
+["cuidado", "SP"],
+["tamaño", "SP"],
+["P'AJTACHINA", "Q"],
+["completar", "SP"],
+["ajustar", "SP"],
+["brujear", "SP"],
+["P'AJTANA", "Q"],
+["cumplir", "SP"],
+["suficiente", "SP"],
+["P'ALA", "Q"],
+["afrecho", "SP"],
+["áspero", "SP"],
+["P'ALA NINA", "Q"],
+["brillar", "SP"],
+["P'ALAQUINA", "Q"],
+["brillar", "SP"],
+["P'ALDA", "Q"],
+["falda", "SP"],
+["P'ALTANA", "Q"],
+["faltar", "SP"],
+["P'AMILIA", "Q"],
+["familia", "SP"],
+["P'ANGA", "Q"],
+["hoja", "SP"],
+["P'ANGALA", "Q"],
+["liviano", "SP"],
+["ligero", "SP"],
+["fácil", "SP"],
+["flojo", "SP"],
+["P'ANTAZMU", "Q"],
+["demonio", "SP"],
+["P'AQUI", "Q"],
+["pedazo", "SP"],
+["P'AQUI P'AQUIDA RURANA", "Q"],
+["despedazar", "SP"],
+["P'AQUICHINA", "Q"],
+["aplastar", "SP"],
+["P'AQUIJ", "Q"],
+["delicado", "SP"],
+["P'AQUINA", "Q"],
+["romper", "SP"],
+["quebrar", "SP"],
+["despedazar", "SP"],
+["destruir", "SP"],
+["aplastar", "SP"],
+["tallar", "SP"],
+["frágil", "SP"],
+["P'AQUINALLA", "Q"],
+["frágil", "SP"],
+["P'AQUIRI", "Q"],
+["frágil", "SP"],
+["P'AQUIRIGLLA", "Q"],
+["delicado", "SP"],
+["frágil", "SP"],
+["P'AQUIRINA", "Q"],
+["hender", "SP"],
+["frágil", "SP"],
+["P'AQUIRINALA", "Q"],
+["frágil", "SP"],
+["P'AQUIRINALLA", "Q"],
+["frágil", "SP"],
+["P'AQUISHA TUCUCHINA", "Q"],
+["destruir", "SP"],
+["P'AQUISHCA", "Q"],
+["pedazo", "SP"],
+["P'ASIL", "Q"],
+["fácil", "SP"],
+["P'ATAJ", "Q"],
+["ancho", "SP"],
+["P'ATAJ SINGA", "Q"],
+["chato", "SP"],
+["P'ATIGARINA", "Q"],
+["desmayarse", "SP"],
+["P'IACHINA", "Q"],
+["prestar", "SP"],
+["P'IANA", "Q"],
+["prestar", "SP"],
+["deber", "SP"],
+["P'IASHCA", "Q"],
+["deuda", "SP"],
+["P'ICHANA", "Q"],
+["limpiar", "SP"],
+["escoba", "SP"],
+["barrer", "SP"],
+["cardar", "SP"],
+["acepillar", "SP"],
+["P'IDIU", "Q"],
+["sopa", "SP"],
+["P'ILTRACHINA", "Q"],
+["filtrar", "SP"],
+["P'ILU", "Q"],
+["agudo", "SP"],
+["orilla", "SP"],
+["borde", "SP"],
+["P'ILU ILLIJ", "Q"],
+["embotado", "SP"],
+["P'ILLA", "Q"],
+["catzo", "SP"],
+["P'ILLUNA", "Q"],
+["enrollar", "SP"],
+["P'INTILLA", "Q"],
+["poco", "SP"],
+["P'INU", "Q"],
+["agudo", "SP"],
+["P'IÑA", "Q"],
+["bravo", "SP"],
+["arisco", "SP"],
+["agudo", "SP"],
+["malo", "SP"],
+["iras", "SP"],
+["enemigo", "SP"],
+["P'IÑACHINA", "Q"],
+["molestar", "SP"],
+["enojar", "SP"],
+["P'IÑAI", "Q"],
+["iras", "SP"],
+["P'IÑANA", "Q"],
+["odiar", "SP"],
+["enojar", "SP"],
+["iras", "SP"],
+["P'IÑANACUNA", "Q"],
+["enojar", "SP"],
+["P'IÑARINA", "Q"],
+["enojar", "SP"],
+["cólera", "SP"],
+["P'IRIA", "Q"],
+["mercado", "SP"],
+["P'IRU", "Q"],
+["feo", "SP"],
+["P'IRRU", "Q"],
+["metal", "SP"],
+["hierro", "SP"],
+["malo", "SP"],
+["P'ISTA", "Q"],
+["fiesta", "SP"],
+["P'ISTI", "Q"],
+["fiesta", "SP"],
+["P'ISHA", "Q"],
+["fiesta", "SP"],
+["P'ISHTA", "Q"],
+["fiesta", "SP"],
+["P'ITI", "Q"],
+["pedazo", "SP"],
+["poco", "SP"],
+["P'ITI P'ITIDA RURANA", "Q"],
+["despedazar", "SP"],
+["P'ITI P'ITILLA", "Q"],
+["escaso", "SP"],
+["P'ITICU", "Q"],
+["bocado", "SP"],
+["P'ITICUHUALLA", "Q"],
+["escaso", "SP"],
+["P'ITICULLA", "Q"],
+["poco", "SP"],
+["P'ITIHUA", "Q"],
+["bocado", "SP"],
+["P'ITIHUALLA TUCUSHCA", "Q"],
+["escaso", "SP"],
+["P'ITILLA", "Q"],
+["poco", "SP"],
+["escaso", "SP"],
+["P'ITILLAHUA", "Q"],
+["bocado", "SP"],
+["P'ITINA", "Q"],
+["cortar", "SP"],
+["cortar pelo", "SP"],
+["arrancar", "SP"],
+["romper", "SP"],
+["segar", "SP"],
+["tallar", "SP"],
+["despedazar", "SP"],
+["esquilar", "SP"],
+["P'ITINACUNA", "Q"],
+["despedazar", "SP"],
+["P'ITIRINA", "Q"],
+["herir", "SP"],
+["escampar", "SP"],
+["P'ITYILLA", "Q"],
+["poco", "SP"],
+["P'LACU", "Q"],
+["delgado", "SP"],
+["P'LAUTA", "Q"],
+["flauta", "SP"],
+["P'LICHA", "Q"],
+["catapulta", "SP"],
+["P'LUJANA", "Q"],
+["aflojar", "SP"],
+["P'LUJAYANA", "Q"],
+["ablandarse", "SP"],
+["P'LUJU", "Q"],
+["flojo", "SP"],
+["débil", "SP"],
+["P'LUJU P'LUJU", "Q"],
+["flojo", "SP"],
+["P'LUJULLA", "Q"],
+["débil", "SP"],
+["P'LUMA", "Q"],
+["pluma", "SP"],
+["P'LUTANA", "Q"],
+["flotar", "SP"],
+["P'RIJUL", "Q"],
+["fréjol", "SP"],
+["P'RINTI", "Q"],
+["frente", "SP"],
+["frente a", "SP"],
+["P'RINTI PATA", "Q"],
+["frente", "SP"],
+["P'RUNZI TUCUNA", "Q"],
+["fruncir", "SP"],
+["P'RUTA", "Q"],
+["fruta", "SP"],
+["P'UCUCHINA", "Q"],
+["fermentar", "SP"],
+["brujear", "SP"],
+["aventador", "SP"],
+["P'UCUNA", "Q"],
+["soplar", "SP"],
+["madurar", "SP"],
+["inflar", "SP"],
+["fermentar", "SP"],
+["abanicar", "SP"],
+["aventar", "SP"],
+["respirar", "SP"],
+["prender candela", "SP"],
+["P'UCUNGU", "Q"],
+["buho", "SP"],
+["P'UCURINA", "Q"],
+["inflar", "SP"],
+["P'UCUSHCA", "Q"],
+["maduro", "SP"],
+["agrio", "SP"],
+["mojado", "SP"],
+["P'UCHU", "Q"],
+["trapo", "SP"],
+["haraposo", "SP"],
+["P'UGA", "Q"],
+["rocio", "SP"],
+["P'UGYU", "Q"],
+["fuente", "SP"],
+["P'UIN", "Q"],
+["muy", "SP"],
+["P'UIRA", "Q"],
+["afuera", "SP"],
+["extraño", "SP"],
+["P'UIRTI", "Q"],
+["fuerte", "SP"],
+["P'UIRZASAPA", "Q"],
+["fuerte", "SP"],
+["P'UNDU", "Q"],
+["tinajón o vasija grande para", "SP"],
+["cargar agua", "SP"],
+["P'UNGUICHINA", "Q"],
+["inflar", "SP"],
+["P'UNGUINA", "Q"],
+["hinchar", "SP"],
+["P'UNLLA", "Q"],
+["día", "SP"],
+["P'UNLLA PASCARINA", "Q"],
+["escampar", "SP"],
+["P'UNLLALLA", "Q"],
+["claro", "SP"],
+["luz", "SP"],
+["P'UNLLAYACHINA", "Q"],
+["aclarar", "SP"],
+["P'UNLLAYANA", "Q"],
+["aclarar", "SP"],
+["P'UNTSU", "Q"],
+["basura", "SP"],
+["P'UNZU", "Q"],
+["basura", "SP"],
+["P'URASTIRU", "Q"],
+["extraño", "SP"],
+["huérfano", "SP"],
+["P'URU", "Q"],
+["vejiga", "SP"],
+["calabaza", "SP"],
+["P'URUN", "Q"],
+["vejiga", "SP"],
+["P'UTIUNA", "Q"],
+["remendar", "SP"],
+["P'UTZUTZU", "Q"],
+["rocio", "SP"],
+["P'UTSUL NINA", "Q"],
+["burbuja", "SP"],
+["P'UTYU", "Q"],
+["haraposo", "SP"],
+["andrajoso", "SP"],
+["P'UYU", "Q"],
+["nube", "SP"],
+["neblina", "SP"],
+["P'UYU TUCURINA", "Q"],
+["escampar", "SP"],
+["P'YIRU", "Q"],
+["terco", "SP"],
+["P'YIRRU", "Q"],
+["hierro", "SP"],
+["QUI", "Q"],
+["esta", "SP"],
+["este", "SP"],
+["esto", "SP"],
+["QUIBI", "Q"],
+["aqui", "SP"],
+["QUIBIDU LADU", "Q"],
+["oeste", "SP"],
+["QUICHA", "Q"],
+["diarrea", "SP"],
+["excremento", "SP"],
+["QUICHA YALINA", "Q"],
+["diarrea", "SP"],
+["QUICHAI", "Q"],
+["diarrea", "SP"],
+["QUICHANA", "Q"],
+["diarrea", "SP"],
+["QUICHIJI", "Q"],
+["estrecho", "SP"],
+["QUICHIQUI", "Q"],
+["angosto", "SP"],
+["QUICHQUI", "Q"],
+["estrecho", "SP"],
+["angosto", "SP"],
+["QUICHQUIYANA", "Q"],
+["cercar", "SP"],
+["QUICHUA", "Q"],
+["idioma quichua", "SP"],
+["QUICHUNA", "Q"],
+["quitar", "SP"],
+["retirar", "SP"],
+["perder", "SP"],
+["explotar", "SP"],
+["OUICHURINA", "Q"],
+["atrasarse", "SP"],
+["QUIDANA", "Q"],
+["permanecer", "SP"],
+["QUIHUANA", "Q"],
+["desherbar", "SP"],
+["QUIHUINA", "Q"],
+["torcer", "SP"],
+["dislocar", "SP"],
+["QUIJADA", "Q"],
+["quijada", "SP"],
+["QUIJADAS", "Q"],
+["quijada", "SP"],
+["QUIJADUS", "Q"],
+["quijada", "SP"],
+["mejilla", "SP"],
+["QUIJARU", "Q"],
+["quijada", "SP"],
+["QUILCANA", "Q"],
+["escribir", "SP"],
+["QUILILICU", "Q"],
+["gavilán", "SP"],
+["QUILPANA", "Q"],
+["tapar", "SP"],
+["QUILLA", "Q"],
+["mes", "SP"],
+["luna", "SP"],
+["ocioso", "SP"],
+["flojo", "SP"],
+["zonzo", "SP"],
+["QUILLAYASHCA", "Q"],
+["ocioso", "SP"],
+["terco", "SP"],
+["QUILLAI", "Q"],
+["metal", "SP"],
+["QUILLALUN", "Q"],
+["ocioso", "SP"],
+["QUILLAN", "Q"],
+["ocioso", "SP"],
+["QUILLAPUDIN", "Q"],
+["ocioso", "SP"],
+["QUILLCANA", "Q"],
+["escribir", "SP"],
+["tallar", "SP"],
+["QUILLMISHCA", "Q"],
+["carbón", "SP"],
+["QUILLPANA", "Q"],
+["tapar", "SP"],
+["QUILLU", "Q"],
+["amarillo", "SP"],
+["pálido", "SP"],
+["QUILLU QUILLU NAHUI", "Q"],
+["pálido", "SP"],
+["QUILLULA", "Q"],
+["turbio", "SP"],
+["QUILLULLA", "Q"],
+["turbio", "SP"],
+["QUILLUYASHCA", "Q"],
+["pálido", "SP"],
+["QUILLUYISHCA", "Q"],
+["pálido", "SP"],
+["QUIMICHINA", "Q"],
+["arrimar", "SP"],
+["sostener", "SP"],
+["detener", "SP"],
+["QUIMINA", "Q"],
+["arrimar", "SP"],
+["unir", "SP"],
+["QUIMIRINA", "Q"],
+["acercarse", "SP"],
+["cercar", "SP"],
+["reclinarse", "SP"],
+["QUIMSA", "Q"],
+["tres", "SP"],
+["QUINDI", "Q"],
+["picaflor", "SP"],
+["QUINDIYANA", "Q"],
+["encogerse", "SP"],
+["QUINGU", "Q"],
+["recodo", "SP"],
+["curva", "SP"],
+["vuelta", "SP"],
+["sesgo", "SP"],
+["QUINLLA", "Q"],
+["cerco", "SP"],
+["corral", "SP"],
+["QUINLLA RURANA", "Q"],
+["cercar", "SP"],
+["QUINLLANA", "Q"],
+["cercar", "SP"],
+["QUINLLU", "Q"],
+["seno", "SP"],
+["QUINLLULU", "Q"],
+["seno", "SP"],
+["QUINLLULLI", "Q"],
+["seno", "SP"],
+["QUINRI", "Q"],
+["recodo", "SP"],
+["cerca", "SP"],
+["QUINRILLAMI GANA", "Q"],
+["reclinarse", "SP"],
+["QUINSA", "Q"],
+["tres", "SP"],
+["QUINTI", "Q"],
+["calambre", "SP"],
+["QUINZHA", "Q"],
+["cerco", "SP"],
+["QUINZHANA", "Q"],
+["cercar", "SP"],
+["QUIPA", "Q"],
+["después", "SP"],
+["QUIPAYANA", "Q"],
+["tardar", "SP"],
+["QUIPI", "Q"],
+["bulto", "SP"],
+["QUIPILUMUN", "Q"],
+["jorobado", "SP"],
+["QUIPINA", "Q"],
+["envolver", "SP"],
+["cargar", "SP"],
+["tapar", "SP"],
+["QUIPIPACHA", "Q"],
+["bulto", "SP"],
+["QUIPIRINA", "Q"],
+["dejar", "SP"],
+["QUIPITA ANLLUCHINA", "Q"],
+["descargar", "SP"],
+["QUIPU", "Q"],
+["mayoral", "SP"],
+["QUIQUIN", "Q"],
+["usted", "SP"],
+["QUIRPANA", "Q"],
+["tapar", "SP"],
+["QUIRU", "Q"],
+["diente", "SP"],
+["muela", "SP"],
+["palo", "SP"],
+["madera", "SP"],
+["árbol", "SP"],
+["QUIRU AICHA", "Q"],
+["encías", "SP"],
+["QUIRU CARA", "Q"],
+["corteza", "SP"],
+["QUIRU CHAQUI AICHA", "Q"],
+["encías", "SP"],
+["QUIRU GUINSIAGUNA", "Q"],
+["encías", "SP"],
+["QU IRU HUINGUIS", "Q"],
+["encías", "SP"],
+["QUIRU JUCHU AICHA", "Q"],
+["encías", "SP"],
+["QUIRU SIQUI AICHA", "Q"],
+["encías", "SP"],
+["QUISAS", "Q"],
+["tal vez", "SP"],
+["QUISASLLACHARI", "Q"],
+["tal vez", "SP"],
+["QUISIPRA", "Q"],
+["ceja", "SP"],
+["QUISUSCHARI", "Q"],
+["tal vez", "SP"],
+["QUISHA", "Q"],
+["nido", "SP"],
+["QUISHPACHINA", "Q"],
+["tapar", "SP"],
+["QUISHPANA", "Q"],
+["tapar", "SP"],
+["QUISHPICHINA", "Q"],
+["librar", "SP"],
+["defender", "SP"],
+["QUISHPINA", "Q"],
+["librar", "SP"],
+["QUISHPIRINA", "Q"],
+["escapar", "SP"],
+["QUISHQUI", "Q"],
+["estrecho", "SP"],
+["angosto", "SP"],
+["QUISHQUIYANA", "Q"],
+["acercarse", "SP"],
+["QUITAJ", "Q"],
+["fiebre", "SP"],
+["QUITAR", "Q"],
+["anchuchina", "SP"],
+["quichuna", "SP"],
+["anlluchina", "SP"],
+["QUITI", "Q"],
+["calabaza", "SP"],
+["QUITU", "Q"],
+["calabaza", "SP"],
+["quieto", "SP"],
+["QUITU LLAJTA LADU", "Q"],
+["norte", "SP"],
+["QUITU MUSU", "Q"],
+["calabaza", "SP"],
+["QUIVINA", "Q"],
+["torcer", "SP"],
+["dislocar", "SP"],
+["QUIYA", "Q"],
+["pus", "SP"],
+["ocioso", "SP"],
+["QU'IHUA", "Q"],
+["hierba", "SP"],
+["pasto", "SP"],
+["alfalfa", "SP"],
+["QU'IHUA PAMBA", "Q"],
+["potrero", "SP"],
+["QU'IHUADA CUCHUNA", "Q"],
+["cortar hierba", "SP"],
+["QU'IHUANA", "Q"],
+["cortar hierba", "SP"],
+["QU'IHUATA CUCHUNA", "Q"],
+["cortar hierba", "SP"],
+["QU'IHUATA C'UCHUNA", "Q"],
+["cortar hierba", "SP"],
+["QU'IHUATA P'ITINA", "Q"],
+["cortar hierba", "SP"],
+["QU'IHUILLA CHAHUAR", "Q"],
+["fibra de cabuya", "SP"],
+["QU'IHUILLA PUCHCA", "Q"],
+["fibra de cabuya", "SP"],
+["QU'IHUINA", "Q"],
+["dislocar", "SP"],
+["QU'IHUIRINA", "Q"],
+["dislocar", "SP"],
+["QU'ILLA", "Q"],
+["flojo", "SP"],
+["QU'ILLU", "Q"],
+["amarillo", "SP"],
+["pálido", "SP"],
+["QU'ILLU P'IRRU", "Q"],
+["metal", "SP"],
+["QU'IPA", "Q"],
+["después", "SP"],
+["último", "SP"],
+["siguiente", "SP"],
+["detrás de", "SP"],
+["menor", "SP"],
+["entonces", "SP"],
+["mayoral", "SP"],
+["QU'IPA HUAHUA", "Q"],
+["último bebe", "SP"],
+["QU'IPA HUAUQUI", "Q"],
+["hermano menor", "SP"],
+["QU'IPA HUIÑAI", "Q"],
+["menor", "SP"],
+["QU'IPA P'UNLLA", "Q"],
+["día siguiente", "SP"],
+["QU'IPAHUA", "Q"],
+["menor", "SP"],
+["QU'IPAMUN", "Q"],
+["después", "SP"],
+["QU'IPAYANA", "Q"],
+["atrasarse", "SP"],
+["tardar", "SP"],
+["QU'IRIJ", "Q"],
+["enano", "SP"],
+["QU'ITA", "Q"],
+["arisco", "SP"],
+["QU'IYA", "Q"],
+["maleza", "SP"],
+["RABI", "Q"],
+["cólera", "SP"],
+["RABIA", "Q"],
+["iras", "SP"],
+["cólera", "SP"],
+["RABIACHINA", "Q"],
+["molestar", "SP"],
+["RABIARISHCA", "Q"],
+["cólera", "SP"],
+["RABU", "Q"],
+["cola", "SP"],
+["RACU", "Q"],
+["grueso", "SP"],
+["gordo", "SP"],
+["RACU CHANGA", "Q"],
+["muslo", "SP"],
+["músculo", "SP"],
+["RACULLA", "Q"],
+["tosco", "SP"],
+["RAHUA", "Q"],
+["surco de arado", "SP"],
+["RAJANA", "Q"],
+["rajar", "SP"],
+["hender", "SP"],
+["RALLANA", "Q"],
+["rallar", "SP"],
+["RAMA", "Q"],
+["rama", "SP"],
+["racimo", "SP"],
+["RAN RURANA", "Q"],
+["repetir", "SP"],
+["RANA", "Q"],
+["hacer", "SP"],
+["construir", "SP"],
+["concluir", "SP"],
+["RANDI", "Q"],
+["en vez de", "SP"],
+["RANDICHI PLASA", "Q"],
+["mercado", "SP"],
+["RANDICHILUN", "Q"],
+["vendedor", "SP"],
+["RANDINA", "Q"],
+["comprar", "SP"],
+["RAPADURA", "Q"],
+["panela", "SP"],
+["RAPUSU", "Q"],
+["zorro", "SP"],
+["lobo", "SP"],
+["RAQUINA", "Q"],
+["partir", "SP"],
+["separar", "SP"],
+["RAQUIRISH NINA", "Q"],
+["desunir", "SP"],
+["RAQUISHCA", "Q"],
+["separado", "SP"],
+["RASIMU", "Q"],
+["racimo", "SP"],
+["RASIUNAL", "Q"],
+["inteligente", "SP"],
+["RASPA", "Q"],
+["paja", "SP"],
+["RASPADURA", "Q"],
+["panela", "SP"],
+["RASPANA", "Q"],
+["rallar", "SP"],
+["cardar", "SP"],
+["RASTRU", "Q"],
+["huella", "SP"],
+["RASU", "Q"],
+["nieve", "SP"],
+["hielo", "SP"],
+["granizo", "SP"],
+["rocío", "SP"],
+["RASU CHIRI CHIRI", "Q"],
+["hielo", "SP"],
+["RASUCUNA", "Q"],
+["nevar", "SP"],
+["RASUNA", "Q"],
+["nevar", "SP"],
+["granizar", "SP"],
+["RATA", "Q"],
+["ucucha", "SP"],
+["RATAJ", "Q"],
+["rígido", "SP"],
+["RATU", "Q"],
+["rápido", "SP"],
+["ligero", "SP"],
+["luego", "SP"],
+["RATU HUAÑUNA", "Q"],
+["desmayarse", "SP"],
+["RATUCAMA NINA", "Q"],
+["despedirse", "SP"],
+["RATUHUALLAPI", "Q"],
+["luego", "SP"],
+["RATUJ", "Q"],
+["rígido", "SP"],
+["RAUMANA", "Q"],
+["deshojar", "SP"],
+["RAURANA", "Q"],
+["arder", "SP"],
+["RAYA RAYA", "Q"],
+["delgado", "SP"],
+["RAYU", "Q"],
+["rayo", "SP"],
+["relámpago", "SP"],
+["trueno", "SP"],
+["RIBAJANA", "Q"],
+["rebajar", "SP"],
+["RIBAMBA", "Q"],
+["Riobamba", "SP"],
+["RIBULCANA", "Q"],
+["revolcar", "SP"],
+["RIBUSU", "Q"],
+["bayeta", "SP"],
+["RIBUZU", "Q"],
+["rebozo", "SP"],
+["RICU", "Q"],
+["rico", "SP"],
+["RICUCHINA", "Q"],
+["mostrar", "SP"],
+["indicar", "SP"],
+["RICUGRINA", "Q"],
+["visitar", "SP"],
+["RICUNA", "Q"],
+["ver", "SP"],
+["mirar", "SP"],
+["cuidar", "SP"],
+["RICUNACHINA", "Q"],
+["querer", "SP"],
+["RICURANA", "Q"],
+["cuidar", "SP"],
+["RICURINA", "Q"],
+["aparecer", "SP"],
+["asomarse", "SP"],
+["parecer I", "Q"],
+["nacer", "SP"],
+["transparente", "SP"],
+["RICURISHCA", "Q"],
+["transparente", "SP"],
+["RICUSH CUIDANA", "Q"],
+["cuidar", "SP"],
+["RID", "Q"],
+["red", "SP"],
+["RIDUNDU", "Q"],
+["círculo", "SP"],
+["redondo", "SP"],
+["alrededor de", "SP"],
+["RIGALANA", "Q"],
+["regalar", "SP"],
+["RIGALASHCA", "Q"],
+["gratis", "SP"],
+["RIGANA", "Q"],
+["regar agua", "SP"],
+["regar cosas", "SP"],
+["regar paja", "SP"],
+["RIGLANA", "Q"],
+["arreglar", "SP"],
+["RIGRA", "Q"],
+["brazo", "SP"],
+["hombro", "SP"],
+["ala", "SP"],
+["espaldilla", "SP"],
+["RIGRA AICHA", "Q"],
+["músculo", "SP"],
+["RIGRA CUDU", "Q"],
+["codo", "SP"],
+["RIGRA JAHUA", "Q"],
+["hombro", "SP"],
+["RIGRA JUCHU", "Q"],
+["sobaco", "SP"],
+["RIGRA LUMA", "Q"],
+["hombro", "SP"],
+["RIGRA MUCU", "Q"],
+["codo", "SP"],
+["RIGRA PALA TULLU", "Q"],
+["espaldilla", "SP"],
+["RIGRA TALUN", "Q"],
+["codo", "SP"],
+["RIGRA TULLU", "Q"],
+["hombro", "SP"],
+["RIGRA UCU", "Q"],
+["sobaco", "SP"],
+["RIGULAR", "Q"],
+["mediano", "SP"],
+["RIGULTANA", "Q"],
+["eructar", "SP"],
+["RIJCHANA", "Q"],
+["parecer", "SP"],
+["RIJCHARINA", "Q"],
+["despertarse", "SP"],
+["RIJSINA", "Q"],
+["conocer", "SP"],
+["RTJTIYACHINA", "Q"],
+["enderezar", "SP"],
+["RIJTU", "Q"],
+["derecho", "SP"],
+["recto", "SP"],
+["tieso", "SP"],
+["RIJTUYACHINA", "Q"],
+["enderezar", "SP"],
+["RILAMPA", "Q"],
+["relámpago", "SP"],
+["rayo", "SP"],
+["RILAMPAGU", "Q"],
+["relámpago", "SP"],
+["rayo", "SP"],
+["RILAMPAJ", "Q"],
+["relámpago", "SP"],
+["rayo", "SP"],
+["RILUJ", "Q"],
+["muñeca", "SP"],
+["RIMAI", "Q"],
+["idioma", "SP"],
+["palahra", "SP"],
+["voz", "SP"],
+["RIMANA", "Q"],
+["hablar", "SP"],
+["decir", "SP"],
+["contar", "SP"],
+["murmurar", "SP"],
+["insultar", "SP"],
+["palabra", "SP"],
+["RIMANDANA", "Q"],
+["zurcir", "SP"],
+["RIMARINA", "Q"],
+["hablar", "SP"],
+["insultar", "SP"],
+["murmurar", "SP"],
+["odiar", "SP"],
+["RIMASHCA", "Q"],
+["voz", "SP"],
+["RIMBA", "Q"],
+["Riobamba", "SP"],
+["RIMI", "Q"],
+["palabra", "SP"],
+["RIMIDANA", "Q"],
+["remedar", "SP"],
+["RIMIDIU", "Q"],
+["medicina", "SP"],
+["RIMINDANA", "Q"],
+["remendar", "SP"],
+["RIMULINA", "Q"],
+["rumiar", "SP"],
+["RIMULINU", "Q"],
+["rimolino", "SP"],
+["RINRIN", "Q"],
+["oreja", "SP"],
+["RINA", "Q"],
+["ir", "SP"],
+["viajar", "SP"],
+["pasar", "SP"],
+["caminar", "SP"],
+["RINGRI", "Q"],
+["oreja", "SP"],
+["RINGU", "Q"],
+["cojo", "SP"],
+["RINGU RINGULLA PURINA", "Q"],
+["cojear", "SP"],
+["RINGUYANA", "Q"],
+["cojear", "SP"],
+["RINRI", "Q"],
+["oreja", "SP"],
+["RINRI HUACHCA", "Q"],
+["arete", "SP"],
+["RINRI MANA UYA", "Q"],
+["sordo", "SP"],
+["RINRI URIJIS", "Q"],
+["arete", "SP"],
+["RINRITA UNGUSHCA", "Q"],
+["sordo", "SP"],
+["RIPARANA", "Q"],
+["murmurar", "SP"],
+["escuchar", "SP"],
+["RIPITINA", "Q"],
+["repetir", "SP"],
+["RISPIRANA", "Q"],
+["respirar", "SP"],
+["RISPUNDINA", "Q"],
+["responder", "SP"],
+["RISTITUINA", "Q"],
+["restituir", "SP"],
+["RISURTI", "Q"],
+["catapulta", "SP"],
+["RITUÑU", "Q"],
+["retoño", "SP"],
+["RIUBAMBA", "Q"],
+["Riobamba", "SP"],
+["RIUBAMBA LLAJTA LADU", "Q"],
+["sur", "SP"],
+["RIZANA", "Q"],
+["leer", "SP"],
+["RUBAMBA", "Q"],
+["Riobamba", "SP"],
+["RUCU", "Q"],
+["viejo", "SP"],
+["mayor", "SP"],
+["anterior", "SP"],
+["demasiado", "SP"],
+["muy", "SP"],
+["gordo", "SP"],
+["RUCU HUARMI", "Q"],
+["vieja", "SP"],
+["RUCU HUAUQUI", "Q"],
+["hermano mayor", "SP"],
+["RUGANA", "Q"],
+["rogar", "SP"],
+["RUHUANA", "Q"],
+["hacer", "SP"],
+["construir", "SP"],
+["poncho", "SP"],
+["RUIDA", "Q"],
+["redondo", "SP"],
+["ruido", "SP"],
+["RUM NINA", "Q"],
+["ronronear", "SP"],
+["RUMADIS", "Q"],
+["gripe", "SP"],
+["RUMADISU", "Q"],
+["gripe", "SP"],
+["RUMASU", "Q"],
+["gripe", "SP"],
+["RUMI", "Q"],
+["piedra", "SP"],
+["RUMI BARBA", "Q"],
+["musgo", "SP"],
+["RUMI BARBAS", "Q"],
+["musgo", "SP"],
+["RUMI BARBUS", "Q"],
+["musgo", "SP"],
+["RUMI HUICHI", "Q"],
+["peña", "SP"],
+["RUMI MILMA", "Q"],
+["musgo", "SP"],
+["RUMI MILLMA", "Q"],
+["musgo", "SP"],
+["RUMISHNA", "Q"],
+["duro", "SP"],
+["RUNA", "Q"],
+["indígena", "SP"],
+["hombre indígena", "SP"],
+["persona", "SP"],
+["gente", "SP"],
+["RUNA CHAPUSHCA", "Q"],
+["mestizo", "SP"],
+["RUNA LADU", "Q"],
+["derecha", "SP"],
+["RUNA LLAMA", "Q"],
+["llamingo", "SP"],
+["RUNA SHIMI", "Q"],
+["idioma quichua", "SP"],
+["RUNAUN BLANCAUN CHAPURISHCA", "Q"],
+["mestizo", "SP"],
+["RUNCANA", "Q"],
+["ronronear", "SP"],
+["RUNDADUR", "Q"],
+["rondador", "SP"],
+["RUNDU", "Q"],
+["granizo", "SP"],
+["nieve", "SP"],
+["RUNDU URMANA", "Q"],
+["granizar", "SP"],
+["RUNDUNA", "Q"],
+["granizar t", "SP"],
+["nevar", "SP"],
+["rondador", "SP"],
+["RUNDUSHCA", "Q"],
+["nieve", "SP"],
+["RUPACHINA", "Q"],
+["quemar", "SP"],
+["chamuscar", "SP"],
+["hacer calor", "SP"],
+["cocinar", "SP"],
+["RUPAGLLA", "Q"],
+["caliente", "SP"],
+["RUPAGYANA", "Q"],
+["calentarse", "SP"],
+["RUPAI", "Q"],
+["calor", "SP"],
+["sol", "SP"],
+["RUPAI SHITANA", "Q"],
+["hacer calor", "SP"],
+["RUPAI TAMIA", "Q"],
+["lluvia con sol", "SP"],
+["RUPAJ", "Q"],
+["caliente", "SP"],
+["calor", "SP"],
+["RUPAJ UNGÜI", "Q"],
+["fiebre", "SP"],
+["RUPANA", "Q"],
+["arder", "SP"],
+["quemar", "SP"],
+["hacer calor", "SP"],
+["brillar", "SP"],
+["RUPARI", "Q"],
+["fiebre", "SP"],
+["RUPARINA", "Q"],
+["hacer calor", "SP"],
+["RUPARISHCA", "Q"],
+["fiebre", "SP"],
+["RUPASH TAMIA", "Q"],
+["lluvia con sol", "SP"],
+["RUPI", "Q"],
+["calor", "SP"],
+["sol", "SP"],
+["RUPI TAMIA", "Q"],
+["lluvia con sol", "SP"],
+["RUPI TIMPU", "Q"],
+["verano", "SP"],
+["RUPUGYANA", "Q"],
+["calentarse", "SP"],
+["RUPUJ", "Q"],
+["caliente", "SP"],
+["calor", "SP"],
+["RUPUYAGUNA", "Q"],
+["hacer calor", "SP"],
+["RURANA", "Q"],
+["hacer", "SP"],
+["construir", "SP"],
+["trabajar", "SP"],
+["tallar", "SP"],
+["concluir", "SP"],
+["RURANALLA", "Q"],
+["fácil", "SP"],
+["RURU", "Q"],
+["huevo", "SP"],
+["testículo", "SP"],
+["RURU SURCUNA", "Q"],
+["castrar", "SP"],
+["RURUTA CHURANA", "Q"],
+["poner huevos", "SP"],
+["RURUTA HUACHANA", "Q"],
+["poner huevos", "SP"],
+["RUSIU", "Q"],
+["rocio", "SP"],
+["RUTINA", "Q"],
+["cortar pelo", "SP"],
+["RUTUCHINA", "Q"],
+["cortar pelo", "SP"],
+["RUTUNA", "Q"],
+["trasquilar", "SP"],
+["esquilar", "SP"],
+["RUZIRU", "Q"],
+["estrella", "SP"],
+["RUZU", "Q"],
+["zorro", "SP"],
+["SABRUZU", "Q"],
+["sabroso", "SP"],
+["SACUDINA", "Q"],
+["sacudir", "SP"],
+["SACHA", "Q"],
+["monte", "SP"],
+["selva", "SP"],
+["montaña", "SP"],
+["SACHA HUAGRA", "Q"],
+["venado", "SP"],
+["SACHA JAMBI", "Q"],
+["hierba medicinal", "SP"],
+["SACHA MILLMA", "Q"],
+["musgo", "SP"],
+["SACHA RUNA", "Q"],
+["salvaje", "SP"],
+["SACHA URCU", "Q"],
+["montaña", "SP"],
+["selva", "SP"],
+["SAFACHINA", "Q"],
+["librar", "SP"],
+["SAFANA", "Q"],
+["zafar", "SP"],
+["SAFARINA", "Q"],
+["escapar", "SP"],
+["SAGRUZU", "Q"],
+["aspero", "SP"],
+["SAGSANA", "Q"],
+["hartarse", "SP"],
+["SAHUASANA", "Q"],
+["ahumar", "SP"],
+["SAJHUARINA", "Q"],
+["dar a luz", "SP"],
+["SAJSANA", "Q"],
+["hartarse", "SP"],
+["SALAMANCA", "Q"],
+["brujo", "SP"],
+["SALBAJI", "Q"],
+["salvaje", "SP"],
+["SALTANA", "Q"],
+["brincar", "SP"],
+["saltar", "SP"],
+["correr", "SP"],
+["SALLA", "Q"],
+["falda", "SP"],
+["SAMAI", "Q"],
+["vapor", "SP"],
+["SAMAI JARCARINA", "Q"],
+["sofocar", "SP"],
+["SAMAITA AISANA", "Q"],
+["respirar", "SP"],
+["SAMAITA CHURANA", "Q"],
+["soplar", "SP"],
+["SAMAITA JARCANA", "Q"],
+["sofocar", "SP"],
+["SAMAITA MANA CACHAI PUDINA", "Q"],
+["sofocar", "SP"],
+["SAMANA", "Q"],
+["descansar", "SP"],
+["reclinarse", "SP"],
+["respirar", "SP"],
+["SAMARINA", "Q"],
+["descansar", "SP"],
+["SAMBA", "Q"],
+["suave", "SP"],
+["SAMBAYACHINA", "Q"],
+["suavizar", "SP"],
+["SAMBAYANA", "Q"],
+["ablandarse", "SP"],
+["SAMBU", "Q"],
+["calabaza", "SP"],
+["SAMI", "Q"],
+["vapor", "SP"],
+["aire", "SP"],
+["SAMI CACHANA", "Q"],
+["respirar", "SP"],
+["SAMI JARCARINA", "Q"],
+["sofocar", "SP"],
+["SAMI LUJSHINA", "Q"],
+["eructar", "SP"],
+["SAMI LLUJSHINA", "Q"],
+["respirar", "SP"],
+["SAMPI", "Q"],
+["canilla", "SP"],
+["SANCA", "Q"],
+["zanja", "SP"],
+["cerco", "SP"],
+["SAMURA LADU", "Q"],
+["oriente", "SP"],
+["SANCANA", "Q"],
+["cercar", "SP"],
+["SANGA", "Q"],
+["zanja", "SP"],
+["SANGU", "Q"],
+["espeso", "SP"],
+["turbio", "SP"],
+["colada", "SP"],
+["SANJA", "Q"],
+["zanja", "SP"],
+["cerco", "SP"],
+["SANJANA", "Q"],
+["cercar", "SP"],
+["SANJASHCA", "Q"],
+["cerco", "SP"],
+["SANURIA", "Q"],
+["zanahoria", "SP"],
+["SANUYANA", "Q"],
+["sanar", "SP"],
+["SAÑURA", "Q"],
+["zanahoria", "SP"],
+["SAPALLA", "Q"],
+["viuda", "SP"],
+["huérfano", "SP"],
+["SAPALLU", "Q"],
+["calabaza", "SP"],
+["SAPAPICU", "Q"],
+["oz", "SP"],
+["SAPI", "Q"],
+["raíz", "SP"],
+["tronco", "SP"],
+["SAPU", "Q"],
+["sapo", "SP"],
+["gordo", "SP"],
+["SAQUINA", "Q"],
+["dejar", "SP"],
+["abandonar", "SP"],
+["descuidar", "SP"],
+["SAQUIRINA", "Q"],
+["quedarse", "SP"],
+["permanecer", "SP"],
+["demorar", "SP"],
+["descuidar", "SP"],
+["SARA", "Q"],
+["maíz", "SP"],
+["SARCUS", "Q"],
+["rubio", "SP"],
+["SARPA", "Q"],
+["rocio", "SP"],
+["SARNA", "Q"],
+["absceso", "SP"],
+["SARSILIS", "Q"],
+["arete", "SP"],
+["SARSILLU", "Q"],
+["arete", "SP"],
+["SARSILLUS", "Q"],
+["arete", "SP"],
+["SARSISU", "Q"],
+["arete", "SP"],
+["SARUBAYANA", "Q"],
+["trillar a caballo", "SP"],
+["SARUCHINA", "Q"],
+["trillar a caballo", "SP"],
+["empreñar", "SP"],
+["SARUN", "Q"],
+["anteayer", "SP"],
+["anterior", "SP"],
+["tiempo", "SP"],
+["SARUN PUNCHA", "Q"],
+["día siguiente", "SP"],
+["SARUN PUNZHA", "Q"],
+["anteayer", "SP"],
+["SARUN P'UNLLA", "Q"],
+["anteayer", "SP"],
+["SARUN P'UNZHA", "Q"],
+["pasado mañana", "SP"],
+["SARUNA", "Q"],
+["pisar", "SP"],
+["empreñar", "SP"],
+["SARUSHCA", "Q"],
+["huella", "SP"],
+["piso", "SP"],
+["SASUNA", "Q"],
+["flotar", "SP"],
+["SATINA", "Q"],
+["meter", "SP"],
+["pegar con goma", "SP"],
+["clavar", "SP"],
+["SAUJANA", "Q"],
+["aflojar", "SP"],
+["zafar", "SP"],
+["SAUNA", "Q"],
+["almohada", "SP"],
+["SIBU", "Q"],
+["cera", "SP"],
+["SICANA", "Q"],
+["subir", "SP"],
+["montar a caballo", "SP"],
+["subida", "SP"],
+["SIDASUNA", "Q"],
+["cribar", "SP"],
+["SIFARINU", "Q"],
+["huérfano", "SP"],
+["SIGANA", "Q"],
+["segar", "SP"],
+["espigar", "SP"],
+["SIGRA", "Q"],
+["bolsa tejida", "SP"],
+["red", "SP"],
+["SIGSI", "Q"],
+["rodela", "SP"],
+["ciego", "SP"],
+["tuerto", "SP"],
+["SIGUIDILLUS", "Q"],
+["diarrea", "SP"],
+["SIGUYACHINA", "Q"],
+["cegar", "SP"],
+["SIJA", "Q"],
+["ceja", "SP"],
+["SIJSI", "Q"],
+["huso", "SP"],
+["rodela", "SP"],
+["SIJSI HUASI", "Q"],
+["choza", "SP"],
+["SIJSIJ", "Q"],
+["huso", "SP"],
+["rodela", "SP"],
+["SILAJ", "Q"],
+["celoso", "SP"],
+["SILASHCA", "Q"],
+["celoso", "SP"],
+["SILU", "Q"],
+["cielo", "SP"],
+["SILU CLARUYANA", "Q"],
+["escampar", "SP"],
+["SILU P'UNLLALLA TUCUNA", "Q"],
+["escampar", "SP"],
+["SILUJ", "Q"],
+["mirlo", "SP"],
+["SILUZU", "Q"],
+["celoso", "SP"],
+["SILLU", "Q"],
+["uña", "SP"],
+["garra", "SP"],
+["casco", "SP"],
+["SIMBUNA", "Q"],
+["revolcar", "SP"],
+["SIMINTIRA", "Q"],
+["sementera", "SP"],
+["SIMPRI", "Q"],
+["siempre", "SP"],
+["SIN ÑAJCHA", "Q"],
+["desgreñado", "SP"],
+["SIN ÑAHUI", "Q"],
+["tuerto", "SP"],
+["SINCHI", "Q"],
+["fuerte", "SP"],
+["duro", "SP"],
+["rígido", "SP"],
+["tosco", "SP"],
+["difícil", "SP"],
+["SINCHIYANA", "Q"],
+["animarse", "SP"],
+["SINDINA", "Q"],
+["encender", "SP"],
+["SINGA", "Q"],
+["nariz", "SP"],
+["chato", "SP"],
+["SINGA TABLAYASHCA", "Q"],
+["chato", "SP"],
+["SINGUCHINA", "Q"],
+["tumbar", "SP"],
+["SINGUNA", "Q"],
+["rodar", "SP"],
+["revolcar", "SP"],
+["caerse", "SP"],
+["SINI", "Q"],
+["zorro", "SP"],
+["SINIDUR", "Q"],
+["faja", "SP"],
+["SINLLI", "Q"],
+["tieso", "SP"],
+["valiente", "SP"],
+["SINLLIYAJUNA", "Q"],
+["animarse", "SP"],
+["SINSILLU", "Q"],
+["humilde", "SP"],
+["SINTAL", "Q"],
+["viga", "SP"],
+["SINTRU", "Q"],
+["cinturón", "SP"],
+["SINTURA", "Q"],
+["cinturón", "SP"],
+["SIÑAI", "Q"],
+["huella", "SP"],
+["SIÑAL", "Q"],
+["huella", "SP"],
+["SIÑIDUR", "Q"],
+["cinturón", "SP"],
+["SIÑIHUI", "Q"],
+["ciego", "SP"],
+["SIPARACHINA", "Q"],
+["desunir", "SP"],
+["SIPARADU", "Q"],
+["separado", "SP"],
+["aparte", "SP"],
+["fuera de", "SP"],
+["SIPARANA", "Q"],
+["separar", "SP"],
+["desunir", "SP"],
+["abandonar", "SP"],
+["SIPILLANA", "Q"],
+["acepillar", "SP"],
+["tallar", "SP"],
+["SIPINA", "Q"],
+["ahorcar", "SP"],
+["apretar", "SP"],
+["SIPIRINA", "Q"],
+["ahorcar", "SP"],
+["SIPU", "Q"],
+["arruga", "SP"],
+["SIPUNA", "Q"],
+["fruncir", "SP"],
+["SIPURINA", "Q"],
+["arruga", "SP"],
+["SIPUSHCA", "Q"],
+["arruga", "SP"],
+["SIPUYANA", "Q"],
+["fruncir", "SP"],
+["SIQUI", "Q"],
+["trasero", "SP"],
+["fondo", "SP"],
+["nalgas", "SP"],
+["ano", "SP"],
+["detrás de", "SP"],
+["alrededor de", "SP"],
+["SIQUI LADU", "Q"],
+["al revés", "SP"],
+["SIQUI ÑUTU", "Q"],
+["nalgas", "SP"],
+["SIQUI PATA", "Q"],
+["nalgas", "SP"],
+["SIQUI PUNGU", "Q"],
+["ano", "SP"],
+["SIQUI TULLU", "Q"],
+["trasero", "SP"],
+["nalgas", "SP"],
+["ano", "SP"],
+["SIQUI UJTU", "Q"],
+["ano", "SP"],
+["SIQUI UTCU", "Q"],
+["ano", "SP"],
+["SIQUI UTUJU", "Q"],
+["ano", "SP"],
+["SIQUIYANA", "Q"],
+["descender", "SP"],
+["SIQUIA", "Q"],
+["acequia", "SP"],
+["SIRA", "Q"],
+["vela", "SP"],
+["cera", "SP"],
+["SIRANA", "Q"],
+["coser", "SP"],
+["zurcir", "SP"],
+["remendar", "SP"],
+["SIRBI", "Q"],
+["toma", "SP"],
+["SIRCALA", "Q"],
+["cerca", "SP"],
+["SIRCANA", "Q"],
+["cercar", "SP"],
+["SIRCAYANA", "Q"],
+["acercarse", "SP"],
+["SIRICHINA", "Q"],
+["echar", "SP"],
+["SIRIJUNA", "Q"],
+["reclinarse", "SP"],
+["SIRINA", "Q"],
+["yacer", "SP"],
+["SIRINU", "Q"],
+["rocio", "SP"],
+["SIRIRINA", "Q"],
+["acostarse", "SP"],
+["reclinarse", "SP"],
+["yacer", "SP"],
+["SIRIUNA", "Q"],
+["yacer", "SP"],
+["SIRRA", "Q"],
+["sierra", "SP"],
+["SISA", "Q"],
+["flor", "SP"],
+["SISA TUCUNA", "Q"],
+["botan de planta", "SP"],
+["SISACUNA", "Q"],
+["florecer", "SP"],
+["SISAGUNA", "Q"],
+["florecer", "SP"],
+["SISAMUCUNA", "Q"],
+["florecer", "SP"],
+["SISANA", "Q"],
+["florecer", "SP"],
+["brotar", "SP"],
+["SISAPICA", "Q"],
+["picaflor", "SP"],
+["SISAYANA", "Q"],
+["florecer", "SP"],
+["SISU", "Q"],
+["sarna", "SP"],
+["absceso", "SP"],
+["SISUHUA", "Q"],
+["cerebro", "SP"],
+["SITANA", "Q"],
+["botar", "SP"],
+["echar", "SP"],
+["abandonar", "SP"],
+["regar cosas", "SP"],
+["descuidar", "SP"],
+["SITARINA", "Q"],
+["caerse", "SP"],
+["SITASHA RINA", "Q"],
+["abandonar", "SP"],
+["SITASHCA", "Q"],
+["desierto", "SP"],
+["SITASHCA HUASI", "Q"],
+["ruina", "SP"],
+["SITIBIDAS", "Q"],
+["sandalia", "SP"],
+["SIYA", "Q"],
+["liendre", "SP"],
+["SUABIDA RURANA", "Q"],
+["suavizar", "SP"],
+["SUBACU", "Q"],
+["sobaco", "SP"],
+["SUBACU UCU", "Q"],
+["sobaco", "SP"],
+["SUBANA", "Q"],
+["fregar", "SP"],
+["sobar", "SP"],
+["SUBRA", "Q"],
+["residuo", "SP"],
+["SUBRADA", "Q"],
+["heces", "SP"],
+["SUBRANA", "Q"],
+["sobrar", "SP"],
+["SUBRINA", "Q"],
+["sobrina", "SP"],
+["SUBRINA ÑAÑA", "Q"],
+["prima", "SP"],
+["SUBRINA PANI", "Q"],
+["priina", "SP"],
+["SUBRINU", "Q"],
+["sobrino", "SP"],
+["SUBRINU HUAUQUI", "Q"],
+["primo", "SP"],
+["SUBRINU TURI", "Q"],
+["primo", "SP"],
+["SUBRITA", "Q"],
+["residuo", "SP"],
+["SUCABUN", "Q"],
+["cueva", "SP"],
+["SUCU", "Q"],
+["rubio", "SP"],
+["pardo", "SP"],
+["gris", "SP"],
+["SUCUS", "Q"],
+["carrizo", "SP"],
+["SUCHU", "Q"],
+["cojo", "SP"],
+["paralizado", "SP"],
+["manco", "SP"],
+["SUCHU PURINA", "Q"],
+["cojear", "SP"],
+["SUCHUNA", "Q"],
+["cojear", "SP"],
+["descender", "SP"],
+["SUCHUYANA", "Q"],
+["cojear", "SP"],
+["SUDA", "Q"],
+["sudor", "SP"],
+["SUDANA", "Q"],
+["sudar", "SP"],
+["SUDASHCA", "Q"],
+["sudor", "SP"],
+["SUDUR", "Q"],
+["sudor", "SP"],
+["SUFISINTI", "Q"],
+["suficiente", "SP"],
+["SUFRINA", "Q"],
+["sufrir", "SP"],
+["SUIDRA", "Q"],
+["suegra", "SP"],
+["SUIDRU", "Q"],
+["suegro", "SP"],
+["SUIGRA", "Q"],
+["suegra", "SP"],
+["SUIGRU", "Q"],
+["suegro", "SP"],
+["SUINU", "Q"],
+["sueño", "SP"],
+["SUIÑUNA", "Q"],
+["dormir", "SP"],
+["soñar", "SP"],
+["sueño", "SP"],
+["SUJITANA", "Q"],
+["sostener", "SP"],
+["SUJSUJ", "Q"],
+["mirlo", "SP"],
+["SUJTA", "Q"],
+["seis", "SP"],
+["SULIRA", "Q"],
+["viga", "SP"],
+["SULTIRA", "Q"],
+["joven", "SP"],
+["soltera", "SP"],
+["muchacha", "SP"],
+["SULTIRU", "Q"],
+["soltero", "SP"],
+["joven", "SP"],
+["muchacho", "SP"],
+["SULLA", "Q"],
+["rocio", "SP"],
+["SUMAIMANA", "Q"],
+["elegante", "SP"],
+["bonito", "SP"],
+["SUMAJ", "Q"],
+["bonito", "SP"],
+["elegante", "SP"],
+["sabroso", "SP"],
+["SUMAJ ALLI", "Q"],
+["feliz", "SP"],
+["SUMAJHUA", "Q"],
+["elegante", "SP"],
+["SUMBIRU", "Q"],
+["sombrero", "SP"],
+["SUMBIRRU", "Q"],
+["sombrero", "SP"],
+["SUMBRA", "Q"],
+["sombra", "SP"],
+["alma", "SP"],
+["SUMBRIRU", "Q"],
+["sombrero", "SP"],
+["SUMBRIRRU", "Q"],
+["sombrero", "SP"],
+["SUMIRU", "Q"],
+["sombrero", "SP"],
+["SUMIRRU", "Q"],
+["sombrero", "SP"],
+["SUMITA", "Q"],
+["bonito", "SP"],
+["SUMU PUCHUSHCA", "Q"],
+["heces", "SP"],
+["SUNDINGUCHINA", "Q"],
+["alargar", "SP"],
+["SUNI", "Q"],
+["largo", "SP"],
+["SUNIYACHINA", "Q"],
+["alargar", "SP"],
+["extender", "SP"],
+["SUNLLU", "Q"],
+["haraposo", "SP"],
+["SUNSU", "Q"],
+["zonzo", "SP"],
+["terco", "SP"],
+["andrajoso", "SP"],
+["SUÑUDUR", "Q"],
+["dormilón", "SP"],
+["SUÑUI", "Q"],
+["sueño", "SP"],
+["SUÑUI SIGUI", "Q"],
+["dormilón", "SP"],
+["SUÑUNA", "Q"],
+["soñar", "SP"],
+["SUPA", "Q"],
+["sopa", "SP"],
+["SUPAI", "Q"],
+["diablo", "SP"],
+["demonio", "SP"],
+["SUPANA", "Q"],
+["lamer", "SP"],
+["SUPAS", "Q"],
+["fibra de cabuya", "SP"],
+["SUPLADUR", "Q"],
+["aventador", "SP"],
+["SUPLANA", "Q"],
+["aventar", "SP"],
+["SUPUN", "Q"],
+["enano", "SP"],
+["SUR", "Q"],
+["sur", "SP"],
+["SURCANA", "Q"],
+["deshojar", "SP"],
+["SURCUNA", "Q"],
+["sacar", "SP"],
+["ordeñar", "SP"],
+["SURDU", "Q"],
+["sordo", "SP"],
+["izquierda", "SP"],
+["SURDU MAN UYA", "Q"],
+["sordo", "SP"],
+["SURDU MUDU", "Q"],
+["tartamudo", "SP"],
+["SURDU TARTSU UPA", "Q"],
+["tartamudo", "SP"],
+["SURIRU", "Q"],
+["sombrero", "SP"],
+["SURTIJAS", "Q"],
+["anillo", "SP"],
+["SURTIJIS", "Q"],
+["anillo", "SP"],
+["SURTIQUIS", "Q"],
+["anillo", "SP"],
+["SURU", "Q"],
+["carrizo", "SP"],
+["SURUN", "Q"],
+["vejiga", "SP"],
+["troje", "SP"],
+["SURRU", "Q"],
+["zorro", "SP"],
+["SUSIDINA", "Q"],
+["suceder", "SP"],
+["SUSTU", "Q"],
+["susto", "SP"],
+["pena", "SP"],
+["SUSUGYANA", "Q"],
+["fruncir", "SP"],
+["SUSTARINA", "Q"],
+["asustarse", "SP"],
+["SUSHTU", "Q"],
+["susto", "SP"],
+["SHAGRA", "Q"],
+["áspero", "SP"],
+["SHAICUNA", "Q"],
+["cansarse", "SP"],
+["sofocar", "SP"],
+["SHAICUSHCA", "Q"],
+["cansado", "SP"],
+["SHAIJUNA", "Q"],
+["cansarse", "SP"],
+["SHAIJUSHCA", "Q"],
+["cansado", "SP"],
+["SHAMBA", "Q"],
+["suave", "SP"],
+["SHAMUI NINA", "Q"],
+["invitar", "SP"],
+["SHAMUNA", "Q"],
+["venir", "SP"],
+["SHANDU SURDU", "Q"],
+["tartamudo", "SP"],
+["SHAYACHINA", "Q"],
+["construir", "SP"],
+["levantar", "SP"],
+["detener", "SP"],
+["enderezar", "SP"],
+["SHAYARINA", "Q"],
+["pararse", "SP"],
+["defender", "SP"],
+["SHICAN", "Q"],
+["aparte", "SP"],
+["separado", "SP"],
+["distinto", "SP"],
+["extraño", "SP"],
+["SHICANYACHINA", "Q"],
+["separar", "SP"],
+["SHICU", "Q"],
+["ternero", "SP"],
+["becerro", "SP"],
+["SHIGHUANA", "Q"],
+["regar paja", "SP"],
+["SHIGRA", "Q"],
+["bolsa tejida", "SP"],
+["red", "SP"],
+["SHIJSHI", "Q"],
+["comezón", "SP"],
+["sarna", "SP"],
+["SHIJSHIN", "Q"],
+["comezón", "SP"],
+["SHILA", "Q"],
+["tazón de barro", "SP"],
+["SHILUJ", "Q"],
+["uña", "SP"],
+["garra", "SP"],
+["casco", "SP"],
+["SHIMBA", "Q"],
+["trenza", "SP"],
+["SHIMBANA", "Q"],
+["trenzar", "SP"],
+["SHIMI", "Q"],
+["boca", "SP"],
+["labio", "SP"],
+["voz", "SP"],
+["idioma", "SP"],
+["palabra", "SP"],
+["SHIMI CARA", "Q"],
+["labio", "SP"],
+["SHIMI HUAICUPI", "Q"],
+["boca abajo", "SP"],
+["SHIMI JAHUA", "Q"],
+["boca arriba", "SP"],
+["SHIMI JITA", "Q"],
+["quijada", "SP"],
+["SHIMI JUNDA", "Q"],
+["bocado", "SP"],
+["SHIMI LABIU", "Q"],
+["labio", "SP"],
+["SHIMI PAMBAPI", "Q"],
+["boca abajo", "SP"],
+["SHIMI PASCANA", "Q"],
+["bostezar", "SP"],
+["SHIMILLAJ", "Q"],
+["tartamudo", "SP"],
+["SHINA", "Q"],
+["así", "SP"],
+["SHINAI", "Q"],
+["entonces", "SP"],
+["SHINALLATAJ", "Q"],
+["entero", "SP"],
+["SHINCHACA", "Q"],
+["entonces", "SP"],
+["SHINGA", "Q"],
+["borracho", "SP"],
+["chumado", "SP"],
+["SHINGANA", "Q"],
+["emborracharse", "SP"],
+["SHINGASHCA", "Q"],
+["borracho", "SP"],
+["SHINGAYANA", "Q"],
+["emborracharse", "SP"],
+["SHINGAYISHCA", "Q"],
+["chumado", "SP"],
+["SHINLLI", "Q"],
+["fuerte", "SP"],
+["duro", "SP"],
+["tieso", "SP"],
+["rígido", "SP"],
+["valiente", "SP"],
+["difícil", "SP"],
+["fuerza", "SP"],
+["tosco", "SP"],
+["SHIQUINA", "Q"],
+["regar paja", "SP"],
+["SHIRA UMA", "Q"],
+["desgreñado", "SP"],
+["SHITANA", "Q"],
+["botar", "SP"],
+["echar", "SP"],
+["tirar", "SP"],
+["abandonar", "SP"],
+["sembrar", "SP"],
+["SHITARINA", "Q"],
+["descender", "SP"],
+["desmontar", "SP"],
+["SHITARISHCA HUASI", "Q"],
+["ruina", "SP"],
+["SHITASHA RINA", "Q"],
+["abandonar", "SP"],
+["SHITASHCA", "Q"],
+["desierto", "SP"],
+["SHITASHCA HUASI", "Q"],
+["ruina", "SP"],
+["SHITISHCA", "Q"],
+["desierto", "SP"],
+["SHUGLA", "Q"],
+["único", "SP"],
+["SHUGLLA", "Q"],
+["único", "SP"],
+["SHUHUA", "Q"],
+["ladrón", "SP"],
+["SHUHUA SHUNGU", "Q"],
+["murciélago", "SP"],
+["SHUHUA UCUCHA", "Q"],
+["murciélago", "SP"],
+["SHUHUAJ", "Q"],
+["ladrón", "SP"],
+["SHUHUANA", "Q"],
+["robar", "SP"],
+["explotar", "SP"],
+["SHUHUARINA", "Q"],
+["robar", "SP"],
+["SHUJ", "Q"],
+["uno", "SP"],
+["otro", "SP"],
+["alguien", "SP"],
+["diferente", "SP"],
+["SHUJ CARU RUNA", "Q"],
+["extraño", "SP"],
+["SHUJ CUTIN", "Q"],
+["vez", "SP"],
+["SHUJ LADUM TARPUNA", "Q"],
+["trasplantar", "SP"],
+["SHUJ LADUMAN", "Q"],
+["al revés", "SP"],
+["SHUJ LADUMUNDA JINTI", "Q"],
+["extraño", "SP"],
+["SHUJ LAYA", "Q"],
+["distinto", "SP"],
+["diferente", "SP"],
+["desigual", "SP"],
+["SHUJ RATU", "Q"],
+["de repente", "SP"],
+["SHUJ SHUJTA", "Q"],
+["aparte", "SP"],
+["SHUJ YALA", "Q"],
+["diferente", "SP"],
+["SHUJCA", "Q"],
+["alguien", "SP"],
+["SHUJCUNA", "Q"],
+["los demás", "SP"],
+["SHUJMI PASACHINA", "Q"],
+["trasplantar", "SP"],
+["SHUJTAJ", "Q"],
+["otro", "SP"],
+["diferente", "SP"],
+["SHUJTAJ SHUJTAJ", "Q"],
+["distinto", "SP"],
+["SHUJTIJ", "Q"],
+["diferente", "SP"],
+["SHULU", "Q"],
+["mestizo", "SP"],
+["SHULLA", "Q"],
+["rocio", "SP"],
+["SHULLUNA", "Q"],
+["abortar", "SP"],
+["SHUNGU", "Q"],
+["corazón", "SP"],
+["estómago", "SP"],
+["hígado", "SP"],
+["SHUNGU ANSAYANA", "Q"],
+["desmayarse", "SP"],
+["SHUNGU BULTACHINA", "Q"],
+["vomitar", "SP"],
+["SHUNGU BULTANA", "Q"],
+["vomitar", "SP"],
+["eructar", "SP"],
+["SHUNGU BULTANAUNA", "Q"],
+["tener náuseas", "SP"],
+["SHUNGU BULTANAYANA", "Q"],
+["tener náuseas", "SP"],
+["SHUNGU BULTINA", "Q"],
+["vomitar", "SP"],
+["SHUNGU JAHUAYANA", "Q"],
+["vomitar", "SP"],
+["SHUNGU SHITANA", "Q"],
+["vomitar", "SP"],
+["tener náuseas", "SP"],
+["SHUNGU SHITANAYANA", "Q"],
+["tener náuseas", "SP"],
+["SHUNGU TIGRANAYACHINA", "Q"],
+["tener náuseas", "SP"],
+["SHUNGUI", "Q"],
+["desayuno", "SP"],
+["SHUNGUNA", "Q"],
+["desayuno", "SP"],
+["SHUNGUNCHI", "Q"],
+["desayuno", "SP"],
+["SHUNGUTA TIGRANA", "Q"],
+["vomitar", "SP"],
+["SHUNLLU", "Q"],
+["zonzo", "SP"],
+["SHUNSHU", "Q"],
+["zonzo", "SP"],
+["SHUPAJ CHURI", "Q"],
+["entenado", "SP"],
+["SHUPAJ USHI", "Q"],
+["entenada", "SP"],
+["SHURUNA", "Q"],
+["retoñar", "SP"],
+["SHURUSHCA", "Q"],
+["retoño", "SP"],
+["SHUSHANA", "Q"],
+["filtrar", "SP"],
+["SHUSHUNA", "Q"],
+["cerner", "SP"],
+["cribar", "SP"],
+["filtrar", "SP"],
+["residuo", "SP"],
+["SHUTI", "Q"],
+["nombre", "SP"],
+["apellido", "SP"],
+["SHUTI CUNA", "Q"],
+["llamar", "SP"],
+["SHUTICHI", "Q"],
+["bautizo", "SP"],
+["SHUTICHINA", "Q"],
+["bautizar", "SP"],
+["llamar", "SP"],
+["nombrar f", "SP"],
+["bautizo", "SP"],
+["SHUTISHINA", "Q"],
+["llamar", "SP"],
+["SHUTU", "Q"],
+["gota", "SP"],
+["mojado", "SP"],
+["SHUTUCHINA", "Q"],
+["derramar", "SP"],
+["mojar", "SP"],
+["remojar", "SP"],
+["SHUTUGYANA", "Q"],
+["mojar", "SP"],
+["SHUTUI", "Q"],
+["gota", "SP"],
+["SHUTUJ", "Q"],
+["mojado", "SP"],
+["húmedo", "SP"],
+["SHUTUNA", "Q"],
+["mojar", "SP"],
+["filtrar", "SP"],
+["SHUTURISHCA", "Q"],
+["húmedo", "SP"],
+["SHUTUSHCA", "Q"],
+["mojado", "SP"],
+["SHUYANA", "Q"],
+["esperar", "SP"],
+["demorar", "SP"],
+["permanecer", "SP"],
+["SHUYU", "Q"],
+["sucio", "SP"],
+["TABACUNA", "Q"],
+["fumar", "SP"],
+["TABANU", "Q"],
+["tábano", "SP"],
+["TABUDU SATINA", "Q"],
+["clavar", "SP"],
+["TACAI", "Q"],
+["golpe", "SP"],
+["TACANA", "Q"],
+["golpear", "SP"],
+["trillar a mano", "SP"],
+["clavar", "SP"],
+["castigar", "SP"],
+["luchar", "SP"],
+["golpe", "SP"],
+["TACANACUNA", "Q"],
+["pelear", "SP"],
+["TACANUCUNA", "Q"],
+["pelear", "SP"],
+["TACARINA", "Q"],
+["tocar", "SP"],
+["tropezar", "SP"],
+["TACAZU", "Q"],
+["paladar", "SP"],
+["TACUNGA", "Q"],
+["Latacunga", "SP"],
+["TACHANA", "Q"],
+["zurcir", "SP"],
+["TAFIA", "Q"],
+["pared", "SP"],
+["TAFIANA", "Q"],
+["cercar", "SP"],
+["TAGSHANA", "Q"],
+["lavar ropa", "SP"],
+["TAITA", "Q"],
+["padre", "SP"],
+["TAITA CURA", "Q"],
+["sacerdote", "SP"],
+["TAITA GANDI", "Q"],
+["abuelo", "SP"],
+["TAITA MAMA ILLAJ", "Q"],
+["huérfano", "SP"],
+["TAJSHANA", "Q"],
+["lavar ropa", "SP"],
+["enjuagar", "SP"],
+["TAJSHI TUCUNA", "Q"],
+["enjuagar", "SP"],
+["TALANQUIRA", "Q"],
+["cerco", "SP"],
+["TALBIS", "Q"],
+["tal vez", "SP"],
+["TALINA", "Q"],
+["verter", "SP"],
+["derramar", "SP"],
+["regar agua", "SP"],
+["vaciar", "SP"],
+["TALPA", "Q"],
+["blusa", "SP"],
+["TALUN", "Q"],
+["talón", "SP"],
+["TALLINA", "Q"],
+["verter", "SP"],
+["derramar", "SP"],
+["regar agua", "SP"],
+["vaciar", "SP"],
+["TAMBU", "Q"],
+["posada", "SP"],
+["TAMBUR", "Q"],
+["tambor", "SP"],
+["TAMBURA", "Q"],
+["tambor", "SP"],
+["TAMIA", "Q"],
+["lluvia", "SP"],
+["TAMIA CUCHA", "Q"],
+["charco", "SP"],
+["TAMIA HUACANA", "Q"],
+["tronar", "SP"],
+["TAMIA LAGUNA", "Q"],
+["charco", "SP"],
+["TAMIA TIMPU", "Q"],
+["invierno", "SP"],
+["TAMIA TYIMPU", "Q"],
+["invierno", "SP"],
+["TAMIA USIA", "Q"],
+["lluvia con sol", "SP"],
+["TAMIA YACU", "Q"],
+["cha reo", "SP"],
+["TAMIANA", "Q"],
+["llover", "SP"],
+["TAMIANA QUILLA", "Q"],
+["invierno", "SP"],
+["TAMIARINA", "Q"],
+["llovizna", "SP"],
+["TAMIUN INTI", "Q"],
+["lluvia con sol", "SP"],
+["TAMU", "Q"],
+["paja de cebada", "SP"],
+["TANCANA", "Q"],
+["moler", "SP"],
+["TANCHANA", "Q"],
+["adivinar", "SP"],
+["TANDA", "Q"],
+["pan", "SP"],
+["juntos", "SP"],
+["TANDACHINA", "Q"],
+["juntar", "SP"],
+["amontonar", "SP"],
+["recoger", "SP"],
+["unir", "SP"],
+["arrimar", "SP"],
+["completar", "SP"],
+["ensartar", "SP"],
+["devanar", "SP"],
+["cosechar", "SP"],
+["segar", "SP"],
+["reunión", "SP"],
+["TANDACHISHCA", "Q"],
+["juntos", "SP"],
+["TANDALLA", "Q"],
+["juntos", "SP"],
+["TANDANA", "Q"],
+["recoger", "SP"],
+["juntar", "SP"],
+["enrollar", "SP"],
+["TANDANACUI", "Q"],
+["reunión", "SP"],
+["TANDANACUNA", "Q"],
+["reunirse", "SP"],
+["unir", "SP"],
+["encogerse", "SP"],
+["reunión", "SP"],
+["TANDANACUSHCA", "Q"],
+["juntos", "SP"],
+["grupo", "SP"],
+["TANDANACHI", "Q"],
+["reunión", "SP"],
+["TANDANAJUI", "Q"],
+["reunión", "SP"],
+["TANDANAJUNA", "Q"],
+["unir", "SP"],
+["reunirse", "SP"],
+["TANDANAJUSHCA", "Q"],
+["juntos", "SP"],
+["TANDANUCUSHCA", "Q"],
+["juntos", "SP"],
+["TANDANUQUI", "Q"],
+["reunión", "SP"],
+["TANDARINA", "Q"],
+["reunirse", "SP"],
+["encogerse", "SP"],
+["reunión", "SP"],
+["TANDARISHCA", "Q"],
+["juntos", "SP"],
+["TANGANA", "Q"],
+["empujar", "SP"],
+["TANTIANA", "Q"],
+["tocar", "SP"],
+["TAPACHINA", "Q"],
+["tapar", "SP"],
+["TAPANA", "Q"],
+["tapar", "SP"],
+["TAPIA", "Q"],
+["tapia", "SP"],
+["TAPIAL", "Q"],
+["tapia", "SP"],
+["pared", "SP"],
+["TAPUNA", "Q"],
+["preguntar", "SP"],
+["averiguar", "SP"],
+["TAQUI", "Q"],
+["golpe", "SP"],
+["troje", "SP"],
+["TARBUNA", "Q"],
+["plantar", "SP"],
+["trasplantar", "SP"],
+["TARDANA", "Q"],
+["tardar", "SP"],
+["demorar", "SP"],
+["TARDI", "Q"],
+["tarde", "SP"],
+["TARDIYAMUNA", "Q"],
+["tardecer", "SP"],
+["TARDIYANA", "Q"],
+["tardar", "SP"],
+["tardecer", "SP"],
+["TARINA", "Q"],
+["hallar", "SP"],
+["encontrar", "SP"],
+["vaciar", "SP"],
+["TARIPANA", "Q"],
+["averiguar", "SP"],
+["TARPUGRINA", "Q"],
+["regar agua", "SP"],
+["TARPUNA", "Q"],
+["sembrar", "SP"],
+["plantar", "SP"],
+["trasplantar", "SP"],
+["TARPUNA ALLPA", "Q"],
+["sementera", "SP"],
+["TARTA", "Q"],
+["mudo", "SP"],
+["TARTA TUNTU", "Q"],
+["tartamudo", "SP"],
+["TARTUSU TUNTU", "Q"],
+["tartamudo", "SP"],
+["TARUGA", "Q"],
+["venado", "SP"],
+["TASAHUAI", "Q"],
+["cascada", "SP"],
+["TASANA", "Q"],
+["adivinar", "SP"],
+["TASQUI", "Q"],
+["cascada", "SP"],
+["TATACUHUA", "Q"],
+["enano", "SP"],
+["TATAMA QUIRU", "Q"],
+["muela", "SP"],
+["TAUBISCHARI", "Q"],
+["tal vez", "SP"],
+["TAUCA", "Q"],
+["mucho", "SP"],
+["TAUCA BIAJI", "Q"],
+["vez", "SP"],
+["TAUCAPURA", "Q"],
+["grupo", "SP"],
+["TAUGA", "Q"],
+["mucho", "SP"],
+["hato", "SP"],
+["TAUGAPURA", "Q"],
+["grupo", "SP"],
+["TAUNA", "Q"],
+["bastón", "SP"],
+["vara", "SP"],
+["TAUNA CASPI", "Q"],
+["bastón", "SP"],
+["TAURI", "Q"],
+["chocho", "SP"],
+["TAZA", "Q"],
+["canasta", "SP"],
+["TAZA UMA", "Q"],
+["desgreñado", "SP"],
+["TAZAN", "Q"],
+["nido", "SP"],
+["TAZIN", "Q"],
+["nido", "SP"],
+["TIA", "Q"],
+["tía", "SP"],
+["TICHU", "Q"],
+["techo", "SP"],
+["TIGRA TARPUNA", "Q"],
+["trasplantar", "SP"],
+["TIGRACHINA", "Q"],
+["devolver", "SP"],
+["responder", "SP"],
+["restituir", "SP"],
+["traducir", "SP"],
+["entregar", "SP"],
+["TIGRACHISHPA CASHTUNA", "Q"],
+["rumiar", "SP"],
+["TIGRAMAN", "Q"],
+["al revés", "SP"],
+["TIGRAMUNA", "Q"],
+["volver", "SP"],
+["TIGRANA", "Q"],
+["regresar", "SP"],
+["voltear", "SP"],
+["virar", "SP"],
+["caerse", "SP"],
+["TIGRARINA", "Q"],
+["revolverse", "SP"],
+["TIGYANA", "Q"],
+["brotar", "SP"],
+["TIJANA", "Q"],
+["zurcir", "SP"],
+["TIJINA", "Q"],
+["tejer", "SP"],
+["TILA", "Q"],
+["tela", "SP"],
+["TILANA", "Q"],
+["telar", "SP"],
+["TILAR", "Q"],
+["telar", "SP"],
+["TILASHCA", "Q"],
+["tela", "SP"],
+["TILAYACHINA", "Q"],
+["deslizar", "SP"],
+["TILIR", "Q"],
+["telar", "SP"],
+["TIMBLACHINA", "Q"],
+["temblar", "SP"],
+["TIMBLANA", "Q"],
+["estirar", "SP"],
+["TIMBLUR", "Q"],
+["terremoto", "SP"],
+["TIMBUCHINA", "Q"],
+["hervir", "SP"],
+["fermentar", "SP"],
+["TIMBUR SAMI", "Q"],
+["vapor", "SP"],
+["TIMBUNA", "Q"],
+["hervir", "SP"],
+["TIMPLANA", "Q"],
+["estirar", "SP"],
+["tirar", "SP"],
+["TIMPLUR", "Q"],
+["terremoto", "SP"],
+["TIMPU", "Q"],
+["tiempo", "SP"],
+["TIMUN", "Q"],
+["arado", "SP"],
+["TINCANA", "Q"],
+["brincar", "SP"],
+["saltar", "SP"],
+["TINDINA", "Q"],
+["regar cosas", "SP"],
+["regar paja", "SP"],
+["estirar", "SP"],
+["TINDUN", "Q"],
+["tendón", "SP"],
+["TINGADUR", "Q"],
+["catapulta", "SP"],
+["TINGU", "Q"],
+["recodo", "SP"],
+["TINGUINA", "Q"],
+["unir", "SP"],
+["TINTURANA", "Q"],
+["tinturar", "SP"],
+["TIÑINA", "Q"],
+["teñir", "SP"],
+["tinturar", "SP"],
+["TIPINA", "Q"],
+["deshojar", "SP"],
+["TIPU", "Q"],
+["crespo", "SP"],
+["TIRANA", "Q"],
+["disparar", "SP"],
+["arrancar", "SP"],
+["catapulta", "SP"],
+["TIRITANA", "Q"],
+["temblar", "SP"],
+["TIRSINA", "Q"],
+["carnicero", "SP"],
+["TIRU CACHARINA", "Q"],
+["disparar", "SP"],
+["TISANA", "Q"],
+["cardana", "SP"],
+["TISPINA", "Q"],
+["pellizcar", "SP"],
+["picar", "SP"],
+["pinchar", "SP"],
+["deshojar", "SP"],
+["TISU", "Q"],
+["tieso", "SP"],
+["rígido", "SP"],
+["paralizado", "SP"],
+["orgulloso", "SP"],
+["TISUYASHCA", "Q"],
+["rígido", "SP"],
+["TITAGYANA", "Q"],
+["calentarse", "SP"],
+["TITAJ", "Q"],
+["fuego", "SP"],
+["llama", "SP"],
+["calor", "SP"],
+["caliente", "SP"],
+["TITI", "Q"],
+["metal", "SP"],
+["TIU", "Q"],
+["tío", "SP"],
+["TIYAGLLA", "Q"],
+["quieto", "SP"],
+["TIYAILLA", "Q"],
+["quieto", "SP"],
+["TIYAN", "Q"],
+["hay", "SP"],
+["TIYANA", "Q"],
+["estar", "SP"],
+["existir", "SP"],
+["permanecer", "SP"],
+["TIYARINA", "Q"],
+["sentarse", "SP"],
+["montar a caballo", "SP"],
+["TIYAUN", "Q"],
+["hay", "SP"],
+["TIYILLA", "Q"],
+["quieto", "SP"],
+["TIYU", "Q"],
+["arena", "SP"],
+["TRABAJANA", "Q"],
+["trabajar", "SP"],
+["construir", "SP"],
+["tejer", "SP"],
+["rallar", "SP"],
+["TRABAJU", "Q"],
+["difícil", "SP"],
+["TRADUSINA", "Q"],
+["traducir", "SP"],
+["TRAGUYUJ", "Q"],
+["poroso", "SP"],
+["TRAMPA", "Q"],
+["trampa", "SP"],
+["TRANCANA", "Q"],
+["atrancar", "SP"],
+["impedir", "SP"],
+["TRANDUSINA", "Q"],
+["traducir", "SP"],
+["TRANQUILLA", "Q"],
+["tranquilo", "SP"],
+["TRANSIA", "Q"],
+["broma", "SP"],
+["TRAPU", "Q"],
+["trapo", "SP"],
+["TRAPUHUA", "Q"],
+["pañal", "SP"],
+["TRAPUSU", "Q"],
+["andrajoso", "SP"],
+["TRAPUZU", "Q"],
+["haraposo", "SP"],
+["TRASTI", "Q"],
+["ropa", "SP"],
+["TRIGLI", "Q"],
+["claro", "SP"],
+["TRILLANA", "Q"],
+["trillar a caballo", "SP"],
+["trillar a mano", "SP"],
+["TRINCHI", "Q"],
+["tenedor", "SP"],
+["TRINTI", "Q"],
+["tenedor", "SP"],
+["TRINZA", "Q"],
+["trenza", "SP"],
+["TRUCANA", "Q"],
+["convertirse", "SP"],
+["TRUCHANA", "Q"],
+["desmontar", "SP"],
+["TRUINU", "Q"],
+["trueno", "SP"],
+["TRUJA", "Q"],
+["troje", "SP"],
+["TRUJI", "Q"],
+["troje", "SP"],
+["TRUNANA", "Q"],
+["tronar", "SP"],
+["TRUNCU", "Q"],
+["tronco", "SP"],
+["TRUNIDU", "Q"],
+["trueno", "SP"],
+["TRUYINA", "Q"],
+["trueno", "SP"],
+["TRUYINANA", "Q"],
+["tronar", "SP"],
+["TRUZU", "Q"],
+["pedazo", "SP"],
+["TUCA", "Q"],
+["saliva", "SP"],
+["baba", "SP"],
+["TUCANA", "Q"],
+["tocar", "SP"],
+["escupir", "SP"],
+["TUCUCHINA", "Q"],
+["acabar", "SP"],
+["concluir", "SP"],
+["terminar", "SP"],
+["completar", "SP"],
+["gastar", "SP"],
+["destruir", "SP"],
+["TUCUI", "Q"],
+["todo", "SP"],
+["todos", "SP"],
+["entero", "SP"],
+["TUCUI ALLI", "Q"],
+["completamente", "SP"],
+["TUCUI RATU", "Q"],
+["siempre", "SP"],
+["TUCUI RATU", "Q"],
+["siempre", "SP"],
+["TUCUI URAS", "Q"],
+["siempre", "SP"],
+["TUCUILA", "Q"],
+["totalmente", "SP"],
+["TUCUILLA", "Q"],
+["completamente", "SP"],
+["totalmente", "SP"],
+["enteramente", "SP"],
+["entero", "SP"],
+["juntos", "SP"],
+["TUCUITA", "Q"],
+["enteramente", "SP"],
+["totalmente", "SP"],
+["TUCUITA YALLI", "Q"],
+["entero", "SP"],
+["TUCUNA", "Q"],
+["hacerse", "SP"],
+["volverse", "SP"],
+["convertirse", "SP"],
+["suceder", "SP"],
+["poder", "SP"],
+["TUCURI", "Q"],
+["último", "SP"],
+["TUCURINA", "Q"],
+["morir", "SP"],
+["TUGLLA", "Q"],
+["trampa", "SP"],
+["TUGLLAI", "Q"],
+["trampa", "SP"],
+["TUGMU", "Q"],
+["sir punta", "SP"],
+["embotado", "SP"],
+["TUGRU", "Q"],
+["coágulo", "SP"],
+["TUGYA", "Q"],
+["tumor", "SP"],
+["TUGYACHINA", "Q"],
+["reventar", "SP"],
+["disparar", "SP"],
+["TUGYANA TUPAJ", "Q"],
+["reventar", "SP"],
+["brotar", "SP"],
+["TUIRTU", "Q"],
+["ciego", "SP"],
+["tuerto", "SP"],
+["bizco", "SP"],
+["TUIRTUYANA", "Q"],
+["cegar", "SP"],
+["TUJSINA", "Q"],
+["picar", "SP"],
+["pinchar", "SP"],
+["inyectar", "SP"],
+["TUJTI", "Q"],
+["nuez", "SP"],
+["TUJTITU", "Q"],
+["humitas", "SP"],
+["TUJTU", "Q"],
+["brote floral de maíz", "SP"],
+["TUJYANA", "Q"],
+["tronar", "SP"],
+["TULA", "Q"],
+["palo para cavar papas", "SP"],
+["loma", "SP"],
+["TULANA", "Q"],
+["desmontar", "SP"],
+["TULPA", "Q"],
+["estufa", "SP"],
+["fogón", "SP"],
+["TULUN NINA", "Q"],
+["tronar", "SP"],
+["TULLMU", "Q"],
+["embotado", "SP"],
+["sin punta", "SP"],
+["TULLPA", "Q"],
+["fogón", "SP"],
+["estufa", "SP"],
+["TULLU", "Q"],
+["hueso", "SP"],
+["flaco", "SP"],
+["delgado", "SP"],
+["delicado", "SP"],
+["débil", "SP"],
+["tronco", "SP"],
+["TULLUN CARAUN", "Q"],
+["flaco", "SP"],
+["TULLUYASHCA", "Q"],
+["flaco", "SP"],
+["TUMA", "Q"],
+["acequia", "SP"],
+["TUMUR", "Q"],
+["absceso", "SP"],
+["TUNDUJANA", "Q"],
+["abrigarse", "SP"],
+["TUNGURI", "Q"],
+["garganta", "SP"],
+["manzana", "SP"],
+["TUNI", "Q"],
+["derrumbe", "SP"],
+["TUNINA", "Q"],
+["derrumbar", "SP"],
+["TUNIRISHCA", "Q"],
+["terremoto", "SP"],
+["TUNTAMINTI", "Q"],
+["muy", "SP"],
+["totalmente", "SP"],
+["TUNTU", "Q"],
+["mudo", "SP"],
+["zonzo", "SP"],
+["sordo", "SP"],
+["tartamudo", "SP"],
+["terco", "SP"],
+["TUNTUHUA", "Q"],
+["humilde", "SP"],
+["TUNU", "Q"],
+["música", "SP"],
+["canción", "SP"],
+["TUNUGYACHINA", "Q"],
+["alargar", "SP"],
+["TUÑI", "Q"],
+["derrumbe", "SP"],
+["TUÑINA", "Q"],
+["derrumbar", "SP"],
+["TUÑIRI", "Q"],
+["derrumbe", "SP"],
+["TUÑISHCA", "Q"],
+["derrumbe", "SP"],
+["TUPAJ", "Q"],
+["murciélago", "SP"],
+["TUPAN", "Q"],
+["murciélago", "SP"],
+["TUPANA", "Q"],
+["encontrarse con", "SP"],
+["hallar", "SP"],
+["tocar", "SP"],
+["TUPANACUNA", "Q"],
+["encontrarse con", "SP"],
+["TUPARINA", "Q"],
+["encontrarse con", "SP"],
+["tocar", "SP"],
+["TUPARINALA", "Q"],
+["delicado", "SP"],
+["TUPU", "Q"],
+["prendedor", "SP"],
+["medida", "SP"],
+["tamaño", "SP"],
+["TUPUDA JAPINA", "Q"],
+["medir", "SP"],
+["TUPULINA", "Q"],
+["prendedor", "SP"],
+["TUPULLI", "Q"],
+["prendedor", "SP"],
+["TUPULLINA", "Q"],
+["prendedor", "SP"],
+["TUPUNA", "Q"],
+["medir", "SP"],
+["medida", "SP"],
+["TUPUSHCA", "Q"],
+["medida", "SP"],
+["TUQUI", "Q"],
+["todo", "SP"],
+["todos", "SP"],
+["entero", "SP"],
+["TUQUI BIDA", "Q"],
+["siempre", "SP"],
+["TUQUI TIMPU", "Q"],
+["siempre", "SP"],
+["TUQUI TUQUITA", "Q"],
+["totalmente", "SP"],
+["TUQUILA", "Q"],
+["totalmente", "SP"],
+["TURBARINA", "Q"],
+["equivocarse", "SP"],
+["TURI", "Q"],
+["hermano", "SP"],
+["sobrino", "SP"],
+["TURSINA", "Q"],
+["torcer", "SP"],
+["retorcer", "SP"],
+["TURTILLA", "Q"],
+["humitas", "SP"],
+["TURTU", "Q"],
+["ciego", "SP"],
+["bizco", "SP"],
+["TURU", "Q"],
+["lodo", "SP"],
+["barro", "SP"],
+["turbio", "SP"],
+["TURU PLATU", "Q"],
+["plato", "SP"],
+["TURUHUAN", "Q"],
+["turbio", "SP"],
+["TUSA", "Q"],
+["tusa", "SP"],
+["TUSCU", "Q"],
+["tosco", "SP"],
+["TUSHAJ", "Q"],
+["vacio", "SP"],
+["TUSHUNA", "Q"],
+["bailar", "SP"],
+["danzar", "SP"],
+["brincar", "SP"],
+["TUTA", "Q"],
+["noche", "SP"],
+["obscuro", "SP"],
+["TUTA PISHCU", "Q"],
+["murciélago", "SP"],
+["TUTAMANDA", "Q"],
+["mañana", "SP"],
+["madrugada", "SP"],
+["TUTAMANTA", "Q"],
+["mañana", "SP"],
+["madrugada", "SP"],
+["TUTAMANTA MICUNA", "Q"],
+["desayuno", "SP"],
+["TUTAMANTA RINA", "Q"],
+["madrugar", "SP"],
+["TUTAMUNDA", "Q"],
+["mañana", "SP"],
+["madrugada", "SP"],
+["TUTAMUNDA JATARINA", "Q"],
+["madrugar", "SP"],
+["TUTAMUNDA RINA", "Q"],
+["madrugar", "SP"],
+["TUTAMUNTA", "Q"],
+["mañana", "SP"],
+["TUTAYANA", "Q"],
+["anochecer", "SP"],
+["tardecer", "SP"],
+["TUTU", "Q"],
+["ovilla de hilo", "SP"],
+["embudo", "SP"],
+["tobillo", "SP"],
+["TUTUJ", "Q"],
+["brote floral de maíz", "SP"],
+["TUTUNA", "Q"],
+["ovillar", "SP"],
+["TUZULYASHCA", "Q"],
+["tumor", "SP"],
+["T'ACAZU", "Q"],
+["paladar", "SP"],
+["T'ACURINA", "Q"],
+["fregar", "SP"],
+["T'ALA", "Q"],
+["débil", "SP"],
+["T'ALAYASHCA", "Q"],
+["débil", "SP"],
+["T'ALLINA", "Q"],
+["derramar", "SP"],
+["T'AMU", "Q"],
+["paja", "SP"],
+["T'ANGANA", "Q"],
+["empujar", "SP"],
+["T'IMBUCHINA", "Q"],
+["hervir", "SP"],
+["T'IMBUNA", "Q"],
+["hervir", "SP"],
+["T'ITAGYACHINA", "Q"],
+["hacer calor", "SP"],
+["T'IYU", "Q"],
+["arena", "SP"],
+["T'UCA", "Q"],
+["saliva", "SP"],
+["baba", "SP"],
+["T'UCANA", "Q"],
+["escupir", "SP"],
+["T'UCU", "Q"],
+["brote floral de maíz", "SP"],
+["T'UJTU", "Q"],
+["brote floral de maíz", "SP"],
+["T'UNI", "Q"],
+["derrumbe", "SP"],
+["T'UNIN", "Q"],
+["terremoto", "SP"],
+["T'UNINA", "Q"],
+["derrumbar", "SP"],
+["T'UNIRINA", "Q"],
+["derrumbar", "SP"],
+["T'UNISHCA", "Q"],
+["derrumbe", "SP"],
+["T'UÑI", "Q"],
+["derrumbe", "SP"],
+["T'UÑINA", "Q"],
+["derrumbar", "SP"],
+["T'UÑIRINA", "Q"],
+["derrumbar", "SP"],
+["T'UÑIRISHCA", "Q"],
+["derrumbe", "SP"],
+["T'UZU", "Q"],
+["muñon", "SP"],
+["TSAGNANA", "Q"],
+["amarrar", "SP"],
+["TSAGRA", "Q"],
+["sementera", "SP"],
+["TSAHUAR", "Q"],
+["cabuya blanca", "SP"],
+["TSALA", "Q"],
+["flaco", "SP"],
+["delgado", "SP"],
+["mestizo", "SP"],
+["TSARQUI", "Q"],
+["charqui", "SP"],
+["flaco", "SP"],
+["TSATSA UMA", "Q"],
+["desgreñado", "SP"],
+["TSAÜR", "Q"],
+["cabuya blanca", "SP"],
+["TSAÜR AJCHA", "Q"],
+["fibra de cabuya", "SP"],
+["TSAÜR MILMA", "Q"],
+["fibra de cabuya", "SP"],
+["TSIGA HUIÑANA", "Q"],
+["retoñar", "SP"],
+["TSIGASHCA", "Q"],
+["retoño", "SP"],
+["TSIJTSI", "Q"],
+["murciélago", "SP"],
+["TSILINQUITSI", "Q"],
+["lagartija", "SP"],
+["TSINI", "Q"],
+["ortiga", "SP"],
+["TSIRAPA", "Q"],
+["llovizna", "SP"],
+["lluvia con sol", "SP"],
+["crespo", "SP"],
+["desgreñado", "SP"],
+["TSIRAPAI", "Q"],
+["llovizna", "SP"],
+["TSITSIQUINA", "Q"],
+["pellizcar", "SP"],
+["TSIYA", "Q"],
+["liendre", "SP"],
+["TSIYA LULUN", "Q"],
+["liendre", "SP"],
+["TSUGRINA", "Q"],
+["herir", "SP"],
+["lastimar", "SP"],
+["TSUGRISHCA", "Q"],
+["herida", "SP"],
+["paralizado", "SP"],
+["pus", "SP"],
+["TSUJTSUJ", "Q"],
+["mirlo", "SP"],
+["TSUNGANA", "Q"],
+["chupar", "SP"],
+["absorber", "SP"],
+["TSUNSHU", "Q"],
+["tartamudo", "SP"],
+["TSUNTSU", "Q"],
+["andrajoso", "SP"],
+["haraposo", "SP"],
+["TSUNZU", "Q"],
+["haraposo", "SP"],
+["TSUPANA", "Q"],
+["chupar", "SP"],
+["absorber", "SP"],
+["fumar", "SP"],
+["TSUTSUQUINA", "Q"],
+["agarrar", "SP"],
+["ceñir", "SP"],
+["TYIMPU", "Q"],
+["tiempo", "SP"],
+["TYUGMU", "Q"],
+["embotado", "SP"],
+["TY'UCA", "Q"],
+["saliva", "SP"],
+["baba", "SP"],
+["TY'UCANA", "Q"],
+["escupir", "SP"],
+["TY'UNGIL", "Q"],
+["sapo", "SP"],
+["TY'UNGUCHINA", "Q"],
+["tapar", "SP"],
+["UBIANA", "Q"],
+["beber", "SP"],
+["tomar", "SP"],
+["UBIASHCA", "Q"],
+["borracho", "SP"],
+["UBIDISINA", "Q"],
+["obedecer", "SP"],
+["cumplir", "SP"],
+["UBIJA", "Q"],
+["oveja", "SP"],
+["cordero", "SP"],
+["UBIN", "Q"],
+["tal vez", "SP"],
+["UBINA", "Q"],
+["tomar", "SP"],
+["UCA", "Q"],
+["oca", "SP"],
+["UCALITU", "Q"],
+["eucalipto", "SP"],
+["UCSIDINTI", "Q"],
+["oeste", "SP"],
+["UCU", "Q"],
+["adentro", "SP"],
+["dentro de", "SP"],
+["interior", "SP"],
+["cuarto", "SP"],
+["debajo de", "SP"],
+["bajo", "SP"],
+["profundo", "SP"],
+["hondo", "SP"],
+["fondo", "SP"],
+["UCU LADU", "Q"],
+["al revés", "SP"],
+["UCU PACHA", "Q"],
+["infierno", "SP"],
+["UCU PACHA JINTI", "Q"],
+["enano", "SP"],
+["UCU PAMBA", "Q"],
+["piso", "SP"],
+["UCU TABLANA", "Q"],
+["piso", "SP"],
+["UCU YANUNA", "Q"],
+["cocina", "SP"],
+["UCUCHA", "Q"],
+["ratón", "SP"],
+["pericote", "SP"],
+["UCUCHU", "Q"],
+["ratón", "SP"],
+["UCUNCHI", "Q"],
+["falda", "SP"],
+["UCUTI", "Q"],
+["ano", "SP"],
+["UC'U PACHA", "Q"],
+["infierno", "SP"],
+["UCHA", "Q"],
+["chico", "SP"],
+["UCHA-UCHA", "Q"],
+["ligero", "SP"],
+["UCHILA", "Q"],
+["corto", "SP"],
+["bajo", "SP"],
+["pequeño", "SP"],
+["chico", "SP"],
+["enano", "SP"],
+["UCHILLA", "Q"],
+["bajo", "SP"],
+["corto", "SP"],
+["pequeño", "SP"],
+["chico", "SP"],
+["diminuto", "SP"],
+["enano", "SP"],
+["UCHILLA HUAHUA", "Q"],
+["criatura", "SP"],
+["UCHILLACHINA", "Q"],
+["encogerse", "SP"],
+["UCHILLITU", "Q"],
+["diminuto", "SP"],
+["UCHINLLA", "Q"],
+["pequeño", "SP"],
+["diminuto", "SP"],
+["UCHIQUILLA", "Q"],
+["chico", "SP"],
+["UCHIQUILLAHUA", "Q"],
+["diminuto", "SP"],
+["UCHPA", "Q"],
+["ceniza", "SP"],
+["UCHU", "Q"],
+["ají", "SP"],
+["UCHU HUAQUI", "Q"],
+["hermano menor", "SP"],
+["UCHU SHUNGU", "Q"],
+["delicado", "SP"],
+["UCHUFA", "Q"],
+["ceniza", "SP"],
+["UCHUIL UFIA", "Q"],
+["cordero", "SP"],
+["UCHUILLA", "Q"],
+["chico", "SP"],
+["pequeño", "SP"],
+["UCHUILLAYANA", "Q"],
+["encogerse", "SP"],
+["UCHUILLITU", "Q"],
+["diminuto", "SP"],
+["enano", "SP"],
+["UCHUJ", "Q"],
+["corto", "SP"],
+["chico", "SP"],
+["UCHUJ HUAQUI", "Q"],
+["hermano menor", "SP"],
+["UCHULA", "Q"],
+["corto", "SP"],
+["UCHULLA", "Q"],
+["chico", "SP"],
+["UCHUPA", "Q"],
+["ceniza", "SP"],
+["gris", "SP"],
+["UCHUPA LAYA", "Q"],
+["polvo", "SP"],
+["UFIANA", "Q"],
+["tomar", "SP"],
+["UFIASHCA", "Q"],
+["borracho", "SP"],
+["UFRISINA", "Q"],
+["ofrecer", "SP"],
+["UGLLANA", "Q"],
+["abrazar", "SP"],
+["acariciar", "SP"],
+["UGLLARANA", "Q"],
+["abrazar", "SP"],
+["UGLLARINA", "Q"],
+["abrazar", "SP"],
+["UGNINA", "Q"],
+["vomitar", "SP"],
+["UGSHA", "Q"],
+["paja", "SP"],
+["UJALITU", "Q"],
+["eucalipto", "SP"],
+["UJSIRICUNA", "Q"],
+["ofrecer", "SP"],
+["UJSHA", "Q"],
+["paja", "SP"],
+["UJSHA HUASI", "Q"],
+["choza", "SP"],
+["UJTA", "Q"],
+["rápido", "SP"],
+["pronto", "SP"],
+["ligero", "SP"],
+["UJTALLAHUA", "Q"],
+["rápido", "SP"],
+["UJTU", "Q"],
+["hueco", "SP"],
+["cueva", "SP"],
+["UJTUNA", "Q"],
+["perforar", "SP"],
+["cavar", "SP"],
+["madurar", "SP"],
+["UJTURISHCA", "Q"],
+["poroso", "SP"],
+["UJTUSHCA", "Q"],
+["pronto", "SP"],
+["UJU", "Q"],
+["tos", "SP"],
+["gripe", "SP"],
+["fiebre", "SP"],
+["UJU UNGUI", "Q"],
+["gripe", "SP"],
+["UJU UNGÜI", "Q"],
+["gripe", "SP"],
+["UJUI", "Q"],
+["tos", "SP"],
+["UJUJU", "Q"],
+["diablo", "SP"],
+["UJUN CALURIAN", "Q"],
+["fiebre", "SP"],
+["UJUNA", "Q"],
+["toser", "SP"],
+["tos", "SP"],
+["UJURINA", "Q"],
+["toser", "SP"],
+["sofocar", "SP"],
+["ULCA", "Q"],
+["copo", "SP"],
+["ULTIMU", "Q"],
+["último", "SP"],
+["ULTIMUHUA", "Q"],
+["último bebe", "SP"],
+["ULUN MAQUI", "Q"],
+["puño", "SP"],
+["ULLIRA", "Q"],
+["rebozo", "SP"],
+["ULLU", "Q"],
+["pene", "SP"],
+["UMA", "Q"],
+["cabeza", "SP"],
+["racimo", "SP"],
+["UMA CALABIRA", "Q"],
+["calavera", "SP"],
+["UMA CARPAYASHCA", "Q"],
+["desgreñado", "SP"],
+["UMA CHURUSHCA", "Q"],
+["al revés", "SP"],
+["UMA ÑUTCU", "Q"],
+["cerebro", "SP"],
+["UMA ÑUJTU", "Q"],
+["seso", "SP"],
+["UMA ÑUTUJU", "Q"],
+["cerebro", "SP"],
+["UMA P'RINTI", "Q"],
+["frente", "SP"],
+["UMA SAPA", "Q"],
+["desgreñado", "SP"],
+["UMA SHAYARISHCA", "Q"],
+["desgreñado", "SP"],
+["UMA TULLU", "Q"],
+["calavera", "SP"],
+["UMACHINA", "Q"],
+["explotar", "SP"],
+["UMANA", "Q"],
+["engañar", "SP"],
+["convencer", "SP"],
+["UMBRU", "Q"],
+["hombro", "SP"],
+["UMIDU", "Q"],
+["húmedo", "SP"],
+["UMIJUCHINA", "Q"],
+["acabar", "SP"],
+["UMILDI", "Q"],
+["humilde", "SP"],
+["UMUTA", "Q"],
+["corto", "SP"],
+["UMUTA GASHTA", "Q"],
+["enano", "SP"],
+["UMUTU", "Q"],
+["enano", "SP"],
+["UNAI", "Q"],
+["tiempo", "SP"],
+["UNAYANA", "Q"],
+["demorar", "SP"],
+["tardar", "SP"],
+["UNDU", "Q"],
+["hondo", "SP"],
+["profundo", "SP"],
+["UNGU", "Q"],
+["hongo", "SP"],
+["UNGUI", "Q"],
+["enfermedad", "SP"],
+["UNGÜI", "Q"],
+["enfermedad", "SP"],
+["fiebre", "SP"],
+["UNGUI JAPINA", "Q"],
+["enfermarse", "SP"],
+["UNGUNA", "Q"],
+["enfermarse", "SP"],
+["dar a luz", "SP"],
+["UNGURINA", "Q"],
+["enfermarse", "SP"],
+["UNGUSHCA", "Q"],
+["pálido", "SP"],
+["UNIJ", "Q"],
+["caracol", "SP"],
+["UNILLA", "Q"],
+["tiempo", "SP"],
+["UNIYANA", "Q"],
+["demorar", "SP"],
+["tardar", "SP"],
+["UÑAI", "Q"],
+["tiempo", "SP"],
+["UPA", "Q"],
+["zonzo", "SP"],
+["mudo", "SP"],
+["tartamudo", "SP"],
+["UPA RINRI", "Q"],
+["sordo", "SP"],
+["UPA SHIMI", "Q"],
+["mudo", "SP"],
+["UPACHINA", "Q"],
+["acallar", "SP"],
+["UPALA", "Q"],
+["silencio", "SP"],
+["quieto", "SP"],
+["secretamente", "SP"],
+["UPALANA", "Q"],
+["callarse", "SP"],
+["acallar", "SP"],
+["UPALAYACHINA", "Q"],
+["acallar", "SP"],
+["UPALLA", "Q"],
+["silencio", "SP"],
+["quieto", "SP"],
+["tranquilo", "SP"],
+["secretamente", "SP"],
+["UPALLACHINA", "Q"],
+["acallar", "SP"],
+["UPALLANA", "Q"],
+["callarse", "SP"],
+["acallar", "SP"],
+["UPALLAYACHINA", "Q"],
+["acallar", "SP"],
+["UPALLICHINA", "Q"],
+["engañar", "SP"],
+["UPANA", "Q"],
+["callarse", "SP"],
+["UPAYACHINA", "Q"],
+["acallar", "SP"],
+["amortiguar", "SP"],
+["UPAYANA", "Q"],
+["callarse", "SP"],
+["amortiguar", "SP"],
+["UPIANA", "Q"],
+["beber", "SP"],
+["tomar", "SP"],
+["UQUI", "Q"],
+["pardo", "SP"],
+["URA", "Q"],
+["abajo", "SP"],
+["bajo", "SP"],
+["debajo de", "SP"],
+["sur", "SP"],
+["hora", "SP"],
+["URA LADU", "Q"],
+["norte", "SP"],
+["URA LLAGTA", "Q"],
+["oeste", "SP"],
+["URA LLAJTA", "Q"],
+["valle", "SP"],
+["oriente", "SP"],
+["URA PAMBA", "Q"],
+["playa", "SP"],
+["URA SINGA", "Q"],
+["boca abajo", "SP"],
+["URA UCU", "Q"],
+["debajo de", "SP"],
+["valle", "SP"],
+["URAI", "Q"],
+["norte", "SP"],
+["bajo", "SP"],
+["URAL SINGA", "Q"],
+["boca abajo", "SP"],
+["URAICUCHINA", "Q"],
+["descargar", "SP"],
+["URAICUNA", "Q"],
+["bajarse", "SP"],
+["desmontar", "SP"],
+["URANA", "Q"],
+["hacer", "SP"],
+["construir", "SP"],
+["trabajar", "SP"],
+["URAS", "Q"],
+["tiempo", "SP"],
+["hora", "SP"],
+["URCU", "Q"],
+["cerro", "SP"],
+["sierra", "SP"],
+["loma", "SP"],
+["selva", "SP"],
+["URCU ASHCU", "Q"],
+["lobo", "SP"],
+["URCU LUMA", "Q"],
+["cumbre", "SP"],
+["URCU NABUS", "Q"],
+["nabo", "SP"],
+["URCU PAMBA", "Q"],
+["valle", "SP"],
+["URCU PUNDA", "Q"],
+["cumbre", "SP"],
+["URCU PUNTA", "Q"],
+["cumbre", "SP"],
+["URCU P'ILU", "Q"],
+["monte", "SP"],
+["URCU UMA", "Q"],
+["cumbre", "SP"],
+["URDINA", "Q"],
+["urdir", "SP"],
+["URI", "Q"],
+["abajo", "SP"],
+["al lado de", "SP"],
+["URI LADU", "Q"],
+["norte", "SP"],
+["sur", "SP"],
+["URI SINGA", "Q"],
+["boca abajo", "SP"],
+["URI SHIMI", "Q"],
+["boca abajo", "SP"],
+["URICACHINA", "Q"],
+["descargar", "SP"],
+["URICUCHINA", "Q"],
+["descargar", "SP"],
+["URICUNA", "Q"],
+["bajarse", "SP"],
+["descender", "SP"],
+["desmontar", "SP"],
+["URICHINA", "Q"],
+["descender", "SP"],
+["URIJIRIS", "Q"],
+["arete", "SP"],
+["URIJIS", "Q"],
+["arete", "SP"],
+["URIJUCHINA", "Q"],
+["descargar", "SP"],
+["desmontar", "SP"],
+["rebajar", "SP"],
+["URIJUNA", "Q"],
+["bajarse", "SP"],
+["descender", "SP"],
+["URILLA", "Q"],
+["orilla", "SP"],
+["borde", "SP"],
+["bajo", "SP"],
+["URINTI", "Q"],
+["oriente", "SP"],
+["URIQUINA", "Q"],
+["descender", "SP"],
+["descargar", "SP"],
+["desmontar", "SP"],
+["URIS", "Q"],
+["orilla", "SP"],
+["URIYACHINA", "Q"],
+["rebajar", "SP"],
+["URIYAJUCHINA", "Q"],
+["descargar", "SP"],
+["URIYAJUNA", "Q"],
+["bajarse", "SP"],
+["descender", "SP"],
+["URIYANA", "Q"],
+["bajarse", "SP"],
+["descender", "SP"],
+["desmontar", "SP"],
+["URMACUJ HUASI", "Q"],
+["ruina", "SP"],
+["URMACHINA", "Q"],
+["tumbar", "SP"],
+["revolcar", "SP"],
+["URMANA", "Q"],
+["caerse", "SP"],
+["rodar", "SP"],
+["URMIGA", "Q"],
+["hormiga", "SP"],
+["URPI", "Q"],
+["tórtola", "SP"],
+["URQUITA", "Q"],
+["horqueta", "SP"],
+["URTANA", "Q"],
+["descargar", "SP"],
+["URTARIMUNA", "Q"],
+["descender", "SP"],
+["URTARINA", "Q"],
+["bajarse", "SP"],
+["desmontar", "SP"],
+["URU", "Q"],
+["oro", "SP"],
+["URUS", "Q"],
+["hora", "SP"],
+["tiempo", "SP"],
+["US", "Q"],
+["oz", "SP"],
+["USA", "Q"],
+["piojo de la cabeza", "SP"],
+["piojo del cuerpo", "SP"],
+["USA CATINA", "Q"],
+["despiojar", "SP"],
+["USA JAPINA", "Q"],
+["despiojar", "SP"],
+["USA MASCANA", "Q"],
+["despiojar", "SP"],
+["USA PALLANA", "Q"],
+["despiojar", "SP"],
+["USANA", "Q"],
+["despiojar", "SP"],
+["USI", "Q"],
+["oz", "SP"],
+["USIANA", "Q"],
+["escampar", "SP"],
+["USIARINA", "Q"],
+["escampar", "SP"],
+["USIS", "Q"],
+["oz", "SP"],
+["USIUZU", "Q"],
+["ocioso", "SP"],
+["USIYA", "Q"],
+["verano", "SP"],
+["USIYA QUILLA", "Q"],
+["verano", "SP"],
+["USIYA TIMPU", "Q"],
+["verano", "SP"],
+["usus", "SP"],
+["oz", "SP"],
+["USYANA", "Q"],
+["aclarar", "SP"],
+["USHANA", "Q"],
+["poder", "SP"],
+["USHI", "Q"],
+["hija", "SP"],
+["USHPA", "Q"],
+["ceniza", "SP"],
+["polvo", "SP"],
+["USHTINA", "Q"],
+["desollar", "SP"],
+["USHUSHI", "Q"],
+["hija", "SP"],
+["USHUTA", "Q"],
+["sandalia", "SP"],
+["UTCA", "Q"],
+["pronto", "SP"],
+["rápido", "SP"],
+["ligero", "SP"],
+["UTCA PURINA", "Q"],
+["correr", "SP"],
+["UTCAI", "Q"],
+["rápido", "SP"],
+["UTCALLA", "Q"],
+["ligero", "SP"],
+["UTCASHPA RICUNALLA", "Q"],
+["transparente", "SP"],
+["UTCU", "Q"],
+["hueco", "SP"],
+["cueva", "SP"],
+["UTCUNA", "Q"],
+["perforar", "SP"],
+["UTICU", "Q"],
+["chico", "SP"],
+["diminuto", "SP"],
+["UTICU HUIÑANA", "Q"],
+["retoñar", "SP"],
+["UTIJLA", "Q"],
+["chico", "SP"],
+["UTILA", "Q"],
+["bajo", "SP"],
+["pequeño", "SP"],
+["chico", "SP"],
+["UTILA ATULA", "Q"],
+["pollito", "SP"],
+["UTILA HUAUQUI", "Q"],
+["hermano menor", "SP"],
+["UTILA RITUÑAJUNA", "Q"],
+["retoñar", "SP"],
+["UTILAHUA HUIÑAMUJUI", "Q"],
+["retoño", "SP"],
+["UTILLA", "Q"],
+["bajo", "SP"],
+["corto", "SP"],
+["pequeño", "SP"],
+["chico", "SP"],
+["diminuto", "SP"],
+["angosto", "SP"],
+["enano", "SP"],
+["UTILLA CUCHAHUA", "Q"],
+["charco", "SP"],
+["UTILLA HUAHUA", "Q"],
+["criatura", "SP"],
+["UTILLA HUAMBRA", "Q"],
+["criatura", "SP"],
+["UTILLA HUAQUI", "Q"],
+["hermano menor", "SP"],
+["UTILLA YURA", "Q"],
+["planta", "SP"],
+["UTILLAHUA", "Q"],
+["diminuto", "SP"],
+["menor", "SP"],
+["UTILLAHUAHUA", "Q"],
+["diminuto", "SP"],
+["UTILLAHUALLA", "Q"],
+["diminuto", "SP"],
+["UTILLAYANA", "Q"],
+["encogerse", "SP"],
+["UTINLLA", "Q"],
+["pequeño", "SP"],
+["enano", "SP"],
+["UTIYA", "Q"],
+["pronto", "SP"],
+["rápido", "SP"],
+["UTSIYA", "Q"],
+["rápido", "SP"],
+["UTU", "Q"],
+["sombrero", "SP"],
+["UTU CHAQUI", "Q"],
+["manco", "SP"],
+["UTU MAQUI", "Q"],
+["manco", "SP"],
+["UTU ULU", "Q"],
+["embotado", "SP"],
+["UTUJU", "Q"],
+["hueco", "SP"],
+["cueva", "SP"],
+["UTUJU SAPA", "Q"],
+["poroso", "SP"],
+["UTUJUNA", "Q"],
+["perforar", "SP"],
+["UTUNA", "Q"],
+["despedazar", "SP"],
+["UTUNLLA", "Q"],
+["enano", "SP"],
+["UYA", "Q"],
+["cara", "SP"],
+["mejilla", "SP"],
+["quijada", "SP"],
+["UYANA", "Q"],
+["oir", "SP"],
+["escuchar", "SP"],
+["entender", "SP"],
+["obedecer", "SP"],
+["espiar", "SP"],
+["UYARANA", "Q"],
+["escuchar", "SP"],
+["UYINA", "Q"],
+["huir", "SP"],
+["UYISH MITIJUNA", "Q"],
+["huir", "SP"],
+["UYUN", "Q"],
+["codo", "SP"],
+["UZU", "Q"],
+["huso", "SP"],
+["rodela", "SP"],
+["VICHAI", "Q"],
+["subida", "SP"],
+["cuesta", "SP"],
+["sur", "SP"],
+["VICHAI SINGA", "Q"],
+["boca arriba", "SP"],
+["VICHCANA", "Q"],
+["cerrar", "SP"],
+["VICHI", "Q"],
+["cazuela", "SP"],
+["VIJSA", "Q"],
+["barriga", "SP"],
+["vientre", "SP"],
+["panza", "SP"],
+["VIJSAYUJ", "Q"],
+["embarazada", "SP"],
+["VILLANA", "Q"],
+["avisar", "SP"],
+["VIÑACHINA", "Q"],
+["criar", "SP"],
+["educar", "SP"],
+["VIÑAMUNA", "Q"],
+["brotar", "SP"],
+["VIÑANA", "Q"],
+["crecer", "SP"],
+["nacer", "SP"],
+["VIÑARINA", "Q"],
+["retoñar", "SP"],
+["VIQUI", "Q"],
+["lagrima", "SP"],
+["resina", "SP"],
+["VIRA", "Q"],
+["manteca", "SP"],
+["gordo", "SP"],
+["VIRAJUCHA", "Q"],
+["mestizo", "SP"],
+["VIRU", "Q"],
+["caña dulce", "SP"],
+["VISHA", "Q"],
+["cucharón", "SP"],
+["VISHTUYANA", "Q"],
+["torcer", "SP"],
+["VITSANA", "Q"],
+["subir", "SP"],
+["YA", "Q"],
+["ya", "SP"],
+["YACA", "Q"],
+["casi", "SP"],
+["YACU", "Q"],
+["agua", "SP"],
+["río", "SP"],
+["YACU BULA", "Q"],
+["burbuja", "SP"],
+["YACU BUMBA", "Q"],
+["burbuja", "SP"],
+["YACU CASHCA", "Q"],
+["aguado", "SP"],
+["YACU CUCHA", "Q"],
+["charco", "SP"],
+["YACU CUSHNI", "Q"],
+["vapor", "SP"],
+["YACU ISHPA", "Q"],
+["orina", "SP"],
+["YACU ISHPANA", "Q"],
+["orinar", "SP"],
+["YACU LADU", "Q"],
+["orilla", "SP"],
+["playa", "SP"],
+["barro", "SP"],
+["YACU LLUJSHIJ", "Q"],
+["fuente", "SP"],
+["YACU LLUJSHINA", "Q"],
+["verter", "SP"],
+["YACU MANYA", "Q"],
+["playa", "SP"],
+["YACU MAR", "Q"],
+["mar", "SP"],
+["YACU PAMBA", "Q"],
+["playa", "SP"],
+["YACU PATA", "Q"],
+["playa", "SP"],
+["YACU PIRLAS", "Q"],
+["burbuja", "SP"],
+["YACU PLAYA", "Q"],
+["playa", "SP"],
+["YACU PUZA", "Q"],
+["charco", "SP"],
+["YACU SAMI", "Q"],
+["vapor", "SP"],
+["YACU SIQUIA", "Q"],
+["acequia", "SP"],
+["YACU SITANA", "Q"],
+["enjuagar", "SP"],
+["YACU T'IMBU", "Q"],
+["burbuja", "SP"],
+["YACU UCU PLAYA", "Q"],
+["playa", "SP"],
+["YACU UJTU", "Q"],
+["fuente", "SP"],
+["YACULLA", "Q"],
+["aguado", "SP"],
+["YACUNAI", "Q"],
+["sed", "SP"],
+["YACUNAYAI", "Q"],
+["sed", "SP"],
+["YACUNI", "Q"],
+["sed", "SP"],
+["YACURILLA", "Q"],
+["orilla", "SP"],
+["YACUSHPA", "Q"],
+["orina", "SP"],
+["YACUSHPANA", "Q"],
+["orinar", "SP"],
+["YACUYACHINA", "Q"],
+["derretir", "SP"],
+["YACUYANA", "Q"],
+["disolverse", "SP"],
+["YACUYASHCA", "Q"],
+["aguado", "SP"],
+["YACHABAYANA", "Q"],
+["remedar", "SP"],
+["YACHACUNA", "Q"],
+["aprender", "SP"],
+["enseñarse", "SP"],
+["YACHACHIJ", "Q"],
+["profesor", "SP"],
+["YACHACHILUN", "Q"],
+["profesor", "SP"],
+["YACHACHINA", "Q"],
+["enseñar", "SP"],
+["educar", "SP"],
+["indicar", "SP"],
+["domesticar", "SP"],
+["YACHAGRINA", "Q"],
+["adivinar", "SP"],
+["YACHAGUNA", "Q"],
+["aprender", "SP"],
+["YACHAI", "Q"],
+["costumbre", "SP"],
+["YACHAJ", "Q"],
+["sabio", "SP"],
+["inteligente", "SP"],
+["brujo", "SP"],
+["YACHAJ TUCUSHCA", "Q"],
+["orgulloso", "SP"],
+["YACHAJUNA", "Q"],
+["aprender", "SP"],
+["YACHANA", "Q"],
+["saber", "SP"],
+["adivinar", "SP"],
+["YACHAPA", "Q"],
+["pañal", "SP"],
+["YACHAPAYANA", "Q"],
+["remedar", "SP"],
+["YACHARICHINA", "Q"],
+["domesticar", "SP"],
+["YACHARINA", "Q"],
+["enseñarse", "SP"],
+["YACHARISHCA", "Q"],
+["costumbre", "SP"],
+["YACHASHCA", "Q"],
+["costumbre", "SP"],
+["YACHIJ", "Q"],
+["sabio", "SP"],
+["curandero", "SP"],
+["YACHINA", "Q"],
+["adivinar", "SP"],
+["YAHUAR", "Q"],
+["sangre", "SP"],
+["YAICUCHINA", "Q"],
+["meter", "SP"],
+["YAICUNA", "Q"],
+["entrar", "SP"],
+["YAICURINA", "Q"],
+["encogerse", "SP"],
+["YAIYUNA", "Q"],
+["derramar", "SP"],
+["YAIYURINA", "Q"],
+["desunir", "SP"],
+["YALA", "Q"],
+["casi", "SP"],
+["clase", "SP"],
+["YALI", "Q"],
+["más", "SP"],
+["YALICHINA", "Q"],
+["traducir", "SP"],
+["YALINA", "Q"],
+["exceder", "SP"],
+["YALISHPA RICUNALLA", "Q"],
+["transparente", "SP"],
+["YALLI", "Q"],
+["más", "SP"],
+["demasiado", "SP"],
+["YALLI GANA", "Q"],
+["exceder", "SP"],
+["YALLI PARLANA", "Q"],
+["convencer", "SP"],
+["YALLIJTA", "Q"],
+["demasiado", "SP"],
+["YALLIJTA TAMIA", "Q"],
+["invierno", "SP"],
+["YALLIMANA", "Q"],
+["demasiado", "SP"],
+["YALLINA", "Q"],
+["exceder", "SP"],
+["convencer", "SP"],
+["YAMDA", "Q"],
+["leña", "SP"],
+["YANA", "Q"],
+["negro", "SP"],
+["obscuro", "SP"],
+["YANA CHAHUAR", "Q"],
+["cabuya negra", "SP"],
+["YANA CHAÜR", "Q"],
+["cabuya negra", "SP"],
+["YANA SHUNGU", "Q"],
+["hígado", "SP"],
+["YANA TSAHUAR", "Q"],
+["cabuya negra", "SP"],
+["YANA TSAÜR", "Q"],
+["cabuya negra", "SP"],
+["YANAYASHCA", "Q"],
+["manchado", "SP"],
+["YANDA", "Q"],
+["leña", "SP"],
+["YANGA", "Q"],
+["gratis", "SP"],
+["YANGA MANGA", "Q"],
+["obscuro", "SP"],
+["YANGA SHIMI", "Q"],
+["idioma quichua", "SP"],
+["YANGALLA MICUNA", "Q"],
+["sopa", "SP"],
+["YANTA", "Q"],
+["leña", "SP"],
+["YANUI", "Q"],
+["delgado", "SP"],
+["YANUNA", "Q"],
+["cocinar", "SP"],
+["YANUNA UCU", "Q"],
+["cocina", "SP"],
+["YANUNAUCU", "Q"],
+["cocina", "SP"],
+["YAPA", "Q"],
+["muy", "SP"],
+["demasiado", "SP"],
+["YAPA CHURI", "Q"],
+["nieto", "SP"],
+["YAPA HUAHUA", "Q"],
+["nieto", "SP"],
+["nieta", "SP"],
+["YAPA MILLAI", "Q"],
+["tosco", "SP"],
+["YAPA RURANA", "Q"],
+["repetir", "SP"],
+["YAPA SHUTI", "Q"],
+["apellido", "SP"],
+["YAPA USHUSHI", "Q"],
+["nieta", "SP"],
+["YAPACHINA", "Q"],
+["añadir", "SP"],
+["repetir", "SP"],
+["YAPANA", "Q"],
+["añadir", "SP"],
+["aumentar", "SP"],
+["repetir", "SP"],
+["YAPUNA", "Q"],
+["arar", "SP"],
+["arado", "SP"],
+["YAPUNA ARADU", "Q"],
+["arado", "SP"],
+["YAPUSHCA", "Q"],
+["surco de arado", "SP"],
+["YARCAI", "Q"],
+["hambre", "SP"],
+["YARCANA", "Q"],
+["dar hambre", "SP"],
+["YARICA CUNA", "Q"],
+["dar hambre", "SP"],
+["YARICACHINA", "Q"],
+["dar hambre", "SP"],
+["YARICAI", "Q"],
+["hambre", "SP"],
+["YARICANA", "Q"],
+["dar hambre", "SP"],
+["YARIJACHINA", "Q"],
+["bostezar", "SP"],
+["YARIJAI", "Q"],
+["hambre", "SP"],
+["YARIJANA", "Q"],
+["dar hambre", "SP"],
+["hambre", "SP"],
+["YARIJANANA", "Q"],
+["dar hambre", "SP"],
+["YARIJAUNA", "Q"],
+["dar hambre", "SP"],
+["YARIJI", "Q"],
+["hambre", "SP"],
+["YARIQUI", "Q"],
+["hambre", "SP"],
+["YARJA", "Q"],
+["hambre", "SP"],
+["YATA", "Q"],
+["pared", "SP"],
+["YATA PASCANA", "Q"],
+["aplanar", "SP"],
+["YAÜR", "Q"],
+["sangre", "SP"],
+["YAYA", "Q"],
+["padre", "SP"],
+["YAYA CURA", "Q"],
+["sacerdote", "SP"],
+["YAYA MAMA ILLAJ", "Q"],
+["huérfano", "SP"],
+["YAYA SUIDRU", "Q"],
+["suegro", "SP"],
+["YAYA UMA", "Q"],
+["suegro", "SP"],
+["YAYUNA", "Q"],
+["regar agua", "SP"],
+["regar cosas", "SP"],
+["YIRNU", "Q"],
+["yerno", "SP"],
+["YUCA", "Q"],
+["yo", "SP"],
+["YUCALITU", "Q"],
+["eucalipto", "SP"],
+["YUCALU", "Q"],
+["eucalipto", "SP"],
+["YUCANCHIJ", "Q"],
+["nosotros", "SP"],
+["YUGZI", "Q"],
+["arena", "SP"],
+["YUGZUJ", "Q"],
+["fibra de cabuya", "SP"],
+["YUMBU", "Q"],
+["brujo", "SP"],
+["YUMBUNA", "Q"],
+["brincar", "SP"],
+["danzar", "SP"],
+["YUMPA", "Q"],
+["anterior", "SP"],
+["YUMPANA", "Q"],
+["adelantarse", "SP"],
+["YUMPI", "Q"],
+["adelante", "SP"],
+["YUMPUJ", "Q"],
+["delante de", "SP"],
+["anterior", "SP"],
+["YUNDA", "Q"],
+["yunta", "SP"],
+["YUNGA", "Q"],
+["playa", "SP"],
+["YUNTA", "Q"],
+["yunta", "SP"],
+["YUPANA", "Q"],
+["contar", "SP"],
+["YURA", "Q"],
+["árbol", "SP"],
+["planta", "SP"],
+["flor", "SP"],
+["YURA CARA", "Q"],
+["corteza", "SP"],
+["YURA SHINA", "Q"],
+["corteza", "SP"],
+["YURAGYANA", "Q"],
+["brillar", "SP"],
+["YURAGYASHCA", "Q"],
+["pálido", "SP"],
+["YURAJ", "Q"],
+["blanco", "SP"],
+["YURAJ CHAHUAR", "Q"],
+["cabuya blanca", "SP"],
+["YURAJ SHUNGU", "Q"],
+["pulmones", "SP"],
+["YURAJ TSAHUAR", "Q"],
+["cabuya blanca", "SP"],
+["YURUJ", "Q"],
+["blanco", "SP"],
+["YURUJ CHAÜR", "Q"],
+["cabuya blanca", "SP"],
+["YURUJ SHUNGU", "Q"],
+["pulmones", "SP"],
+["YURUJ UMA", "Q"],
+["rubio", "SP"],
+["YURUJ YURUJ", "Q"],
+["aguado", "SP"],
+["YUSULPAGUI NINA", "Q"],
+["agradecer", "SP"],
+["YUTA", "Q"],
+["perdiz", "SP"],
+["YUTU", "Q"],
+["perdiz", "SP"],
+["YUYA JAPINA", "Q"],
+["pensar", "SP"],
+["YUYACHINA", "Q"],
+["acordar", "SP"],
+["YUYAGLLA", "Q"],
+["mayor", "SP"],
+["YUYAI", "Q"],
+["pensamiento", "SP"],
+["YUYAJ", "Q"],
+["viejo", "SP"],
+["vieja", "SP"],
+["mayor", "SP"],
+["inteligente", "SP"],
+["YUYANA", "Q"],
+["pensar", "SP"],
+["acordar", "SP"],
+["recordar", "SP"],
+["YUYARINA", "Q"],
+["acordarse", "SP"],
+["recordar", "SP"],
+["animarse", "SP"],
+["YUYI", "Q"],
+["pensamiento", "SP"],
+["mayor", "SP"],
+["YUYIJ", "Q"],
+["viejo", "SP"],
+["YUYU", "Q"],
+["hierba medicinal", "SP"],
+["nabo", "SP"],
+["planta", "SP"],
+["ZACAL", "Q"],
+["poroso", "SP"],
+["ZALA", "Q"],
+["flaco", "SP"],
+["débil", "SP"],
+["ZAMBU", "Q"],
+["calabaza", "SP"],
+["ZANAJURIA", "Q"],
+["zanahoria", "SP"],
+["ZANCA", "Q"],
+["zanja", "SP"],
+["ZANURA", "Q"],
+["zanahoria", "SP"],
+["ZAQUIL", "Q"],
+["poroso", "SP"],
+["transparente", "SP"],
+["ZARZA", "Q"],
+["aguado", "SP"],
+["ZILI", "Q"],
+["excremento", "SP"],
+["ZIMBRARINA", "Q"],
+["temblar", "SP"],
+["ZINGUNA", "Q"],
+["revolcar", "SP"],
+["ZIPU", "Q"],
+["crespo", "SP"],
+["ZIRBU", "Q"],
+["crespo", "SP"],
+["ZIYA", "Q"],
+["liendre", "SP"],
+["ZUGZI", "Q"],
+["arena", "SP"],
+["ZUGZUG", "Q"],
+["puñado", "SP"],
+["ZUNLLU", "Q"],
+["andrajoso", "SP"],
+["ZUNZU", "Q"],
+["zonzo", "SP"],
+["ZUPI", "Q"],
+["crespo", "SP"],
+["ZUTIYACHINA", "Q"],
+["mojar", "SP"],
+["ZUZUGNINA", "Q"],
+["fruncir", "SP"],
+["ZUZUGYASHCA", "Q"],
+["arruga", "SP"],
+["ZUZUJ", "Q"],
+["arruga", "SP"],
+["ZHARU", "Q"],
+["áspero", "SP"],
+["ZHIRBU", "Q"],
+["crespo", "SP"],
+["ZHIRU", "Q"],
+["gris", "SP"]]
