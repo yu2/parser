@@ -1,4 +1,30 @@
-[["A DONDE", "SP"],
+var Dictionary = {};
+var index = 0;
+for (let i = 0; i < dictData.length; i++) {
+	if (isUpperCase(dictData[i])) {
+		addHead(Dictionary[index], dictData[i]);
+	}
+	else {
+		addLinks(Dictionary[index], dictData[i]);
+		(isUpperCase(dictData[i+1]) ? index++ : null;
+	}
+
+	function isUpperCase(str) {
+		return str == str.toUpperCase;
+	}
+
+	function addHead(dict, data) {
+		dict.head = data[0];
+		dict.origin = data[1];
+		dict.links = [];
+	}
+
+	function addLinks(dict, data) {
+		dict.links.push(data);
+	}
+}
+
+var dictData = [["A DONDE", "SP"],
 ["maiman", "Q"],
 ["maimun", "Q"],
 ["maimu", "Q"],
