@@ -1,30 +1,4 @@
-var Dictionary = {};
-var index = 0;
-for (let i = 0; i < dictData.length; i++) {
-	if (isUpperCase(dictData[i])) {
-		addHead(Dictionary[index], dictData[i]);
-	}
-	else {
-		addLinks(Dictionary[index], dictData[i]);
-		(isUpperCase(dictData[i+1]) ? index++ : null;
-	}
-
-	function isUpperCase(str) {
-		return str == str.toUpperCase;
-	}
-
-	function addHead(dict, data) {
-		dict.head = data[0];
-		dict.origin = data[1];
-		dict.links = [];
-	}
-
-	function addLinks(dict, data) {
-		dict.links.push(data);
-	}
-}
-
-var dictData = [["A DONDE", "SP"],
+dictData = [["A DONDE", "SP"],
 ["maiman", "Q"],
 ["maimun", "Q"],
 ["maimu", "Q"],
@@ -21075,4 +21049,36 @@ var dictData = [["A DONDE", "SP"],
 ["ZHIRBU", "Q"],
 ["crespo", "SP"],
 ["ZHIRU", "Q"],
-["gris", "SP"]]
+["gris", "SP"]];
+
+var Dictionary = [];
+var index = 0;
+var i = 0;
+while (i < dictData.length) {
+	Dictionary.push(makeHead(dictData[i]));
+	addLinks(i);
+	i++;
+	index++;
+}
+
+function isUpperCase(str) {
+	return str == str.toUpperCase();
+}
+
+function makeHead(data) {
+	return {
+		head: data[0],
+		origin: data[1],
+		links: []
+	};
+}
+
+function addLinks(ind) {
+	if (dictData[ind + 1]) {
+		if (!isUpperCase(dictData[ind + 1][0])) {
+			i++;
+			Dictionary[index].links.push(dictData[i]);
+			addLinks(i);
+		}
+	}
+}
