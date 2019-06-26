@@ -91,12 +91,7 @@ a:visited {
 	background: gainsboro;
 }
 
-.tabNavBtn2 {
-	z-index: 1;
-	border-left: none;
-}
-
-.tabNavBtn3 {
+.tabNavBtn2 .tabNavBtn3 .tabNavBtn4 {
 	z-index: 1;
 	border-left: none;
 }
