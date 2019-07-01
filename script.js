@@ -9,36 +9,64 @@ document.addEventListener("DOMContentLoaded", function() {
   cons = document.querySelector(".console");
    
   // Tab navigation bar behaviour
+	let tabBar = document.querySelector(".tabBar");
+	let mainContainer = document.getElementsByClassName("mainContainer")[0];
   let tabNavBtn1 = document.querySelector(".tabNavBtn1");
   let tabNavBtn2 = document.querySelector(".tabNavBtn2");
   let tabNavBtn3 = document.querySelector(".tabNavBtn3");
+  let tabNavBtn4 = document.querySelector(".tabNavBtn4");
   let tabArea1 = document.querySelector(".tabArea1");
   let tabArea2 = document.querySelector(".tabArea2");
   let tabArea3 = document.querySelector(".tabArea3");
   tabNavBtn1.addEventListener("click", function() {
-    tabArea1.style.display = "flex";
-    tabArea2.style.display = "none";
-    tabArea3.style.display = "none";
-    tabNavBtn1.style.background= "gainsboro";
-    tabNavBtn2.style.background= "white";
-    tabNavBtn3.style.background= "white";
+		switchTabs(1);
   });
   tabNavBtn2.addEventListener("click", function() {
-    tabArea1.style.display = "none";
-    tabArea2.style.display = "flex";
-    tabArea3.style.display = "none";
-    tabNavBtn1.style.background= "white";
-    tabNavBtn2.style.background= "gainsboro";
-    tabNavBtn3.style.background= "white";
+		switchTabs(2);
   });
   tabNavBtn3.addEventListener("click", function() {
-    tabArea1.style.display = "none";
-		tabArea2.style.display = "none";
-    tabArea3.style.display = "flex";
-    tabNavBtn1.style.background= "white";
-    tabNavBtn2.style.background= "white";
-    tabNavBtn3.style.background= "gainsboro";
+		switchTabs(3);
   });
+	tabNavBtn4.addEventListener("click", function() {
+		switchTabs(4);
+	});
+
+	let tabNavBtns = tabBar.getElementsByClassName("tabNavBtn");
+	let tabAreas = mainContainer.getElementsByClassName("tabArea");
+	console.log(tabAreas);
+
+/*
+	function switchTabs(target) {
+		for (let i = 0; i < tabNavBtns.length; i++) {
+			if (tabNavBtns[i].className.includes("tabNavBtn" + target)) {
+				tabBar.getElementsByClassName("tabNavBtn" + target)[0].style.background = "gainsboro";
+				tabAreas.getElementsByClassName("tabArea" + target)[0].style.display = "flex";
+			}
+			else {
+				let iplus = i + 1;
+				tabBar.getElementsByClassName("tabNavBtn" + iplus)[0].style.background = "white";
+				tabAreas.getElementsByClassName("tabArea" + iplus)[0].style.display = "none";
+			}
+		}
+	}
+	*/
+	
+	function switchTabs(target) {
+		for (let i = 0; i < tabNavBtns.length; i++) {
+			let found = false;
+			let classNames = tabNavBtns[i].className.split(" ");
+			for (let j = 0; j < classNames.length; j++) {
+				if (classNames[j] == "tabNavBtn" + target) {
+					found = true;
+					break;
+				}
+			}
+			tabBar.getElementsByClassName(classNames[0])[i].style.background = found ? "gainsboro" : "white";
+			let ip = i + 1;
+			mainContainer.getElementsByClassName("tabArea" + ip)[0].style.display= found ? "flex" : "none";
+		}
+	}
+	
 
 	parseResultField = document.querySelector(".parseResultField");
 	parseAreaR = document.querySelector(".parseAreaR");
