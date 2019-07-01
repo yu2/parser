@@ -100,9 +100,11 @@ document.addEventListener("DOMContentLoaded", function() {
 	dictSearchField.addEventListener("keydown", function(e) {
 		var key = e.keycode ? e.keycode : e.which;
 		if (key == 13) {
-			dictSearch();
+			dictSearch(dictSearchField.value.toLowerCase());
 		}
-	})
+	});
+
+	lowerCaseDict();
 });
 
 var roots = [];
@@ -242,11 +244,11 @@ function searchAffixes(str) {
 	return affixesPredicted.length !== 0 ? true : false;
 }
 
-function populateGrid(members) {
-	clearNode(parseAreaR);
+function populateGrid(members, target = parseAreaR) {
+	clearNode(target);
 	// Only show max 30 matches, longest first
 	for (let i = 0; i < members.length; i++) {
-		createChild("div", "box", members[i], parseAreaR);
+		createChild("div", "box", members[i], target);
 	}
 }
 
@@ -363,6 +365,14 @@ function downloadList(ele) {
   ele.download = "wordlist.txt";
 }
 
+function downloadDict(content, fileName, contentType) {
+	var a = document.createElement("a");
+	var file = new Blob([JSON.stringify(content)], {type: contentType});
+	a.href = URL.createObjectURL(file);
+	a.download = fileName;
+	a.click();
+}
+
 function trimIt(ar) {
   for (let i = 0; i < roots.length; i++) {
     roots[i] = roots[i].trim();
@@ -380,6 +390,12 @@ function sortIt(ar) {
 
 function lowerCaseIt() {
   roots = roots.map(x => x.toLowerCase());
+}
+
+function lowerCaseDict() {
+	for (let i = 0; i < Dictionary.length; i++) {
+		Dictionary[i].head = Dictionary[i].head.toLowerCase();
+	}
 }
 
 function printCharCodes (str) {

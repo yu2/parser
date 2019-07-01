@@ -52,7 +52,7 @@
 					<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
 				</div>
 				<div class="opsArea">
-					<p class="opTitle">Operations</p>
+					<p class="utilsHeader">Operations</p>
 					<div class="utilsArea">
 						<input type="button" class="button" value="lowercase" onclick="lowerCaseIt()">
 						<input type="button" class="button" value="Trim" onclick="trimIt()">
@@ -60,9 +60,11 @@
 						<input type="button" class="button" value="Sort" onclick="sortIt()">
 						<input type="button" class="button" value="toIPA" onclick="toIPA()">
 					</div>
+					<p class="utilsHeader">Download</p>
 					<div class="downloadArea">
-						<a class="button downloadRoots" onclick="downloadList(this)">Download Roots</a>
-						<a class="button downloadAffixes" onclick="downloadList(this)">Download Affixes</a>
+						<a class="button downloadRoots" onclick="downloadList(this)">Roots</a>
+						<a class="button downloadAffixes" onclick="downloadList(this)">Affixes</a>
+						<a class="button downloadDictionary" onclick="downloadDict(Dictionary, 'dict.js', 'text/javascript')">Dictionary</a>
 					</div>
 				</div>
 			</div>

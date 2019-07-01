@@ -217,13 +217,13 @@ a:visited {
 	margin: 1em 0 1.5em 0;
 }
 
-.opTitle {
+.utilsHeader {
 	font-weight: bold;
-	margin: -0.5em 0 0 -0.5em;
+	margin: -0.5em 0 0.5em -0.5em;
 }
 
 .utilsArea {
-	margin: 0.5em 0 0.75em 0;
+	margin: 0 0 0.75em 0;
 }
 
 /*dictionary lookup rules*/
