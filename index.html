@@ -25,11 +25,11 @@
 		<div class="mainContainer">
 			<div class="tabArea tabArea1">
 				<div class="parseResultField"></div>
-				<div id="inputArea">
-					<input class="inputField" type="text" value="">
-					<input type="button" class="button" id="submitInput" onclick="submitInput()" value="Parse">
+				<div class="inputContainer">
+					<input class="searchField inputField" type="text" value="">
+					<input type="button" class="submitButton submitInputButton" id="submitInput" onclick="submitInput()" value="Parse">
 				</div>
-				<div class="boxMother parseAreaR"></div>
+				<div class="boxMother gridDisplay parseAreaR"></div>
 				<div class="boxMother parseAreaA"></div>
 			</div>
 			<div class="tabArea tabArea2">
@@ -67,6 +67,11 @@
 				</div>
 			</div>
 			<div class="tabArea tabArea4">
+				<div class="inputContainer">
+					<input class="searchField dictSearchField" type="text" value="">
+					<input type="button" class="submitButton dictSearchButton" onclick="dictSearch()" value="Lookup">
+				</div>
+				<div class="gridDisplay">sammich</div>
 			</div>
 		</div>
 		<div class="gridTest">

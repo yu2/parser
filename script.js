@@ -18,8 +18,15 @@ document.addEventListener("DOMContentLoaded", function() {
   let tabArea1 = document.querySelector(".tabArea1");
   let tabArea2 = document.querySelector(".tabArea2");
   let tabArea3 = document.querySelector(".tabArea3");
+  let inputField = document.querySelector(".inputField");
+	parseResultField = document.querySelector(".parseResultField");
+	parseAreaR = document.querySelector(".parseAreaR");
+	parseAreaA = document.querySelector(".parseAreaA");
+	let dictSearchField = document.getElementsByClassName("dictSearchField")[0];
+
   tabNavBtn1.addEventListener("click", function() {
 		switchTabs(1);
+		inputField.focus();
   });
   tabNavBtn2.addEventListener("click", function() {
 		switchTabs(2);
@@ -29,28 +36,12 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 	tabNavBtn4.addEventListener("click", function() {
 		switchTabs(4);
+		dictSearchField.focus();
 	});
 
 	let tabNavBtns = tabBar.getElementsByClassName("tabNavBtn");
 	let tabAreas = mainContainer.getElementsByClassName("tabArea");
-	console.log(tabAreas);
 
-/*
-	function switchTabs(target) {
-		for (let i = 0; i < tabNavBtns.length; i++) {
-			if (tabNavBtns[i].className.includes("tabNavBtn" + target)) {
-				tabBar.getElementsByClassName("tabNavBtn" + target)[0].style.background = "gainsboro";
-				tabAreas.getElementsByClassName("tabArea" + target)[0].style.display = "flex";
-			}
-			else {
-				let iplus = i + 1;
-				tabBar.getElementsByClassName("tabNavBtn" + iplus)[0].style.background = "white";
-				tabAreas.getElementsByClassName("tabArea" + iplus)[0].style.display = "none";
-			}
-		}
-	}
-	*/
-	
 	function switchTabs(target) {
 		for (let i = 0; i < tabNavBtns.length; i++) {
 			let found = false;
@@ -67,15 +58,8 @@ document.addEventListener("DOMContentLoaded", function() {
 		}
 	}
 	
-
-	parseResultField = document.querySelector(".parseResultField");
-	parseAreaR = document.querySelector(".parseAreaR");
-	parseAreaA = document.querySelector(".parseAreaA");
-	
   // INPUT PARSING BEHAVIOUR
-  let inputField = document.querySelector(".inputField");
 	inputField.focus();
-
   inputField.addEventListener("input", function() {
     cLog("input registered");
 		let input = inputField.value.toLowerCase();
@@ -91,6 +75,7 @@ document.addEventListener("DOMContentLoaded", function() {
 			parseResultField.innerText = "";
 		}
   });
+
   
   // Hide console behaviour
   let hideConsoleButton = document.querySelector(".hideConsoleButton");
@@ -109,6 +94,15 @@ document.addEventListener("DOMContentLoaded", function() {
   addAffixButton = document.querySelector(".addAffixButton");
   addRootField = document.querySelector(".addRootField");
   addAffixField = document.querySelector(".addAffixField");
+
+	// Dictionary lookup behaviour
+	console.log(dictSearchField);
+	dictSearchField.addEventListener("keydown", function(e) {
+		var key = e.keycode ? e.keycode : e.which;
+		if (key == 13) {
+			dictSearch();
+		}
+	})
 });
 
 var roots = [];
@@ -490,4 +484,8 @@ function newMorpheme(md) {
 		}
       }
    }
+}
+
+function dictSearch(word) {
+	console.log("searching dictionary");
 }

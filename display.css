@@ -130,24 +130,24 @@ a:visited {
 	align-items: center;
 }
 	
-#inputArea {
+.inputContainer {
 	width: 100%;
 	margin: 0.2em 0 0.5em 0;
 	display: flex;
 }
 
-.inputField {
+.searchField {
 	width: 100%;
 	background: white;
 }
 
-#submitInput {
+.submitButton {
 	background: white;
 	cursor: pointer;
 }
 
 /*PARSING DISPLAY*/
-.parseAreaR {
+.gridDisplay {
 	display: grid;
 	grid-template-columns: repeat(3, minmax(min-content, max-content));
 	grid-auto-flow: row;
@@ -173,11 +173,7 @@ a:visited {
 	padding-bottom: 0.5em;
 }
 
-.tabArea2 {
-	display: none;
-}
-
-.tabArea3 {
+.tabArea2, .tabArea3, .tabArea4 {
 	display: none;
 }
 
@@ -229,6 +225,8 @@ a:visited {
 .utilsArea {
 	margin: 0.5em 0 0.75em 0;
 }
+
+/*dictionary lookup rules*/
 
 .presentArea {
   display: flex;
