@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	parseAreaR = document.querySelector(".parseAreaR");
 	parseAreaA = document.querySelector(".parseAreaA");
 	let dictSearchField = document.getElementsByClassName("dictSearchField")[0];
+	dictGridDisplay = document.getElementsByClassName("dictGridDisplay")[0];
 
   tabNavBtn1.addEventListener("click", function() {
 		switchTabs(1);
@@ -503,5 +504,11 @@ function newMorpheme(md) {
 }
 
 function dictSearch(word) {
-	console.log("searching dictionary");
+	console.log(word);
+	let found = Dictionary.find(e => e.head == word)
+	let show = [];
+	for (let i = 0; i < found.links.length; i++) {
+		show[i] = `${found.links[i][0]} (${found.links[i][1]})`;  
+	}
+	populateGrid(show, dictGridDisplay);
 }
