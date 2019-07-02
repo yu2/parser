@@ -97,7 +97,6 @@ document.addEventListener("DOMContentLoaded", function() {
   addAffixField = document.querySelector(".addAffixField");
 
 	// Dictionary lookup behaviour
-	console.log(dictSearchField);
 	dictSearchField.addEventListener("keydown", function(e) {
 		var key = e.keycode ? e.keycode : e.which;
 		if (key == 13) {
