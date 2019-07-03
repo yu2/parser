@@ -529,3 +529,14 @@ function dictSearch(word) {
 							.replace("n", "[nñ]");
 	}
 }
+
+function markVerbals() {
+	let re = /(ar|ie|er)$/;
+	for (let i = 0; i < Dictionary.length; i++) {
+		if (re.test(Dictionary[i].head) {
+				for (let j = 0; j < Dictionary[i].links.length; j++) {
+
+				}
+		}
+	}
+}
