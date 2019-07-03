@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	parseAreaR = document.querySelector(".parseAreaR");
 	parseAreaA = document.querySelector(".parseAreaA");
 	dictSearchResults = document.getElementsByClassName("dictSearchResults")[0];
-	let dictSearchField = document.getElementsByClassName("dictSearchField")[0];
+	dictSearchField = document.getElementsByClassName("dictSearchField")[0];
 
   tabNavBtn1.addEventListener("click", function() {
 		switchTabs(1);
@@ -506,7 +506,7 @@ function newMorpheme(md) {
 
 function dictSearch(word) {
 	clearNode(dictSearchResults);
-	console.log(word);
+	word = diacriticize(word);
 	word = new RegExp("^" + word + "$");
 	let found = Dictionary.filter(e => word.test(e.head));
 	for (let j = 0; j < found.length; j++) {
@@ -515,8 +515,17 @@ function dictSearch(word) {
 			show[i] = `${found[j].links[i][0]}`;  
 		}
 		let searchHeader = createChild("div", "tabAreaHeader dictSearchHeader dictSearchHeader" + j, "", dictSearchResults);
-		searchHeader.innerHTML = `${found[j].head} <span class="dictSearchDesc">(${found[j].origin})</span>`;
+		searchHeader.innerHTML = `<span class="dictSearchNum">${j+1}.</span> ${found[j].head} <span class="dictSearchDesc">(${found[j].origin})</span>`;
 		let gridDisplay = createChild("div", "gridDisplay dictGridDisplay dictGridDisplay" + j, "", dictSearchResults);
 		populateGrid(show, gridDisplay);
+	}
+
+	function diacriticize(str) {
+		return str.replace("a", "[aá]")
+							.replace("e", "[eé]")
+							.replace("i", "[ií]")
+							.replace("o", "[oó]")
+							.replace("u", "[uúü]")
+							.replace("n", "[nñ]");
 	}
 }

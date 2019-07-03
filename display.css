@@ -238,6 +238,22 @@ a:visited {
 	font-weight: normal;
 }
 
+.dictSearchResults {
+	max-height: 80vh;
+	overflow: auto;
+	padding-right: 1em;
+}
+
+.dictSearchNum {
+	display: none;
+	font-weight: normal;
+	width: 10px;
+}
+
+.dictGridDisplay {
+	margin: 0 0 0 0em;
+}
+
 .presentArea {
   display: flex;
   flex-direction: column;
