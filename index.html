@@ -52,7 +52,7 @@
 					<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
 				</div>
 				<div class="opsArea">
-					<p class="utilsHeader">Operations</p>
+					<p class="tabAreaHeader utilsHeader">Operations</p>
 					<div class="utilsArea">
 						<input type="button" class="button" value="lowercase" onclick="lowerCaseIt()">
 						<input type="button" class="button" value="Trim" onclick="trimIt()">
@@ -60,7 +60,7 @@
 						<input type="button" class="button" value="Sort" onclick="sortIt()">
 						<input type="button" class="button" value="toIPA" onclick="toIPA()">
 					</div>
-					<p class="utilsHeader">Download</p>
+					<p class="tabAreaHeader utilsHeader">Download</p>
 					<div class="downloadArea">
 						<a class="button downloadRoots" onclick="downloadList(this)">Roots</a>
 						<a class="button downloadAffixes" onclick="downloadList(this)">Affixes</a>
@@ -73,7 +73,7 @@
 					<input class="searchField dictSearchField" type="text" value="">
 					<input type="button" class="submitButton dictSearchButton" onclick="dictSearch()" value="Lookup">
 				</div>
-				<div class="gridDisplay dictGridDisplay">sammich</div>
+				<div class="dictSearchResults"></div>
 			</div>
 		</div>
 		<div class="gridTest">

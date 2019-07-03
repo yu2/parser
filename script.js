@@ -18,12 +18,13 @@ document.addEventListener("DOMContentLoaded", function() {
   let tabArea1 = document.querySelector(".tabArea1");
   let tabArea2 = document.querySelector(".tabArea2");
   let tabArea3 = document.querySelector(".tabArea3");
+	tabArea4 = document.getElementsByClassName("tabArea4")[0];
   let inputField = document.querySelector(".inputField");
 	parseResultField = document.querySelector(".parseResultField");
 	parseAreaR = document.querySelector(".parseAreaR");
 	parseAreaA = document.querySelector(".parseAreaA");
+	dictSearchResults = document.getElementsByClassName("dictSearchResults")[0];
 	let dictSearchField = document.getElementsByClassName("dictSearchField")[0];
-	dictGridDisplay = document.getElementsByClassName("dictGridDisplay")[0];
 
   tabNavBtn1.addEventListener("click", function() {
 		switchTabs(1);
@@ -258,11 +259,12 @@ function updateParseDisplay(ar) {
   }
 }
 
-function createChild(type, cl, text, mother) {
+function createChild(type, class_name, content, mother) {
 	let child = document.createElement(type);
-	child.className = cl;
-	child.innerText = text;
+	child.className = class_name;
+	child.innerHTML = content;
 	mother.appendChild(child);
+	return child;
 }
 
 function clearNode(node) {
@@ -503,11 +505,18 @@ function newMorpheme(md) {
 }
 
 function dictSearch(word) {
+	clearNode(dictSearchResults);
 	console.log(word);
-	let found = Dictionary.find(e => e.head == word)
-	let show = [];
-	for (let i = 0; i < found.links.length; i++) {
-		show[i] = `${found.links[i][0]} (${found.links[i][1]})`;  
+	word = new RegExp("^" + word + "$");
+	let found = Dictionary.filter(e => word.test(e.head));
+	for (let j = 0; j < found.length; j++) {
+		let show = [];
+		for (let i = 0; i < found[j].links.length; i++) {
+			show[i] = `${found[j].links[i][0]}`;  
+		}
+		let searchHeader = createChild("div", "tabAreaHeader dictSearchHeader dictSearchHeader" + j, "", dictSearchResults);
+		searchHeader.innerHTML = `${found[j].head} <span class="dictSearchDesc">(${found[j].origin})</span>`;
+		let gridDisplay = createChild("div", "gridDisplay dictGridDisplay dictGridDisplay" + j, "", dictSearchResults);
+		populateGrid(show, gridDisplay);
 	}
-	populateGrid(show, dictGridDisplay);
 }
