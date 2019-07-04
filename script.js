@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		}
 	});
 
-	lowerCaseDict();
+	markVerbals();
 });
 
 var roots = [];
@@ -531,12 +531,26 @@ function dictSearch(word) {
 }
 
 function markVerbals() {
-	let re = /(ar|ie|er)$/;
+	for (let k = 0; k < Dictionary.length; k++) {
+		Dictionary[k].verbal = false;
+	}
+	let re = /.*(ar|ie|er)$/;
+	let verbals = [];
+	let verbalRE = /.*na$/;
+	let counter = 0;
+	let counter2 = 0;
 	for (let i = 0; i < Dictionary.length; i++) {
-		if (re.test(Dictionary[i].head) {
-				for (let j = 0; j < Dictionary[i].links.length; j++) {
-
+		if (re.test(Dictionary[i].head)) {
+			counter++;
+			for (let j = 0; j < Dictionary[i].links.length; j++) {
+				if (verbalRE.test(Dictionary[i].links[j][0])) {
+					counter2++;
+					verbals.push(Dictionary[i].links[j]);
 				}
+			}
 		}
 	}
+	console.log(counter);
+	console.log(counter2);
+	console.log(verbals);
 }
