@@ -531,26 +531,49 @@ function dictSearch(word) {
 }
 
 function markVerbals() {
+/*	
 	for (let k = 0; k < Dictionary.length; k++) {
 		Dictionary[k].verbal = false;
 	}
-	let re = /.*(ar|ie|er)$/;
+*/
+	let re = /.*(ar|ir|er)$/;
 	let verbals = [];
 	let verbalRE = /.*na$/;
 	let counter = 0;
 	let counter2 = 0;
+	let linkLength = 0;
+	let noQVerb = 0;
+	let noQVerbList = [];
+	let nonV = 0;
+	let nonVLinks = [];
 	for (let i = 0; i < Dictionary.length; i++) {
 		if (re.test(Dictionary[i].head)) {
 			counter++;
+			linkLength = linkLength + Dictionary[i].links.length;
+			let linkMatches = 0;
 			for (let j = 0; j < Dictionary[i].links.length; j++) {
 				if (verbalRE.test(Dictionary[i].links[j][0])) {
 					counter2++;
+					linkMatches++;
 					verbals.push(Dictionary[i].links[j]);
+				}
+			}
+			if (linkMatches === 0) {
+				noQVerb++;
+				noQVerbList.push(Dictionary[i].head);
+				nonV = nonV + Dictionary[i].links.length;
+				for (let l = 0; l < Dictionary[i].links.length; l++) {
+					nonVLinks.push(Dictionary[i].links[l][0]);
 				}
 			}
 		}
 	}
-	console.log(counter);
-	console.log(counter2);
-	console.log(verbals);
+	console.log(`SP words: ${counter}`);
+	console.log(`Q words: ${counter2}`);
+	console.log(`total number of links: ${linkLength}`);
+	console.log(`SP words with no verbal Q link: ${noQVerb}`);
+	console.log(noQVerbList);
+	console.log(`Q words linked by non-verbal SP words: ${nonV}`);
+	console.log(nonVLinks);
+	//console.log(verbals);
 }
