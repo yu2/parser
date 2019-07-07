@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   
   // Hide console behaviour
-  let hideConsoleButton = document.querySelector(".hideConsoleButton");
+  let hideConsoleButton = document.querySelector(".hideConsoleBtn");
   hideConsoleButton.addEventListener("click", function() {
     if (hideConsoleButton.value == "Hide") {
       cons.style.display = "none";

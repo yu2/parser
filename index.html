@@ -13,7 +13,9 @@
 		<div class="title-text">
 			<p>Parser</p>
 		</div>
-			<p class="logo"><a id="git-link" href="https://github.com/yu2/parser" target="_blank"><i class="fa fa-github"></i></a></p>
+		<div class="title-right">
+			<input type="button" class="button statsBtn" value="Stats">
+		</div>
 	</div>
 	<div class="tabbedContainer">
 		<div class="tabBar">
@@ -88,8 +90,12 @@
   </div>
 	<div class="consoleArea">
 	  <div class="consoleTitleBar">
-  	  <p>Message Log</p>
-  	  <input type="button" class="hideConsoleButton button" value="Show">
+			<div class="consoleTitleBarLeft">
+				<p>Message Log (<span class="hideConsoleBtn">Show</span>)</p>
+			</div>
+			<div class="consoleTitleBarRight">
+				<p class="logo"><a id="git-link" href="https://github.com/yu2/parser" target="_blank"><i class="fa fa-github"></i></a></p>
+			</div>
 	  </div>
 		<textarea class="console"></textarea>
 	</div>
