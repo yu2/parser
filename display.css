@@ -53,8 +53,8 @@ body {
 .title-text {
 	width: fit-content;
 	font-size: 2em;
-	margin: 0 0.3em 0 0;
-	padding: 0 0.2em 0 0.1em;
+	margin: 0 0.4em 0 0;
+	padding: 0 0.3em 0 0.1em;
 	color: #333;
 	font-variant: small-caps;
 	border-right: 0.05em outset gainsboro;
@@ -278,6 +278,7 @@ a:visited {
 	left: 1em;
 	top: 4em;
 	height: fit-content;
+	z-index: -5;
 }
 
 .presentArea {

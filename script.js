@@ -109,10 +109,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 	// Stats window behaviour
 	statsBtn.addEventListener("click", function() {
-		console.log(statsArea.style);
 		if (statsArea.style.display == "" | statsArea.style.display == "none") {
 			statsArea.style.display = "flex";
-			console.log(statsArea.style.display);
 			populateStats();
 		} else if (statsArea.style.display == "flex") {
 			statsArea.style.display = "none";
@@ -543,34 +541,26 @@ function dictSearch(word) {
 }
 
 function populateStats() {
-/*	
-	for (let k = 0; k < Dictionary.length; k++) {
-		Dictionary[k].verbal = false;
-	}
-*/
-	Stats = {
-		SPLemmas: 0,
-		QLemmas: 0,
-		Links: 0
-	}
-	let re = /.*(ar|ir|er)$/;
+	statsArea.innerText = "";
+	let reSP = /.*(ar|ir|er)$/;
 	let verbals = [];
-	let verbalRE = /.*na$/;
-	let counter = 0;
-	let counter2 = 0;
+	let reVerbal = /.*na$/;
+	let SPVerbEnd = 0;
+	var QVerbal = 0;
 	let linkLength = 0;
 	let noQVerb = 0;
 	let noQVerbList = [];
 	let nonV = 0;
 	let nonVLinks = [];
+	
 	for (let i = 0; i < Dictionary.length; i++) {
-		if (re.test(Dictionary[i].head)) {
-			counter++;
+		if (reSP.test(Dictionary[i].head)) {
+			SPVerbEnd++;
 			linkLength = linkLength + Dictionary[i].links.length;
 			let linkMatches = 0;
 			for (let j = 0; j < Dictionary[i].links.length; j++) {
-				if (verbalRE.test(Dictionary[i].links[j][0])) {
-					counter2++;
+				if (reVerbal.test(Dictionary[i].links[j][0])) {
+					QVerbal++;
 					linkMatches++;
 					verbals.push(Dictionary[i].links[j]);
 				}
@@ -586,14 +576,31 @@ function populateStats() {
 		}
 	}
 
-	//Object.keys(Stats).length;
-	statsArea.innerText += (`SP lemmas: ${counter}`);
-	statsArea.innerText += (`Q lemmas: ${counter2}`);
+	let SPLemmas= Dictionary.filter(ele => {
+		return ele.origin == "SP";
+	});
+	let QLemmas= Dictionary.filter(ele => {
+		return ele.origin == "Q";
+	});
 
+	Stats = {
+		SPLemmas: ["SP lemmas", SPLemmas.length],
+		QLemmas: ["Q lemmas", QLemmas.length],
+		Links: ["Total links", 0],
+		QVerbals: ["Q verbals", QVerbal],
+		SPVerbEnd: ["SP(ar|ir|er)$", SPVerbEnd],
+		SPVerbEndNoQ: ["non-verb SP(ar|ir|er)$", noQVerb]
+	}
+
+	Object.keys(Stats).forEach((key, index) => {
+		statsArea.innerText += (`${Stats[key][0]}: ${Stats[key][1]}\n`);
+	});
+
+	/*
 	console.log(`total number of links: ${linkLength}`);
 	console.log(`SP words with no verbal Q link: ${noQVerb}`);
 	console.log(noQVerbList);
 	console.log(`Q words linked by non-verbal SP words: ${nonV}`);
 	console.log(nonVLinks);
-	//console.log(verbals);
+	*/
 }
