@@ -37,18 +37,31 @@ body {
 .title {
 	width: 100%;
 	background-color: gainsboro;
-	margin: 0em 0 1em 0;
+	margin: 0 0 1em 0;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
 
+.title-left {
+	display: flex;
+	align-items: center;
+	font-variant: small-caps;
+	cursor: pointer;
+}
+
 .title-text {
 	width: fit-content;
 	font-size: 2em;
-	margin-left: 0.2em;
+	margin: 0 0.3em 0 0;
+	padding: 0 0.2em 0 0.1em;
 	color: #333;
 	font-variant: small-caps;
+	border-right: 0.05em outset gainsboro;
+}
+
+.statsBtn {
+	color: #666;
 }
 
 .title-right {
@@ -257,6 +270,14 @@ a:visited {
 
 .dictGridDisplay {
 	margin: 0 0 0 0em;
+}
+
+.statsArea {
+	display: none;
+	position: fixed;
+	left: 1em;
+	top: 4em;
+	height: fit-content;
 }
 
 .presentArea {

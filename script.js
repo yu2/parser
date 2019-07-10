@@ -25,6 +25,8 @@ document.addEventListener("DOMContentLoaded", function() {
 	parseAreaA = document.querySelector(".parseAreaA");
 	dictSearchResults = document.getElementsByClassName("dictSearchResults")[0];
 	dictSearchField = document.getElementsByClassName("dictSearchField")[0];
+	let statsBtn = document.getElementsByClassName("statsBtn")[0];
+	statsArea = document.getElementsByClassName("statsArea")[0];
 
   tabNavBtn1.addEventListener("click", function() {
 		switchTabs(1);
@@ -82,12 +84,12 @@ document.addEventListener("DOMContentLoaded", function() {
   // Hide console behaviour
   let hideConsoleButton = document.querySelector(".hideConsoleBtn");
   hideConsoleButton.addEventListener("click", function() {
-    if (hideConsoleButton.value == "Hide") {
+    if (hideConsoleButton.innerText == "Hide") {
       cons.style.display = "none";
-      hideConsoleButton.value = "Show";
+      hideConsoleButton.innerText= "Show";
     } else {
       cons.style.display = "block";
-      hideConsoleButton.value = "Hide";
+      hideConsoleButton.innerText= "Hide";
     }
   });
 
@@ -105,7 +107,17 @@ document.addEventListener("DOMContentLoaded", function() {
 		}
 	});
 
-	markVerbals();
+	// Stats window behaviour
+	statsBtn.addEventListener("click", function() {
+		console.log(statsArea.style);
+		if (statsArea.style.display == "" | statsArea.style.display == "none") {
+			statsArea.style.display = "flex";
+			console.log(statsArea.style.display);
+			populateStats();
+		} else if (statsArea.style.display == "flex") {
+			statsArea.style.display = "none";
+		}
+	});
 });
 
 var roots = [];
@@ -530,12 +542,17 @@ function dictSearch(word) {
 	}
 }
 
-function markVerbals() {
+function populateStats() {
 /*	
 	for (let k = 0; k < Dictionary.length; k++) {
 		Dictionary[k].verbal = false;
 	}
 */
+	Stats = {
+		SPLemmas: 0,
+		QLemmas: 0,
+		Links: 0
+	}
 	let re = /.*(ar|ir|er)$/;
 	let verbals = [];
 	let verbalRE = /.*na$/;
@@ -568,8 +585,11 @@ function markVerbals() {
 			}
 		}
 	}
-	console.log(`SP words: ${counter}`);
-	console.log(`Q words: ${counter2}`);
+
+	//Object.keys(Stats).length;
+	statsArea.innerText += (`SP lemmas: ${counter}`);
+	statsArea.innerText += (`Q lemmas: ${counter2}`);
+
 	console.log(`total number of links: ${linkLength}`);
 	console.log(`SP words with no verbal Q link: ${noQVerb}`);
 	console.log(noQVerbList);
