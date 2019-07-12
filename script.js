@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	dictSearchResults = document.getElementsByClassName("dictSearchResults")[0];
 	dictSearchField = document.getElementsByClassName("dictSearchField")[0];
 	let statsBtn = document.getElementsByClassName("statsBtn")[0];
-	statsArea = document.getElementsByClassName("statsArea")[0];
+	statsGrid = document.getElementsByClassName("statsGrid")[0];
 
   tabNavBtn1.addEventListener("click", function() {
 		switchTabs(1);
@@ -109,11 +109,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 	// Stats window behaviour
 	statsBtn.addEventListener("click", function() {
-		if (statsArea.style.display == "" | statsArea.style.display == "none") {
-			statsArea.style.display = "flex";
+		if (statsGrid.style.display == "" | statsGrid.style.display == "none") {
+			statsGrid.style.display = "grid";
 			populateStats();
-		} else if (statsArea.style.display == "flex") {
-			statsArea.style.display = "none";
+		} else if (statsGrid.style.display == "grid") {
+			statsGrid.style.display = "none";
 		}
 	});
 });
@@ -541,7 +541,7 @@ function dictSearch(word) {
 }
 
 function populateStats() {
-	statsArea.innerText = "";
+	statsGrid.innerText = "";
 	let reSP = /.*(ar|ir|er)$/;
 	let verbals = [];
 	let reVerbal = /.*na$/;
@@ -584,16 +584,16 @@ function populateStats() {
 	});
 
 	Stats = {
-		SPLemmas: ["SP lemmas", SPLemmas.length],
-		QLemmas: ["Q lemmas", QLemmas.length],
-		Links: ["Total links", 0],
-		QVerbals: ["Q verbals", QVerbal],
-		SPVerbEnd: ["SP(ar|ir|er)$", SPVerbEnd],
-		SPVerbEndNoQ: ["non-verb SP(ar|ir|er)$", noQVerb]
+		SPLemmas: ["SP lemmas", "Spanish lemmas", SPLemmas.length],
+		QLemmas: ["Q lemmas", "Quichua lemmas", QLemmas.length],
+		SPVerbEnd: ["SP verbals", "Spanish lemmas that end in (ar|ir|er)", SPVerbEnd],
+		QVerbals: ["Q verbals", "Quichua correspondents of Spanish (ar|ir|er)$ lemmas, that end in 'na'", QVerbal],
+		SPVerbEndNoQ: ["Non-verb SP 'r' words","Spanish lemmas that end in (ar|ir|er) but don't have any Quichua translations that end in 'na", noQVerb]
 	}
 
 	Object.keys(Stats).forEach((key, index) => {
-		statsArea.innerText += (`${Stats[key][0]}: ${Stats[key][1]}\n`);
+		populateStatsGrid(`<a title="${Stats[key][1]}">${Stats[key][0]}</a>`, statsGrid);
+		populateStatsGrid(Stats[key][2], statsGrid);
 	});
 
 	/*
@@ -603,4 +603,7 @@ function populateStats() {
 	console.log(`Q words linked by non-verbal SP words: ${nonV}`);
 	console.log(nonVLinks);
 	*/
+	function populateStatsGrid(member, target) {
+		createChild("div", "box", member, target);
+	}
 }

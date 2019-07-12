@@ -272,13 +272,17 @@ a:visited {
 	margin: 0 0 0 0em;
 }
 
-.statsArea {
+.statsGrid {
 	display: none;
 	position: fixed;
 	left: 1em;
 	top: 4em;
-	height: fit-content;
-	z-index: -5;
+	z-index: 5;
+	background: white;
+	grid-template-columns: repeat(2, minmax(min-content, max-content));
+	grid-auto-flow: row;
+	grid-auto-columns: max-content;
+	column-gap: 1em;
 }
 
 .presentArea {
