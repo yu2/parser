@@ -312,10 +312,6 @@ a:visited {
   padding: 0.1em 0.1em 0.1em 0.1em;
 }
 
-.consoleTitleBarLeft {
-	display: flex;
-}
-
 .hideConsoleBtn {
 	text-decoration: underline;
 	color: dimgray;
@@ -328,22 +324,6 @@ a:visited {
   width: 100%;
   border: 1px solid gainsboro;
   padding: 0.5em;
-}
-
-.gridTest {
-  display: grid;
-  display: none;
-  grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: 200px;
-}
-
-.gridTestChild {
-  border: 1px solid pink;
-}
-
-td {
-  padding: 0.5em;
-  text-align: center;
 }
 
 .superscript {
