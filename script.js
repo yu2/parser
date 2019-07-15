@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function() {
 					break;
 				}
 			}
-			tabBar.getElementsByClassName(classNames[0])[i].style.background = found ? "rgb(287,28,36,0.2)" : "white";
+			tabBar.getElementsByClassName(classNames[0])[i].style.background = found ? "rgb(255,221,0)" : "#EEE";
 			let ip = i + 1;
 			mainContainer.getElementsByClassName("tabArea" + ip)[0].style.display= found ? "flex" : "none";
 		}

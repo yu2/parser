@@ -93,27 +93,29 @@ a:visited {
 	display: flex;
 	flex-direction: column;
 	width: max-content;
-	background: rgb(255,221,0);
+	background: #DFDFDF;
 	flex: 0 1 auto;
 	margin-bottom: 1em;
 	max-height: 100%;
+	border: 1px solid darkgray;
 }
 
 .tabBar {
 	align-self: start;
 	display: flex;
+	background: #EEE;
 }
 
 .tabNavBtn {
-	background: white;
-	border: 1px solid darkgray;
-	border-bottom: none;
 	padding: 0.25em 0.5em;
+	border-bottom: none;
+	border-right: 1px solid darkgray;
+	background: #EEE;
 }
 
 .tabNavBtn1 {
 	z-index: 2;
-	background: rgb(287,28,36,0.2) /*rgb(287,28,36)*/;
+	background: rgb(255,221,0)/*rgb(287,28,36) gainsboro*/;
 }
 
 .tabNavBtn2 .tabNavBtn3 .tabNavBtn4 {
@@ -123,16 +125,14 @@ a:visited {
 
 .mainContainer {
 	display:flex;
-	border: 1px solid darkgray;
-	padding: 0.25em;
+	border: 0.25em solid rgb(255,221,0);
   width: 100%;
 	height: 100%;
-	background: peachpuff;
 }
 
 .tabArea {
 	display: flex;
-	background: gainsboro;
+	background: #DFDFDF;
 	flex-direction: column;
 	align-items: center;
 	padding: 0.25em 0.25em;
@@ -215,8 +215,8 @@ a:visited {
 }
 
 .button {
-	background: white;
-	padding: 0.1em;
+	background: #fff;
+	padding: 0.1em 0.2em 0.1em 0.2em;
 	border: 0.1em outset lightgray;
 	cursor: pointer;
 }
