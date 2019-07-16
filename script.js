@@ -27,7 +27,9 @@ document.addEventListener("DOMContentLoaded", function() {
 	dictSearchField = document.getElementsByClassName("dictSearchField")[0];
 	let statsBtn = document.getElementsByClassName("statsBtn")[0];
 	statsGrid = document.getElementsByClassName("statsGrid")[0];
+	let colorChangeButton = document.getElementsByClassName("colorChangeButton")[0];
 
+	// Tab Switching Behaviour
   tabNavBtn1.addEventListener("click", function() {
 		switchTabs(1);
 		inputField.focus();
@@ -116,6 +118,12 @@ document.addEventListener("DOMContentLoaded", function() {
 			statsGrid.style.display = "none";
 		}
 	});
+
+	// Color change behaviour
+	colorChangeButton.addEventListener("click", () => {
+		let style = getComputedStyle(document.body);
+		document.body.style.setProperty("--highlight-color", "darkgray");
+			});
 });
 
 var roots = [];
