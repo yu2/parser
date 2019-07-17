@@ -58,7 +58,19 @@ document.addEventListener("DOMContentLoaded", function() {
 					break;
 				}
 			}
-			tabBar.getElementsByClassName(classNames[0])[i].style.background = found ? "rgb(255,221,0)" : "#EEE";
+			if (found) {
+				if (colorTheme == "gray") {
+					tabBar.getElementsByClassName(classNames[0])[i].style.background = "#eee";
+				} else if (colorTheme == "yellow") {
+					tabBar.getElementsByClassName(classNames[0])[i].style.background = "rgb(255,221,0)";
+				}
+			} else {
+				if (colorTheme == "gray") {
+					tabBar.getElementsByClassName(classNames[0])[i].style.background = "white";
+				} else {
+					tabBar.getElementsByClassName(classNames[0])[i].style.background = "gainsboro";
+				}
+			}
 			let ip = i + 1;
 			mainContainer.getElementsByClassName("tabArea" + ip)[0].style.display= found ? "flex" : "none";
 		}
@@ -120,10 +132,21 @@ document.addEventListener("DOMContentLoaded", function() {
 	});
 
 	// Color change behaviour
+	colorTheme = "gray";
 	colorChangeButton.addEventListener("click", () => {
 		let style = getComputedStyle(document.body);
-		document.body.style.setProperty("--highlight-color", "darkgray");
-			});
+		if (colorTheme == "gray") {
+			document.body.style.setProperty("--highlight-color", "rgb(255,221,0)");
+			document.body.style.setProperty("--active-tab-color", "rgb(255,221,0)");
+			document.body.style.setProperty("--body-background-color", "rgb(3,78,162,0.1");
+			colorTheme = "yellow";
+		}
+		else if (colorTheme == "yellow") {
+			document.body.style.setProperty("--highlight-color", "rgb(255,221,0)");
+			document.body.style.setProperty("--body-background-color", "white");
+			colorTheme = "gray";
+		}
+	});
 });
 
 var roots = [];
