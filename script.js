@@ -139,11 +139,13 @@ document.addEventListener("DOMContentLoaded", function() {
 			document.body.style.setProperty("--highlight-color", "rgb(255,221,0)");
 			document.body.style.setProperty("--active-tab-color", "rgb(255,221,0)");
 			document.body.style.setProperty("--body-background-color", "rgb(3,78,162,0.1");
+			document.body.style.setProperty("--title-bar-color", "rgb(255,221,0)");
 			colorTheme = "yellow";
 		}
 		else if (colorTheme == "yellow") {
-			document.body.style.setProperty("--highlight-color", "rgb(255,221,0)");
+			document.body.style.setProperty("--highlight-color", "lightgray");
 			document.body.style.setProperty("--body-background-color", "white");
+			document.body.style.setProperty("--title-bar-color", "gainsboro");
 			colorTheme = "gray";
 		}
 	});

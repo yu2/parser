@@ -136,7 +136,7 @@ a:visited {
 
 .tabNavBtn1 {
 	z-index: 2;
-	/*background: var(--active-tab-color)/*rgb(287,28,36) gainsboro*/;
+	background: var(--active-tab-color)/*rgb(287,28,36) gainsboro*/;
 }
 
 .tabNavBtn2 .tabNavBtn3 .tabNavBtn4 {
