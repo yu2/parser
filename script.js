@@ -609,16 +609,20 @@ function populateStats() {
 		}
 	}
 
-	let SPLemmas= Dictionary.filter(ele => {
+	SPLemmas= Dictionary.filter(ele => {
 		return ele.origin == "SP";
 	});
-	let QLemmas= Dictionary.filter(ele => {
+	QLemmas= Dictionary.filter(ele => {
 		return ele.origin == "Q";
+	});
+	MLLemmas = Dictionary.filter(ele => {
+		return ele.origin == "ML";
 	});
 
 	Stats = {
 		SPLemmas: ["SP lemmas", "Spanish lemmas", SPLemmas.length],
 		QLemmas: ["Q lemmas", "Quichua lemmas", QLemmas.length],
+		MLLemmas: ["ML lemmas", "Media Lengua lemmas", MLLemmas.length],
 		SPVerbEnd: ["SP verbals", "Spanish lemmas that end in (ar|ir|er)", SPVerbEnd],
 		QVerbals: ["Q verbals", "Quichua correspondents of Spanish (ar|ir|er)$ lemmas, that end in 'na'", QVerbal],
 		SPVerbEndNoQ: ["Non-verb SP 'r' words","Spanish lemmas that end in (ar|ir|er) but don't have any Quichua translations that end in 'na", noQVerb]
@@ -638,5 +642,9 @@ function populateStats() {
 	*/
 	function populateStatsGrid(member, target) {
 		createChild("div", "box", member, target);
+	}
+
+	function findUnmatched(ar) {
+		for (let i = 0; i < SPLemmas.length)
 	}
 }
