@@ -612,12 +612,29 @@ function populateStats() {
 	SPLemmas= Dictionary.filter(ele => {
 		return ele.origin == "SP";
 	});
+	SPLinks = [];
+	for (let i = 0; i < SPLemmas.length; i++) {
+		for(let j = 0; j < SPLemmas[i].links.length; j++) {
+			SPLinks.push(SPLemmas[i].links[j][0]);
+		}
+	}
 	QLemmas= Dictionary.filter(ele => {
 		return ele.origin == "Q";
 	});
+	QHeads = [];
+	for (let i = 0; i < QLemmas.length; i++) {
+		QHeads.push(QLemmas[i].head);
+	}
 	MLLemmas = Dictionary.filter(ele => {
 		return ele.origin == "ML";
 	});
+
+	SPLinksNotInQ = [];
+	for (let i = 0; i < SPLinks.length; i++) {
+		if (!QHeads.includes(SPLinks[i])) {
+			SPLinksNotInQ.push(SPLinks[i]);
+		}
+	}
 
 	Stats = {
 		SPLemmas: ["SP lemmas", "Spanish lemmas", SPLemmas.length],
@@ -645,6 +662,8 @@ function populateStats() {
 	}
 
 	function findUnmatched(ar) {
-		for (let i = 0; i < SPLemmas.length)
-	}
+		for (let i = 0; i < SPLemmas.length; i++) {
+
+		}
+	} 
 }
