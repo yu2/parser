@@ -306,7 +306,7 @@ a:visited {
 	left: 1em;
 	top: 4em;
 	z-index: 5;
-	background: aliceblue;
+	background: white;
 	grid-template-columns: repeat(2, minmax(min-content, max-content));
 	grid-auto-flow: row;
 	grid-auto-columns: max-content;
