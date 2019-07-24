@@ -615,7 +615,7 @@ function populateStats() {
 	SPLinks = [];
 	for (let i = 0; i < SPLemmas.length; i++) {
 		for(let j = 0; j < SPLemmas[i].links.length; j++) {
-			SPLinks.push(SPLemmas[i].links[j][0]);
+			SPLinks.push([SPLemmas[i].links[j][0], SPLemmas[i].head]);
 		}
 	}
 	QLemmas= Dictionary.filter(ele => {
@@ -631,9 +631,17 @@ function populateStats() {
 
 	SPLinksNotInQ = [];
 	for (let i = 0; i < SPLinks.length; i++) {
-		if (!QHeads.includes(SPLinks[i])) {
+		if (!QHeads.includes(SPLinks[i][0])) {
 			SPLinksNotInQ.push(SPLinks[i]);
 		}
+	}
+	for (let i = 0; i < SPLinksNotInQ.length; i++) {
+		QLemmas.push({
+			head: SPLinksNotInQ[i][0],
+			origin: "Q",
+			links: [SPLinksNotInQ[i][1]],
+			verbal: false
+		});
 	}
 
 	Stats = {
