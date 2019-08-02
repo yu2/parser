@@ -25,6 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	parseAreaA = document.querySelector(".parseAreaA");
 	dictSearchResults = document.getElementsByClassName("dictSearchResults")[0];
 	dictSearchField = document.getElementsByClassName("dictSearchField")[0];
+	dictSearchCounter = document.getElementsByClassName("dictSearchCounter")[0];
 	let statsBtn = document.getElementsByClassName("statsBtn")[0];
 	statsGrid = document.getElementsByClassName("statsGrid")[0];
 	let colorChangeButton = document.getElementsByClassName("colorChangeButton")[0];
@@ -473,6 +474,43 @@ function toIPA(ar) {
   // Method 2: Iterate through array
 }
 
+function checkCorrespondences() {
+	SPLemmas= Dictionary.filter(ele => {
+		return ele.origin == "SP";
+	});
+	SPLinks = [];
+	for (let i = 0; i < SPLemmas.length; i++) {
+		for(let j = 0; j < SPLemmas[i].links.length; j++) {
+			SPLinks.push([SPLemmas[i].links[j][0], SPLemmas[i].head]);
+		}
+	}
+	QLemmas= Dictionary.filter(ele => {
+		return ele.origin == "Q";
+	});
+	QHeads = [];
+	for (let i = 0; i < QLemmas.length; i++) {
+		QHeads.push(QLemmas[i].head);
+	}
+	MLLemmas = Dictionary.filter(ele => {
+		return ele.origin == "ML";
+	});
+
+	SPLinksNotInQ = [];
+	for (let i = 0; i < SPLinks.length; i++) {
+		if (!QHeads.includes(SPLinks[i][0])) {
+			SPLinksNotInQ.push(SPLinks[i]);
+		}
+	}
+	for (let i = 0; i < SPLinksNotInQ.length; i++) {
+		QLemmas.push({
+			head: SPLinksNotInQ[i][0],
+			origin: "Q",
+			links: [SPLinksNotInQ[i][1]],
+			verbal: false
+		});
+	}
+}
+
 function doSubs(ar) {
   ar = ar
     .replace(/\u00F1/gu, "\u0272")
@@ -552,6 +590,7 @@ function dictSearch(word) {
 	word = diacriticize(word);
 	word = new RegExp("^" + word + "$");
 	let found = Dictionary.filter(e => word.test(e.head));
+	dictSearchCounter.innerText = found.length + " results";
 	for (let j = 0; j < found.length; j++) {
 		let show = [];
 		for (let i = 0; i < found[j].links.length; i++) {
@@ -586,6 +625,7 @@ function populateStats() {
 	let nonV = 0;
 	let nonVLinks = [];
 	
+	// Generate values for stats fields
 	for (let i = 0; i < Dictionary.length; i++) {
 		if (reSP.test(Dictionary[i].head)) {
 			SPVerbEnd++;
@@ -609,41 +649,6 @@ function populateStats() {
 		}
 	}
 
-	SPLemmas= Dictionary.filter(ele => {
-		return ele.origin == "SP";
-	});
-	SPLinks = [];
-	for (let i = 0; i < SPLemmas.length; i++) {
-		for(let j = 0; j < SPLemmas[i].links.length; j++) {
-			SPLinks.push([SPLemmas[i].links[j][0], SPLemmas[i].head]);
-		}
-	}
-	QLemmas= Dictionary.filter(ele => {
-		return ele.origin == "Q";
-	});
-	QHeads = [];
-	for (let i = 0; i < QLemmas.length; i++) {
-		QHeads.push(QLemmas[i].head);
-	}
-	MLLemmas = Dictionary.filter(ele => {
-		return ele.origin == "ML";
-	});
-
-	SPLinksNotInQ = [];
-	for (let i = 0; i < SPLinks.length; i++) {
-		if (!QHeads.includes(SPLinks[i][0])) {
-			SPLinksNotInQ.push(SPLinks[i]);
-		}
-	}
-	for (let i = 0; i < SPLinksNotInQ.length; i++) {
-		QLemmas.push({
-			head: SPLinksNotInQ[i][0],
-			origin: "Q",
-			links: [SPLinksNotInQ[i][1]],
-			verbal: false
-		});
-	}
-
 	Stats = {
 		SPLemmas: ["SP lemmas", "Spanish lemmas", SPLemmas.length],
 		QLemmas: ["Q lemmas", "Quichua lemmas", QLemmas.length],
@@ -658,20 +663,7 @@ function populateStats() {
 		populateStatsGrid(Stats[key][2], statsGrid);
 	});
 
-	/*
-	console.log(`total number of links: ${linkLength}`);
-	console.log(`SP words with no verbal Q link: ${noQVerb}`);
-	console.log(noQVerbList);
-	console.log(`Q words linked by non-verbal SP words: ${nonV}`);
-	console.log(nonVLinks);
-	*/
 	function populateStatsGrid(member, target) {
 		createChild("div", "box", member, target);
 	}
-
-	function findUnmatched(ar) {
-		for (let i = 0; i < SPLemmas.length; i++) {
-
-		}
-	} 
 }

@@ -58,17 +58,18 @@
 				<div class="opsArea">
 					<p class="tabAreaHeader utilsHeader">Operations</p>
 					<div class="utilsArea">
-						<input type="button" class="button" value="lowercase" onclick="lowerCaseIt()">
-						<input type="button" class="button" value="Trim" onclick="trimIt()">
-						<input type="button" class="button" value="Uniques" onclick="uniq()">
-						<input type="button" class="button" value="Sort" onclick="sortIt()">
-						<input type="button" class="button" value="toIPA" onclick="toIPA()">
+						<input type="button" class="button opsButton" value="lowercase" onclick="lowerCaseIt()">
+						<input type="button" class="button opsButton" value="Trim" onclick="trimIt()">
+						<input type="button" class="button opsButton" value="Uniques" onclick="uniq()">
+						<input type="button" class="button opsButton" value="Sort" onclick="sortIt()">
+						<input type="button" class="button opsButton" value="toIPA" onclick="toIPA()">
+						<input type="button" class="button opsButton" value="Check correspondences" onclick="checkCorrespondences()">
 					</div>
 					<p class="tabAreaHeader utilsHeader">Download</p>
 					<div class="downloadArea">
-						<a class="button downloadRoots" onclick="downloadList(this)">Roots</a>
-						<a class="button downloadAffixes" onclick="downloadList(this)">Affixes</a>
-						<a class="button downloadDictionary" onclick="downloadDict(Dictionary, 'dict.js', 'text/javascript')">Dictionary</a>
+						<a class="button opsButton downloadRoots" onclick="downloadList(this)">Roots</a>
+						<a class="button opsButton downloadAffixes" onclick="downloadList(this)">Affixes</a>
+						<a class="button opsButton downloadDictionary" onclick="downloadDict(Dictionary, 'dict.js', 'text/javascript')">Dictionary</a>
 					</div>
 				</div>
 			</div>
@@ -77,7 +78,7 @@
 					<input class="searchField dictSearchField" type="text" value="">
 					<input type="button" class="button submitButton dictSearchButton" onclick ="dictSearch(dictSearchField.value.toLowerCase())" value="Lookup">
 				</div>
-				<div class="dictSearchCounter"></div>
+				<div class="dictSearchCounter">0 results</div>
 				<div class="dictSearchResults"></div>
 			</div>
 		</div>
