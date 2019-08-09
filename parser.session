@@ -5,14 +5,28 @@ set cpo&vim
 inoremap <silent> <SNR>23_AutoPairsReturn =AutoPairsReturn()
 nnoremap  2
 nnoremap  2
+xmap S <Plug>VSurround
 noremap \h :set hlsearch! hlsearch?
 nnoremap \t :call ToggleSignColumn()
+nmap cS <Plug>CSurround
+nmap cs <Plug>Csurround
+nmap ds <Plug>Dsurround
+xmap gS <Plug>VgSurround
 vmap gx <Plug>NetrwBrowseXVis
 nmap gx <Plug>NetrwBrowseX
 noremap gf :w:e <cfile>
+nmap ySS <Plug>YSsurround
+nmap ySs <Plug>YSsurround
+nmap yss <Plug>Yssurround
+nmap yS <Plug>YSurround
+nmap ys <Plug>Ysurround
+nnoremap <silent> <Plug>SurroundRepeat .
 nnoremap <silent> <Plug>(startify-open-buffers) :call startify#open_buffers()
 vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(expand((exists("g:netrw_gx")? g:netrw_gx : '<cfile>')),netrw#CheckIfRemote())
+imap S <Plug>ISurround
+imap s <Plug>Isurround
+imap  <Plug>Isurround
 noremap ë :m-2==
 noremap ê :m+==
 let &cpo=s:cpo_save
@@ -26,7 +40,7 @@ set fileencodings=ucs-bom,utf-8,default,latin1
 set helplang=en
 set nomodeline
 set ruler
-set runtimepath=~/.vim,~/.vim/pack/foo/start/vim-startify-master,~/.vim/pack/foo/start/vim-markdown,~/.vim/pack/foo/start/vim-javascript,~/.vim/pack/foo/start/vim-css3-syntax,~/.vim/pack/foo/start/goyo.vim,~/.vim/pack/foo/start/auto-pairs-master,~/.vim/pack/foo/start/ale,/usr/share/vim/vimfiles,/usr/share/vim/vim81,~/.vim/pack/foo/start/vim-markdown/after,/usr/share/vim/vimfiles/after,~/.vim/after
+set runtimepath=~/.vim,~/.vim/pack/foo/start/vim-surround,~/.vim/pack/foo/start/vim-startify-master,~/.vim/pack/foo/start/vim-markdown,~/.vim/pack/foo/start/vim-javascript,~/.vim/pack/foo/start/vim-css3-syntax,~/.vim/pack/foo/start/goyo.vim,~/.vim/pack/foo/start/auto-pairs-master,~/.vim/pack/foo/start/ale,/usr/share/vim/vimfiles,/usr/share/vim/vim81,~/.vim/pack/foo/start/vim-markdown/after,/usr/share/vim/vimfiles/after,~/.vim/after
 set shiftwidth=2
 set shortmess=filnxtToOI
 set smartindent
@@ -46,11 +60,12 @@ endif
 set shortmess=aoO
 argglobal
 %argdel
+$argadd display.css
 set stal=2
 tabnew
 tabnew
 tabrewind
-edit index.html
+edit ~/parser/index.html
 set splitbelow splitright
 wincmd t
 set winminheight=0
@@ -206,15 +221,14 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 27) / 55)
+let s:l = 1 - ((0 * winheight(0) + 18) / 36)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
 1
 normal! 0
-lcd ~/parser
 tabnext
-edit ~/parser/display.css
+edit display.css
 set splitbelow splitright
 wincmd t
 set winminheight=0
@@ -370,13 +384,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 27) / 54)
+let s:l = 13 - ((12 * winheight(0) + 18) / 36)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-1
-normal! 0
-lcd ~/parser
+13
+normal! 037|
 tabnext
 edit ~/parser/script.js
 set splitbelow splitright
@@ -534,18 +547,17 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 27) / 54)
+let s:l = 1 - ((0 * winheight(0) + 18) / 36)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
 1
 normal! 0
-lcd ~/parser
-tabnext 3
+tabnext 1
 set stal=1
-badd +0 ~/parser/index.html
-badd +0 ~/parser/display.css
+badd +0 display.css
 badd +0 ~/parser/script.js
+badd +0 ~/parser/index.html
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
@@ -557,7 +569,6 @@ if file_readable(s:sx)
   exe "source " . fnameescape(s:sx)
 endif
 let &so = s:so_save | let &siso = s:siso_save
-nohlsearch
 doautoall SessionLoadPost
 unlet SessionLoad
 " vim: set ft=vim :

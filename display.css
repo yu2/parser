@@ -1,12 +1,16 @@
 @font-face {
+	/*
   font-family: "Consolas";
-  /*src: url('../fonts/consolas-webfont.svg') format('svg');*/
-  /*src: url('../fonts/Consolas.woff2') format('woff2');*/
+  src: url('../fonts/consolas-webfont.svg') format('svg');
+  src: url('../fonts/Consolas.woff2') format('woff2');
   src: url('../fonts/Consolas.ttf') format('truetype');
-  /*
+  
   src: url("fonts/NotoMono-Regular.woff2") format("woff2");
   src: url("fonts/Consolas.eot") format("eot");
   */
+
+  font-family: "Noto Mono";
+  src: url('../fonts/NotoMono-Regular.ttf') format('truetype');
 }
 
 /*
@@ -22,7 +26,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "Consolas", "Noto Sans","Open Sans", sans-serif !important;
+	font-family: "Noto Mono", "Consolas", "Noto Sans","Open Sans", sans-serif !important;
 	font-size: 1em;
 }
 
