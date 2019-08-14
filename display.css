@@ -7,10 +7,12 @@
   
   src: url("fonts/NotoMono-Regular.woff2") format("woff2");
   src: url("fonts/Consolas.eot") format("eot");
-  */
 
   font-family: "Noto Mono";
   src: url('../fonts/NotoMono-Regular.ttf') format('truetype');
+*/
+	font-family: "DejaVu Sans";
+  src: url('../fonts/DejaVuSans-webfont.woff') format('woff');
 }
 
 /*
@@ -26,8 +28,8 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "Noto Mono", "Consolas", "Noto Sans","Open Sans", sans-serif !important;
-	font-size: 1em;
+	font-family: "DejaVu Sans", "Noto Mono", "Consolas", "Noto Sans","Open Sans", sans-serif;
+	font-size: .975em;
 }
 
 :root {
@@ -180,7 +182,7 @@ a:visited {
 }
 	
 .inputContainer {
-	width: 100%;
+	width: 99%;
 	margin: 0.2em 0 0.5em 0;
 	display: flex;
 }
@@ -202,24 +204,6 @@ a:visited {
 	grid-auto-flow: row;
 	grid-auto-columns: max-content;
 	column-gap: 2em;
-	padding-bottom: 0.5em;
-}
-
-.parseAreaA {
-	display: none;
-	/*
-	background: orange;
-	grid-template-columns: repeat(3, minmax(min-content, max-content));
-	grid-auto-flow: column;
-	grid-auto-columns: min-content;
-	column-gap: 1em;
-	padding-bottom: 1em;
-	*/
-	grid-template-columns: repeat(3, minmax(min-content, max-content));
-	grid-auto-flow: row;
-	grid-auto-columns: max-content;
-	column-gap: 2em;
-	padding-bottom: 0.5em;
 }
 
 .tabArea2, .tabArea3, .tabArea4 {

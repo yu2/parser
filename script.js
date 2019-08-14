@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", function() {
   let inputField = document.querySelector(".inputField");
 	parseResultField = document.querySelector(".parseResultField");
 	parseAreaR = document.querySelector(".parseAreaR");
-	parseAreaA = document.querySelector(".parseAreaA");
 	dictSearchResults = document.getElementsByClassName("dictSearchResults")[0];
 	dictSearchField = document.getElementsByClassName("dictSearchField")[0];
 	dictSearchCounter = document.getElementsByClassName("dictSearchCounter")[0];
@@ -163,14 +162,10 @@ var modeChanger = new Proxy (inputMode, {
 		if (value == "letter") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
-			//parseAreaR.style.display = "grid";
-			//parseAreaA.style.display = "none";
 		}
 		else if (value == "word") {
 			target[key] = value;
 			console.log(`${key} set to ${value}`);
-			//parseAreaR.style.display = "none";
-			//parseAreaA.style.display = "grid";
 		}
 	}
 });
@@ -205,6 +200,7 @@ function searchRoots(str) {
 			*/
 		} else {
 			lastMatched = str;
+			//toggleGrid(parseAreaR);
 			populateGrid(predictions);
 		}
 
@@ -287,6 +283,12 @@ function searchAffixes(str) {
 	}
 	
 	return affixesPredicted.length !== 0 ? true : false;
+}
+
+function toggleGrid(el) {
+	console.log(el.style.display);
+	console.log("hi");
+	el.style.display = (el.style.display == "" | el.style.display == "none") ? "grid" : "none";
 }
 
 function populateGrid(members, target = parseAreaR) {
