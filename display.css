@@ -254,7 +254,6 @@ input[type=text]:focus, textarea:focus {
 	display: flex;
 	flex-direction: column;
 	flex-basis: fit-content;
-	max-width: 30em;
 	padding: 1em;
 	border: 1px solid black;
 	margin: 1em 0 1.5em 0;
@@ -268,7 +267,11 @@ input[type=text]:focus, textarea:focus {
 .utilsArea {
 	margin: 0 0 0.75em 0;
 	display: flex;
-	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.utilsRow {
+	display: flex;
 }
 
 /*dictionary lookup rules*/
