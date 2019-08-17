@@ -39,6 +39,7 @@ set directory=~/.cache/vim/swap//
 set fileencodings=ucs-bom,utf-8,default,latin1
 set helplang=en
 set nomodeline
+set operatorfunc=<SNR>26_opfunc
 set ruler
 set runtimepath=~/.vim,~/.vim/pack/foo/start/vim-surround,~/.vim/pack/foo/start/vim-startify-master,~/.vim/pack/foo/start/vim-markdown,~/.vim/pack/foo/start/vim-javascript,~/.vim/pack/foo/start/vim-css3-syntax,~/.vim/pack/foo/start/goyo.vim,~/.vim/pack/foo/start/auto-pairs-master,~/.vim/pack/foo/start/ale,/usr/share/vim/vimfiles,/usr/share/vim/vim81,~/.vim/pack/foo/start/vim-markdown/after,/usr/share/vim/vimfiles/after,~/.vim/after
 set shiftwidth=2
@@ -60,12 +61,12 @@ endif
 set shortmess=aoO
 argglobal
 %argdel
-$argadd display.css
+$argadd index.html
 set stal=2
 tabnew
 tabnew
 tabrewind
-edit ~/parser/index.html
+edit index.html
 set splitbelow splitright
 wincmd t
 set winminheight=0
@@ -221,14 +222,14 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 18) / 36)
+let s:l = 86 - ((31 * winheight(0) + 27) / 55)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-1
-normal! 0
+86
+normal! 012|
 tabnext
-edit display.css
+edit ~/parser/display.css
 set splitbelow splitright
 wincmd t
 set winminheight=0
@@ -384,12 +385,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 13 - ((12 * winheight(0) + 18) / 36)
+let s:l = 1 - ((0 * winheight(0) + 27) / 54)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-13
-normal! 037|
+1
+normal! 0
 tabnext
 edit ~/parser/script.js
 set splitbelow splitright
@@ -547,17 +548,17 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 18) / 36)
+let s:l = 1 - ((0 * winheight(0) + 27) / 54)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
 1
 normal! 0
-tabnext 1
+tabnext 3
 set stal=1
-badd +0 display.css
+badd +0 index.html
+badd +0 ~/parser/display.css
 badd +0 ~/parser/script.js
-badd +0 ~/parser/index.html
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
@@ -569,6 +570,7 @@ if file_readable(s:sx)
   exe "source " . fnameescape(s:sx)
 endif
 let &so = s:so_save | let &siso = s:siso_save
+nohlsearch
 doautoall SessionLoadPost
 unlet SessionLoad
 " vim: set ft=vim :

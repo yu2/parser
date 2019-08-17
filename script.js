@@ -26,7 +26,8 @@ document.addEventListener("DOMContentLoaded", function() {
 	dictSearchField = document.getElementsByClassName("dictSearchField")[0];
 	dictSearchCounter = document.getElementsByClassName("dictSearchCounter")[0];
 	let statsBtn = document.getElementsByClassName("statsBtn")[0];
-	statsGrid = document.getElementsByClassName("statsGrid")[0];
+	statsGrid= document.getElementsByClassName("statsGrid")[0];
+	statsGridBody = document.getElementsByClassName("statsGridBody")[0];
 	let colorChangeButton = document.getElementsByClassName("colorChangeButton")[0];
 
 	// Tab Switching Behaviour
@@ -124,9 +125,9 @@ document.addEventListener("DOMContentLoaded", function() {
 	// Stats window behaviour
 	statsBtn.addEventListener("click", function() {
 		if (statsGrid.style.display == "" | statsGrid.style.display == "none") {
-			statsGrid.style.display = "grid";
+			statsGrid.style.display = "flex";
 			populateStats();
-		} else if (statsGrid.style.display == "grid") {
+		} else if (statsGrid.style.display == "flex") {
 			statsGrid.style.display = "none";
 		}
 	});
@@ -170,12 +171,31 @@ var modeChanger = new Proxy (inputMode, {
 	}
 });
 
+// Reducer for finding included dictionaries
+function reducer(arr, ele) {
+	return arr.reduce(function(acc, cur, ind, src) {
+		if (cur === doSubs(ele)) {
+			acc.push(ind);
+		}
+		return acc;
+	}, []);
+}
+
 // *****************
 // Processing inputs
 // *****************
 var lastMatched = "";
 function processInput(str) {
 	searchRoots(doSubs(str));
+	/*
+	console.log(reducer(roots, "achallku chukllu aqcha"));
+	console.log(reducer(roots, "artificialmente"));
+	console.log(reducer(roots, "hatunyachaywasi"));
+	console.log(reducer(roots, "imashi imashi"));
+	console.log(reducer(roots, "sawarinalla warmi"));
+	console.log(reducer(roots, "tiksimuyuyachay"));
+	console.log(reducer(roots, "abyayala patapak tandanakuy"));
+	*/
 }
 
 var matchFits = "squirrel";
@@ -446,6 +466,10 @@ function lowerCaseDict() {
 	}
 }
 
+function clearRoots() {
+	roots = [];
+}
+
 function printCharCodes (str) {
   for (let i = 0; i < str.length; i++) {
     console.log(i + ": " + str.codePointAt(i));
@@ -477,40 +501,6 @@ function toIPA(ar) {
 }
 
 function checkCorrespondences() {
-	SPLemmas= Dictionary.filter(ele => {
-		return ele.origin == "SP";
-	});
-	SPLinks = [];
-	for (let i = 0; i < SPLemmas.length; i++) {
-		for(let j = 0; j < SPLemmas[i].links.length; j++) {
-			SPLinks.push([SPLemmas[i].links[j][0], SPLemmas[i].head]);
-		}
-	}
-	QLemmas= Dictionary.filter(ele => {
-		return ele.origin == "Q";
-	});
-	QHeads = [];
-	for (let i = 0; i < QLemmas.length; i++) {
-		QHeads.push(QLemmas[i].head);
-	}
-	MLLemmas = Dictionary.filter(ele => {
-		return ele.origin == "ML";
-	});
-
-	SPLinksNotInQ = [];
-	for (let i = 0; i < SPLinks.length; i++) {
-		if (!QHeads.includes(SPLinks[i][0])) {
-			SPLinksNotInQ.push(SPLinks[i]);
-		}
-	}
-	for (let i = 0; i < SPLinksNotInQ.length; i++) {
-		QLemmas.push({
-			head: SPLinksNotInQ[i][0],
-			origin: "Q",
-			links: [SPLinksNotInQ[i][1]],
-			verbal: false
-		});
-	}
 }
 
 function doSubs(ar) {
@@ -615,7 +605,7 @@ function dictSearch(word) {
 }
 
 function populateStats() {
-	statsGrid.innerText = "";
+	statsGridBody.innerText = "";
 	let reSP = /.*(ar|ir|er)$/;
 	let verbals = [];
 	let reVerbal = /.*na$/;
@@ -627,6 +617,40 @@ function populateStats() {
 	let nonV = 0;
 	let nonVLinks = [];
 	
+	SPLemmas= Dictionary.filter(ele => {
+		return ele.origin == "SP";
+	});
+	SPLinks = [];
+	for (let i = 0; i < SPLemmas.length; i++) {
+		for(let j = 0; j < SPLemmas[i].links.length; j++) {
+			SPLinks.push([SPLemmas[i].links[j][0], SPLemmas[i].head]);
+		}
+	}
+	QLemmas= Dictionary.filter(ele => {
+		return ele.origin == "Q";
+	});
+	QHeads = [];
+	for (let i = 0; i < QLemmas.length; i++) {
+		QHeads.push(QLemmas[i].head);
+	}
+	MLLemmas = Dictionary.filter(ele => {
+		return ele.origin == "ML";
+	});
+
+	SPLinksNotInQ = [];
+	for (let i = 0; i < SPLinks.length; i++) {
+		if (!QHeads.includes(SPLinks[i][0])) {
+			SPLinksNotInQ.push(SPLinks[i]);
+		}
+	}
+	for (let i = 0; i < SPLinksNotInQ.length; i++) {
+		QLemmas.push({
+			head: SPLinksNotInQ[i][0],
+			origin: "Q",
+			links: [SPLinksNotInQ[i][1]],
+			verbal: false
+		});
+	}
 	// Generate values for stats fields
 	for (let i = 0; i < Dictionary.length; i++) {
 		if (reSP.test(Dictionary[i].head)) {
@@ -656,13 +680,13 @@ function populateStats() {
 		QLemmas: ["Q lemmas", "Quichua lemmas", QLemmas.length],
 		MLLemmas: ["ML lemmas", "Media Lengua lemmas", MLLemmas.length],
 		SPVerbEnd: ["SP verbals", "Spanish lemmas that end in (ar|ir|er)", SPVerbEnd],
-		QVerbals: ["Q verbals", "Quichua correspondents of Spanish (ar|ir|er)$ lemmas, that end in 'na'", QVerbal],
+		QVerbals: ["Q verbals", "Quichua equivalents of Spanish (ar|ir|er)$ lemmas, that end in 'na'", QVerbal],
 		SPVerbEndNoQ: ["Non-verb SP 'r' words","Spanish lemmas that end in (ar|ir|er) but don't have any Quichua translations that end in 'na", noQVerb]
 	}
 
 	Object.keys(Stats).forEach((key, index) => {
-		populateStatsGrid(`<a title="${Stats[key][1]}">${Stats[key][0]}</a>`, statsGrid);
-		populateStatsGrid(Stats[key][2], statsGrid);
+		populateStatsGrid(`<a title="${Stats[key][1]}">${Stats[key][0]}</a>`, statsGridBody);
+		populateStatsGrid(Stats[key][2], statsGridBody);
 	});
 
 	function populateStatsGrid(member, target) {

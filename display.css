@@ -309,11 +309,16 @@ input[type=text]:focus, textarea:focus {
 
 .statsGrid {
 	display: none;
+	flex-direction: column;
 	position: fixed;
 	left: 1em;
 	top: 4em;
 	z-index: 5;
 	background: white;
+}
+
+.statsGridBody {
+	display: grid;
 	grid-template-columns: repeat(2, minmax(min-content, max-content));
 	grid-auto-flow: row;
 	grid-auto-columns: max-content;
