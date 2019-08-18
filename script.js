@@ -636,7 +636,9 @@ function populateStats() {
 	MLLemmas = Dictionary.filter(ele => {
 		return ele.origin == "ML";
 	});
-
+	MLVerbals = MLLemmas.filter(ele => {
+		return ele.verbal === true;
+	});
 	SPLinksNotInQ = [];
 	for (let i = 0; i < SPLinks.length; i++) {
 		if (!QHeads.includes(SPLinks[i][0])) {
@@ -681,7 +683,8 @@ function populateStats() {
 		MLLemmas: ["ML lemmas", "Media Lengua lemmas", MLLemmas.length],
 		SPVerbEnd: ["SP verbals", "Spanish lemmas that end in (ar|ir|er)", SPVerbEnd],
 		QVerbals: ["Q verbals", "Quichua equivalents of Spanish (ar|ir|er)$ lemmas, that end in 'na'", QVerbal],
-		SPVerbEndNoQ: ["Non-verb SP 'r' words","Spanish lemmas that end in (ar|ir|er) but don't have any Quichua translations that end in 'na", noQVerb]
+		MLVerbals: ["ML verbals", "ML lemmas marked as verbals", MLVerbals.length],
+		SPVerbEndNoQ: ["Non-verb SP 'r' words","Spanish lemmas that end in (ar|ir|er) but don't have any Quichua equivalents that end in 'na", noQVerb]
 	}
 
 	Object.keys(Stats).forEach((key, index) => {
