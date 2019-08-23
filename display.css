@@ -77,6 +77,14 @@ body {
 	background: white;
 }
 
+.main-body {
+	display: flex;
+	justify-content: center;
+	border: 1px solid purple;
+	min-height: 0;
+	width: 100%;
+}
+
 .statsBtn {
 	color: #666;
 }
@@ -107,7 +115,6 @@ a:link {
 a:visited {
 	color: dimgray;
 }
-
 
 .tabbedContainer {
 	position: relative;
@@ -310,9 +317,11 @@ input[type=text]:focus, textarea:focus {
 .statsGrid {
 	display: none;
 	flex-direction: column;
+	/*
 	position: fixed;
 	left: 1em;
 	top: 4em;
+	*/
 	z-index: 5;
 	background: white;
 }

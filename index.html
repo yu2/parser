@@ -19,77 +19,79 @@
 			<p class="logo"><a id="git-link" href="https://github.com/yu2/parser" target="_blank"><i class="fa fa-github"></i></a></p>
 		</div>
 	</div>
-	<div class="tabbedContainer">
-		<div class="tabBar">
-			<input type="button" class="tabNavBtn tabNavBtn1" value="Parse">
-			<input type="button" class="tabNavBtn tabNavBtn2" value="Add morpheme">
-			<input type="button" class="tabNavBtn tabNavBtn3" value="Utilities">
-			<input type="button" class="tabNavBtn tabNavBtn4" value="Dictionary">
+	<div class="main-body">
+		<div class="statsGrid">
+			<div class="statsGridTitle"><h3>Stats (hover over for tooltips)</h3></div>
+			<div class="statsGridBody"></div>
 		</div>
-		<div class="mainContainer">
-			<div class="tabArea tabArea1">
-				<div class="parseResultField"></div>
-				<div class="inputContainer">
-					<input class="searchField inputField" type="text" value="">
-					<input type="button" class="button submitButton submitInputButton" id="submitInput" onclick="submitInput()" value="Parse">
-				</div>
-				<div class="boxMother gridDisplay parseAreaR"></div>
+		<div class="tabbedContainer">
+			<div class="tabBar">
+				<input type="button" class="tabNavBtn tabNavBtn1" value="Parse">
+				<input type="button" class="tabNavBtn tabNavBtn2" value="Add morpheme">
+				<input type="button" class="tabNavBtn tabNavBtn3" value="Utilities">
+				<input type="button" class="tabNavBtn tabNavBtn4" value="Dictionary">
 			</div>
-			<div class="tabArea tabArea2">
-				<div id="addArea">
-					<div class="addMorphemeContainer addRootContainer">
-						<textarea class="addMorphemeField addRootField" type="text" size="25" value=""></textarea>
-						<input type="button" class="addRootButton button" value="Add Root" onclick="newMorpheme('root')">
+			<div class="mainContainer">
+				<div class="tabArea tabArea1">
+					<div class="parseResultField"></div>
+					<div class="inputContainer">
+						<input class="searchField inputField" type="text" value="">
+						<input type="button" class="button submitButton submitInputButton" id="submitInput" onclick="submitInput()" value="Parse">
 					</div>
-					<div class="addMorphemeContainer addAffixContainer">
-						<textarea class="addMorphemeField addAffixField" type="text" size="25" value=""></textarea>
-						<input type="button" class="addAffixButton button" value="Add Affix" onclick="newMorpheme('affix')">
-					</div>
+					<div class="boxMother gridDisplay parseAreaR"></div>
 				</div>
-			</div>
-			<div class="tabArea tabArea3">
-				<div id="uploadArea">
-					<input type="button" class="button" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
-					<input type="file" class="uploadHidden" id="rootsInput" multiple onchange="handleFiles(this.files, &#39;roots&#39;)">
-					<input type="button" class="button uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
-					<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
-				</div>
-				<div class="opsArea">
-					<p class="tabAreaHeader utilsHeader">Operations</p>
-					<div class="utilsArea">
-						<div class="utilsRow utilsRow1">
-							<input type="button" class="button opsButton" value="lowercase" onclick="lowerCaseIt()">
-							<input type="button" class="button opsButton" value="Trim" onclick="trimIt()">
-							<input type="button" class="button opsButton" value="Uniques" onclick="uniq()">
-							<input type="button" class="button opsButton" value="Sort" onclick="sortIt()">
-							<input type="button" class="button opsButton" value="toIPA" onclick="toIPA()">
+				<div class="tabArea tabArea2">
+					<div id="addArea">
+						<div class="addMorphemeContainer addRootContainer">
+							<textarea class="addMorphemeField addRootField" type="text" size="25" value=""></textarea>
+							<input type="button" class="addRootButton button" value="Add Root" onclick="newMorpheme('root')">
 						</div>
-						<div class="utilsRow utilsRow2">
-							<input type="button" class="button opsButton" value="Clear roots" onclick="clearRoots()">
-							<input type="button" class="button opsButton" value="Check correspondences" onclick="checkCorrespondences()">
+						<div class="addMorphemeContainer addAffixContainer">
+							<textarea class="addMorphemeField addAffixField" type="text" size="25" value=""></textarea>
+							<input type="button" class="addAffixButton button" value="Add Affix" onclick="newMorpheme('affix')">
 						</div>
 					</div>
-					<p class="tabAreaHeader utilsHeader">Download</p>
-					<div class="downloadArea">
-						<a class="button opsButton downloadRoots" onclick="downloadList(this)">Roots</a>
-						<a class="button opsButton downloadAffixes" onclick="downloadList(this)">Affixes</a>
-						<a class="button opsButton downloadDictionary" onclick="downloadDict(Dictionary, 'dict.js', 'text/javascript')">Dictionary</a>
+				</div>
+				<div class="tabArea tabArea3">
+					<div id="uploadArea">
+						<input type="button" class="button" onclick="document.getElementById(&#39;rootsInput&#39;).click()" value="Upload Roots">
+						<input type="file" class="uploadHidden" id="rootsInput" multiple onchange="handleFiles(this.files, &#39;roots&#39;)">
+						<input type="button" class="button uploadAffixes" onclick="document.getElementById(&#39;affixesInput&#39;).click()" value="Upload Affixes">
+						<input type="file" class="uploadHidden" id="affixesInput" multiple onchange="handleFiles(this.files, &#39;affixes&#39;)">
+					</div>
+					<div class="opsArea">
+						<p class="tabAreaHeader utilsHeader">Operations</p>
+						<div class="utilsArea">
+							<div class="utilsRow utilsRow1">
+								<input type="button" class="button opsButton" value="lowercase" onclick="lowerCaseIt()">
+								<input type="button" class="button opsButton" value="Trim" onclick="trimIt()">
+								<input type="button" class="button opsButton" value="Uniques" onclick="uniq()">
+								<input type="button" class="button opsButton" value="Sort" onclick="sortIt()">
+								<input type="button" class="button opsButton" value="toIPA" onclick="toIPA()">
+							</div>
+							<div class="utilsRow utilsRow2">
+								<input type="button" class="button opsButton" value="Clear roots" onclick="clearRoots()">
+								<input type="button" class="button opsButton" value="Check correspondences" onclick="checkCorrespondences()">
+							</div>
+						</div>
+						<p class="tabAreaHeader utilsHeader">Download</p>
+						<div class="downloadArea">
+							<a class="button opsButton downloadRoots" onclick="downloadList(this)">Roots</a>
+							<a class="button opsButton downloadAffixes" onclick="downloadList(this)">Affixes</a>
+							<a class="button opsButton downloadDictionary" onclick="downloadDict(Dictionary, 'dict.js', 'text/javascript')">Dictionary</a>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="tabArea tabArea4">
-				<div class="inputContainer">
-					<input class="searchField dictSearchField" type="text" value="">
-					<input type="button" class="button submitButton dictSearchButton" onclick ="dictSearch(dictSearchField.value.toLowerCase())" value="Lookup">
+				<div class="tabArea tabArea4">
+					<div class="inputContainer">
+						<input class="searchField dictSearchField" type="text" value="">
+						<input type="button" class="button submitButton dictSearchButton" onclick ="dictSearch(dictSearchField.value.toLowerCase())" value="Lookup">
+					</div>
+					<div class="dictSearchCounter">0 results</div>
+					<div class="dictSearchResults"></div>
 				</div>
-				<div class="dictSearchCounter">0 results</div>
-				<div class="dictSearchResults"></div>
 			</div>
 		</div>
-	</div>
-	<div class="statsGrid">
-		<div class="statsGridTitle"><h3>Stats (hover over for tooltips)</h3></div>
-		<div class="statsGridBody"></div>
 	</div>
   <div class="presentArea" style="display:none">
   </div>
