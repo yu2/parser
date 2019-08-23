@@ -609,8 +609,8 @@ function populateStats() {
 	let reSP = /.*(ar|ir|er)$/;
 	let verbals = [];
 	let reVerbal = /.*na$/;
-	let SPVerbEnd = 0;
-	var QVerbal = 0;
+	let SPVerbals = [];
+	var QVerbals = [];
 	let linkLength = 0;
 	let noQVerb = 0;
 	let noQVerbList = [];
@@ -656,12 +656,12 @@ function populateStats() {
 	// Generate values for stats fields
 	for (let i = 0; i < Dictionary.length; i++) {
 		if (reSP.test(Dictionary[i].head)) {
-			SPVerbEnd++;
+			SPVerbals.push(Dictionary[i].head);
 			linkLength = linkLength + Dictionary[i].links.length;
 			let linkMatches = 0;
 			for (let j = 0; j < Dictionary[i].links.length; j++) {
 				if (reVerbal.test(Dictionary[i].links[j][0])) {
-					QVerbal++;
+					QVerbals.push(Dictionary[i].links[j][0]);
 					linkMatches++;
 					verbals.push(Dictionary[i].links[j]);
 				}
@@ -678,18 +678,18 @@ function populateStats() {
 	}
 
 	Stats = {
-		SPLemmas: ["SP lemmas", "Spanish lemmas", SPLemmas.length],
-		QLemmas: ["Q lemmas", "Quichua lemmas", QLemmas.length],
-		MLLemmas: ["ML lemmas", "Media Lengua lemmas", MLLemmas.length],
-		SPVerbEnd: ["SP verbals", "Spanish lemmas that end in (ar|ir|er)", SPVerbEnd],
-		QVerbals: ["Q verbals", "Quichua equivalents of Spanish (ar|ir|er)$ lemmas, that end in 'na'", QVerbal],
-		MLVerbals: ["ML verbals", "ML lemmas marked as verbals", MLVerbals.length],
-		SPVerbEndNoQ: ["Non-verb SP 'r' words","Spanish lemmas that end in (ar|ir|er) but don't have any Quichua equivalents that end in 'na", noQVerb]
+		SPLemmas: ["SP lemmas", "Spanish lemmas", SPLemmas],
+		QLemmas: ["Q lemmas", "Quichua lemmas", QLemmas],
+		MLLemmas: ["ML lemmas", "Media Lengua lemmas", MLLemmas],
+		SPVerbals: ["SP verbals", "Spanish lemmas that end in (ar|ir|er)", SPVerbals],
+		QVerbals: ["Q verbals", "Quichua equivalents of Spanish (ar|ir|er)$ lemmas, that end in 'na'", QVerbals],
+		MLVerbals: ["ML verbals", "ML lemmas marked as verbals", MLVerbals],
+		SPVerbEndNoQ: ["Non-verb SP 'r' words", "Spanish lemmas that end in (ar|ir|er) but don't have any Quichua equivalents that end in 'na", noQVerbList]
 	}
 
 	Object.keys(Stats).forEach((key, index) => {
 		populateStatsGrid(`<a title="${Stats[key][1]}">${Stats[key][0]}</a>`, statsGridBody);
-		populateStatsGrid(Stats[key][2], statsGridBody);
+		populateStatsGrid(`<p class="${Object.keys({Stats[key][2]})}">${Stats[key][2].length}</p>`, statsGridBody);
 	});
 
 	function populateStatsGrid(member, target) {
