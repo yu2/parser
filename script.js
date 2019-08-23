@@ -687,9 +687,12 @@ function populateStats() {
 		SPVerbEndNoQ: ["Non-verb SP 'r' words", "Spanish lemmas that end in (ar|ir|er) but don't have any Quichua equivalents that end in 'na", noQVerbList]
 	}
 
-	Object.keys(Stats).forEach((key, index) => {
-		populateStatsGrid(`<a title="${Stats[key][1]}">${Stats[key][0]}</a>`, statsGridBody);
-		populateStatsGrid(`<p class="${Object.keys({Stats[key][2]})}">${Stats[key][2].length}</p>`, statsGridBody);
+	Object.keys(Stats).forEach((key2, index) => {
+		let item = `<a title="${Stats[key2][1]}">${Stats[key2][0]}</a>`
+		populateStatsGrid(item, statsGridBody);
+		console.log(Stats[key2]);
+//		let desc = "<p class='statsList' id='" + Object.keys({Stats[key2][2]})[0] + `'>${Stats[key2][2].length}</p>`
+		populateStatsGrid(desc, statsGridBody);
 	});
 
 	function populateStatsGrid(member, target) {
