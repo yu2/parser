@@ -26,8 +26,9 @@ document.addEventListener("DOMContentLoaded", function() {
 	dictSearchField = document.getElementsByClassName("dictSearchField")[0];
 	dictSearchCounter = document.getElementsByClassName("dictSearchCounter")[0];
 	let statsBtn = document.getElementsByClassName("statsBtn")[0];
-	statsGrid= document.getElementsByClassName("statsGrid")[0];
+	statsContainer = document.getElementsByClassName("statsContainer")[0];
 	statsGridBody = document.getElementsByClassName("statsGridBody")[0];
+	statsList = document.getElementsByClassName("statsList")[0];
 	let colorChangeButton = document.getElementsByClassName("colorChangeButton")[0];
 
 	// Tab Switching Behaviour
@@ -124,11 +125,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 	// Stats window behaviour
 	statsBtn.addEventListener("click", function() {
-		if (statsGrid.style.display == "" | statsGrid.style.display == "none") {
-			statsGrid.style.display = "flex";
+		if (statsContainer.style.display == "" | statsContainer.style.display == "none") {
+			statsContainer.style.display = "flex";
 			populateStats();
-		} else if (statsGrid.style.display == "flex") {
-			statsGrid.style.display = "none";
+		} else if (statsContainer.style.display == "flex") {
+			statsContainer.style.display = "none";
 		}
 	});
 
@@ -698,7 +699,12 @@ function populateStats() {
 		statsGridBody.appendChild(desc);
 
 		desc.addEventListener("click", function() {
-			console.log(Stats[key][2]);
+			statsList.innerHTML = "";
+			let list = Stats[key][2];
+			console.log(list);
+			for (let i = 0; i < list.length; i++) {
+				statsList.innerHTML += list[i].head + "\n";
+			}
 		});
 	});
 }

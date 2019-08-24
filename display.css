@@ -79,8 +79,7 @@ body {
 
 .main-body {
 	display: flex;
-	justify-content: center;
-	border: 1px solid purple;
+	justify-content: space-evenly;
 	min-height: 0;
 	width: 100%;
 }
@@ -314,16 +313,28 @@ input[type=text]:focus, textarea:focus {
 	margin: 0 0 0 0em;
 }
 
-.statsGrid {
+.statsContainer {
 	display: none;
-	flex-direction: column;
-	/*
 	position: fixed;
 	left: 1em;
 	top: 4em;
-	*/
 	z-index: 5;
 	background: white;
+	padding: 0.5em;
+	border: 1px solid black;
+}
+
+.statsGrid {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid red;
+}
+
+.statsList {
+	border: blue;
+	max-height: 80vh;
+	overflow: auto;
+	margin-left: 1em;
 }
 
 .statsGridBody {
